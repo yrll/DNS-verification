@@ -1,3 +1,5 @@
 .*/
 census/
 census_no_wildcard_dname/
+__pycache__/
+*.py[cod]
