@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/warszawa.pl,12lo.warszawa.pl..txt,CNAME_UPDATE,DEL,www.12lo.warszawa.pl.,CNAME,12lo.warszawa.pl.
+files-100-500/warszawa.pl,12lo.warszawa.pl..txt,CNAME_UPDATE,ADD,www.12lo.warszawa.pl.,CNAME,cname-inc.12lo.warszawa.pl.

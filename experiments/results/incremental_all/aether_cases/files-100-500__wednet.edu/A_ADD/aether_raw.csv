@@ -1,0 +1,2 @@
+zone,num_lec,io_time (ms),construction_time (ms),symbolic_time (ms),property_checking_time (ms),re_construction_time (ms),re_symbolic_time (ms),re_property_checking_time (ms),properties,initial_property_pass,initial_errors,incremental_property_pass,incremental_errors
+files-100-500/wednet.edu,1425,11.723,109.462,8.311,0.408,0.214,0.528,0.001,zone loop|delegation consistency|hops|too long|lame delegation|rewrite blackholing|rewrites,false,rewrite 1|rewrite 1|rewrite 1|rewrite 1|rewrite 1|rewrite 1|rewrite 1|rewrite 1,true,

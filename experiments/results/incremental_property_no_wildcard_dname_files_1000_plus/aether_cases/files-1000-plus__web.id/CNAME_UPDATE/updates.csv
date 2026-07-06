@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-1000-plus/web.id,a7x.web.id..txt,CNAME_UPDATE,DEL,www.a7x.web.id.,CNAME,a7x.web.id.
+files-1000-plus/web.id,a7x.web.id..txt,CNAME_UPDATE,ADD,www.a7x.web.id.,CNAME,cname-inc.a7x.web.id.

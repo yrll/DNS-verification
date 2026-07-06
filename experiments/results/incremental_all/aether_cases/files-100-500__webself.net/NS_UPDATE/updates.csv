@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/webself.net,webself.net..txt,NS_UPDATE,DEL,webself.net.,NS,dns1.name-services.com.
+files-100-500/webself.net,webself.net..txt,NS_UPDATE,ADD,webself.net.,NS,ns-inc.webself.net.

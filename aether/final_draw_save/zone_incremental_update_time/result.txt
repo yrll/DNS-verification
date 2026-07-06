@@ -1,0 +1,28 @@
+Matsu Quantiles (90%, 95%, 99%, 99.9%):
+90%: 0.007
+95%: 0.009
+99%: 0.011
+99.9%: 0.021
+
+Groot Times Quantiles (90%, 95%, 99%, 99.9%):
+90%: 24.726628440519587
+95%: 32.462671717911896
+99%: 63.27521160977202
+99.9%: 212.55874197134156
+Number of rows where ratio < 1: 1
+### Maximum Ratio ###
+zone: co.kr
+cttime of Groot: 0.007 
+cttime of Matsu: 35432.86134456856 
+inc time Ratio: 5061837.334938366
+
+### Minimum Ratio ###
+zone: silkmastersdepot.com
+cttime of Groot: 15.323 
+cttime of Matsu: 14.03116819346497 
+inc time Ratio: 0.9156932841783573
+Ratio Quantiles (90%, 95%, 99%, 99.9%):
+90%: 9840.589534790955
+95%: 12731.11798042027
+99%: 25986.52494645051
+99.9%: 84515.78749454654

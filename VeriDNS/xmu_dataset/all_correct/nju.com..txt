@@ -1,0 +1,18 @@
+; <<>> DiG 9.11.3-1ubuntu1.11-Ubuntu <<>> AXFR nju.com. @ns2.nju.edu.
+;; global options: +cmd
+
+@               			      14400 IN SOA	ns1.nju.com. james.nju.edu. 19122302 14400 3600 2419200 14400
+nju.com.			      14400 IN NS	ns1.nju.com.
+ns1.nju.com.			      14400 IN A	10.166.21.14
+
+www.nju.com.		      14400 IN NS	ns1.www.nju.com.
+ns1.www.nju.com.		      14400 IN A		10.166.21.15
+
+software.nju.com.		      14400 IN NS	ns1.software.nju.com.
+ns1.software.nju.com.		      14400 IN A		10.166.21.12
+
+law.nju.com.		      14400 IN NS	ns1.law.nju.com.
+ns1.law.nju.com.		      14400 IN A		10.166.21.13
+
+nju.com.			      14400 IN MX	10 lawtp.nju.edu.
+nju.com.			      14400 IN TXT	"v=spf1 a mx ~all"

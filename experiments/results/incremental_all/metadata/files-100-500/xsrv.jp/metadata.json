@@ -1,0 +1,842 @@
+{
+  "TopNameServers": [
+    "ns1.xsrv.jp."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/acs.xsrv.jp..txt",
+      "NameServer": "ns1.acs.xsrv.jp.",
+      "Origin": "acs.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/afili-jyuku.xsrv.jp..txt",
+      "NameServer": "ns1.afili-jyuku.xsrv.jp.",
+      "Origin": "afili-jyuku.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/agito.xsrv.jp..txt",
+      "NameServer": "ns1.agito.xsrv.jp.",
+      "Origin": "agito.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/akimeru.xsrv.jp..txt",
+      "NameServer": "ns1.akimeru.xsrv.jp.",
+      "Origin": "akimeru.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/akira207.xsrv.jp..txt",
+      "NameServer": "ns1.akira207.xsrv.jp.",
+      "Origin": "akira207.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ameto.xsrv.jp..txt",
+      "NameServer": "ns1.ameto.xsrv.jp.",
+      "Origin": "ameto.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/androidjp.xsrv.jp..txt",
+      "NameServer": "ns1.androidjp.xsrv.jp.",
+      "Origin": "androidjp.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/archangels.xsrv.jp..txt",
+      "NameServer": "ns1.archangels.xsrv.jp.",
+      "Origin": "archangels.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/aspf.xsrv.jp..txt",
+      "NameServer": "ns1.aspf.xsrv.jp.",
+      "Origin": "aspf.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/auone.xsrv.jp..txt",
+      "NameServer": "ns1.auone.xsrv.jp.",
+      "Origin": "auone.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/bakuha2.xsrv.jp..txt",
+      "NameServer": "ns1.bakuha2.xsrv.jp.",
+      "Origin": "bakuha2.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/bigmaki.xsrv.jp..txt",
+      "NameServer": "ns1.bigmaki.xsrv.jp.",
+      "Origin": "bigmaki.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/bigmanwave.xsrv.jp..txt",
+      "NameServer": "ns1.bigmanwave.xsrv.jp.",
+      "Origin": "bigmanwave.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/bindeballe.xsrv.jp..txt",
+      "NameServer": "ns1.bindeballe.xsrv.jp.",
+      "Origin": "bindeballe.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/bosedori.xsrv.jp..txt",
+      "NameServer": "ns1.bosedori.xsrv.jp.",
+      "Origin": "bosedori.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/bourbonhouse.xsrv.jp..txt",
+      "NameServer": "ns1.bourbonhouse.xsrv.jp.",
+      "Origin": "bourbonhouse.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/braft.xsrv.jp..txt",
+      "NameServer": "ns1.braft.xsrv.jp.",
+      "Origin": "braft.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/capsulez.xsrv.jp..txt",
+      "NameServer": "ns1.capsulez.xsrv.jp.",
+      "Origin": "capsulez.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/cc-edit.xsrv.jp..txt",
+      "NameServer": "ns1.cc-edit.xsrv.jp.",
+      "Origin": "cc-edit.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/cchb.xsrv.jp..txt",
+      "NameServer": "ns1.cchb.xsrv.jp.",
+      "Origin": "cchb.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/celeste.xsrv.jp..txt",
+      "NameServer": "ns1.celeste.xsrv.jp.",
+      "Origin": "celeste.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/chomchom.xsrv.jp..txt",
+      "NameServer": "ns1.chomchom.xsrv.jp.",
+      "Origin": "chomchom.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/chushi.xsrv.jp..txt",
+      "NameServer": "ns1.chushi.xsrv.jp.",
+      "Origin": "chushi.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/crazy4u.xsrv.jp..txt",
+      "NameServer": "ns1.crazy4u.xsrv.jp.",
+      "Origin": "crazy4u.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/cyberstore.xsrv.jp..txt",
+      "NameServer": "ns1.cyberstore.xsrv.jp.",
+      "Origin": "cyberstore.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/dailyvega.xsrv.jp..txt",
+      "NameServer": "ns1.dailyvega.xsrv.jp.",
+      "Origin": "dailyvega.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ddc.xsrv.jp..txt",
+      "NameServer": "ns1.ddc.xsrv.jp.",
+      "Origin": "ddc.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/dean.xsrv.jp..txt",
+      "NameServer": "ns1.dean.xsrv.jp.",
+      "Origin": "dean.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/dieterika.xsrv.jp..txt",
+      "NameServer": "ns1.dieterika.xsrv.jp.",
+      "Origin": "dieterika.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/digisupo.xsrv.jp..txt",
+      "NameServer": "ns1.digisupo.xsrv.jp.",
+      "Origin": "digisupo.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/dminogori.xsrv.jp..txt",
+      "NameServer": "ns1.dminogori.xsrv.jp.",
+      "Origin": "dminogori.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/dynamis.xsrv.jp..txt",
+      "NameServer": "ns1.dynamis.xsrv.jp.",
+      "Origin": "dynamis.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/eefy02.xsrv.jp..txt",
+      "NameServer": "ns1.eefy02.xsrv.jp.",
+      "Origin": "eefy02.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/epicholiday.xsrv.jp..txt",
+      "NameServer": "ns1.epicholiday.xsrv.jp.",
+      "Origin": "epicholiday.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/fic.xsrv.jp..txt",
+      "NameServer": "ns1.fic.xsrv.jp.",
+      "Origin": "fic.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/formula-gz.xsrv.jp..txt",
+      "NameServer": "ns1.formula-gz.xsrv.jp.",
+      "Origin": "formula-gz.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/fx-will.xsrv.jp..txt",
+      "NameServer": "ns1.fx-will.xsrv.jp.",
+      "Origin": "fx-will.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/fxbuster.xsrv.jp..txt",
+      "NameServer": "ns1.fxbuster.xsrv.jp.",
+      "Origin": "fxbuster.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/gasmask2.xsrv.jp..txt",
+      "NameServer": "ns1.gasmask2.xsrv.jp.",
+      "Origin": "gasmask2.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/gex.xsrv.jp..txt",
+      "NameServer": "ns1.gex.xsrv.jp.",
+      "Origin": "gex.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/gha.xsrv.jp..txt",
+      "NameServer": "ns1.gha.xsrv.jp.",
+      "Origin": "gha.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/gomesu21.xsrv.jp..txt",
+      "NameServer": "ns1.gomesu21.xsrv.jp.",
+      "Origin": "gomesu21.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/goodluck314.xsrv.jp..txt",
+      "NameServer": "ns1.goodluck314.xsrv.jp.",
+      "Origin": "goodluck314.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/goshikinuma.xsrv.jp..txt",
+      "NameServer": "ns1.goshikinuma.xsrv.jp.",
+      "Origin": "goshikinuma.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/gwht1980.xsrv.jp..txt",
+      "NameServer": "ns1.gwht1980.xsrv.jp.",
+      "Origin": "gwht1980.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/gxn20621.xsrv.jp..txt",
+      "NameServer": "ns1.gxn20621.xsrv.jp.",
+      "Origin": "gxn20621.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/hannya.xsrv.jp..txt",
+      "NameServer": "ns1.hannya.xsrv.jp.",
+      "Origin": "hannya.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/hectic118.xsrv.jp..txt",
+      "NameServer": "ns1.hectic118.xsrv.jp.",
+      "Origin": "hectic118.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/hideya.xsrv.jp..txt",
+      "NameServer": "ns1.hideya.xsrv.jp.",
+      "Origin": "hideya.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/hiroser.xsrv.jp..txt",
+      "NameServer": "ns1.hiroser.xsrv.jp.",
+      "Origin": "hiroser.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/hkk2015.xsrv.jp..txt",
+      "NameServer": "ns1.hkk2015.xsrv.jp.",
+      "Origin": "hkk2015.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/honya.xsrv.jp..txt",
+      "NameServer": "ns1.honya.xsrv.jp.",
+      "Origin": "honya.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/hotmova.xsrv.jp..txt",
+      "NameServer": "ns1.hotmova.xsrv.jp.",
+      "Origin": "hotmova.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/huku2.xsrv.jp..txt",
+      "NameServer": "ns1.huku2.xsrv.jp.",
+      "Origin": "huku2.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/icefox.xsrv.jp..txt",
+      "NameServer": "ns1.icefox.xsrv.jp.",
+      "Origin": "icefox.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ideajp.xsrv.jp..txt",
+      "NameServer": "ns1.ideajp.xsrv.jp.",
+      "Origin": "ideajp.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ikiteiku.xsrv.jp..txt",
+      "NameServer": "ns1.ikiteiku.xsrv.jp.",
+      "Origin": "ikiteiku.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ikoi.xsrv.jp..txt",
+      "NameServer": "ns1.ikoi.xsrv.jp.",
+      "Origin": "ikoi.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/imaiagents.xsrv.jp..txt",
+      "NameServer": "ns1.imaiagents.xsrv.jp.",
+      "Origin": "imaiagents.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/infinityinfo.xsrv.jp..txt",
+      "NameServer": "ns1.infinityinfo.xsrv.jp.",
+      "Origin": "infinityinfo.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/infohiroto.xsrv.jp..txt",
+      "NameServer": "ns1.infohiroto.xsrv.jp.",
+      "Origin": "infohiroto.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/infolook.xsrv.jp..txt",
+      "NameServer": "ns1.infolook.xsrv.jp.",
+      "Origin": "infolook.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/iou.xsrv.jp..txt",
+      "NameServer": "ns1.iou.xsrv.jp.",
+      "Origin": "iou.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ja06.xsrv.jp..txt",
+      "NameServer": "ns1.ja06.xsrv.jp.",
+      "Origin": "ja06.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/jet77.xsrv.jp..txt",
+      "NameServer": "ns1.jet77.xsrv.jp.",
+      "Origin": "jet77.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/junhariya.xsrv.jp..txt",
+      "NameServer": "ns1.junhariya.xsrv.jp.",
+      "Origin": "junhariya.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/k1nishi.xsrv.jp..txt",
+      "NameServer": "ns1.k1nishi.xsrv.jp.",
+      "Origin": "k1nishi.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/kanbanm.xsrv.jp..txt",
+      "NameServer": "ns1.kanbanm.xsrv.jp.",
+      "Origin": "kanbanm.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/knfurou.xsrv.jp..txt",
+      "NameServer": "ns1.knfurou.xsrv.jp.",
+      "Origin": "knfurou.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/kotoneko.xsrv.jp..txt",
+      "NameServer": "ns1.kotoneko.xsrv.jp.",
+      "Origin": "kotoneko.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/kounoyu.xsrv.jp..txt",
+      "NameServer": "ns1.kounoyu.xsrv.jp.",
+      "Origin": "kounoyu.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/koushiro.xsrv.jp..txt",
+      "NameServer": "ns1.koushiro.xsrv.jp.",
+      "Origin": "koushiro.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/kpec.xsrv.jp..txt",
+      "NameServer": "ns1.kpec.xsrv.jp.",
+      "Origin": "kpec.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/kuwazou.xsrv.jp..txt",
+      "NameServer": "ns1.kuwazou.xsrv.jp.",
+      "Origin": "kuwazou.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ky0007.xsrv.jp..txt",
+      "NameServer": "ns1.ky0007.xsrv.jp.",
+      "Origin": "ky0007.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/laboid.xsrv.jp..txt",
+      "NameServer": "ns1.laboid.xsrv.jp.",
+      "Origin": "laboid.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/lilys.xsrv.jp..txt",
+      "NameServer": "ns1.lilys.xsrv.jp.",
+      "Origin": "lilys.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ling-factory.xsrv.jp..txt",
+      "NameServer": "ns1.ling-factory.xsrv.jp.",
+      "Origin": "ling-factory.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/loosefingers.xsrv.jp..txt",
+      "NameServer": "ns1.loosefingers.xsrv.jp.",
+      "Origin": "loosefingers.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/lowbrows.xsrv.jp..txt",
+      "NameServer": "ns1.lowbrows.xsrv.jp.",
+      "Origin": "lowbrows.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/lunatic.xsrv.jp..txt",
+      "NameServer": "ns1.lunatic.xsrv.jp.",
+      "Origin": "lunatic.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/m-onde.xsrv.jp..txt",
+      "NameServer": "ns1.m-onde.xsrv.jp.",
+      "Origin": "m-onde.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/masa0x.xsrv.jp..txt",
+      "NameServer": "ns1.masa0x.xsrv.jp.",
+      "Origin": "masa0x.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/massytt.xsrv.jp..txt",
+      "NameServer": "ns1.massytt.xsrv.jp.",
+      "Origin": "massytt.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/media-moon.xsrv.jp..txt",
+      "NameServer": "ns1.media-moon.xsrv.jp.",
+      "Origin": "media-moon.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/miraimu.xsrv.jp..txt",
+      "NameServer": "ns1.miraimu.xsrv.jp.",
+      "Origin": "miraimu.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/miyamotogumi.xsrv.jp..txt",
+      "NameServer": "ns1.miyamotogumi.xsrv.jp.",
+      "Origin": "miyamotogumi.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/mobile1.xsrv.jp..txt",
+      "NameServer": "ns1.mobile1.xsrv.jp.",
+      "Origin": "mobile1.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/mshopping.xsrv.jp..txt",
+      "NameServer": "ns1.mshopping.xsrv.jp.",
+      "Origin": "mshopping.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/msyk.xsrv.jp..txt",
+      "NameServer": "ns1.msyk.xsrv.jp.",
+      "Origin": "msyk.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/muranakaya.xsrv.jp..txt",
+      "NameServer": "ns1.muranakaya.xsrv.jp.",
+      "Origin": "muranakaya.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/my3203.xsrv.jp..txt",
+      "NameServer": "ns1.my3203.xsrv.jp.",
+      "Origin": "my3203.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/n-tax.xsrv.jp..txt",
+      "NameServer": "ns1.n-tax.xsrv.jp.",
+      "Origin": "n-tax.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/nakchy.xsrv.jp..txt",
+      "NameServer": "ns1.nakchy.xsrv.jp.",
+      "Origin": "nakchy.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ndai.xsrv.jp..txt",
+      "NameServer": "ns1.ndai.xsrv.jp.",
+      "Origin": "ndai.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/nepia77.xsrv.jp..txt",
+      "NameServer": "ns1.nepia77.xsrv.jp.",
+      "Origin": "nepia77.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/nicofes2010.xsrv.jp..txt",
+      "NameServer": "ns1.nicofes2010.xsrv.jp.",
+      "Origin": "nicofes2010.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/niudu88.xsrv.jp..txt",
+      "NameServer": "ns1.niudu88.xsrv.jp.",
+      "Origin": "niudu88.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/nyuki.xsrv.jp..txt",
+      "NameServer": "ns1.nyuki.xsrv.jp.",
+      "Origin": "nyuki.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/o14food.xsrv.jp..txt",
+      "NameServer": "ns1.o14food.xsrv.jp.",
+      "Origin": "o14food.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ochigahara.xsrv.jp..txt",
+      "NameServer": "ns1.ochigahara.xsrv.jp.",
+      "Origin": "ochigahara.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/oco.xsrv.jp..txt",
+      "NameServer": "ns1.oco.xsrv.jp.",
+      "Origin": "oco.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/officeguri.xsrv.jp..txt",
+      "NameServer": "ns1.officeguri.xsrv.jp.",
+      "Origin": "officeguri.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/officezig.xsrv.jp..txt",
+      "NameServer": "ns1.officezig.xsrv.jp.",
+      "Origin": "officezig.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/okaju.xsrv.jp..txt",
+      "NameServer": "ns1.okaju.xsrv.jp.",
+      "Origin": "okaju.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/omoituki.xsrv.jp..txt",
+      "NameServer": "ns1.omoituki.xsrv.jp.",
+      "Origin": "omoituki.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/osakarockday.xsrv.jp..txt",
+      "NameServer": "ns1.osakarockday.xsrv.jp.",
+      "Origin": "osakarockday.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/p2z0n3q9a.xsrv.jp..txt",
+      "NameServer": "ns1.p2z0n3q9a.xsrv.jp.",
+      "Origin": "p2z0n3q9a.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/papala.xsrv.jp..txt",
+      "NameServer": "ns1.papala.xsrv.jp.",
+      "Origin": "papala.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/pha70922.xsrv.jp..txt",
+      "NameServer": "ns1.pha70922.xsrv.jp.",
+      "Origin": "pha70922.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ping1.xsrv.jp..txt",
+      "NameServer": "ns1.ping1.xsrv.jp.",
+      "Origin": "ping1.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/pnr.xsrv.jp..txt",
+      "NameServer": "ns1.pnr.xsrv.jp.",
+      "Origin": "pnr.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/poemmer.xsrv.jp..txt",
+      "NameServer": "ns1.poemmer.xsrv.jp.",
+      "Origin": "poemmer.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ponta11.xsrv.jp..txt",
+      "NameServer": "ns1.ponta11.xsrv.jp.",
+      "Origin": "ponta11.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/prince-mtk1.xsrv.jp..txt",
+      "NameServer": "ns1.prince-mtk1.xsrv.jp.",
+      "Origin": "prince-mtk1.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ranx2.xsrv.jp..txt",
+      "NameServer": "ns1.ranx2.xsrv.jp.",
+      "Origin": "ranx2.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/resuccess77.xsrv.jp..txt",
+      "NameServer": "ns1.resuccess77.xsrv.jp.",
+      "Origin": "resuccess77.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/retbats.xsrv.jp..txt",
+      "NameServer": "ns1.retbats.xsrv.jp.",
+      "Origin": "retbats.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/ricorico.xsrv.jp..txt",
+      "NameServer": "ns1.ricorico.xsrv.jp.",
+      "Origin": "ricorico.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/rmt-wired.xsrv.jp..txt",
+      "NameServer": "ns1.rmt-wired.xsrv.jp.",
+      "Origin": "rmt-wired.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/rom4.xsrv.jp..txt",
+      "NameServer": "ns1.rom4.xsrv.jp.",
+      "Origin": "rom4.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/rom5.xsrv.jp..txt",
+      "NameServer": "ns1.rom5.xsrv.jp.",
+      "Origin": "rom5.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/s0619.xsrv.jp..txt",
+      "NameServer": "ns1.s0619.xsrv.jp.",
+      "Origin": "s0619.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/sasaoka331.xsrv.jp..txt",
+      "NameServer": "ns1.sasaoka331.xsrv.jp.",
+      "Origin": "sasaoka331.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/sealion.xsrv.jp..txt",
+      "NameServer": "ns1.sealion.xsrv.jp.",
+      "Origin": "sealion.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/seishiro.xsrv.jp..txt",
+      "NameServer": "ns1.seishiro.xsrv.jp.",
+      "Origin": "seishiro.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/shopinglove.xsrv.jp..txt",
+      "NameServer": "ns1.shopinglove.xsrv.jp.",
+      "Origin": "shopinglove.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/sikablog.xsrv.jp..txt",
+      "NameServer": "ns1.sikablog.xsrv.jp.",
+      "Origin": "sikablog.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/sly.xsrv.jp..txt",
+      "NameServer": "ns1.sly.xsrv.jp.",
+      "Origin": "sly.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/smallstage.xsrv.jp..txt",
+      "NameServer": "ns1.smallstage.xsrv.jp.",
+      "Origin": "smallstage.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/sms3593.xsrv.jp..txt",
+      "NameServer": "ns1.sms3593.xsrv.jp.",
+      "Origin": "sms3593.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/sofpia.xsrv.jp..txt",
+      "NameServer": "ns1.sofpia.xsrv.jp.",
+      "Origin": "sofpia.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/solidbeats.xsrv.jp..txt",
+      "NameServer": "ns1.solidbeats.xsrv.jp.",
+      "Origin": "solidbeats.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/sunakatsu.xsrv.jp..txt",
+      "NameServer": "ns1.sunakatsu.xsrv.jp.",
+      "Origin": "sunakatsu.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/superfine1.xsrv.jp..txt",
+      "NameServer": "ns1.superfine1.xsrv.jp.",
+      "Origin": "superfine1.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/taji0417.xsrv.jp..txt",
+      "NameServer": "ns1.taji0417.xsrv.jp.",
+      "Origin": "taji0417.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/tanu3.xsrv.jp..txt",
+      "NameServer": "ns1.tanu3.xsrv.jp.",
+      "Origin": "tanu3.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/teketeke37.xsrv.jp..txt",
+      "NameServer": "ns1.teketeke37.xsrv.jp.",
+      "Origin": "teketeke37.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/titila.xsrv.jp..txt",
+      "NameServer": "ns1.titila.xsrv.jp.",
+      "Origin": "titila.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/tittyandco.xsrv.jp..txt",
+      "NameServer": "ns1.tittyandco.xsrv.jp.",
+      "Origin": "tittyandco.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/tommy0401.xsrv.jp..txt",
+      "NameServer": "ns1.tommy0401.xsrv.jp.",
+      "Origin": "tommy0401.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/tomstyle.xsrv.jp..txt",
+      "NameServer": "ns1.tomstyle.xsrv.jp.",
+      "Origin": "tomstyle.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/tottorigg.xsrv.jp..txt",
+      "NameServer": "ns1.tottorigg.xsrv.jp.",
+      "Origin": "tottorigg.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/tqdp.xsrv.jp..txt",
+      "NameServer": "ns1.tqdp.xsrv.jp.",
+      "Origin": "tqdp.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/tsuborin.xsrv.jp..txt",
+      "NameServer": "ns1.tsuborin.xsrv.jp.",
+      "Origin": "tsuborin.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/umeko.xsrv.jp..txt",
+      "NameServer": "ns1.umeko.xsrv.jp.",
+      "Origin": "umeko.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/uncharted.xsrv.jp..txt",
+      "NameServer": "ns1.uncharted.xsrv.jp.",
+      "Origin": "uncharted.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/utatsu.xsrv.jp..txt",
+      "NameServer": "ns1.utatsu.xsrv.jp.",
+      "Origin": "utatsu.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/utu-shien.xsrv.jp..txt",
+      "NameServer": "ns1.utu-shien.xsrv.jp.",
+      "Origin": "utu-shien.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/valie.xsrv.jp..txt",
+      "NameServer": "ns1.valie.xsrv.jp.",
+      "Origin": "valie.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/vivids.xsrv.jp..txt",
+      "NameServer": "ns1.vivids.xsrv.jp.",
+      "Origin": "vivids.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/wabisabimoe.xsrv.jp..txt",
+      "NameServer": "ns1.wabisabimoe.xsrv.jp.",
+      "Origin": "wabisabimoe.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/wazgo.xsrv.jp..txt",
+      "NameServer": "ns1.wazgo.xsrv.jp.",
+      "Origin": "wazgo.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/web-shop.xsrv.jp..txt",
+      "NameServer": "ns1.web-shop.xsrv.jp.",
+      "Origin": "web-shop.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/wingall.xsrv.jp..txt",
+      "NameServer": "ns1.wingall.xsrv.jp.",
+      "Origin": "wingall.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/wired-rmt.xsrv.jp..txt",
+      "NameServer": "ns1.wired-rmt.xsrv.jp.",
+      "Origin": "wired-rmt.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/work-space.xsrv.jp..txt",
+      "NameServer": "ns1.work-space.xsrv.jp.",
+      "Origin": "work-space.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/www-copy.xsrv.jp..txt",
+      "NameServer": "ns1.www-copy.xsrv.jp.",
+      "Origin": "www-copy.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/xsrv.jp..txt",
+      "NameServer": "ns1.xsrv.jp.",
+      "Origin": "xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/y-sakuragym.xsrv.jp..txt",
+      "NameServer": "ns1.y-sakuragym.xsrv.jp.",
+      "Origin": "y-sakuragym.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/yaesozai.xsrv.jp..txt",
+      "NameServer": "ns1.yaesozai.xsrv.jp.",
+      "Origin": "yaesozai.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/yamasan8558.xsrv.jp..txt",
+      "NameServer": "ns1.yamasan8558.xsrv.jp.",
+      "Origin": "yamasan8558.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/yokochin19.xsrv.jp..txt",
+      "NameServer": "ns1.yokochin19.xsrv.jp.",
+      "Origin": "yokochin19.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/yukito710207.xsrv.jp..txt",
+      "NameServer": "ns1.yukito710207.xsrv.jp.",
+      "Origin": "yukito710207.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/yunyuukagu.xsrv.jp..txt",
+      "NameServer": "ns1.yunyuukagu.xsrv.jp.",
+      "Origin": "yunyuukagu.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/zephyrus.xsrv.jp..txt",
+      "NameServer": "ns1.zephyrus.xsrv.jp.",
+      "Origin": "zephyrus.xsrv.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xsrv.jp/zigstyle.xsrv.jp..txt",
+      "NameServer": "ns1.zigstyle.xsrv.jp.",
+      "Origin": "zigstyle.xsrv.jp."
+    }
+  ]
+}

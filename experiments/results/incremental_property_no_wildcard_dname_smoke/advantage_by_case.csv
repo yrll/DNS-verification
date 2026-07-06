@@ -1,0 +1,12 @@
+group,dataset,dataset_id,category,scenario,aether_incremental_ms,veridns_incremental_ms,veridns_full_update_ms,incremental_speedup,full_update_speedup,veridns_matches_aether
+files-100-500,virginia.edu,files-100-500/virginia.edu,rewrite-heavy,A_ADD,0.695,0.632536,0.737008,0.9101237410071943,1.060443165467626,False
+files-100-500,virginia.edu,files-100-500/virginia.edu,rewrite-heavy,A_UPDATE,0.953,0.548665,0.549372,0.5757240293809024,0.5764658971668416,False
+files-100-500,virginia.edu,files-100-500/virginia.edu,rewrite-heavy,NS_UPDATE,0.621,0.762101,0.963416,1.2272157809983897,1.5513945249597425,False
+files-100-500,virginia.edu,files-100-500/virginia.edu,rewrite-heavy,CNAME_UPDATE,0.689,1.013559,0.739193,1.471058055152395,1.0728490566037736,False
+files-100-500,vivilotz.com,files-100-500/vivilotz.com,delegation-heavy,A_ADD,0.596,0.212742,0.187242,0.3569496644295302,0.31416442953020135,True
+files-100-500,vivilotz.com,files-100-500/vivilotz.com,delegation-heavy,A_UPDATE,0.509,0.195584,0.189092,0.3842514734774067,0.37149705304518665,True
+files-100-500,vivilotz.com,files-100-500/vivilotz.com,delegation-heavy,NS_UPDATE,0.387,0.225115,0.19578,0.5816925064599483,0.5058914728682171,False
+files-100-500,vn.ua,files-100-500/vn.ua,delegation-heavy,A_ADD,0.132,0.257436,0.226866,1.9502727272727272,1.7186818181818182,True
+files-100-500,vn.ua,files-100-500/vn.ua,delegation-heavy,A_UPDATE,0.005,0.252427,0.209268,50.4854,41.8536,True
+files-100-500,vn.ua,files-100-500/vn.ua,delegation-heavy,NS_UPDATE,0.008,0.363895,0.1979,45.486875000000005,24.737499999999997,False
+files-100-500,vn.ua,files-100-500/vn.ua,delegation-heavy,CNAME_UPDATE,0.012,0.547127,0.527308,45.593916666666665,43.94233333333333,False

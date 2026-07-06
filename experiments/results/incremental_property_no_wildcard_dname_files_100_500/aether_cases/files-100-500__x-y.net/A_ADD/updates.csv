@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/x-y.net,abcenglish.x-y.net..txt,A_ADD,ADD,__aether_veridns_inc__.abcenglish.x-y.net.,A,192.0.2.254

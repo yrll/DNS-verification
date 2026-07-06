@@ -1,0 +1,72 @@
+{
+    "TopNameServers": [
+        "us.illinois.net."
+    ],
+    "ZoneFiles": [
+        {
+            "FileName": "software.nju.com..txt",
+            "NameServer": "ns1.software.nju.com.",
+            "Origin": "software.nju.com."
+        },
+        {
+            "FileName": "r.class.wlgc.com.-2.txt",
+            "NameServer": "ns2.r.class.wlgc.com.",
+            "Origin": "r.class.wlgc.com."
+        },
+        {
+            "FileName": "www.cqu.com..txt",
+            "NameServer": "ns1.www.cqu.com.",
+            "Origin": "www.cqu.com."
+        },
+        {
+            "FileName": "xben.com..txt",
+            "NameServer": "ns1.xben.com.",
+            "Origin": "xben.com."
+        },
+        {
+            "FileName": "lzu.com..txt",
+            "NameServer": "ns1.lzu.com.",
+            "Origin": "lzu.com."
+        },
+        {
+            "FileName": "xmu.com..txt",
+            "NameServer": "ns1.xmu.com.",
+            "Origin": "xmu.com."
+        },
+        {
+            "FileName": "sore.wf.zdm.com..txt",
+            "NameServer": "ns1.sore.wf.zdm.com.",
+            "Origin": "sore.wf.zdm.com."
+        },
+        {
+            "FileName": "www.shu.com..txt",
+            "NameServer": "ns1.www.shu.com.",
+            "Origin": "www.shu.com."
+        },
+        {
+            "FileName": "arch.tju.com..txt",
+            "NameServer": "ns1.arch.tju.com.",
+            "Origin": "arch.tju.com."
+        },
+        {
+            "FileName": "hyxt.whu.com..txt",
+            "NameServer": "ns1.hyxt.whu.com.",
+            "Origin": "hyxt.whu.com."
+        },
+        {
+            "FileName": "math.pku.com..txt",
+            "NameServer": "ns1.math.pku.com.",
+            "Origin": "math.pku.com."
+        },
+        {
+            "FileName": "com..txt",
+            "NameServer": "us.illinois.net.",
+            "Origin": "com."
+        },
+        {
+            "FileName": "hlt.ftw.com..txt",
+            "NameServer": "ns1.hlt.ftw.com.",
+            "Origin": "hlt.ftw.com."
+        }
+    ]
+}

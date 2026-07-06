@@ -1,0 +1,3 @@
+category,cases,mean_incremental_speedup,median_incremental_speedup,aether_faster_cases
+delegation-heavy,7,20.69133686261518,1.9502727272727272,4
+rewrite-heavy,4,1.0460304016347204,1.2272157809983897,2

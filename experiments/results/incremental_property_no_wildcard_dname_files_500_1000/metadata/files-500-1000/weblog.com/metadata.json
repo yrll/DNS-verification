@@ -1,0 +1,2777 @@
+{
+  "TopNameServers": [
+    "ns1.weblog.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/3cministries.weblog.com..txt",
+      "NameServer": "ns1.3cministries.weblog.com.",
+      "Origin": "3cministries.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/3psoriasis.weblog.com..txt",
+      "NameServer": "ns1.3psoriasis.weblog.com.",
+      "Origin": "3psoriasis.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/3treatpsoriasis.weblog.com..txt",
+      "NameServer": "ns1.3treatpsoriasis.weblog.com.",
+      "Origin": "3treatpsoriasis.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/3x98.weblog.com..txt",
+      "NameServer": "ns1.3x98.weblog.com.",
+      "Origin": "3x98.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/a3psoriasis.weblog.com..txt",
+      "NameServer": "ns1.a3psoriasis.weblog.com.",
+      "Origin": "a3psoriasis.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/abhayakshetram.weblog.com..txt",
+      "NameServer": "ns1.abhayakshetram.weblog.com.",
+      "Origin": "abhayakshetram.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/abroadside.weblog.com..txt",
+      "NameServer": "ns1.abroadside.weblog.com.",
+      "Origin": "abroadside.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/actionfiguresgallery.weblog.com..txt",
+      "NameServer": "ns1.actionfiguresgallery.weblog.com.",
+      "Origin": "actionfiguresgallery.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/adamjboyd.weblog.com..txt",
+      "NameServer": "ns1.adamjboyd.weblog.com.",
+      "Origin": "adamjboyd.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/adayinthelifeofchloe.weblog.com..txt",
+      "NameServer": "ns1.adayinthelifeofchloe.weblog.com.",
+      "Origin": "adayinthelifeofchloe.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/adultfindout.weblog.com..txt",
+      "NameServer": "ns1.adultfindout.weblog.com.",
+      "Origin": "adultfindout.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/affiliate35624.weblog.com..txt",
+      "NameServer": "ns1.affiliate35624.weblog.com.",
+      "Origin": "affiliate35624.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/airmax.weblog.com..txt",
+      "NameServer": "ns1.airmax.weblog.com.",
+      "Origin": "airmax.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/akabfella.weblog.com..txt",
+      "NameServer": "ns1.akabfella.weblog.com.",
+      "Origin": "akabfella.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/alexgengl339.weblog.com..txt",
+      "NameServer": "ns1.alexgengl339.weblog.com.",
+      "Origin": "alexgengl339.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/alexvound.weblog.com..txt",
+      "NameServer": "ns1.alexvound.weblog.com.",
+      "Origin": "alexvound.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/alicevivi.weblog.com..txt",
+      "NameServer": "ns1.alicevivi.weblog.com.",
+      "Origin": "alicevivi.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/alienmaskhalloween.weblog.com..txt",
+      "NameServer": "ns1.alienmaskhalloween.weblog.com.",
+      "Origin": "alienmaskhalloween.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/alin421.weblog.com..txt",
+      "NameServer": "ns1.alin421.weblog.com.",
+      "Origin": "alin421.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/alison227.weblog.com..txt",
+      "NameServer": "ns1.alison227.weblog.com.",
+      "Origin": "alison227.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/allexwilson.weblog.com..txt",
+      "NameServer": "ns1.allexwilson.weblog.com.",
+      "Origin": "allexwilson.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/amin.weblog.com..txt",
+      "NameServer": "ns1.amin.weblog.com.",
+      "Origin": "amin.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/anandls.weblog.com..txt",
+      "NameServer": "ns1.anandls.weblog.com.",
+      "Origin": "anandls.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/anch.weblog.com..txt",
+      "NameServer": "ns1.anch.weblog.com.",
+      "Origin": "anch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/andreakpan.weblog.com..txt",
+      "NameServer": "ns1.andreakpan.weblog.com.",
+      "Origin": "andreakpan.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/angelaoleg.weblog.com..txt",
+      "NameServer": "ns1.angelaoleg.weblog.com.",
+      "Origin": "angelaoleg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/angelelf.weblog.com..txt",
+      "NameServer": "ns1.angelelf.weblog.com.",
+      "Origin": "angelelf.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/anna27.weblog.com..txt",
+      "NameServer": "ns1.anna27.weblog.com.",
+      "Origin": "anna27.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/anupabenny.weblog.com..txt",
+      "NameServer": "ns1.anupabenny.weblog.com.",
+      "Origin": "anupabenny.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/ariela.weblog.com..txt",
+      "NameServer": "ns1.ariela.weblog.com.",
+      "Origin": "ariela.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/aristoromania.weblog.com..txt",
+      "NameServer": "ns1.aristoromania.weblog.com.",
+      "Origin": "aristoromania.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/arsalanadz.weblog.com..txt",
+      "NameServer": "ns1.arsalanadz.weblog.com.",
+      "Origin": "arsalanadz.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/art3000.weblog.com..txt",
+      "NameServer": "ns1.art3000.weblog.com.",
+      "Origin": "art3000.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/artanddesign.weblog.com..txt",
+      "NameServer": "ns1.artanddesign.weblog.com.",
+      "Origin": "artanddesign.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/artoilpainting.weblog.com..txt",
+      "NameServer": "ns1.artoilpainting.weblog.com.",
+      "Origin": "artoilpainting.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/asdfgasef.weblog.com..txt",
+      "NameServer": "ns1.asdfgasef.weblog.com.",
+      "Origin": "asdfgasef.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/asdgasgasgda.weblog.com..txt",
+      "NameServer": "ns1.asdgasgasgda.weblog.com.",
+      "Origin": "asdgasgasgda.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/ashrafshahin.weblog.com..txt",
+      "NameServer": "ns1.ashrafshahin.weblog.com.",
+      "Origin": "ashrafshahin.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/ashwor.weblog.com..txt",
+      "NameServer": "ns1.ashwor.weblog.com.",
+      "Origin": "ashwor.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/aussiebloke.weblog.com..txt",
+      "NameServer": "ns1.aussiebloke.weblog.com.",
+      "Origin": "aussiebloke.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/autobusdash.weblog.com..txt",
+      "NameServer": "ns1.autobusdash.weblog.com.",
+      "Origin": "autobusdash.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/avbing.weblog.com..txt",
+      "NameServer": "ns1.avbing.weblog.com.",
+      "Origin": "avbing.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/azzad.weblog.com..txt",
+      "NameServer": "ns1.azzad.weblog.com.",
+      "Origin": "azzad.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/bailliderevins.weblog.com..txt",
+      "NameServer": "ns1.bailliderevins.weblog.com.",
+      "Origin": "bailliderevins.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/bandersnatch.weblog.com..txt",
+      "NameServer": "ns1.bandersnatch.weblog.com.",
+      "Origin": "bandersnatch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/battery.weblog.com..txt",
+      "NameServer": "ns1.battery.weblog.com.",
+      "Origin": "battery.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/batteryuksky.weblog.com..txt",
+      "NameServer": "ns1.batteryuksky.weblog.com.",
+      "Origin": "batteryuksky.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/battesky.weblog.com..txt",
+      "NameServer": "ns1.battesky.weblog.com.",
+      "Origin": "battesky.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/belladunshea.weblog.com..txt",
+      "NameServer": "ns1.belladunshea.weblog.com.",
+      "Origin": "belladunshea.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/bizhan.weblog.com..txt",
+      "NameServer": "ns1.bizhan.weblog.com.",
+      "Origin": "bizhan.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/blackmagic.weblog.com..txt",
+      "NameServer": "ns1.blackmagic.weblog.com.",
+      "Origin": "blackmagic.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/blairg.weblog.com..txt",
+      "NameServer": "ns1.blairg.weblog.com.",
+      "Origin": "blairg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/blogwebgxm.weblog.com..txt",
+      "NameServer": "ns1.blogwebgxm.weblog.com.",
+      "Origin": "blogwebgxm.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/boboxixi.weblog.com..txt",
+      "NameServer": "ns1.boboxixi.weblog.com.",
+      "Origin": "boboxixi.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/bpoilspill.weblog.com..txt",
+      "NameServer": "ns1.bpoilspill.weblog.com.",
+      "Origin": "bpoilspill.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/breastspumps.weblog.com..txt",
+      "NameServer": "ns1.breastspumps.weblog.com.",
+      "Origin": "breastspumps.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/bricolage.weblog.com..txt",
+      "NameServer": "ns1.bricolage.weblog.com.",
+      "Origin": "bricolage.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/burett-watches.weblog.com..txt",
+      "NameServer": "ns1.burett-watches.weblog.com.",
+      "Origin": "burett-watches.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/businessfinance.weblog.com..txt",
+      "NameServer": "ns1.businessfinance.weblog.com.",
+      "Origin": "businessfinance.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cactus2538.weblog.com..txt",
+      "NameServer": "ns1.cactus2538.weblog.com.",
+      "Origin": "cactus2538.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/caiqianying.weblog.com..txt",
+      "NameServer": "ns1.caiqianying.weblog.com.",
+      "Origin": "caiqianying.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/campinggear.weblog.com..txt",
+      "NameServer": "ns1.campinggear.weblog.com.",
+      "Origin": "campinggear.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/caribdreammax.weblog.com..txt",
+      "NameServer": "ns1.caribdreammax.weblog.com.",
+      "Origin": "caribdreammax.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/carinnsurance101.weblog.com..txt",
+      "NameServer": "ns1.carinnsurance101.weblog.com.",
+      "Origin": "carinnsurance101.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/carloan.weblog.com..txt",
+      "NameServer": "ns1.carloan.weblog.com.",
+      "Origin": "carloan.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cbbb.weblog.com..txt",
+      "NameServer": "ns1.cbbb.weblog.com.",
+      "Origin": "cbbb.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cbproductsreviews.weblog.com..txt",
+      "NameServer": "ns1.cbproductsreviews.weblog.com.",
+      "Origin": "cbproductsreviews.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cciedumps.weblog.com..txt",
+      "NameServer": "ns1.cciedumps.weblog.com.",
+      "Origin": "cciedumps.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cecilsbhaw.weblog.com..txt",
+      "NameServer": "ns1.cecilsbhaw.weblog.com.",
+      "Origin": "cecilsbhaw.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/charlesgomes.weblog.com..txt",
+      "NameServer": "ns1.charlesgomes.weblog.com.",
+      "Origin": "charlesgomes.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cheapcarinsuranceyoungpeople.weblog.com..txt",
+      "NameServer": "ns1.cheapcarinsuranceyoungpeople.weblog.com.",
+      "Origin": "cheapcarinsuranceyoungpeople.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cheapkitcheniii.weblog.com..txt",
+      "NameServer": "ns1.cheapkitcheniii.weblog.com.",
+      "Origin": "cheapkitcheniii.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cheerio.weblog.com..txt",
+      "NameServer": "ns1.cheerio.weblog.com.",
+      "Origin": "cheerio.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chesirel.weblog.com..txt",
+      "NameServer": "ns1.chesirel.weblog.com.",
+      "Origin": "chesirel.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chhidamaodanig.weblog.com..txt",
+      "NameServer": "ns1.chhidamaodanig.weblog.com.",
+      "Origin": "chhidamaodanig.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chinafashionjewelrywholesale.weblog.com..txt",
+      "NameServer": "ns1.chinafashionjewelrywholesale.weblog.com.",
+      "Origin": "chinafashionjewelrywholesale.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chinahottours.weblog.com..txt",
+      "NameServer": "ns1.chinahottours.weblog.com.",
+      "Origin": "chinahottours.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chinatourpackage2010.weblog.com..txt",
+      "NameServer": "ns1.chinatourpackage2010.weblog.com.",
+      "Origin": "chinatourpackage2010.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chinatours2010.weblog.com..txt",
+      "NameServer": "ns1.chinatours2010.weblog.com.",
+      "Origin": "chinatours2010.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chinatours2011.weblog.com..txt",
+      "NameServer": "ns1.chinatours2011.weblog.com.",
+      "Origin": "chinatours2011.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chinatravel2011.weblog.com..txt",
+      "NameServer": "ns1.chinatravel2011.weblog.com.",
+      "Origin": "chinatravel2011.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chinatravelguide2010.weblog.com..txt",
+      "NameServer": "ns1.chinatravelguide2010.weblog.com.",
+      "Origin": "chinatravelguide2010.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chloemylifemywordsmyways.weblog.com..txt",
+      "NameServer": "ns1.chloemylifemywordsmyways.weblog.com.",
+      "Origin": "chloemylifemywordsmyways.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chooserunningshoes.weblog.com..txt",
+      "NameServer": "ns1.chooserunningshoes.weblog.com.",
+      "Origin": "chooserunningshoes.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/chris.weblog.com..txt",
+      "NameServer": "ns1.chris.weblog.com.",
+      "Origin": "chris.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/christinecac.weblog.com..txt",
+      "NameServer": "ns1.christinecac.weblog.com.",
+      "Origin": "christinecac.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/clafo.weblog.com..txt",
+      "NameServer": "ns1.clafo.weblog.com.",
+      "Origin": "clafo.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/clintbradford.weblog.com..txt",
+      "NameServer": "ns1.clintbradford.weblog.com.",
+      "Origin": "clintbradford.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cmd1n.weblog.com..txt",
+      "NameServer": "ns1.cmd1n.weblog.com.",
+      "Origin": "cmd1n.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/coholodge.weblog.com..txt",
+      "NameServer": "ns1.coholodge.weblog.com.",
+      "Origin": "coholodge.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/colinn.weblog.com..txt",
+      "NameServer": "ns1.colinn.weblog.com.",
+      "Origin": "colinn.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/commodity.weblog.com..txt",
+      "NameServer": "ns1.commodity.weblog.com.",
+      "Origin": "commodity.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/companyseo89.weblog.com..txt",
+      "NameServer": "ns1.companyseo89.weblog.com.",
+      "Origin": "companyseo89.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/conceivenaturally.weblog.com..txt",
+      "NameServer": "ns1.conceivenaturally.weblog.com.",
+      "Origin": "conceivenaturally.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cooltopic.weblog.com..txt",
+      "NameServer": "ns1.cooltopic.weblog.com.",
+      "Origin": "cooltopic.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/core92.weblog.com..txt",
+      "NameServer": "ns1.core92.weblog.com.",
+      "Origin": "core92.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/coupons.weblog.com..txt",
+      "NameServer": "ns1.coupons.weblog.com.",
+      "Origin": "coupons.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cprice83.weblog.com..txt",
+      "NameServer": "ns1.cprice83.weblog.com.",
+      "Origin": "cprice83.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/craigstours.weblog.com..txt",
+      "NameServer": "ns1.craigstours.weblog.com.",
+      "Origin": "craigstours.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/creativeskills.weblog.com..txt",
+      "NameServer": "ns1.creativeskills.weblog.com.",
+      "Origin": "creativeskills.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/criticalnincompoop.weblog.com..txt",
+      "NameServer": "ns1.criticalnincompoop.weblog.com.",
+      "Origin": "criticalnincompoop.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cuichuxiao.weblog.com..txt",
+      "NameServer": "ns1.cuichuxiao.weblog.com.",
+      "Origin": "cuichuxiao.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/customtwitterbackgrounds.weblog.com..txt",
+      "NameServer": "ns1.customtwitterbackgrounds.weblog.com.",
+      "Origin": "customtwitterbackgrounds.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/cyberghetto.weblog.com..txt",
+      "NameServer": "ns1.cyberghetto.weblog.com.",
+      "Origin": "cyberghetto.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/dalene55.weblog.com..txt",
+      "NameServer": "ns1.dalene55.weblog.com.",
+      "Origin": "dalene55.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/dancingbearsex.weblog.com..txt",
+      "NameServer": "ns1.dancingbearsex.weblog.com.",
+      "Origin": "dancingbearsex.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/darkangel1234.weblog.com..txt",
+      "NameServer": "ns1.darkangel1234.weblog.com.",
+      "Origin": "darkangel1234.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/dave.weblog.com..txt",
+      "NameServer": "ns1.dave.weblog.com.",
+      "Origin": "dave.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/davidthomas35.weblog.com..txt",
+      "NameServer": "ns1.davidthomas35.weblog.com.",
+      "Origin": "davidthomas35.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/davidwesson.weblog.com..txt",
+      "NameServer": "ns1.davidwesson.weblog.com.",
+      "Origin": "davidwesson.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/dealoffice.weblog.com..txt",
+      "NameServer": "ns1.dealoffice.weblog.com.",
+      "Origin": "dealoffice.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/debtconsolidations.weblog.com..txt",
+      "NameServer": "ns1.debtconsolidations.weblog.com.",
+      "Origin": "debtconsolidations.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/diabetesdt2.weblog.com..txt",
+      "NameServer": "ns1.diabetesdt2.weblog.com.",
+      "Origin": "diabetesdt2.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/dikkysun.weblog.com..txt",
+      "NameServer": "ns1.dikkysun.weblog.com.",
+      "Origin": "dikkysun.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/dinnerideas.weblog.com..txt",
+      "NameServer": "ns1.dinnerideas.weblog.com.",
+      "Origin": "dinnerideas.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/djk1213.weblog.com..txt",
+      "NameServer": "ns1.djk1213.weblog.com.",
+      "Origin": "djk1213.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/dodderdog.weblog.com..txt",
+      "NameServer": "ns1.dodderdog.weblog.com.",
+      "Origin": "dodderdog.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/drapco.weblog.com..txt",
+      "NameServer": "ns1.drapco.weblog.com.",
+      "Origin": "drapco.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/dreaming.weblog.com..txt",
+      "NameServer": "ns1.dreaming.weblog.com.",
+      "Origin": "dreaming.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/dulminis.weblog.com..txt",
+      "NameServer": "ns1.dulminis.weblog.com.",
+      "Origin": "dulminis.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/edigital.weblog.com..txt",
+      "NameServer": "ns1.edigital.weblog.com.",
+      "Origin": "edigital.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/efiman38.weblog.com..txt",
+      "NameServer": "ns1.efiman38.weblog.com.",
+      "Origin": "efiman38.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/egoziplasticsurgery14.weblog.com..txt",
+      "NameServer": "ns1.egoziplasticsurgery14.weblog.com.",
+      "Origin": "egoziplasticsurgery14.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/egyptliberals.weblog.com..txt",
+      "NameServer": "ns1.egyptliberals.weblog.com.",
+      "Origin": "egyptliberals.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/emilieherbert.weblog.com..txt",
+      "NameServer": "ns1.emilieherbert.weblog.com.",
+      "Origin": "emilieherbert.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/enhancementadvice.weblog.com..txt",
+      "NameServer": "ns1.enhancementadvice.weblog.com.",
+      "Origin": "enhancementadvice.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/envi1blade2z.weblog.com..txt",
+      "NameServer": "ns1.envi1blade2z.weblog.com.",
+      "Origin": "envi1blade2z.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/episodesseason.weblog.com..txt",
+      "NameServer": "ns1.episodesseason.weblog.com.",
+      "Origin": "episodesseason.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/eternity.weblog.com..txt",
+      "NameServer": "ns1.eternity.weblog.com.",
+      "Origin": "eternity.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/evy4u.weblog.com..txt",
+      "NameServer": "ns1.evy4u.weblog.com.",
+      "Origin": "evy4u.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/excellentcities.weblog.com..txt",
+      "NameServer": "ns1.excellentcities.weblog.com.",
+      "Origin": "excellentcities.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/fahminajjar.weblog.com..txt",
+      "NameServer": "ns1.fahminajjar.weblog.com.",
+      "Origin": "fahminajjar.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/feelingfrench.weblog.com..txt",
+      "NameServer": "ns1.feelingfrench.weblog.com.",
+      "Origin": "feelingfrench.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/fishtanks101.weblog.com..txt",
+      "NameServer": "ns1.fishtanks101.weblog.com.",
+      "Origin": "fishtanks101.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/flaviojose.weblog.com..txt",
+      "NameServer": "ns1.flaviojose.weblog.com.",
+      "Origin": "flaviojose.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/fomty.weblog.com..txt",
+      "NameServer": "ns1.fomty.weblog.com.",
+      "Origin": "fomty.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/forexpips.weblog.com..txt",
+      "NameServer": "ns1.forexpips.weblog.com.",
+      "Origin": "forexpips.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/francispgonzalez.weblog.com..txt",
+      "NameServer": "ns1.francispgonzalez.weblog.com.",
+      "Origin": "francispgonzalez.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/fxyply.weblog.com..txt",
+      "NameServer": "ns1.fxyply.weblog.com.",
+      "Origin": "fxyply.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/garxland.weblog.com..txt",
+      "NameServer": "ns1.garxland.weblog.com.",
+      "Origin": "garxland.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/gas1111.weblog.com..txt",
+      "NameServer": "ns1.gas1111.weblog.com.",
+      "Origin": "gas1111.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/georgeareeb.weblog.com..txt",
+      "NameServer": "ns1.georgeareeb.weblog.com.",
+      "Origin": "georgeareeb.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/geraldand2597.weblog.com..txt",
+      "NameServer": "ns1.geraldand2597.weblog.com.",
+      "Origin": "geraldand2597.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/geschenkefurman.weblog.com..txt",
+      "NameServer": "ns1.geschenkefurman.weblog.com.",
+      "Origin": "geschenkefurman.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/getbattery.weblog.com..txt",
+      "NameServer": "ns1.getbattery.weblog.com.",
+      "Origin": "getbattery.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/giantspheres.weblog.com..txt",
+      "NameServer": "ns1.giantspheres.weblog.com.",
+      "Origin": "giantspheres.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/gigiu2010.weblog.com..txt",
+      "NameServer": "ns1.gigiu2010.weblog.com.",
+      "Origin": "gigiu2010.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/girlsteam.weblog.com..txt",
+      "NameServer": "ns1.girlsteam.weblog.com.",
+      "Origin": "girlsteam.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/googlesandroids.weblog.com..txt",
+      "NameServer": "ns1.googlesandroids.weblog.com.",
+      "Origin": "googlesandroids.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/gopsavers.weblog.com..txt",
+      "NameServer": "ns1.gopsavers.weblog.com.",
+      "Origin": "gopsavers.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/greenit.weblog.com..txt",
+      "NameServer": "ns1.greenit.weblog.com.",
+      "Origin": "greenit.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/haimfhouse.weblog.com..txt",
+      "NameServer": "ns1.haimfhouse.weblog.com.",
+      "Origin": "haimfhouse.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyavailableblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyavailableblogg.weblog.com.",
+      "Origin": "healthyavailableblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthybeyondblogg.weblog.com..txt",
+      "NameServer": "ns1.healthybeyondblogg.weblog.com.",
+      "Origin": "healthybeyondblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthybooksblogg.weblog.com..txt",
+      "NameServer": "ns1.healthybooksblogg.weblog.com.",
+      "Origin": "healthybooksblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyboughtblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyboughtblogg.weblog.com.",
+      "Origin": "healthyboughtblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthybushblogg.weblog.com..txt",
+      "NameServer": "ns1.healthybushblogg.weblog.com.",
+      "Origin": "healthybushblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthydeanneblogg.weblog.com..txt",
+      "NameServer": "ns1.healthydeanneblogg.weblog.com.",
+      "Origin": "healthydeanneblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthydebtblogg.weblog.com..txt",
+      "NameServer": "ns1.healthydebtblogg.weblog.com.",
+      "Origin": "healthydebtblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyexploitationblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyexploitationblogg.weblog.com.",
+      "Origin": "healthyexploitationblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyfastblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyfastblogg.weblog.com.",
+      "Origin": "healthyfastblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyglobalblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyglobalblogg.weblog.com.",
+      "Origin": "healthyglobalblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyherbertblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyherbertblogg.weblog.com.",
+      "Origin": "healthyherbertblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyinformationblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyinformationblogg.weblog.com.",
+      "Origin": "healthyinformationblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyinsteadblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyinsteadblogg.weblog.com.",
+      "Origin": "healthyinsteadblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyintegrationblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyintegrationblogg.weblog.com.",
+      "Origin": "healthyintegrationblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyjuvenileblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyjuvenileblogg.weblog.com.",
+      "Origin": "healthyjuvenileblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthylandesmanblogg.weblog.com..txt",
+      "NameServer": "ns1.healthylandesmanblogg.weblog.com.",
+      "Origin": "healthylandesmanblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthylegalblogg.weblog.com..txt",
+      "NameServer": "ns1.healthylegalblogg.weblog.com.",
+      "Origin": "healthylegalblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyreleasedblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyreleasedblogg.weblog.com.",
+      "Origin": "healthyreleasedblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyresearchblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyresearchblogg.weblog.com.",
+      "Origin": "healthyresearchblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyresourcesblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyresourcesblogg.weblog.com.",
+      "Origin": "healthyresourcesblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyringblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyringblogg.weblog.com.",
+      "Origin": "healthyringblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthysacramentoblogg.weblog.com..txt",
+      "NameServer": "ns1.healthysacramentoblogg.weblog.com.",
+      "Origin": "healthysacramentoblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyslaveryblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyslaveryblogg.weblog.com.",
+      "Origin": "healthyslaveryblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthyspecialblogg.weblog.com..txt",
+      "NameServer": "ns1.healthyspecialblogg.weblog.com.",
+      "Origin": "healthyspecialblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthystudentblogg.weblog.com..txt",
+      "NameServer": "ns1.healthystudentblogg.weblog.com.",
+      "Origin": "healthystudentblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthytermblogg.weblog.com..txt",
+      "NameServer": "ns1.healthytermblogg.weblog.com.",
+      "Origin": "healthytermblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthytraffickingblogg.weblog.com..txt",
+      "NameServer": "ns1.healthytraffickingblogg.weblog.com.",
+      "Origin": "healthytraffickingblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/healthytypicalblogg.weblog.com..txt",
+      "NameServer": "ns1.healthytypicalblogg.weblog.com.",
+      "Origin": "healthytypicalblogg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/help.weblog.com..txt",
+      "NameServer": "ns1.help.weblog.com.",
+      "Origin": "help.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/hnainguer.weblog.com..txt",
+      "NameServer": "ns1.hnainguer.weblog.com.",
+      "Origin": "hnainguer.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/hnmorning12.weblog.com..txt",
+      "NameServer": "ns1.hnmorning12.weblog.com.",
+      "Origin": "hnmorning12.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/homeownersassoc.weblog.com..txt",
+      "NameServer": "ns1.homeownersassoc.weblog.com.",
+      "Origin": "homeownersassoc.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/hongyush123.weblog.com..txt",
+      "NameServer": "ns1.hongyush123.weblog.com.",
+      "Origin": "hongyush123.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/hoops4life.weblog.com..txt",
+      "NameServer": "ns1.hoops4life.weblog.com.",
+      "Origin": "hoops4life.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/hostage.weblog.com..txt",
+      "NameServer": "ns1.hostage.weblog.com.",
+      "Origin": "hostage.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/hotelofflorence.weblog.com..txt",
+      "NameServer": "ns1.hotelofflorence.weblog.com.",
+      "Origin": "hotelofflorence.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/hotgvibe.weblog.com..txt",
+      "NameServer": "ns1.hotgvibe.weblog.com.",
+      "Origin": "hotgvibe.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/howagpstrackerwork.weblog.com..txt",
+      "NameServer": "ns1.howagpstrackerwork.weblog.com.",
+      "Origin": "howagpstrackerwork.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/howtoloseweightfast.weblog.com..txt",
+      "NameServer": "ns1.howtoloseweightfast.weblog.com.",
+      "Origin": "howtoloseweightfast.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/huynhphonga6.weblog.com..txt",
+      "NameServer": "ns1.huynhphonga6.weblog.com.",
+      "Origin": "huynhphonga6.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/ibm123str.weblog.com..txt",
+      "NameServer": "ns1.ibm123str.weblog.com.",
+      "Origin": "ibm123str.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/ilonavvdpn.weblog.com..txt",
+      "NameServer": "ns1.ilonavvdpn.weblog.com.",
+      "Origin": "ilonavvdpn.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/inspirenl.weblog.com..txt",
+      "NameServer": "ns1.inspirenl.weblog.com.",
+      "Origin": "inspirenl.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/iphonesbuyingguide.weblog.com..txt",
+      "NameServer": "ns1.iphonesbuyingguide.weblog.com.",
+      "Origin": "iphonesbuyingguide.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/iraneagah.weblog.com..txt",
+      "NameServer": "ns1.iraneagah.weblog.com.",
+      "Origin": "iraneagah.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/israelresortvacation.weblog.com..txt",
+      "NameServer": "ns1.israelresortvacation.weblog.com.",
+      "Origin": "israelresortvacation.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/jame88.weblog.com..txt",
+      "NameServer": "ns1.jame88.weblog.com.",
+      "Origin": "jame88.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/james21.weblog.com..txt",
+      "NameServer": "ns1.james21.weblog.com.",
+      "Origin": "james21.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/jawwad.weblog.com..txt",
+      "NameServer": "ns1.jawwad.weblog.com.",
+      "Origin": "jawwad.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/jeans88.weblog.com..txt",
+      "NameServer": "ns1.jeans88.weblog.com.",
+      "Origin": "jeans88.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/jenniferweblog.weblog.com..txt",
+      "NameServer": "ns1.jenniferweblog.weblog.com.",
+      "Origin": "jenniferweblog.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/jeremyptaylor.weblog.com..txt",
+      "NameServer": "ns1.jeremyptaylor.weblog.com.",
+      "Origin": "jeremyptaylor.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/jetlasers.weblog.com..txt",
+      "NameServer": "ns1.jetlasers.weblog.com.",
+      "Origin": "jetlasers.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/jontikl.weblog.com..txt",
+      "NameServer": "ns1.jontikl.weblog.com.",
+      "Origin": "jontikl.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/jpcandle.weblog.com..txt",
+      "NameServer": "ns1.jpcandle.weblog.com.",
+      "Origin": "jpcandle.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/kalytachispa.weblog.com..txt",
+      "NameServer": "ns1.kalytachispa.weblog.com.",
+      "Origin": "kalytachispa.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/kittien08.weblog.com..txt",
+      "NameServer": "ns1.kittien08.weblog.com.",
+      "Origin": "kittien08.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/knowledgeyouwant.weblog.com..txt",
+      "NameServer": "ns1.knowledgeyouwant.weblog.com.",
+      "Origin": "knowledgeyouwant.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/kppublic.weblog.com..txt",
+      "NameServer": "ns1.kppublic.weblog.com.",
+      "Origin": "kppublic.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/kristoffer.weblog.com..txt",
+      "NameServer": "ns1.kristoffer.weblog.com.",
+      "Origin": "kristoffer.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/larryviel.weblog.com..txt",
+      "NameServer": "ns1.larryviel.weblog.com.",
+      "Origin": "larryviel.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/lauree17.weblog.com..txt",
+      "NameServer": "ns1.lauree17.weblog.com.",
+      "Origin": "lauree17.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/lauren20.weblog.com..txt",
+      "NameServer": "ns1.lauren20.weblog.com.",
+      "Origin": "lauren20.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/lawyernews.weblog.com..txt",
+      "NameServer": "ns1.lawyernews.weblog.com.",
+      "Origin": "lawyernews.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/lazydbaonline.weblog.com..txt",
+      "NameServer": "ns1.lazydbaonline.weblog.com.",
+      "Origin": "lazydbaonline.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/learningboard.weblog.com..txt",
+      "NameServer": "ns1.learningboard.weblog.com.",
+      "Origin": "learningboard.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/lechcable.weblog.com..txt",
+      "NameServer": "ns1.lechcable.weblog.com.",
+      "Origin": "lechcable.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/legalmusicdownloads.weblog.com..txt",
+      "NameServer": "ns1.legalmusicdownloads.weblog.com.",
+      "Origin": "legalmusicdownloads.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/lisalinley1.weblog.com..txt",
+      "NameServer": "ns1.lisalinley1.weblog.com.",
+      "Origin": "lisalinley1.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/littlefiine1.weblog.com..txt",
+      "NameServer": "ns1.littlefiine1.weblog.com.",
+      "Origin": "littlefiine1.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/livemusic.weblog.com..txt",
+      "NameServer": "ns1.livemusic.weblog.com.",
+      "Origin": "livemusic.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/lookingyourbest.weblog.com..txt",
+      "NameServer": "ns1.lookingyourbest.weblog.com.",
+      "Origin": "lookingyourbest.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/losangelessocialsecuritylawattorney.weblog.com..txt",
+      "NameServer": "ns1.losangelessocialsecuritylawattorney.weblog.com.",
+      "Origin": "losangelessocialsecuritylawattorney.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/lovehearing.weblog.com..txt",
+      "NameServer": "ns1.lovehearing.weblog.com.",
+      "Origin": "lovehearing.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/lukeclothing.weblog.com..txt",
+      "NameServer": "ns1.lukeclothing.weblog.com.",
+      "Origin": "lukeclothing.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/makemoneyonlineuk.weblog.com..txt",
+      "NameServer": "ns1.makemoneyonlineuk.weblog.com.",
+      "Origin": "makemoneyonlineuk.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/marksteven.weblog.com..txt",
+      "NameServer": "ns1.marksteven.weblog.com.",
+      "Origin": "marksteven.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/marlen72.weblog.com..txt",
+      "NameServer": "ns1.marlen72.weblog.com.",
+      "Origin": "marlen72.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/maskqueraide.weblog.com..txt",
+      "NameServer": "ns1.maskqueraide.weblog.com.",
+      "Origin": "maskqueraide.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/me2guide.weblog.com..txt",
+      "NameServer": "ns1.me2guide.weblog.com.",
+      "Origin": "me2guide.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalabstinentrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalabstinentrrsearch.weblog.com.",
+      "Origin": "medicalabstinentrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalabusesreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalabusesreaserch.weblog.com.",
+      "Origin": "medicalabusesreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalacrossrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalacrossrrsearch.weblog.com.",
+      "Origin": "medicalacrossrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaladdedrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaladdedrrsearch.weblog.com.",
+      "Origin": "medicaladdedrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaladmitrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaladmitrrsearch.weblog.com.",
+      "Origin": "medicaladmitrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaladulthoodrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaladulthoodrrsearch.weblog.com.",
+      "Origin": "medicaladulthoodrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaladvocaterrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaladvocaterrsearch.weblog.com.",
+      "Origin": "medicaladvocaterrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalaffirmationsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalaffirmationsrrsearch.weblog.com.",
+      "Origin": "medicalaffirmationsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalagencyrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalagencyrrsearch.weblog.com.",
+      "Origin": "medicalagencyrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalalwaysrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalalwaysrrsearch.weblog.com.",
+      "Origin": "medicalalwaysrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalannualrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalannualrrsearch.weblog.com.",
+      "Origin": "medicalannualrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalapplicablerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalapplicablerrsearch.weblog.com.",
+      "Origin": "medicalapplicablerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalbenefitrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalbenefitrrsearch.weblog.com.",
+      "Origin": "medicalbenefitrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalcaptivereaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalcaptivereaserch.weblog.com.",
+      "Origin": "medicalcaptivereaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalcenterrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalcenterrrsearch.weblog.com.",
+      "Origin": "medicalcenterrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalcertificaterrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalcertificaterrsearch.weblog.com.",
+      "Origin": "medicalcertificaterrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalchooserrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalchooserrsearch.weblog.com.",
+      "Origin": "medicalchooserrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalchroniclesreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalchroniclesreaserch.weblog.com.",
+      "Origin": "medicalchroniclesreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalcirclerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalcirclerrsearch.weblog.com.",
+      "Origin": "medicalcirclerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalclassroomsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalclassroomsrrsearch.weblog.com.",
+      "Origin": "medicalclassroomsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalclassrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalclassrrsearch.weblog.com.",
+      "Origin": "medicalclassrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalcombinationrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalcombinationrrsearch.weblog.com.",
+      "Origin": "medicalcombinationrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalcommonrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalcommonrrsearch.weblog.com.",
+      "Origin": "medicalcommonrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalconsequentlyrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalconsequentlyrrsearch.weblog.com.",
+      "Origin": "medicalconsequentlyrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalconsistentrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalconsistentrrsearch.weblog.com.",
+      "Origin": "medicalconsistentrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalcorereaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalcorereaserch.weblog.com.",
+      "Origin": "medicalcorereaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalcountriesreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalcountriesreaserch.weblog.com.",
+      "Origin": "medicalcountriesreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaldescribedrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaldescribedrrsearch.weblog.com.",
+      "Origin": "medicaldescribedrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaldesirablerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaldesirablerrsearch.weblog.com.",
+      "Origin": "medicaldesirablerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaldeveloprrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaldeveloprrsearch.weblog.com.",
+      "Origin": "medicaldeveloprrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaldifficultrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaldifficultrrsearch.weblog.com.",
+      "Origin": "medicaldifficultrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaldistrictsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaldistrictsrrsearch.weblog.com.",
+      "Origin": "medicaldistrictsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalduringreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalduringreaserch.weblog.com.",
+      "Origin": "medicalduringreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaledmondsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaledmondsrrsearch.weblog.com.",
+      "Origin": "medicaledmondsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaleducatorsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaleducatorsrrsearch.weblog.com.",
+      "Origin": "medicaleducatorsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalenablerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalenablerrsearch.weblog.com.",
+      "Origin": "medicalenablerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalenjoyrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalenjoyrrsearch.weblog.com.",
+      "Origin": "medicalenjoyrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalephratarrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalephratarrsearch.weblog.com.",
+      "Origin": "medicalephratarrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalevergreenrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalevergreenrrsearch.weblog.com.",
+      "Origin": "medicalevergreenrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalexceptionrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalexceptionrrsearch.weblog.com.",
+      "Origin": "medicalexceptionrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalexceptionsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalexceptionsrrsearch.weblog.com.",
+      "Origin": "medicalexceptionsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalfailuresrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalfailuresrrsearch.weblog.com.",
+      "Origin": "medicalfailuresrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalfarrreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalfarrreaserch.weblog.com.",
+      "Origin": "medicalfarrreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalfeelsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalfeelsrrsearch.weblog.com.",
+      "Origin": "medicalfeelsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalfinancialrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalfinancialrrsearch.weblog.com.",
+      "Origin": "medicalfinancialrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalforbiddenrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalforbiddenrrsearch.weblog.com.",
+      "Origin": "medicalforbiddenrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalfriendsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalfriendsrrsearch.weblog.com.",
+      "Origin": "medicalfriendsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalgoodmanrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalgoodmanrrsearch.weblog.com.",
+      "Origin": "medicalgoodmanrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalgoodridgerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalgoodridgerrsearch.weblog.com.",
+      "Origin": "medicalgoodridgerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalhandlerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalhandlerrsearch.weblog.com.",
+      "Origin": "medicalhandlerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalhandoutrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalhandoutrrsearch.weblog.com.",
+      "Origin": "medicalhandoutrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalharmfulrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalharmfulrrsearch.weblog.com.",
+      "Origin": "medicalharmfulrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalhelpsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalhelpsrrsearch.weblog.com.",
+      "Origin": "medicalhelpsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalhoodrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalhoodrrsearch.weblog.com.",
+      "Origin": "medicalhoodrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalhousingrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalhousingrrsearch.weblog.com.",
+      "Origin": "medicalhousingrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalindianrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalindianrrsearch.weblog.com.",
+      "Origin": "medicalindianrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalinsurancerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalinsurancerrsearch.weblog.com.",
+      "Origin": "medicalinsurancerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalitabstinencerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalitabstinencerrsearch.weblog.com.",
+      "Origin": "medicalitabstinencerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaljenkinsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaljenkinsrrsearch.weblog.com.",
+      "Origin": "medicaljenkinsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalkarenreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalkarenreaserch.weblog.com.",
+      "Origin": "medicalkarenreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalknowledgereaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalknowledgereaserch.weblog.com.",
+      "Origin": "medicalknowledgereaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicallacrosserrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicallacrosserrsearch.weblog.com.",
+      "Origin": "medicallacrosserrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicallanguagerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicallanguagerrsearch.weblog.com.",
+      "Origin": "medicallanguagerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicallivingrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicallivingrrsearch.weblog.com.",
+      "Origin": "medicallivingrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalperfectrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalperfectrrsearch.weblog.com.",
+      "Origin": "medicalperfectrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalportrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalportrrsearch.weblog.com.",
+      "Origin": "medicalportrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalprofitreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalprofitreaserch.weblog.com.",
+      "Origin": "medicalprofitreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalprospectsreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalprospectsreaserch.weblog.com.",
+      "Origin": "medicalprospectsreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalpublicationrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalpublicationrrsearch.weblog.com.",
+      "Origin": "medicalpublicationrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalqualityrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalqualityrrsearch.weblog.com.",
+      "Origin": "medicalqualityrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalreasonsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalreasonsrrsearch.weblog.com.",
+      "Origin": "medicalreasonsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalrecognisedreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalrecognisedreaserch.weblog.com.",
+      "Origin": "medicalrecognisedreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalrespectivelyrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalrespectivelyrrsearch.weblog.com.",
+      "Origin": "medicalrespectivelyrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalrevealedrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalrevealedrrsearch.weblog.com.",
+      "Origin": "medicalrevealedrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalrussellreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalrussellreaserch.weblog.com.",
+      "Origin": "medicalrussellreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsearchingrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalsearchingrrsearch.weblog.com.",
+      "Origin": "medicalsearchingrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalseattlerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalseattlerrsearch.weblog.com.",
+      "Origin": "medicalseattlerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsequimrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalsequimrrsearch.weblog.com.",
+      "Origin": "medicalsequimrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalshouldrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalshouldrrsearch.weblog.com.",
+      "Origin": "medicalshouldrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsimilarrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalsimilarrrsearch.weblog.com.",
+      "Origin": "medicalsimilarrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsomeonerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalsomeonerrsearch.weblog.com.",
+      "Origin": "medicalsomeonerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsorosrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalsorosrrsearch.weblog.com.",
+      "Origin": "medicalsorosrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsouthreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalsouthreaserch.weblog.com.",
+      "Origin": "medicalsouthreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsouthwestrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalsouthwestrrsearch.weblog.com.",
+      "Origin": "medicalsouthwestrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalspecificreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalspecificreaserch.weblog.com.",
+      "Origin": "medicalspecificreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalstatutoryrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalstatutoryrrsearch.weblog.com.",
+      "Origin": "medicalstatutoryrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalstevensonrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalstevensonrrsearch.weblog.com.",
+      "Origin": "medicalstevensonrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalstoriesreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalstoriesreaserch.weblog.com.",
+      "Origin": "medicalstoriesreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsummaryrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalsummaryrrsearch.weblog.com.",
+      "Origin": "medicalsummaryrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsuppressreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalsuppressreaserch.weblog.com.",
+      "Origin": "medicalsuppressreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsurveynrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalsurveynrrsearch.weblog.com.",
+      "Origin": "medicalsurveynrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalsymptomsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalsymptomsrrsearch.weblog.com.",
+      "Origin": "medicalsymptomsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalteachesrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalteachesrrsearch.weblog.com.",
+      "Origin": "medicalteachesrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalterminatingrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalterminatingrrsearch.weblog.com.",
+      "Origin": "medicalterminatingrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalthemreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalthemreaserch.weblog.com.",
+      "Origin": "medicalthemreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalthurstonrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalthurstonrrsearch.weblog.com.",
+      "Origin": "medicalthurstonrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaltopicspugetrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaltopicspugetrrsearch.weblog.com.",
+      "Origin": "medicaltopicspugetrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaltracyrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaltracyrrsearch.weblog.com.",
+      "Origin": "medicaltracyrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaltribalrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaltribalrrsearch.weblog.com.",
+      "Origin": "medicaltribalrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaltropicalreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicaltropicalreaserch.weblog.com.",
+      "Origin": "medicaltropicalreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicaltuftsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicaltuftsrrsearch.weblog.com.",
+      "Origin": "medicaltuftsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalturkeyreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalturkeyreaserch.weblog.com.",
+      "Origin": "medicalturkeyreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalvalleyrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalvalleyrrsearch.weblog.com.",
+      "Origin": "medicalvalleyrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalviewreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalviewreaserch.weblog.com.",
+      "Origin": "medicalviewreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalwardenrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalwardenrrsearch.weblog.com.",
+      "Origin": "medicalwardenrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalwhichrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalwhichrrsearch.weblog.com.",
+      "Origin": "medicalwhichrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalwontrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalwontrrsearch.weblog.com.",
+      "Origin": "medicalwontrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalworkerreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalworkerreaserch.weblog.com.",
+      "Origin": "medicalworkerreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyabstinencerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyabstinencerrsearch.weblog.com.",
+      "Origin": "medicalyabstinencerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyachieverrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyachieverrsearch.weblog.com.",
+      "Origin": "medicalyachieverrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyalsorrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyalsorrsearch.weblog.com.",
+      "Origin": "medicalyalsorrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyattendrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyattendrrsearch.weblog.com.",
+      "Origin": "medicalyattendrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyaversiverrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyaversiverrsearch.weblog.com.",
+      "Origin": "medicalyaversiverrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalybaltimorereaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalybaltimorereaserch.weblog.com.",
+      "Origin": "medicalybaltimorereaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalybroadrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalybroadrrsearch.weblog.com.",
+      "Origin": "medicalybroadrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalybrowserrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalybrowserrsearch.weblog.com.",
+      "Origin": "medicalybrowserrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalychallengerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalychallengerrsearch.weblog.com.",
+      "Origin": "medicalychallengerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalycommitsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalycommitsrrsearch.weblog.com.",
+      "Origin": "medicalycommitsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalycompoundedrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalycompoundedrrsearch.weblog.com.",
+      "Origin": "medicalycompoundedrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyconfidentrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyconfidentrrsearch.weblog.com.",
+      "Origin": "medicalyconfidentrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyconstructionrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyconstructionrrsearch.weblog.com.",
+      "Origin": "medicalyconstructionrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalycourserrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalycourserrsearch.weblog.com.",
+      "Origin": "medicalycourserrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalydefendreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalydefendreaserch.weblog.com.",
+      "Origin": "medicalydefendreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalydelayrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalydelayrrsearch.weblog.com.",
+      "Origin": "medicalydelayrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalydistributionrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalydistributionrrsearch.weblog.com.",
+      "Origin": "medicalydistributionrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyelliotrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyelliotrrsearch.weblog.com.",
+      "Origin": "medicalyelliotrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyexaminerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyexaminerrsearch.weblog.com.",
+      "Origin": "medicalyexaminerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyexpressrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyexpressrrsearch.weblog.com.",
+      "Origin": "medicalyexpressrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyfalsifiedrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyfalsifiedrrsearch.weblog.com.",
+      "Origin": "medicalyfalsifiedrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyfoundationreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalyfoundationreaserch.weblog.com.",
+      "Origin": "medicalyfoundationreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyfunctionreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalyfunctionreaserch.weblog.com.",
+      "Origin": "medicalyfunctionreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalygaymarriagerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalygaymarriagerrsearch.weblog.com.",
+      "Origin": "medicalygaymarriagerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalygeneralrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalygeneralrrsearch.weblog.com.",
+      "Origin": "medicalygeneralrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyharmfulrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyharmfulrrsearch.weblog.com.",
+      "Origin": "medicalyharmfulrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyhighestrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyhighestrrsearch.weblog.com.",
+      "Origin": "medicalyhighestrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyimputedrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyimputedrrsearch.weblog.com.",
+      "Origin": "medicalyimputedrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyincreasesrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyincreasesrrsearch.weblog.com.",
+      "Origin": "medicalyincreasesrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyindividualreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalyindividualreaserch.weblog.com.",
+      "Origin": "medicalyindividualreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyintensityrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyintensityrrsearch.weblog.com.",
+      "Origin": "medicalyintensityrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyitknowrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyitknowrrsearch.weblog.com.",
+      "Origin": "medicalyitknowrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyjanthakeeroreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalyjanthakeeroreaserch.weblog.com.",
+      "Origin": "medicalyjanthakeeroreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalykylereaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalykylereaserch.weblog.com.",
+      "Origin": "medicalykylereaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalylowestrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalylowestrrsearch.weblog.com.",
+      "Origin": "medicalylowestrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyoccurrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyoccurrrsearch.weblog.com.",
+      "Origin": "medicalyoccurrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyofferingsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyofferingsrrsearch.weblog.com.",
+      "Origin": "medicalyofferingsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyoutsiderrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyoutsiderrsearch.weblog.com.",
+      "Origin": "medicalyoutsiderrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalypartsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalypartsrrsearch.weblog.com.",
+      "Origin": "medicalypartsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalypaymentrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalypaymentrrsearch.weblog.com.",
+      "Origin": "medicalypaymentrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyphilosophyrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyphilosophyrrsearch.weblog.com.",
+      "Origin": "medicalyphilosophyrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyprotectreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalyprotectreaserch.weblog.com.",
+      "Origin": "medicalyprotectreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyprovisionrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyprovisionrrsearch.weblog.com.",
+      "Origin": "medicalyprovisionrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyrecipientsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyrecipientsrrsearch.weblog.com.",
+      "Origin": "medicalyrecipientsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyreportsreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalyreportsreaserch.weblog.com.",
+      "Origin": "medicalyreportsreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyrequiredrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyrequiredrrsearch.weblog.com.",
+      "Origin": "medicalyrequiredrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyreturnrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyreturnrrsearch.weblog.com.",
+      "Origin": "medicalyreturnrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyriskauthorsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyriskauthorsrrsearch.weblog.com.",
+      "Origin": "medicalyriskauthorsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyrulerrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyrulerrsearch.weblog.com.",
+      "Origin": "medicalyrulerrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyshoprrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyshoprrsearch.weblog.com.",
+      "Origin": "medicalyshoprrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalysolutionrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalysolutionrrsearch.weblog.com.",
+      "Origin": "medicalysolutionrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyspecificallyrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyspecificallyrrsearch.weblog.com.",
+      "Origin": "medicalyspecificallyrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalysrvhivrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalysrvhivrrsearch.weblog.com.",
+      "Origin": "medicalysrvhivrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalystrongrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalystrongrrsearch.weblog.com.",
+      "Origin": "medicalystrongrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalysunnysiderrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalysunnysiderrsearch.weblog.com.",
+      "Origin": "medicalysunnysiderrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalythatsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalythatsrrsearch.weblog.com.",
+      "Origin": "medicalythatsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalythingrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalythingrrsearch.weblog.com.",
+      "Origin": "medicalythingrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalythreereaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalythreereaserch.weblog.com.",
+      "Origin": "medicalythreereaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalytrainingsrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalytrainingsrrsearch.weblog.com.",
+      "Origin": "medicalytrainingsrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyupsetrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyupsetrrsearch.weblog.com.",
+      "Origin": "medicalyupsetrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyusinforeaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalyusinforeaserch.weblog.com.",
+      "Origin": "medicalyusinforeaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyvolitionreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalyvolitionreaserch.weblog.com.",
+      "Origin": "medicalyvolitionreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalywinlockrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalywinlockrrsearch.weblog.com.",
+      "Origin": "medicalywinlockrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyworkerreaserch.weblog.com..txt",
+      "NameServer": "ns1.medicalyworkerreaserch.weblog.com.",
+      "Origin": "medicalyworkerreaserch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyworkshoprrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyworkshoprrsearch.weblog.com.",
+      "Origin": "medicalyworkshoprrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalywouldrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalywouldrrsearch.weblog.com.",
+      "Origin": "medicalywouldrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalywrittenrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalywrittenrrsearch.weblog.com.",
+      "Origin": "medicalywrittenrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/medicalyyourrrsearch.weblog.com..txt",
+      "NameServer": "ns1.medicalyyourrrsearch.weblog.com.",
+      "Origin": "medicalyyourrrsearch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/megashare.weblog.com..txt",
+      "NameServer": "ns1.megashare.weblog.com.",
+      "Origin": "megashare.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/megasource.weblog.com..txt",
+      "NameServer": "ns1.megasource.weblog.com.",
+      "Origin": "megasource.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/mehndidesigns01.weblog.com..txt",
+      "NameServer": "ns1.mehndidesigns01.weblog.com.",
+      "Origin": "mehndidesigns01.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/melwe.weblog.com..txt",
+      "NameServer": "ns1.melwe.weblog.com.",
+      "Origin": "melwe.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/menopausegain.weblog.com..txt",
+      "NameServer": "ns1.menopausegain.weblog.com.",
+      "Origin": "menopausegain.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/meralmd.weblog.com..txt",
+      "NameServer": "ns1.meralmd.weblog.com.",
+      "Origin": "meralmd.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/merrancooper.weblog.com..txt",
+      "NameServer": "ns1.merrancooper.weblog.com.",
+      "Origin": "merrancooper.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/midnightmans.weblog.com..txt",
+      "NameServer": "ns1.midnightmans.weblog.com.",
+      "Origin": "midnightmans.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/mike1993.weblog.com..txt",
+      "NameServer": "ns1.mike1993.weblog.com.",
+      "Origin": "mike1993.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/mikelinley7575.weblog.com..txt",
+      "NameServer": "ns1.mikelinley7575.weblog.com.",
+      "Origin": "mikelinley7575.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/missjudyscorner.weblog.com..txt",
+      "NameServer": "ns1.missjudyscorner.weblog.com.",
+      "Origin": "missjudyscorner.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/mjjsite.weblog.com..txt",
+      "NameServer": "ns1.mjjsite.weblog.com.",
+      "Origin": "mjjsite.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/modml.weblog.com..txt",
+      "NameServer": "ns1.modml.weblog.com.",
+      "Origin": "modml.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/mortgageloans.weblog.com..txt",
+      "NameServer": "ns1.mortgageloans.weblog.com.",
+      "Origin": "mortgageloans.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/motivesafiufericita.weblog.com..txt",
+      "NameServer": "ns1.motivesafiufericita.weblog.com.",
+      "Origin": "motivesafiufericita.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/museumofdeath.weblog.com..txt",
+      "NameServer": "ns1.museumofdeath.weblog.com.",
+      "Origin": "museumofdeath.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/muzzfan.weblog.com..txt",
+      "NameServer": "ns1.muzzfan.weblog.com.",
+      "Origin": "muzzfan.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/mymusings.weblog.com..txt",
+      "NameServer": "ns1.mymusings.weblog.com.",
+      "Origin": "mymusings.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/mynest.weblog.com..txt",
+      "NameServer": "ns1.mynest.weblog.com.",
+      "Origin": "mynest.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nakedillusions.weblog.com..txt",
+      "NameServer": "ns1.nakedillusions.weblog.com.",
+      "Origin": "nakedillusions.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nbcreviews09.weblog.com..txt",
+      "NameServer": "ns1.nbcreviews09.weblog.com.",
+      "Origin": "nbcreviews09.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/neociclo.weblog.com..txt",
+      "NameServer": "ns1.neociclo.weblog.com.",
+      "Origin": "neociclo.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nerdpatrol.weblog.com..txt",
+      "NameServer": "ns1.nerdpatrol.weblog.com.",
+      "Origin": "nerdpatrol.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/newinternetbusiness.weblog.com..txt",
+      "NameServer": "ns1.newinternetbusiness.weblog.com.",
+      "Origin": "newinternetbusiness.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nflcheerleadersnews.weblog.com..txt",
+      "NameServer": "ns1.nflcheerleadersnews.weblog.com.",
+      "Origin": "nflcheerleadersnews.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nfljerseysq.weblog.com..txt",
+      "NameServer": "ns1.nfljerseysq.weblog.com.",
+      "Origin": "nfljerseysq.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nfljerseysqi.weblog.com..txt",
+      "NameServer": "ns1.nfljerseysqi.weblog.com.",
+      "Origin": "nfljerseysqi.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nflrumorsnewscici.weblog.com..txt",
+      "NameServer": "ns1.nflrumorsnewscici.weblog.com.",
+      "Origin": "nflrumorsnewscici.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nflshopviewer.weblog.com..txt",
+      "NameServer": "ns1.nflshopviewer.weblog.com.",
+      "Origin": "nflshopviewer.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nfltplayersnewscici.weblog.com..txt",
+      "NameServer": "ns1.nfltplayersnewscici.weblog.com.",
+      "Origin": "nfltplayersnewscici.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nickcraanen.weblog.com..txt",
+      "NameServer": "ns1.nickcraanen.weblog.com.",
+      "Origin": "nickcraanen.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nonsous.weblog.com..txt",
+      "NameServer": "ns1.nonsous.weblog.com.",
+      "Origin": "nonsous.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/norain.weblog.com..txt",
+      "NameServer": "ns1.norain.weblog.com.",
+      "Origin": "norain.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/numb3r.weblog.com..txt",
+      "NameServer": "ns1.numb3r.weblog.com.",
+      "Origin": "numb3r.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/nurope.weblog.com..txt",
+      "NameServer": "ns1.nurope.weblog.com.",
+      "Origin": "nurope.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/onlinedating.weblog.com..txt",
+      "NameServer": "ns1.onlinedating.weblog.com.",
+      "Origin": "onlinedating.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/onsaleindustria.weblog.com..txt",
+      "NameServer": "ns1.onsaleindustria.weblog.com.",
+      "Origin": "onsaleindustria.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/opanol.weblog.com..txt",
+      "NameServer": "ns1.opanol.weblog.com.",
+      "Origin": "opanol.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/oxaticle.weblog.com..txt",
+      "NameServer": "ns1.oxaticle.weblog.com.",
+      "Origin": "oxaticle.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/oyaovesion.weblog.com..txt",
+      "NameServer": "ns1.oyaovesion.weblog.com.",
+      "Origin": "oyaovesion.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/pantaleonescu.weblog.com..txt",
+      "NameServer": "ns1.pantaleonescu.weblog.com.",
+      "Origin": "pantaleonescu.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/paperjamzonline.weblog.com..txt",
+      "NameServer": "ns1.paperjamzonline.weblog.com.",
+      "Origin": "paperjamzonline.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/pcregistrycleaners.weblog.com..txt",
+      "NameServer": "ns1.pcregistrycleaners.weblog.com.",
+      "Origin": "pcregistrycleaners.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/pinchoodindia.weblog.com..txt",
+      "NameServer": "ns1.pinchoodindia.weblog.com.",
+      "Origin": "pinchoodindia.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/pink.weblog.com..txt",
+      "NameServer": "ns1.pink.weblog.com.",
+      "Origin": "pink.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/psoriasis2.weblog.com..txt",
+      "NameServer": "ns1.psoriasis2.weblog.com.",
+      "Origin": "psoriasis2.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/psoriasis2b.weblog.com..txt",
+      "NameServer": "ns1.psoriasis2b.weblog.com.",
+      "Origin": "psoriasis2b.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/psoriasis3b.weblog.com..txt",
+      "NameServer": "ns1.psoriasis3b.weblog.com.",
+      "Origin": "psoriasis3b.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/psoriasis4u.weblog.com..txt",
+      "NameServer": "ns1.psoriasis4u.weblog.com.",
+      "Origin": "psoriasis4u.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/qualitydress.weblog.com..txt",
+      "NameServer": "ns1.qualitydress.weblog.com.",
+      "Origin": "qualitydress.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/quarcl.weblog.com..txt",
+      "NameServer": "ns1.quarcl.weblog.com.",
+      "Origin": "quarcl.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/quedavies.weblog.com..txt",
+      "NameServer": "ns1.quedavies.weblog.com.",
+      "Origin": "quedavies.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/ramble.weblog.com..txt",
+      "NameServer": "ns1.ramble.weblog.com.",
+      "Origin": "ramble.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/rates.weblog.com..txt",
+      "NameServer": "ns1.rates.weblog.com.",
+      "Origin": "rates.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/ray85kleid.weblog.com..txt",
+      "NameServer": "ns1.ray85kleid.weblog.com.",
+      "Origin": "ray85kleid.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/rebellookingforacause.weblog.com..txt",
+      "NameServer": "ns1.rebellookingforacause.weblog.com.",
+      "Origin": "rebellookingforacause.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/regenerativemedicine.weblog.com..txt",
+      "NameServer": "ns1.regenerativemedicine.weblog.com.",
+      "Origin": "regenerativemedicine.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/reputationmanagement.weblog.com..txt",
+      "NameServer": "ns1.reputationmanagement.weblog.com.",
+      "Origin": "reputationmanagement.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/reviewsshopping.weblog.com..txt",
+      "NameServer": "ns1.reviewsshopping.weblog.com.",
+      "Origin": "reviewsshopping.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/rgurtz.weblog.com..txt",
+      "NameServer": "ns1.rgurtz.weblog.com.",
+      "Origin": "rgurtz.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/rhesigocamree.weblog.com..txt",
+      "NameServer": "ns1.rhesigocamree.weblog.com.",
+      "Origin": "rhesigocamree.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/robsmith265.weblog.com..txt",
+      "NameServer": "ns1.robsmith265.weblog.com.",
+      "Origin": "robsmith265.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/rohamshipa.weblog.com..txt",
+      "NameServer": "ns1.rohamshipa.weblog.com.",
+      "Origin": "rohamshipa.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/rouzinir.weblog.com..txt",
+      "NameServer": "ns1.rouzinir.weblog.com.",
+      "Origin": "rouzinir.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/saeedsaman.weblog.com..txt",
+      "NameServer": "ns1.saeedsaman.weblog.com.",
+      "Origin": "saeedsaman.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/sagadgil.weblog.com..txt",
+      "NameServer": "ns1.sagadgil.weblog.com.",
+      "Origin": "sagadgil.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/sanantonioseo.weblog.com..txt",
+      "NameServer": "ns1.sanantonioseo.weblog.com.",
+      "Origin": "sanantonioseo.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/searchengineoptimization54.weblog.com..txt",
+      "NameServer": "ns1.searchengineoptimization54.weblog.com.",
+      "Origin": "searchengineoptimization54.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/seoblog.weblog.com..txt",
+      "NameServer": "ns1.seoblog.weblog.com.",
+      "Origin": "seoblog.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/seoconsultantsx0.weblog.com..txt",
+      "NameServer": "ns1.seoconsultantsx0.weblog.com.",
+      "Origin": "seoconsultantsx0.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/sharingcenter.weblog.com..txt",
+      "NameServer": "ns1.sharingcenter.weblog.com.",
+      "Origin": "sharingcenter.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/sharinghub.weblog.com..txt",
+      "NameServer": "ns1.sharinghub.weblog.com.",
+      "Origin": "sharinghub.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/shaun1key.weblog.com..txt",
+      "NameServer": "ns1.shaun1key.weblog.com.",
+      "Origin": "shaun1key.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/shobertvartanw.weblog.com..txt",
+      "NameServer": "ns1.shobertvartanw.weblog.com.",
+      "Origin": "shobertvartanw.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/shoppingplaza.weblog.com..txt",
+      "NameServer": "ns1.shoppingplaza.weblog.com.",
+      "Origin": "shoppingplaza.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/sirjapp.weblog.com..txt",
+      "NameServer": "ns1.sirjapp.weblog.com.",
+      "Origin": "sirjapp.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/sjoerdkooistra.weblog.com..txt",
+      "NameServer": "ns1.sjoerdkooistra.weblog.com.",
+      "Origin": "sjoerdkooistra.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/sjohnson.weblog.com..txt",
+      "NameServer": "ns1.sjohnson.weblog.com.",
+      "Origin": "sjohnson.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/sladetech.weblog.com..txt",
+      "NameServer": "ns1.sladetech.weblog.com.",
+      "Origin": "sladetech.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/snosik.weblog.com..txt",
+      "NameServer": "ns1.snosik.weblog.com.",
+      "Origin": "snosik.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/somong.weblog.com..txt",
+      "NameServer": "ns1.somong.weblog.com.",
+      "Origin": "somong.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/somynamesalizanicetomeetyou.weblog.com..txt",
+      "NameServer": "ns1.somynamesalizanicetomeetyou.weblog.com.",
+      "Origin": "somynamesalizanicetomeetyou.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/spectramedi.weblog.com..txt",
+      "NameServer": "ns1.spectramedi.weblog.com.",
+      "Origin": "spectramedi.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/sportslegend.weblog.com..txt",
+      "NameServer": "ns1.sportslegend.weblog.com.",
+      "Origin": "sportslegend.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/st1jones.weblog.com..txt",
+      "NameServer": "ns1.st1jones.weblog.com.",
+      "Origin": "st1jones.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/stayinmaui.weblog.com..txt",
+      "NameServer": "ns1.stayinmaui.weblog.com.",
+      "Origin": "stayinmaui.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/stephanieb.weblog.com..txt",
+      "NameServer": "ns1.stephanieb.weblog.com.",
+      "Origin": "stephanieb.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/stevejacksoon.weblog.com..txt",
+      "NameServer": "ns1.stevejacksoon.weblog.com.",
+      "Origin": "stevejacksoon.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/stumblingalongblindly.weblog.com..txt",
+      "NameServer": "ns1.stumblingalongblindly.weblog.com.",
+      "Origin": "stumblingalongblindly.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/supersofts.weblog.com..txt",
+      "NameServer": "ns1.supersofts.weblog.com.",
+      "Origin": "supersofts.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/swiveltvstand.weblog.com..txt",
+      "NameServer": "ns1.swiveltvstand.weblog.com.",
+      "Origin": "swiveltvstand.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/tattoo.weblog.com..txt",
+      "NameServer": "ns1.tattoo.weblog.com.",
+      "Origin": "tattoo.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/techpoint.weblog.com..txt",
+      "NameServer": "ns1.techpoint.weblog.com.",
+      "Origin": "techpoint.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/teji.weblog.com..txt",
+      "NameServer": "ns1.teji.weblog.com.",
+      "Origin": "teji.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/terlinck.weblog.com..txt",
+      "NameServer": "ns1.terlinck.weblog.com.",
+      "Origin": "terlinck.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/thaifood.weblog.com..txt",
+      "NameServer": "ns1.thaifood.weblog.com.",
+      "Origin": "thaifood.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/thedogtrainingclub.weblog.com..txt",
+      "NameServer": "ns1.thedogtrainingclub.weblog.com.",
+      "Origin": "thedogtrainingclub.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/theedgefx.weblog.com..txt",
+      "NameServer": "ns1.theedgefx.weblog.com.",
+      "Origin": "theedgefx.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/thepackersmoversindia.weblog.com..txt",
+      "NameServer": "ns1.thepackersmoversindia.weblog.com.",
+      "Origin": "thepackersmoversindia.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/therailscastsproject.weblog.com..txt",
+      "NameServer": "ns1.therailscastsproject.weblog.com.",
+      "Origin": "therailscastsproject.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/tien.weblog.com..txt",
+      "NameServer": "ns1.tien.weblog.com.",
+      "Origin": "tien.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/timeshare9630.weblog.com..txt",
+      "NameServer": "ns1.timeshare9630.weblog.com.",
+      "Origin": "timeshare9630.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/topseocompanies.weblog.com..txt",
+      "NameServer": "ns1.topseocompanies.weblog.com.",
+      "Origin": "topseocompanies.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/toscan3vill4s.weblog.com..txt",
+      "NameServer": "ns1.toscan3vill4s.weblog.com.",
+      "Origin": "toscan3vill4s.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/travdest.weblog.com..txt",
+      "NameServer": "ns1.travdest.weblog.com.",
+      "Origin": "travdest.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/travelinjakartabandung.weblog.com..txt",
+      "NameServer": "ns1.travelinjakartabandung.weblog.com.",
+      "Origin": "travelinjakartabandung.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/treat2psoriasis.weblog.com..txt",
+      "NameServer": "ns1.treat2psoriasis.weblog.com.",
+      "Origin": "treat2psoriasis.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/unimagine.weblog.com..txt",
+      "NameServer": "ns1.unimagine.weblog.com.",
+      "Origin": "unimagine.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/unoss.weblog.com..txt",
+      "NameServer": "ns1.unoss.weblog.com.",
+      "Origin": "unoss.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/updatedinfo.weblog.com..txt",
+      "NameServer": "ns1.updatedinfo.weblog.com.",
+      "Origin": "updatedinfo.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/usepeoplefinder.weblog.com..txt",
+      "NameServer": "ns1.usepeoplefinder.weblog.com.",
+      "Origin": "usepeoplefinder.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/usia.weblog.com..txt",
+      "NameServer": "ns1.usia.weblog.com.",
+      "Origin": "usia.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/uygar.weblog.com..txt",
+      "NameServer": "ns1.uygar.weblog.com.",
+      "Origin": "uygar.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/vaclavaanton.weblog.com..txt",
+      "NameServer": "ns1.vaclavaanton.weblog.com.",
+      "Origin": "vaclavaanton.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/vanalpinerockgarden.weblog.com..txt",
+      "NameServer": "ns1.vanalpinerockgarden.weblog.com.",
+      "Origin": "vanalpinerockgarden.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/vanbug.weblog.com..txt",
+      "NameServer": "ns1.vanbug.weblog.com.",
+      "Origin": "vanbug.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/vera96.weblog.com..txt",
+      "NameServer": "ns1.vera96.weblog.com.",
+      "Origin": "vera96.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/verfenkwast.weblog.com..txt",
+      "NameServer": "ns1.verfenkwast.weblog.com.",
+      "Origin": "verfenkwast.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/vietlandexplore.weblog.com..txt",
+      "NameServer": "ns1.vietlandexplore.weblog.com.",
+      "Origin": "vietlandexplore.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/wafflefry.weblog.com..txt",
+      "NameServer": "ns1.wafflefry.weblog.com.",
+      "Origin": "wafflefry.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/watchmatch.weblog.com..txt",
+      "NameServer": "ns1.watchmatch.weblog.com.",
+      "Origin": "watchmatch.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/webdesigner4u.weblog.com..txt",
+      "NameServer": "ns1.webdesigner4u.weblog.com.",
+      "Origin": "webdesigner4u.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/weblog.com..txt",
+      "NameServer": "ns1.weblog.com.",
+      "Origin": "weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/webmoney.weblog.com..txt",
+      "NameServer": "ns1.webmoney.weblog.com.",
+      "Origin": "webmoney.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/webnetr.weblog.com..txt",
+      "NameServer": "ns1.webnetr.weblog.com.",
+      "Origin": "webnetr.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/websitedesignz.weblog.com..txt",
+      "NameServer": "ns1.websitedesignz.weblog.com.",
+      "Origin": "websitedesignz.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/weddinginfo333.weblog.com..txt",
+      "NameServer": "ns1.weddinginfo333.weblog.com.",
+      "Origin": "weddinginfo333.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/wellness.weblog.com..txt",
+      "NameServer": "ns1.wellness.weblog.com.",
+      "Origin": "wellness.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/whereissteph.weblog.com..txt",
+      "NameServer": "ns1.whereissteph.weblog.com.",
+      "Origin": "whereissteph.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/windowfilm.weblog.com..txt",
+      "NameServer": "ns1.windowfilm.weblog.com.",
+      "Origin": "windowfilm.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/winglet.weblog.com..txt",
+      "NameServer": "ns1.winglet.weblog.com.",
+      "Origin": "winglet.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/wiseacre.weblog.com..txt",
+      "NameServer": "ns1.wiseacre.weblog.com.",
+      "Origin": "wiseacre.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/wowstrategyguide.weblog.com..txt",
+      "NameServer": "ns1.wowstrategyguide.weblog.com.",
+      "Origin": "wowstrategyguide.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/wtosell.weblog.com..txt",
+      "NameServer": "ns1.wtosell.weblog.com.",
+      "Origin": "wtosell.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/wuyub.weblog.com..txt",
+      "NameServer": "ns1.wuyub.weblog.com.",
+      "Origin": "wuyub.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/xaverg.weblog.com..txt",
+      "NameServer": "ns1.xaverg.weblog.com.",
+      "Origin": "xaverg.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/xbox360.weblog.com..txt",
+      "NameServer": "ns1.xbox360.weblog.com.",
+      "Origin": "xbox360.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/y8games.weblog.com..txt",
+      "NameServer": "ns1.y8games.weblog.com.",
+      "Origin": "y8games.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/yimingshopping.weblog.com..txt",
+      "NameServer": "ns1.yimingshopping.weblog.com.",
+      "Origin": "yimingshopping.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/ying522xiong.weblog.com..txt",
+      "NameServer": "ns1.ying522xiong.weblog.com.",
+      "Origin": "ying522xiong.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/youtubear.weblog.com..txt",
+      "NameServer": "ns1.youtubear.weblog.com.",
+      "Origin": "youtubear.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/ypstars.weblog.com..txt",
+      "NameServer": "ns1.ypstars.weblog.com.",
+      "Origin": "ypstars.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/zeromkw.weblog.com..txt",
+      "NameServer": "ns1.zeromkw.weblog.com.",
+      "Origin": "zeromkw.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/zhaoyin1986.weblog.com..txt",
+      "NameServer": "ns1.zhaoyin1986.weblog.com.",
+      "Origin": "zhaoyin1986.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/zrh-move.weblog.com..txt",
+      "NameServer": "ns1.zrh-move.weblog.com.",
+      "Origin": "zrh-move.weblog.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/weblog.com/zrlxx.weblog.com..txt",
+      "NameServer": "ns1.zrlxx.weblog.com.",
+      "Origin": "zrlxx.weblog.com."
+    }
+  ]
+}

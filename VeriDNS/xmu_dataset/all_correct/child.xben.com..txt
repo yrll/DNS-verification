@@ -1,0 +1,12 @@
+child.xben.com.               			      43200 IN SOA	ns1.child.xben.com. 19122302 14400 3600 2419200 14400
+
+child.xben.com.                 NS      ns1.child.xben.com.
+ns1.child.xben.com.               A       10.166.21.13
+
+r.child.xben.com.		    IN	NS ns1.r.child.xben.com.
+r.child.xben.com.		    IN	NS ns2.r.child.xben.com.
+ns1.r.child.xben.com.	    IN	A	10.166.10.14
+ns2.r.child.xben.com.	    IN	A 	10.166.10.15
+
+
+

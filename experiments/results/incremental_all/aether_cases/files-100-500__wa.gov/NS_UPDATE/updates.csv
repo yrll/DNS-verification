@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wa.gov,agencymeddirectors.wa.gov..txt,NS_UPDATE,DEL,agencymeddirectors.wa.gov.,NS,lynx.state.or.us.
+files-100-500/wa.gov,agencymeddirectors.wa.gov..txt,NS_UPDATE,ADD,agencymeddirectors.wa.gov.,NS,ns-inc.agencymeddirectors.wa.gov.

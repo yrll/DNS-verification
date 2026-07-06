@@ -1,0 +1,7 @@
+{
+    "Property": "check_domain_overflow",
+    "domain_name": "wwwww.google.com",
+    "error_message": {
+        "info": "has more than 63 labels"
+    }
+}

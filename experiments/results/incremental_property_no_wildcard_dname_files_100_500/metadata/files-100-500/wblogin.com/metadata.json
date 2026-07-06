@@ -1,0 +1,547 @@
+{
+  "TopNameServers": [
+    "ns1.wblogin.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/42ndstreet.wblogin.com..txt",
+      "NameServer": "ns1.42ndstreet.wblogin.com.",
+      "Origin": "42ndstreet.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/abigailtaylor12.wblogin.com..txt",
+      "NameServer": "ns1.abigailtaylor12.wblogin.com.",
+      "Origin": "abigailtaylor12.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/acrossthehall.wblogin.com..txt",
+      "NameServer": "ns1.acrossthehall.wblogin.com.",
+      "Origin": "acrossthehall.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/akhdian.wblogin.com..txt",
+      "NameServer": "ns1.akhdian.wblogin.com.",
+      "Origin": "akhdian.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/aliveordead.wblogin.com..txt",
+      "NameServer": "ns1.aliveordead.wblogin.com.",
+      "Origin": "aliveordead.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/amandafromnaples.wblogin.com..txt",
+      "NameServer": "ns1.amandafromnaples.wblogin.com.",
+      "Origin": "amandafromnaples.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/amysweblog.wblogin.com..txt",
+      "NameServer": "ns1.amysweblog.wblogin.com.",
+      "Origin": "amysweblog.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/andrapersonalblog.wblogin.com..txt",
+      "NameServer": "ns1.andrapersonalblog.wblogin.com.",
+      "Origin": "andrapersonalblog.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/annebilliotblog.wblogin.com..txt",
+      "NameServer": "ns1.annebilliotblog.wblogin.com.",
+      "Origin": "annebilliotblog.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/annettsblog.wblogin.com..txt",
+      "NameServer": "ns1.annettsblog.wblogin.com.",
+      "Origin": "annettsblog.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/antiaging.wblogin.com..txt",
+      "NameServer": "ns1.antiaging.wblogin.com.",
+      "Origin": "antiaging.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/archiesfastdietdiary.wblogin.com..txt",
+      "NameServer": "ns1.archiesfastdietdiary.wblogin.com.",
+      "Origin": "archiesfastdietdiary.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/arctictale.wblogin.com..txt",
+      "NameServer": "ns1.arctictale.wblogin.com.",
+      "Origin": "arctictale.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/artchive.wblogin.com..txt",
+      "NameServer": "ns1.artchive.wblogin.com.",
+      "Origin": "artchive.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/asahi.wblogin.com..txt",
+      "NameServer": "ns1.asahi.wblogin.com.",
+      "Origin": "asahi.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/audioreceiver.wblogin.com..txt",
+      "NameServer": "ns1.audioreceiver.wblogin.com.",
+      "Origin": "audioreceiver.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/balasblog.wblogin.com..txt",
+      "NameServer": "ns1.balasblog.wblogin.com.",
+      "Origin": "balasblog.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/billbartmann.wblogin.com..txt",
+      "NameServer": "ns1.billbartmann.wblogin.com.",
+      "Origin": "billbartmann.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/blankcheck.wblogin.com..txt",
+      "NameServer": "ns1.blankcheck.wblogin.com.",
+      "Origin": "blankcheck.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/brendaeverett.wblogin.com..txt",
+      "NameServer": "ns1.brendaeverett.wblogin.com.",
+      "Origin": "brendaeverett.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/brokercurrencyforextrading.wblogin.com..txt",
+      "NameServer": "ns1.brokercurrencyforextrading.wblogin.com.",
+      "Origin": "brokercurrencyforextrading.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/budgetinglivingonabudgettoday.wblogin.com..txt",
+      "NameServer": "ns1.budgetinglivingonabudgettoday.wblogin.com.",
+      "Origin": "budgetinglivingonabudgettoday.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/canisurviveonforex.wblogin.com..txt",
+      "NameServer": "ns1.canisurviveonforex.wblogin.com.",
+      "Origin": "canisurviveonforex.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/casiobabygwatches.wblogin.com..txt",
+      "NameServer": "ns1.casiobabygwatches.wblogin.com.",
+      "Origin": "casiobabygwatches.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/cheaptetracycline.wblogin.com..txt",
+      "NameServer": "ns1.cheaptetracycline.wblogin.com.",
+      "Origin": "cheaptetracycline.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/cheatssecretsandtipsforpoptropica.wblogin.com..txt",
+      "NameServer": "ns1.cheatssecretsandtipsforpoptropica.wblogin.com.",
+      "Origin": "cheatssecretsandtipsforpoptropica.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/chicagotraveldeals.wblogin.com..txt",
+      "NameServer": "ns1.chicagotraveldeals.wblogin.com.",
+      "Origin": "chicagotraveldeals.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/choosingdiamond.wblogin.com..txt",
+      "NameServer": "ns1.choosingdiamond.wblogin.com.",
+      "Origin": "choosingdiamond.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/christianrehab.wblogin.com..txt",
+      "NameServer": "ns1.christianrehab.wblogin.com.",
+      "Origin": "christianrehab.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/coffee.wblogin.com..txt",
+      "NameServer": "ns1.coffee.wblogin.com.",
+      "Origin": "coffee.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/computergame.wblogin.com..txt",
+      "NameServer": "ns1.computergame.wblogin.com.",
+      "Origin": "computergame.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/corinne513.wblogin.com..txt",
+      "NameServer": "ns1.corinne513.wblogin.com.",
+      "Origin": "corinne513.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/craick.wblogin.com..txt",
+      "NameServer": "ns1.craick.wblogin.com.",
+      "Origin": "craick.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/creditcards.wblogin.com..txt",
+      "NameServer": "ns1.creditcards.wblogin.com.",
+      "Origin": "creditcards.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/cryforhelp.wblogin.com..txt",
+      "NameServer": "ns1.cryforhelp.wblogin.com.",
+      "Origin": "cryforhelp.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/davidstateworths.wblogin.com..txt",
+      "NameServer": "ns1.davidstateworths.wblogin.com.",
+      "Origin": "davidstateworths.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/descentthe.wblogin.com..txt",
+      "NameServer": "ns1.descentthe.wblogin.com.",
+      "Origin": "descentthe.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/diabetes.wblogin.com..txt",
+      "NameServer": "ns1.diabetes.wblogin.com.",
+      "Origin": "diabetes.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/directoryarticle2010.wblogin.com..txt",
+      "NameServer": "ns1.directoryarticle2010.wblogin.com.",
+      "Origin": "directoryarticle2010.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/discountuggbootssale.wblogin.com..txt",
+      "NameServer": "ns1.discountuggbootssale.wblogin.com.",
+      "Origin": "discountuggbootssale.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/doughboys.wblogin.com..txt",
+      "NameServer": "ns1.doughboys.wblogin.com.",
+      "Origin": "doughboys.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/duluthmnapartments.wblogin.com..txt",
+      "NameServer": "ns1.duluthmnapartments.wblogin.com.",
+      "Origin": "duluthmnapartments.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/easypoptropicacheats.wblogin.com..txt",
+      "NameServer": "ns1.easypoptropicacheats.wblogin.com.",
+      "Origin": "easypoptropicacheats.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/emotionalabuserecovery.wblogin.com..txt",
+      "NameServer": "ns1.emotionalabuserecovery.wblogin.com.",
+      "Origin": "emotionalabuserecovery.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/entrepreneurinthemaking.wblogin.com..txt",
+      "NameServer": "ns1.entrepreneurinthemaking.wblogin.com.",
+      "Origin": "entrepreneurinthemaking.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/fanniebrooks147.wblogin.com..txt",
+      "NameServer": "ns1.fanniebrooks147.wblogin.com.",
+      "Origin": "fanniebrooks147.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/fantasia2000.wblogin.com..txt",
+      "NameServer": "ns1.fantasia2000.wblogin.com.",
+      "Origin": "fantasia2000.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/flightofthenavigator.wblogin.com..txt",
+      "NameServer": "ns1.flightofthenavigator.wblogin.com.",
+      "Origin": "flightofthenavigator.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/foxallben.wblogin.com..txt",
+      "NameServer": "ns1.foxallben.wblogin.com.",
+      "Origin": "foxallben.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/freddieshortquotations.wblogin.com..txt",
+      "NameServer": "ns1.freddieshortquotations.wblogin.com.",
+      "Origin": "freddieshortquotations.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/funnyqoutessayings.wblogin.com..txt",
+      "NameServer": "ns1.funnyqoutessayings.wblogin.com.",
+      "Origin": "funnyqoutessayings.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/gerhardsblog.wblogin.com..txt",
+      "NameServer": "ns1.gerhardsblog.wblogin.com.",
+      "Origin": "gerhardsblog.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/grieveredxiii.wblogin.com..txt",
+      "NameServer": "ns1.grieveredxiii.wblogin.com.",
+      "Origin": "grieveredxiii.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/hannah.wblogin.com..txt",
+      "NameServer": "ns1.hannah.wblogin.com.",
+      "Origin": "hannah.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/harrypotterandthechamberofsecrets.wblogin.com..txt",
+      "NameServer": "ns1.harrypotterandthechamberofsecrets.wblogin.com.",
+      "Origin": "harrypotterandthechamberofsecrets.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/healthinsuranceindustrynewsarticles.wblogin.com..txt",
+      "NameServer": "ns1.healthinsuranceindustrynewsarticles.wblogin.com.",
+      "Origin": "healthinsuranceindustrynewsarticles.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/homealone2lostinnewyork.wblogin.com..txt",
+      "NameServer": "ns1.homealone2lostinnewyork.wblogin.com.",
+      "Origin": "homealone2lostinnewyork.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/homeforeclosurelistings.wblogin.com..txt",
+      "NameServer": "ns1.homeforeclosurelistings.wblogin.com.",
+      "Origin": "homeforeclosurelistings.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/ilikemlmleads.wblogin.com..txt",
+      "NameServer": "ns1.ilikemlmleads.wblogin.com.",
+      "Origin": "ilikemlmleads.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/indovideobokep.wblogin.com..txt",
+      "NameServer": "ns1.indovideobokep.wblogin.com.",
+      "Origin": "indovideobokep.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/investingfinance.wblogin.com..txt",
+      "NameServer": "ns1.investingfinance.wblogin.com.",
+      "Origin": "investingfinance.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/jeeperscreepersii.wblogin.com..txt",
+      "NameServer": "ns1.jeeperscreepersii.wblogin.com.",
+      "Origin": "jeeperscreepersii.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/joanncoupons.wblogin.com..txt",
+      "NameServer": "ns1.joanncoupons.wblogin.com.",
+      "Origin": "joanncoupons.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/karlsblog.wblogin.com..txt",
+      "NameServer": "ns1.karlsblog.wblogin.com.",
+      "Origin": "karlsblog.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/kathydavis0214.wblogin.com..txt",
+      "NameServer": "ns1.kathydavis0214.wblogin.com.",
+      "Origin": "kathydavis0214.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/keepingupwiththesteins.wblogin.com..txt",
+      "NameServer": "ns1.keepingupwiththesteins.wblogin.com.",
+      "Origin": "keepingupwiththesteins.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/krystensblog.wblogin.com..txt",
+      "NameServer": "ns1.krystensblog.wblogin.com.",
+      "Origin": "krystensblog.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/lastemperorthe.wblogin.com..txt",
+      "NameServer": "ns1.lastemperorthe.wblogin.com.",
+      "Origin": "lastemperorthe.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/leatherbag.wblogin.com..txt",
+      "NameServer": "ns1.leatherbag.wblogin.com.",
+      "Origin": "leatherbag.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/legendsofthefall.wblogin.com..txt",
+      "NameServer": "ns1.legendsofthefall.wblogin.com.",
+      "Origin": "legendsofthefall.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/listofvitamins.wblogin.com..txt",
+      "NameServer": "ns1.listofvitamins.wblogin.com.",
+      "Origin": "listofvitamins.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/lowfatcalories.wblogin.com..txt",
+      "NameServer": "ns1.lowfatcalories.wblogin.com.",
+      "Origin": "lowfatcalories.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/mabelsnetworkmarketingtips.wblogin.com..txt",
+      "NameServer": "ns1.mabelsnetworkmarketingtips.wblogin.com.",
+      "Origin": "mabelsnetworkmarketingtips.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/malabaroiu.wblogin.com..txt",
+      "NameServer": "ns1.malabaroiu.wblogin.com.",
+      "Origin": "malabaroiu.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/maleenhancementreviews.wblogin.com..txt",
+      "NameServer": "ns1.maleenhancementreviews.wblogin.com.",
+      "Origin": "maleenhancementreviews.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/manchesterunitedfootballtickets.wblogin.com..txt",
+      "NameServer": "ns1.manchesterunitedfootballtickets.wblogin.com.",
+      "Origin": "manchesterunitedfootballtickets.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/marketingagency.wblogin.com..txt",
+      "NameServer": "ns1.marketingagency.wblogin.com.",
+      "Origin": "marketingagency.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/miracle.wblogin.com..txt",
+      "NameServer": "ns1.miracle.wblogin.com.",
+      "Origin": "miracle.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/myblogplace.wblogin.com..txt",
+      "NameServer": "ns1.myblogplace.wblogin.com.",
+      "Origin": "myblogplace.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/nfljerseys.wblogin.com..txt",
+      "NameServer": "ns1.nfljerseys.wblogin.com.",
+      "Origin": "nfljerseys.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/nikeshoes.wblogin.com..txt",
+      "NameServer": "ns1.nikeshoes.wblogin.com.",
+      "Origin": "nikeshoes.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/nokian972.wblogin.com..txt",
+      "NameServer": "ns1.nokian972.wblogin.com.",
+      "Origin": "nokian972.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/onlineadvertisinginformation.wblogin.com..txt",
+      "NameServer": "ns1.onlineadvertisinginformation.wblogin.com.",
+      "Origin": "onlineadvertisinginformation.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/payrollcompany.wblogin.com..txt",
+      "NameServer": "ns1.payrollcompany.wblogin.com.",
+      "Origin": "payrollcompany.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/piratecamp.wblogin.com..txt",
+      "NameServer": "ns1.piratecamp.wblogin.com.",
+      "Origin": "piratecamp.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/preventingforeclosure.wblogin.com..txt",
+      "NameServer": "ns1.preventingforeclosure.wblogin.com.",
+      "Origin": "preventingforeclosure.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/quarkexpressdownload.wblogin.com..txt",
+      "NameServer": "ns1.quarkexpressdownload.wblogin.com.",
+      "Origin": "quarkexpressdownload.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/regina462.wblogin.com..txt",
+      "NameServer": "ns1.regina462.wblogin.com.",
+      "Origin": "regina462.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/rolexwatches.wblogin.com..txt",
+      "NameServer": "ns1.rolexwatches.wblogin.com.",
+      "Origin": "rolexwatches.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/royaltyfreemusic.wblogin.com..txt",
+      "NameServer": "ns1.royaltyfreemusic.wblogin.com.",
+      "Origin": "royaltyfreemusic.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/scoobydoomeetsbatman.wblogin.com..txt",
+      "NameServer": "ns1.scoobydoomeetsbatman.wblogin.com.",
+      "Origin": "scoobydoomeetsbatman.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/seoreport.wblogin.com..txt",
+      "NameServer": "ns1.seoreport.wblogin.com.",
+      "Origin": "seoreport.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/seotricksandtactics.wblogin.com..txt",
+      "NameServer": "ns1.seotricksandtactics.wblogin.com.",
+      "Origin": "seotricksandtactics.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/showercap.wblogin.com..txt",
+      "NameServer": "ns1.showercap.wblogin.com.",
+      "Origin": "showercap.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/shylasblog.wblogin.com..txt",
+      "NameServer": "ns1.shylasblog.wblogin.com.",
+      "Origin": "shylasblog.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/simplemath.wblogin.com..txt",
+      "NameServer": "ns1.simplemath.wblogin.com.",
+      "Origin": "simplemath.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/solarpanelsforsale.wblogin.com..txt",
+      "NameServer": "ns1.solarpanelsforsale.wblogin.com.",
+      "Origin": "solarpanelsforsale.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/sportsproductsreviews.wblogin.com..txt",
+      "NameServer": "ns1.sportsproductsreviews.wblogin.com.",
+      "Origin": "sportsproductsreviews.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/stormbreaker.wblogin.com..txt",
+      "NameServer": "ns1.stormbreaker.wblogin.com.",
+      "Origin": "stormbreaker.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/surfsup.wblogin.com..txt",
+      "NameServer": "ns1.surfsup.wblogin.com.",
+      "Origin": "surfsup.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/susanwen.wblogin.com..txt",
+      "NameServer": "ns1.susanwen.wblogin.com.",
+      "Origin": "susanwen.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/swisswatches.wblogin.com..txt",
+      "NameServer": "ns1.swisswatches.wblogin.com.",
+      "Origin": "swisswatches.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/thestraightskinny.wblogin.com..txt",
+      "NameServer": "ns1.thestraightskinny.wblogin.com.",
+      "Origin": "thestraightskinny.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/wblogin.com..txt",
+      "NameServer": "ns1.wblogin.com.",
+      "Origin": "wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/websitewebdesign.wblogin.com..txt",
+      "NameServer": "ns1.websitewebdesign.wblogin.com.",
+      "Origin": "websitewebdesign.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/workathomeleads.wblogin.com..txt",
+      "NameServer": "ns1.workathomeleads.wblogin.com.",
+      "Origin": "workathomeleads.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/workingfromhomemakingmoneyonline.wblogin.com..txt",
+      "NameServer": "ns1.workingfromhomemakingmoneyonline.wblogin.com.",
+      "Origin": "workingfromhomemakingmoneyonline.wblogin.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wblogin.com/ystems.wblogin.com..txt",
+      "NameServer": "ns1.ystems.wblogin.com.",
+      "Origin": "ystems.wblogin.com."
+    }
+  ]
+}

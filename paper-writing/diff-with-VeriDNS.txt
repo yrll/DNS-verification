@@ -1,0 +1,24 @@
+* VeriDNS 的 key design: Resolution State Grpah (RSG) *
+
+1. VeriDNS 不提供 symbolic 的能力
+    > 只能检查配置里出现过的域名 (不能对 *.*.*.* 这种检查)
+    > 每次图遍历只能检查一个具体query (比如 a.b.com) 的具体属性(比如 Rewrite Loop)
+2. RSG 建模
+    > 一条记录 对应 一条边 (不像LEC那样会 aggregate 记录)
+    > 不能跨 zone (我理解 Aether 的 QRG 是可以的)
+
+
+* VeriDNS 的 不足 (相比 Aether/Groot)*
+
+1. 语义不完备：VeriDNS 的静态图模型 RSG 只能做精确匹配，不支持通配符匹配以及DNAME重写等：
+
+比如当前查询被 CNAME 重写成了 a.b.c ，而相应的 zone file 里只有一条 *.b.c 的通配符记录，
+那么VeriDNS的遍历就会因为找不到 a.b.c 节点而终止（但按照Aether和Groot的语法会匹配且继续查询），
+因为 VeriDNS 的精确匹配只支持严格的字符串匹配。DNAME 重写也是一样，
+除非查询的域名和重写记录的域名严格一致才能继续遍历 RSG 验证。
+
+2. 未覆盖所有配置/域名空间：VeriDNS只能查询配置里出现过的域名，
+但由于通配符和DNAME重写的存在，有些可查询域名不一定显示出现在配置里：
+
+比如存在记录 "b.c DNAME bb.c"，那么需要查询 "x.b.c"才能匹配到这条记录。
+而VeriDNS只会查询"b.c"这个域名而漏掉查出与此纪录相关的错误（而Groot和Aether都会以类似"α.b.c"的查询覆盖到）

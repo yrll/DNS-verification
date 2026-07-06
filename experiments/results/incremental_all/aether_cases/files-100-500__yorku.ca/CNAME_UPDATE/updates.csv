@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yorku.ca,abel.yorku.ca..txt,CNAME_UPDATE,DEL,blogs.abel.yorku.ca.,CNAME,abelprod.abel.yorku.ca.
+files-100-500/yorku.ca,abel.yorku.ca..txt,CNAME_UPDATE,ADD,blogs.abel.yorku.ca.,CNAME,cname-inc.abel.yorku.ca.

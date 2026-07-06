@@ -1,0 +1,2 @@
+zone,num_lec,io_time (ms),construction_time (ms),symbolic_time (ms),property_checking_time (ms),re_construction_time (ms),re_symbolic_time (ms),re_property_checking_time (ms),properties,initial_property_pass,initial_errors,incremental_property_pass,incremental_errors
+files-100-500/webwealth.us,606,3.195,31.529,0.304,0.003,0.006,0.149,0.005,delegation consistency|lame delegation|zone loop|rewrites|too long|rewrite blackholing|hops,true,,true,

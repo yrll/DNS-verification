@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/gov.cn,0375.gov.cn..txt,NS_UPDATE,DEL,0375.gov.cn.,NS,f1g1ns1.dnspod.net.
+top-10/gov.cn,0375.gov.cn..txt,NS_UPDATE,ADD,0375.gov.cn.,NS,ns-inc.0375.gov.cn.

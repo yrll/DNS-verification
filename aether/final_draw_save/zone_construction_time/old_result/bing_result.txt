@@ -1,0 +1,228 @@
+Matsu Construction Times Quantiles (90%, 95%, 99%, 99.9%):
+90%: 0.038
+95%: 0.046
+99%: 0.077
+99.9%: 0.774532000000123
+
+Groot Graph Building Times Quantiles (90%, 95%, 99%, 99.9%):
+90%: 24.617036399999996
+95%: 32.31879239999997
+99%: 62.99476660000026
+99.9%: 211.61665048001862
+
+Top 10 Construction Times (ms) with corresponding zones:
+                 Domain  construction time (ms)
+540128            co.kr              574489.802
+1083841      vologda.ru              191995.294
+141693           com.cn              106811.198
+258628           com.ua               76703.366
+148227           com.mx               64120.057
+364378           com.tw               45615.339
+404908            co.cc               41160.444
+1334654    kamchatka.ru               22802.939
+256389       dyndns.org               12781.906
+1206552  cloudflare.net               10609.402
+
+Top 10 Graph Building Times (s) with corresponding domains:
+                 Domain  Graph building (s)
+540128            co.kr        35275.817711
+141693           com.cn        19459.587831
+364378           com.tw        17107.287882
+148227           com.mx        15369.589083
+258628           com.ua        13234.845551
+1206552  cloudflare.net         7179.936073
+480922           net.au         6321.955401
+1292770          gov.cn         5164.826710
+1222810          org.br         4995.047475
+668459            co.in         4971.720928
+
+
+
+
+
+ratio:
+
+Number of ratios less than 1: 30
+
+90th Percentile : 1676.480619047619
+95th Percentile : 2284.962259999998
+99th Percentile : 4799.083916000022
+99.9th Percentile : 14087.335176001912
+
+File 141694:
+Zone: com.cn
+Construction Time: 106811.198 ms
+Graph Building Time: 19459.587831 ms
+
+File 148228:
+Zone: com.mx
+Construction Time: 64120.057 ms
+Graph Building Time: 15369.589082999999 ms
+
+
+File 169961:
+Zone: google.com
+Construction Time: 778.82 ms
+Graph Building Time: 303.658725 ms
+
+
+File 256390:
+Zone: dyndns.org
+Construction Time: 12781.906 ms
+Graph Building Time: 671.6519480000001 ms
+
+
+File 257797:
+Zone: over-blog.com
+Construction Time: 383.175 ms
+Graph Building Time: 198.050778 ms
+
+
+File 258629:
+Zone: com.ua
+Construction Time: 76703.366 ms
+Graph Building Time: 13234.845550999999 ms
+
+
+File 293821:
+Zone: mynet.cn
+Construction Time: 134.514 ms
+Graph Building Time: 83.652158 ms
+
+
+File 299410:
+Zone: memberz.net
+Construction Time: 10.859 ms
+Graph Building Time: 7.374858 ms
+
+
+File 364379:
+Zone: com.tw
+Construction Time: 45615.339 ms
+Graph Building Time: 17107.287882 ms
+
+
+File 404909:
+Zone: co.cc
+Construction Time: 41160.444 ms
+Graph Building Time: 4596.4421919999995 ms
+
+
+File 463258:
+Zone: homeip.net
+Construction Time: 119.16 ms
+Graph Building Time: 114.328138 ms
+
+
+File 480923:
+Zone: net.au
+Construction Time: 6707.939 ms
+Graph Building Time: 6321.955401 ms
+
+
+File 540129:
+Zone: co.kr
+Construction Time: 574489.802 ms
+Graph Building Time: 35275.817711 ms
+
+
+File 637803:
+Zone: ti-da.net
+Construction Time: 441.075 ms
+Graph Building Time: 276.638237 ms
+
+
+File 668460:
+Zone: co.in
+Construction Time: 8623.579 ms
+Graph Building Time: 4971.720928 ms
+
+
+File 696740:
+Zone: com.sg
+Construction Time: 4875.224 ms
+Graph Building Time: 4872.297166 ms
+
+
+File 797454:
+Zone: wrytestuff.com
+Construction Time: 256.611 ms
+Graph Building Time: 144.914751 ms
+
+
+File 832230:
+Zone: com.my
+Construction Time: 5988.79 ms
+Graph Building Time: 4569.226964 ms
+
+
+File 844068:
+Zone: outlook.com
+Construction Time: 731.431 ms
+Graph Building Time: 458.68347 ms
+
+
+File 985295:
+Zone: ovh.net
+Construction Time: 532.977 ms
+Graph Building Time: 146.48437 ms
+
+
+File 1012137:
+Zone: free.fr
+Construction Time: 5726.153 ms
+Graph Building Time: 536.604075 ms
+
+
+File 1049759:
+Zone: narod.ru
+Construction Time: 3670.297 ms
+Graph Building Time: 450.651054 ms
+
+
+File 1083842:
+Zone: vologda.ru
+Construction Time: 191995.294 ms
+Graph Building Time: 1574.143604 ms
+
+
+File 1087606:
+Zone: superpokepets.com
+Construction Time: 308.159 ms
+Graph Building Time: 193.723576 ms
+
+
+File 1132458:
+Zone: live.com
+Construction Time: 2019.839 ms
+Graph Building Time: 584.832917 ms
+
+
+File 1144580:
+Zone: sourceforge.net
+Construction Time: 487.828 ms
+Graph Building Time: 254.838344 ms
+
+
+File 1206553:
+Zone: cloudflare.net
+Construction Time: 10609.402 ms
+Graph Building Time: 7179.936073000001 ms
+
+
+File 1252072:
+Zone: hotmail.com
+Construction Time: 5518.848 ms
+Graph Building Time: 495.016144 ms
+
+
+File 1291559:
+Zone: podomatic.com
+Construction Time: 207.635 ms
+Graph Building Time: 143.45746200000002 ms
+
+
+File 1334655:
+Zone: kamchatka.ru
+Construction Time: 22802.939 ms
+Graph Building Time: 787.028842 ms

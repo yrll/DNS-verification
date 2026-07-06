@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/wisc.edu,aae.wisc.edu..txt,CNAME_UPDATE,DEL,future.aae.wisc.edu.,CNAME,kiva.aae.wisc.edu.
+files-500-1000/wisc.edu,aae.wisc.edu..txt,CNAME_UPDATE,ADD,future.aae.wisc.edu.,CNAME,cname-inc.aae.wisc.edu.

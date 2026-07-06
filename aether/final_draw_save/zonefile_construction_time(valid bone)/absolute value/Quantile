@@ -1,0 +1,37 @@
+Matsu Construction Times Quantiles (90%, 95%, 99%, 99.9%):
+90%: 0.009
+95%: 0.011
+99%: 0.021
+99.9%: 0.113
+
+Groot Construction Times Quantiles (90%, 95%, 99%, 99.9%):
+90%: 39.5353492
+95%: 49.46453519999999
+99%: 120.3620982
+99.9%: 427.0271298920173
+
+Top 10 Matsu with corresponding zones:
+                zonefile             ct time (ms)
+1587265           co.kr.              288488.287
+3066469      vologda.ru.              134084.727
+757793           com.ua.               76688.737
+375472           com.cn.               74776.091
+434047           com.mx.               66688.486
+1061360          com.tw.               36105.339
+1205266           co.cc.               33203.038
+3776486    kamchatka.ru.               17465.240
+752114       dyndns.org.               10287.554
+3392547  cloudflare.net.                9912.839
+
+Top 10 Graph Building Times (s) with corresponding domains:
+                        zonefile                cttime ms
+2775209  www.nationalcenterformen.org.        64135.371467
+1033357            imagefiles2011.com.        26894.518029
+2687166               davidfabian.net.        26885.432695
+3631836                fisher.kiev.ua.        19385.742497
+2465148                  ufotoday.net.        17454.175763
+3381817          insighteyecareme.com.        15266.070938
+648685                    agulhas.com.        12833.929150
+871983                justwowpics.net.        10367.975002
+808347                   www.ejul.com.         8177.824275
+3407685           www.kamenshchik.com.         5537.560570

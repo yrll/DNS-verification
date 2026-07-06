@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wblogin.com,42ndstreet.wblogin.com..txt,A_UPDATE,DEL,42ndstreet.wblogin.com.,A,8.5.1.37
+files-100-500/wblogin.com,42ndstreet.wblogin.com..txt,A_UPDATE,ADD,42ndstreet.wblogin.com.,A,192.0.2.253

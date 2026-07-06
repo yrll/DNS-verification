@@ -1,0 +1,692 @@
+{
+  "TopNameServers": [
+    "ns1.voxcdn.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/1714.voxcdn.com..txt",
+      "NameServer": "ns1.1714.voxcdn.com.",
+      "Origin": "1714.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/1783-cdn-dailykostv-com.voxcdn.com..txt",
+      "NameServer": "ns1.1783-cdn-dailykostv-com.voxcdn.com.",
+      "Origin": "1783-cdn-dailykostv-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/1783-images-dailykos-com.voxcdn.com..txt",
+      "NameServer": "ns1.1783-images-dailykos-com.voxcdn.com.",
+      "Origin": "1783-images-dailykos-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/1794-medicalxpress.voxcdn.com..txt",
+      "NameServer": "ns1.1794-medicalxpress.voxcdn.com.",
+      "Origin": "1794-medicalxpress.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/1794.voxcdn.com..txt",
+      "NameServer": "ns1.1794.voxcdn.com.",
+      "Origin": "1794.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/1876.voxcdn.com..txt",
+      "NameServer": "ns1.1876.voxcdn.com.",
+      "Origin": "1876.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2098.voxcdn.com..txt",
+      "NameServer": "ns1.2098.voxcdn.com.",
+      "Origin": "2098.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2297.voxcdn.com..txt",
+      "NameServer": "ns1.2297.voxcdn.com.",
+      "Origin": "2297.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2378-img.voxcdn.com..txt",
+      "NameServer": "ns1.2378-img.voxcdn.com.",
+      "Origin": "2378-img.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2378.voxcdn.com..txt",
+      "NameServer": "ns1.2378.voxcdn.com.",
+      "Origin": "2378.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2419-flonga.voxcdn.com..txt",
+      "NameServer": "ns1.2419-flonga.voxcdn.com.",
+      "Origin": "2419-flonga.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2419-voxcast-didigames-com.voxcdn.com..txt",
+      "NameServer": "ns1.2419-voxcast-didigames-com.voxcdn.com.",
+      "Origin": "2419-voxcast-didigames-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2419-voxcast-oyunlar1-com.voxcdn.com..txt",
+      "NameServer": "ns1.2419-voxcast-oyunlar1-com.voxcdn.com.",
+      "Origin": "2419-voxcast-oyunlar1-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2429-350-cdn-advomatic-com.voxcdn.com..txt",
+      "NameServer": "ns1.2429-350-cdn-advomatic-com.voxcdn.com.",
+      "Origin": "2429-350-cdn-advomatic-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2429-cdn-tcktcktck-org.voxcdn.com..txt",
+      "NameServer": "ns1.2429-cdn-tcktcktck-org.voxcdn.com.",
+      "Origin": "2429-cdn-tcktcktck-org.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2429.voxcdn.com..txt",
+      "NameServer": "ns1.2429.voxcdn.com.",
+      "Origin": "2429.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2439-occupywallst-com.voxcdn.com..txt",
+      "NameServer": "ns1.2439-occupywallst-com.voxcdn.com.",
+      "Origin": "2439-occupywallst-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2890-buchadian.voxcdn.com..txt",
+      "NameServer": "ns1.2890-buchadian.voxcdn.com.",
+      "Origin": "2890-buchadian.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2930-pbfcomics.voxcdn.com..txt",
+      "NameServer": "ns1.2930-pbfcomics.voxcdn.com.",
+      "Origin": "2930-pbfcomics.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2930-xkcdimgs.voxcdn.com..txt",
+      "NameServer": "ns1.2930-xkcdimgs.voxcdn.com.",
+      "Origin": "2930-xkcdimgs.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2930.voxcdn.com..txt",
+      "NameServer": "ns1.2930.voxcdn.com.",
+      "Origin": "2930.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/2946-assets-twistage-com.voxcdn.com..txt",
+      "NameServer": "ns1.2946-assets-twistage-com.voxcdn.com.",
+      "Origin": "2946-assets-twistage-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3003-i-cocoperez-com.voxcdn.com..txt",
+      "NameServer": "ns1.3003-i-cocoperez-com.voxcdn.com.",
+      "Origin": "3003-i-cocoperez-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3003-i-fitperez-com.voxcdn.com..txt",
+      "NameServer": "ns1.3003-i-fitperez-com.voxcdn.com.",
+      "Origin": "3003-i-fitperez-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3003-i-perezhilton-com.voxcdn.com..txt",
+      "NameServer": "ns1.3003-i-perezhilton-com.voxcdn.com.",
+      "Origin": "3003-i-perezhilton-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3003-i-teddyhilton-com.voxcdn.com..txt",
+      "NameServer": "ns1.3003-i-teddyhilton-com.voxcdn.com.",
+      "Origin": "3003-i-teddyhilton-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3003-i-unratedperez-com.voxcdn.com..txt",
+      "NameServer": "ns1.3003-i-unratedperez-com.voxcdn.com.",
+      "Origin": "3003-i-unratedperez-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3003-img-perezhilton-com.voxcdn.com..txt",
+      "NameServer": "ns1.3003-img-perezhilton-com.voxcdn.com.",
+      "Origin": "3003-img-perezhilton-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3003-phvids-a-voxcdn-com.voxcdn.com..txt",
+      "NameServer": "ns1.3003-phvids-a-voxcdn-com.voxcdn.com.",
+      "Origin": "3003-phvids-a-voxcdn-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3008.voxcdn.com..txt",
+      "NameServer": "ns1.3008.voxcdn.com.",
+      "Origin": "3008.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3053.voxcdn.com..txt",
+      "NameServer": "ns1.3053.voxcdn.com.",
+      "Origin": "3053.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3057-www-scicomply-com.voxcdn.com..txt",
+      "NameServer": "ns1.3057-www-scicomply-com.voxcdn.com.",
+      "Origin": "3057-www-scicomply-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3074.voxcdn.com..txt",
+      "NameServer": "ns1.3074.voxcdn.com.",
+      "Origin": "3074.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3084.voxcdn.com..txt",
+      "NameServer": "ns1.3084.voxcdn.com.",
+      "Origin": "3084.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3091.voxcdn.com..txt",
+      "NameServer": "ns1.3091.voxcdn.com.",
+      "Origin": "3091.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3150-img-trekmovie-com.voxcdn.com..txt",
+      "NameServer": "ns1.3150-img-trekmovie-com.voxcdn.com.",
+      "Origin": "3150-img-trekmovie-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3151-dsstyles.voxcdn.com..txt",
+      "NameServer": "ns1.3151-dsstyles.voxcdn.com.",
+      "Origin": "3151-dsstyles.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3164-betabeat.voxcdn.com..txt",
+      "NameServer": "ns1.3164-betabeat.voxcdn.com.",
+      "Origin": "3164-betabeat.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3164-observer-cast-advomatic-com.voxcdn.com..txt",
+      "NameServer": "ns1.3164-observer-cast-advomatic-com.voxcdn.com.",
+      "Origin": "3164-observer-cast-advomatic-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3164-politicker-com.voxcdn.com..txt",
+      "NameServer": "ns1.3164-politicker-com.voxcdn.com.",
+      "Origin": "3164-politicker-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3164-politickernj-com.voxcdn.com..txt",
+      "NameServer": "ns1.3164-politickernj-com.voxcdn.com.",
+      "Origin": "3164-politickernj-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3164-politickerny-com.voxcdn.com..txt",
+      "NameServer": "ns1.3164-politickerny-com.voxcdn.com.",
+      "Origin": "3164-politickerny-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3278.voxcdn.com..txt",
+      "NameServer": "ns1.3278.voxcdn.com.",
+      "Origin": "3278.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3289.voxcdn.com..txt",
+      "NameServer": "ns1.3289.voxcdn.com.",
+      "Origin": "3289.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3347-mozilla.voxcdn.com..txt",
+      "NameServer": "ns1.3347-mozilla.voxcdn.com.",
+      "Origin": "3347-mozilla.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3347.voxcdn.com..txt",
+      "NameServer": "ns1.3347.voxcdn.com.",
+      "Origin": "3347.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3393.voxcdn.com..txt",
+      "NameServer": "ns1.3393.voxcdn.com.",
+      "Origin": "3393.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3398.voxcdn.com..txt",
+      "NameServer": "ns1.3398.voxcdn.com.",
+      "Origin": "3398.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3432-stoollala.voxcdn.com..txt",
+      "NameServer": "ns1.3432-stoollala.voxcdn.com.",
+      "Origin": "3432-stoollala.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3432.voxcdn.com..txt",
+      "NameServer": "ns1.3432.voxcdn.com.",
+      "Origin": "3432.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3447.voxcdn.com..txt",
+      "NameServer": "ns1.3447.voxcdn.com.",
+      "Origin": "3447.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-belo.voxcdn.com..txt",
+      "NameServer": "ns1.3451-belo.voxcdn.com.",
+      "Origin": "3451-belo.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-fin-ftp.voxcdn.com..txt",
+      "NameServer": "ns1.3451-fin-ftp.voxcdn.com.",
+      "Origin": "3451-fin-ftp.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-images-bimedia-net.voxcdn.com..txt",
+      "NameServer": "ns1.3451-images-bimedia-net.voxcdn.com.",
+      "Origin": "3451-images-bimedia-net.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-kcrg-ftp.voxcdn.com..txt",
+      "NameServer": "ns1.3451-kcrg-ftp.voxcdn.com.",
+      "Origin": "3451-kcrg-ftp.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-azfamily-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-azfamily-com.voxcdn.com.",
+      "Origin": "3451-media-azfamily-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-cbs3springfield-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-cbs3springfield-com.voxcdn.com.",
+      "Origin": "3451-media-cbs3springfield-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-kcrg-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-kcrg-com.voxcdn.com.",
+      "Origin": "3451-media-kcrg-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-kgw-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-kgw-com.voxcdn.com.",
+      "Origin": "3451-media-kgw-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-khou-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-khou-com.voxcdn.com.",
+      "Origin": "3451-media-khou-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-king5-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-king5-com.voxcdn.com.",
+      "Origin": "3451-media-king5-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-ktvb-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-ktvb-com.voxcdn.com.",
+      "Origin": "3451-media-ktvb-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-wcnc-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-wcnc-com.voxcdn.com.",
+      "Origin": "3451-media-wcnc-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-wfaa-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-wfaa-com.voxcdn.com.",
+      "Origin": "3451-media-wfaa-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-whas11-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-whas11-com.voxcdn.com.",
+      "Origin": "3451-media-whas11-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-wvec-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-wvec-com.voxcdn.com.",
+      "Origin": "3451-media-wvec-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-wwltv-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-wwltv-com.voxcdn.com.",
+      "Origin": "3451-media-wwltv-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-media-younewstv-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-media-younewstv-com.voxcdn.com.",
+      "Origin": "3451-media-younewstv-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-www-broadcast-interactive-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-www-broadcast-interactive-com.voxcdn.com.",
+      "Origin": "3451-www-broadcast-interactive-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-www-ugclocal-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-www-ugclocal-com.voxcdn.com.",
+      "Origin": "3451-www-ugclocal-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451-www-younewstv-com.voxcdn.com..txt",
+      "NameServer": "ns1.3451-www-younewstv-com.voxcdn.com.",
+      "Origin": "3451-www-younewstv-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3451.voxcdn.com..txt",
+      "NameServer": "ns1.3451.voxcdn.com.",
+      "Origin": "3451.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3466.voxcdn.com..txt",
+      "NameServer": "ns1.3466.voxcdn.com.",
+      "Origin": "3466.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3472.voxcdn.com..txt",
+      "NameServer": "ns1.3472.voxcdn.com.",
+      "Origin": "3472.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3478.voxcdn.com..txt",
+      "NameServer": "ns1.3478.voxcdn.com.",
+      "Origin": "3478.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3487.voxcdn.com..txt",
+      "NameServer": "ns1.3487.voxcdn.com.",
+      "Origin": "3487.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3498.voxcdn.com..txt",
+      "NameServer": "ns1.3498.voxcdn.com.",
+      "Origin": "3498.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3507-30secondmba.voxcdn.com..txt",
+      "NameServer": "ns1.3507-30secondmba.voxcdn.com.",
+      "Origin": "3507-30secondmba.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3507-alt.voxcdn.com..txt",
+      "NameServer": "ns1.3507-alt.voxcdn.com.",
+      "Origin": "3507-alt.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3507-fastcodesign.voxcdn.com..txt",
+      "NameServer": "ns1.3507-fastcodesign.voxcdn.com.",
+      "Origin": "3507-fastcodesign.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3507-images-fastcompany-com.voxcdn.com..txt",
+      "NameServer": "ns1.3507-images-fastcompany-com.voxcdn.com.",
+      "Origin": "3507-images-fastcompany-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3507-images-inc-com.voxcdn.com..txt",
+      "NameServer": "ns1.3507-images-inc-com.voxcdn.com.",
+      "Origin": "3507-images-inc-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3507-stage-fastcompany-com.voxcdn.com..txt",
+      "NameServer": "ns1.3507-stage-fastcompany-com.voxcdn.com.",
+      "Origin": "3507-stage-fastcompany-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3507-technology-inc-com.voxcdn.com..txt",
+      "NameServer": "ns1.3507-technology-inc-com.voxcdn.com.",
+      "Origin": "3507-technology-inc-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3507-www-inc-com.voxcdn.com..txt",
+      "NameServer": "ns1.3507-www-inc-com.voxcdn.com.",
+      "Origin": "3507-www-inc-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3507.voxcdn.com..txt",
+      "NameServer": "ns1.3507.voxcdn.com.",
+      "Origin": "3507.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3530.voxcdn.com..txt",
+      "NameServer": "ns1.3530.voxcdn.com.",
+      "Origin": "3530.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3547.voxcdn.com..txt",
+      "NameServer": "ns1.3547.voxcdn.com.",
+      "Origin": "3547.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3577.voxcdn.com..txt",
+      "NameServer": "ns1.3577.voxcdn.com.",
+      "Origin": "3577.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3678.voxcdn.com..txt",
+      "NameServer": "ns1.3678.voxcdn.com.",
+      "Origin": "3678.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3705-maps.voxcdn.com..txt",
+      "NameServer": "ns1.3705-maps.voxcdn.com.",
+      "Origin": "3705-maps.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3705-pages.voxcdn.com..txt",
+      "NameServer": "ns1.3705-pages.voxcdn.com.",
+      "Origin": "3705-pages.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3705-photos.voxcdn.com..txt",
+      "NameServer": "ns1.3705-photos.voxcdn.com.",
+      "Origin": "3705-photos.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3705.voxcdn.com..txt",
+      "NameServer": "ns1.3705.voxcdn.com.",
+      "Origin": "3705.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3828-dev.voxcdn.com..txt",
+      "NameServer": "ns1.3828-dev.voxcdn.com.",
+      "Origin": "3828-dev.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3828.voxcdn.com..txt",
+      "NameServer": "ns1.3828.voxcdn.com.",
+      "Origin": "3828.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3837.voxcdn.com..txt",
+      "NameServer": "ns1.3837.voxcdn.com.",
+      "Origin": "3837.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3839.voxcdn.com..txt",
+      "NameServer": "ns1.3839.voxcdn.com.",
+      "Origin": "3839.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3888.voxcdn.com..txt",
+      "NameServer": "ns1.3888.voxcdn.com.",
+      "Origin": "3888.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3898.voxcdn.com..txt",
+      "NameServer": "ns1.3898.voxcdn.com.",
+      "Origin": "3898.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3902.voxcdn.com..txt",
+      "NameServer": "ns1.3902.voxcdn.com.",
+      "Origin": "3902.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3906.voxcdn.com..txt",
+      "NameServer": "ns1.3906.voxcdn.com.",
+      "Origin": "3906.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3914.voxcdn.com..txt",
+      "NameServer": "ns1.3914.voxcdn.com.",
+      "Origin": "3914.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3934.voxcdn.com..txt",
+      "NameServer": "ns1.3934.voxcdn.com.",
+      "Origin": "3934.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3950-photojojo.voxcdn.com..txt",
+      "NameServer": "ns1.3950-photojojo.voxcdn.com.",
+      "Origin": "3950-photojojo.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3979.voxcdn.com..txt",
+      "NameServer": "ns1.3979.voxcdn.com.",
+      "Origin": "3979.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3984.voxcdn.com..txt",
+      "NameServer": "ns1.3984.voxcdn.com.",
+      "Origin": "3984.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/3999.voxcdn.com..txt",
+      "NameServer": "ns1.3999.voxcdn.com.",
+      "Origin": "3999.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/4009.voxcdn.com..txt",
+      "NameServer": "ns1.4009.voxcdn.com.",
+      "Origin": "4009.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/4027.voxcdn.com..txt",
+      "NameServer": "ns1.4027.voxcdn.com.",
+      "Origin": "4027.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/4076.voxcdn.com..txt",
+      "NameServer": "ns1.4076.voxcdn.com.",
+      "Origin": "4076.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/4152.voxcdn.com..txt",
+      "NameServer": "ns1.4152.voxcdn.com.",
+      "Origin": "4152.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/4232-guilin.voxcdn.com..txt",
+      "NameServer": "ns1.4232-guilin.voxcdn.com.",
+      "Origin": "4232-guilin.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/4232-guilintourist.voxcdn.com..txt",
+      "NameServer": "ns1.4232-guilintourist.voxcdn.com.",
+      "Origin": "4232-guilintourist.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/4329.voxcdn.com..txt",
+      "NameServer": "ns1.4329.voxcdn.com.",
+      "Origin": "4329.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/4409.voxcdn.com..txt",
+      "NameServer": "ns1.4409.voxcdn.com.",
+      "Origin": "4409.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/4608.voxcdn.com..txt",
+      "NameServer": "ns1.4608.voxcdn.com.",
+      "Origin": "4608.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5166.voxcdn.com..txt",
+      "NameServer": "ns1.5166.voxcdn.com.",
+      "Origin": "5166.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5304-twoifbytea.voxcdn.com..txt",
+      "NameServer": "ns1.5304-twoifbytea.voxcdn.com.",
+      "Origin": "5304-twoifbytea.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-business.voxcdn.com..txt",
+      "NameServer": "ns1.5332-business.voxcdn.com.",
+      "Origin": "5332-business.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-entertainment.voxcdn.com..txt",
+      "NameServer": "ns1.5332-entertainment.voxcdn.com.",
+      "Origin": "5332-entertainment.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-globalnation.voxcdn.com..txt",
+      "NameServer": "ns1.5332-globalnation.voxcdn.com.",
+      "Origin": "5332-globalnation.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-images.voxcdn.com..txt",
+      "NameServer": "ns1.5332-images.voxcdn.com.",
+      "Origin": "5332-images.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-lifestyle.voxcdn.com..txt",
+      "NameServer": "ns1.5332-lifestyle.voxcdn.com.",
+      "Origin": "5332-lifestyle.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-newsinfo.voxcdn.com..txt",
+      "NameServer": "ns1.5332-newsinfo.voxcdn.com.",
+      "Origin": "5332-newsinfo.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-opinion.voxcdn.com..txt",
+      "NameServer": "ns1.5332-opinion.voxcdn.com.",
+      "Origin": "5332-opinion.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-services.voxcdn.com..txt",
+      "NameServer": "ns1.5332-services.voxcdn.com.",
+      "Origin": "5332-services.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-sports.voxcdn.com..txt",
+      "NameServer": "ns1.5332-sports.voxcdn.com.",
+      "Origin": "5332-sports.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-technology.voxcdn.com..txt",
+      "NameServer": "ns1.5332-technology.voxcdn.com.",
+      "Origin": "5332-technology.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5332-www.voxcdn.com..txt",
+      "NameServer": "ns1.5332-www.voxcdn.com.",
+      "Origin": "5332-www.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5463-id.voxcdn.com..txt",
+      "NameServer": "ns1.5463-id.voxcdn.com.",
+      "Origin": "5463-id.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5493-planetmc.voxcdn.com..txt",
+      "NameServer": "ns1.5493-planetmc.voxcdn.com.",
+      "Origin": "5493-planetmc.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5510.voxcdn.com..txt",
+      "NameServer": "ns1.5510.voxcdn.com.",
+      "Origin": "5510.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/5535-thefastertimes.voxcdn.com..txt",
+      "NameServer": "ns1.5535-thefastertimes.voxcdn.com.",
+      "Origin": "5535-thefastertimes.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/6153-media-beyonce-com.voxcdn.com..txt",
+      "NameServer": "ns1.6153-media-beyonce-com.voxcdn.com.",
+      "Origin": "6153-media-beyonce-com.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/6968-he.voxcdn.com..txt",
+      "NameServer": "ns1.6968-he.voxcdn.com.",
+      "Origin": "6968-he.voxcdn.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/voxcdn.com/voxcdn.com..txt",
+      "NameServer": "ns1.voxcdn.com.",
+      "Origin": "voxcdn.com."
+    }
+  ]
+}

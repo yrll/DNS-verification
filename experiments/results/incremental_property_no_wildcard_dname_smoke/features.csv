@@ -1,0 +1,4 @@
+group,dataset,dataset_id,files,total_rr,A,AAAA,NS,SOA,MX,TXT,CNAME,DNAME,wildcard,rewrite_rr,rewrite_ratio,delegation_rr,delegation_ratio,avg_rr_per_file,max_rr_per_file,avg_owner_depth,max_owner_depth,category
+files-100-500,virginia.edu,files-100-500/virginia.edu,126,2079,513,4,984,126,133,2,317,0,0,317,0.1524771524771525,1110,0.5339105339105339,16.5,582,3.378066378066378,7,rewrite-heavy
+files-100-500,vivilotz.com,files-100-500/vivilotz.com,494,2965,494,0,1977,494,0,0,0,0,0,0,0.0,2471,0.833389544688027,6.002024291497976,369,3.6290050590219223,4,delegation-heavy
+files-100-500,vn.ua,files-100-500/vn.ua,252,4129,1145,11,2188,252,322,84,127,0,0,127,0.03075805279728748,2440,0.590942116735287,16.384920634920636,2208,3.129571324775975,5,delegation-heavy

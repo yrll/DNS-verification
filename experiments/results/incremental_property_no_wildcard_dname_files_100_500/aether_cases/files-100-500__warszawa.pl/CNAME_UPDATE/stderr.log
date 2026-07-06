@@ -1,0 +1,8 @@
+[2026-07-03T07:10:12Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "warszawa", "admar", "www"], rtype: A, rdata: "85.17.227.88" }
+[2026-07-03T07:10:12Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "warszawa", "dst", "www"], rtype: A, rdata: "79.96.8.250" }
+[2026-07-03T07:10:12Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "warszawa", "wom", "www"], rtype: A, rdata: "212.91.6.58" }
+[2026-07-03T07:10:12Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "warszawa", "wirtualna", "www"], rtype: A, rdata: "86.111.247.66" }
+[2026-07-03T07:10:12Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "warszawa", "kulturalna", "www"], rtype: A, rdata: "89.161.250.219" }
+[2026-07-03T07:10:12Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "warszawa", "um", "www"], rtype: A, rdata: "79.133.202.104" }
+[2026-07-03T07:10:12Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "warszawa", "naprawaserwisagd"], rtype: SOA, rdata: "dns.home.pl admin.home.pl 1328582563 10800 3600 604800 3600" }
+[2026-07-03T07:10:12Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "warszawa", "nasza", "www"], rtype: A, rdata: "78.46.147.179" }

@@ -1,0 +1,3 @@
+dataset_id,scenario,status,detail
+top-10/co.kr,A_ADD,error,exit=101; stderr=experiments/results/aether_revision_smoke/cases/top-10__co.kr/A_ADD/stderr.log
+top-10/co.kr,A_UPDATE,error,exit=101; stderr=experiments/results/aether_revision_smoke/cases/top-10__co.kr/A_UPDATE/stderr.log

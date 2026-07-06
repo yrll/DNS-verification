@@ -1,0 +1,6 @@
+www.pku.com. 	14400	IN	SOA	ns1.www.pku.com. james.pku.edu. 19122302 14400 3600 2419200 14400
+www.pku.com.		    IN	NS ns1.www.pku.com.
+ns1.www.pku.com.	    IN	A	10.166.21.15
+
+www.pku.com.		    IN	A	6.6.6.6
+

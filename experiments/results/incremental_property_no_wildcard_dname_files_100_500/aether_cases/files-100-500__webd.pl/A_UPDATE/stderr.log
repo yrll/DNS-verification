@@ -1,0 +1,3 @@
+[2026-07-03T07:10:19Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "webd", "cportal", "www"], rtype: A, rdata: "194.181.14.180" }
+[2026-07-03T07:10:19Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "webd", "equus", "www"], rtype: A, rdata: "194.181.14.180" }
+[2026-07-03T07:10:19Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "webd", "drab", "www"], rtype: A, rdata: "194.181.14.180" }

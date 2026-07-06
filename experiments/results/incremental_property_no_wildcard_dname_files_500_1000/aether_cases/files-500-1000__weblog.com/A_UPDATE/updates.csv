@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/weblog.com,3cministries.weblog.com..txt,A_UPDATE,DEL,3cministries.weblog.com.,A,66.246.235.44
+files-500-1000/weblog.com,3cministries.weblog.com..txt,A_UPDATE,ADD,3cministries.weblog.com.,A,192.0.2.253

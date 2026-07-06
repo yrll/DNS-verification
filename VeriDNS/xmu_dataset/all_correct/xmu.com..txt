@@ -1,0 +1,18 @@
+; <<>> DiG 9.11.3-1ubuntu1.11-Ubuntu <<>> AXFR xmu.com. @ns2.xmu.edu.
+;; global options: +cmd
+
+@               			      14400 IN SOA	ns1.xmu.com. james.xmu.edu. 19122302 14400 3600 2419200 14400
+xmu.com.			      14400 IN NS	ns1.xmu.com.
+ns1.xmu.com.			      14400 IN A	10.166.21.12
+
+www.xmu.com.		      14400 IN NS	ns1.www.xmu.com.
+ns1.www.xmu.com.		      14400 IN A		10.166.21.13
+
+informatics.xmu.com.		      14400 IN NS	ns1.informatics.xmu.com.
+ns1.informatics.xmu.com.		      14400 IN A		10.166.21.14
+
+sm.xmu.com.		      14400 IN NS	ns1.sm.xmu.com.
+ns1.sm.xmu.com.		      14400 IN A		10.166.21.15
+
+xmu.com.			      14400 IN MX	10 smtp.xmu.edu.
+xmu.com.			      14400 IN TXT	"v=spf1 a mx ~all"

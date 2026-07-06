@@ -1,0 +1,6 @@
+sci.cqu.com.	14400	IN	SOA	ns1.sci.cqu.com. james.cqu.edu. 19122302 14400 3600 2419200 14400
+sci.cqu.com.		    IN	NS ns1.sci.cqu.com.
+ns1.sci.cqu.com.	    IN	A	10.166.21.13
+
+sci.cqu.com.		    IN	A	6.6.6.6
+

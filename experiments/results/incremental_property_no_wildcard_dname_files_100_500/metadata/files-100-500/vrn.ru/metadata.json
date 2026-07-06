@@ -1,0 +1,972 @@
+{
+  "TopNameServers": [
+    "ns1.vrn.ru."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/1c.vrn.ru..txt",
+      "NameServer": "ns1.1c.vrn.ru.",
+      "Origin": "1c.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/4e.vrn.ru..txt",
+      "NameServer": "ns1.4e.vrn.ru.",
+      "Origin": "4e.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/advecs.vrn.ru..txt",
+      "NameServer": "ns1.advecs.vrn.ru.",
+      "Origin": "advecs.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/agregat.vrn.ru..txt",
+      "NameServer": "ns1.agregat.vrn.ru.",
+      "Origin": "agregat.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/agrobazis.vrn.ru..txt",
+      "NameServer": "ns1.agrobazis.vrn.ru.",
+      "Origin": "agrobazis.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/aki.vrn.ru..txt",
+      "NameServer": "ns1.aki.vrn.ru.",
+      "Origin": "aki.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/akvapaskal.vrn.ru..txt",
+      "NameServer": "ns1.akvapaskal.vrn.ru.",
+      "Origin": "akvapaskal.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/akvilon.vrn.ru..txt",
+      "NameServer": "ns1.akvilon.vrn.ru.",
+      "Origin": "akvilon.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/alim.vrn.ru..txt",
+      "NameServer": "ns1.alim.vrn.ru.",
+      "Origin": "alim.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/allegro.vrn.ru..txt",
+      "NameServer": "ns1.allegro.vrn.ru.",
+      "Origin": "allegro.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/amg.vrn.ru..txt",
+      "NameServer": "ns1.amg.vrn.ru.",
+      "Origin": "amg.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/angels.vrn.ru..txt",
+      "NameServer": "ns1.angels.vrn.ru.",
+      "Origin": "angels.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/aqualife.vrn.ru..txt",
+      "NameServer": "ns1.aqualife.vrn.ru.",
+      "Origin": "aqualife.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/asms.vrn.ru..txt",
+      "NameServer": "ns1.asms.vrn.ru.",
+      "Origin": "asms.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/atomspecsnab.vrn.ru..txt",
+      "NameServer": "ns1.atomspecsnab.vrn.ru.",
+      "Origin": "atomspecsnab.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/atyss.vrn.ru..txt",
+      "NameServer": "ns1.atyss.vrn.ru.",
+      "Origin": "atyss.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/auto999.vrn.ru..txt",
+      "NameServer": "ns1.auto999.vrn.ru.",
+      "Origin": "auto999.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/autosound.vrn.ru..txt",
+      "NameServer": "ns1.autosound.vrn.ru.",
+      "Origin": "autosound.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/autotalon.vrn.ru..txt",
+      "NameServer": "ns1.autotalon.vrn.ru.",
+      "Origin": "autotalon.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/avrora.vrn.ru..txt",
+      "NameServer": "ns1.avrora.vrn.ru.",
+      "Origin": "avrora.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/avto.vrn.ru..txt",
+      "NameServer": "ns1.avto.vrn.ru.",
+      "Origin": "avto.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/aws.vrn.ru..txt",
+      "NameServer": "ns1.aws.vrn.ru.",
+      "Origin": "aws.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/bas.vrn.ru..txt",
+      "NameServer": "ns1.bas.vrn.ru.",
+      "Origin": "bas.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/base.vrn.ru..txt",
+      "NameServer": "ns1.base.vrn.ru.",
+      "Origin": "base.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/biblio.vrn.ru..txt",
+      "NameServer": "ns1.biblio.vrn.ru.",
+      "Origin": "biblio.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/bio.vrn.ru..txt",
+      "NameServer": "ns1.bio.vrn.ru.",
+      "Origin": "bio.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/bmtk.vrn.ru..txt",
+      "NameServer": "ns1.bmtk.vrn.ru.",
+      "Origin": "bmtk.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/bt.vrn.ru..txt",
+      "NameServer": "ns1.bt.vrn.ru.",
+      "Origin": "bt.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/btm.vrn.ru..txt",
+      "NameServer": "ns1.btm.vrn.ru.",
+      "Origin": "btm.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/bukashka.vrn.ru..txt",
+      "NameServer": "ns1.bukashka.vrn.ru.",
+      "Origin": "bukashka.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/catholic.vrn.ru..txt",
+      "NameServer": "ns1.catholic.vrn.ru.",
+      "Origin": "catholic.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/cbr.vrn.ru..txt",
+      "NameServer": "ns1.cbr.vrn.ru.",
+      "Origin": "cbr.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/chat.vrn.ru..txt",
+      "NameServer": "ns1.chat.vrn.ru.",
+      "Origin": "chat.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/chocoshock.vrn.ru..txt",
+      "NameServer": "ns1.chocoshock.vrn.ru.",
+      "Origin": "chocoshock.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/ckksls.vrn.ru..txt",
+      "NameServer": "ns1.ckksls.vrn.ru.",
+      "Origin": "ckksls.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/cks.vrn.ru..txt",
+      "NameServer": "ns1.cks.vrn.ru.",
+      "Origin": "cks.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/cnti.vrn.ru..txt",
+      "NameServer": "ns1.cnti.vrn.ru.",
+      "Origin": "cnti.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/comel.vrn.ru..txt",
+      "NameServer": "ns1.comel.vrn.ru.",
+      "Origin": "comel.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/consultant.vrn.ru..txt",
+      "NameServer": "ns1.consultant.vrn.ru.",
+      "Origin": "consultant.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/csoft.vrn.ru..txt",
+      "NameServer": "ns1.csoft.vrn.ru.",
+      "Origin": "csoft.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/cvvm.vrn.ru..txt",
+      "NameServer": "ns1.cvvm.vrn.ru.",
+      "Origin": "cvvm.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/dao.vrn.ru..txt",
+      "NameServer": "ns1.dao.vrn.ru.",
+      "Origin": "dao.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/dekon.vrn.ru..txt",
+      "NameServer": "ns1.dekon.vrn.ru.",
+      "Origin": "dekon.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/dep-econom.vrn.ru..txt",
+      "NameServer": "ns1.dep-econom.vrn.ru.",
+      "Origin": "dep-econom.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/dolevka.vrn.ru..txt",
+      "NameServer": "ns1.dolevka.vrn.ru.",
+      "Origin": "dolevka.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/dozator.vrn.ru..txt",
+      "NameServer": "ns1.dozator.vrn.ru.",
+      "Origin": "dozator.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/dvorets.vrn.ru..txt",
+      "NameServer": "ns1.dvorets.vrn.ru.",
+      "Origin": "dvorets.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/egoza.vrn.ru..txt",
+      "NameServer": "ns1.egoza.vrn.ru.",
+      "Origin": "egoza.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/electra.vrn.ru..txt",
+      "NameServer": "ns1.electra.vrn.ru.",
+      "Origin": "electra.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/elegant.vrn.ru..txt",
+      "NameServer": "ns1.elegant.vrn.ru.",
+      "Origin": "elegant.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/energo.vrn.ru..txt",
+      "NameServer": "ns1.energo.vrn.ru.",
+      "Origin": "energo.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/ept.vrn.ru..txt",
+      "NameServer": "ns1.ept.vrn.ru.",
+      "Origin": "ept.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/euro.vrn.ru..txt",
+      "NameServer": "ns1.euro.vrn.ru.",
+      "Origin": "euro.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/expocentr.vrn.ru..txt",
+      "NameServer": "ns1.expocentr.vrn.ru.",
+      "Origin": "expocentr.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/farmservice.vrn.ru..txt",
+      "NameServer": "ns1.farmservice.vrn.ru.",
+      "Origin": "farmservice.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/fcdynamo.vrn.ru..txt",
+      "NameServer": "ns1.fcdynamo.vrn.ru.",
+      "Origin": "fcdynamo.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/fmtv.vrn.ru..txt",
+      "NameServer": "ns1.fmtv.vrn.ru.",
+      "Origin": "fmtv.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/forum.akvapaskal.vrn.ru..txt",
+      "NameServer": "ns1.forum.akvapaskal.vrn.ru.",
+      "Origin": "forum.akvapaskal.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/forum.vrn.ru..txt",
+      "NameServer": "ns1.forum.vrn.ru.",
+      "Origin": "forum.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/freedom.vrn.ru..txt",
+      "NameServer": "ns1.freedom.vrn.ru.",
+      "Origin": "freedom.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/fsb.vrn.ru..txt",
+      "NameServer": "ns1.fsb.vrn.ru.",
+      "Origin": "fsb.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/garant.vrn.ru..txt",
+      "NameServer": "ns1.garant.vrn.ru.",
+      "Origin": "garant.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/generator.vrn.ru..txt",
+      "NameServer": "ns1.generator.vrn.ru.",
+      "Origin": "generator.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/germes.vrn.ru..txt",
+      "NameServer": "ns1.germes.vrn.ru.",
+      "Origin": "germes.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/gfu.vrn.ru..txt",
+      "NameServer": "ns1.gfu.vrn.ru.",
+      "Origin": "gfu.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/gimn7.vrn.ru..txt",
+      "NameServer": "ns1.gimn7.vrn.ru.",
+      "Origin": "gimn7.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/gimnaz1.vrn.ru..txt",
+      "NameServer": "ns1.gimnaz1.vrn.ru.",
+      "Origin": "gimnaz1.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/gnk.vrn.ru..txt",
+      "NameServer": "ns1.gnk.vrn.ru.",
+      "Origin": "gnk.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/golubi.vrn.ru..txt",
+      "NameServer": "ns1.golubi.vrn.ru.",
+      "Origin": "golubi.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/gorizbirkom.vrn.ru..txt",
+      "NameServer": "ns1.gorizbirkom.vrn.ru.",
+      "Origin": "gorizbirkom.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/gorizont-stroy.vrn.ru..txt",
+      "NameServer": "ns1.gorizont-stroy.vrn.ru.",
+      "Origin": "gorizont-stroy.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/gpsmap.vrn.ru..txt",
+      "NameServer": "ns1.gpsmap.vrn.ru.",
+      "Origin": "gpsmap.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/gribnoyogorod.vrn.ru..txt",
+      "NameServer": "ns1.gribnoyogorod.vrn.ru.",
+      "Origin": "gribnoyogorod.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/gurevich.vrn.ru..txt",
+      "NameServer": "ns1.gurevich.vrn.ru.",
+      "Origin": "gurevich.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/guvd.vrn.ru..txt",
+      "NameServer": "ns1.guvd.vrn.ru.",
+      "Origin": "guvd.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/hip-hop.vrn.ru..txt",
+      "NameServer": "ns1.hip-hop.vrn.ru.",
+      "Origin": "hip-hop.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/hot.vrn.ru..txt",
+      "NameServer": "ns1.hot.vrn.ru.",
+      "Origin": "hot.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/interma.vrn.ru..txt",
+      "NameServer": "ns1.interma.vrn.ru.",
+      "Origin": "interma.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/interplast.vrn.ru..txt",
+      "NameServer": "ns1.interplast.vrn.ru.",
+      "Origin": "interplast.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/isodom.vrn.ru..txt",
+      "NameServer": "ns1.isodom.vrn.ru.",
+      "Origin": "isodom.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/jasmin-butik.vrn.ru..txt",
+      "NameServer": "ns1.jasmin-butik.vrn.ru.",
+      "Origin": "jasmin-butik.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/jasnyezori.vrn.ru..txt",
+      "NameServer": "ns1.jasnyezori.vrn.ru.",
+      "Origin": "jasnyezori.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/ju-jutsu.vrn.ru..txt",
+      "NameServer": "ns1.ju-jutsu.vrn.ru.",
+      "Origin": "ju-jutsu.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/jug.vrn.ru..txt",
+      "NameServer": "ns1.jug.vrn.ru.",
+      "Origin": "jug.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/kabel.vrn.ru..txt",
+      "NameServer": "ns1.kabel.vrn.ru.",
+      "Origin": "kabel.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/kadragro.vrn.ru..txt",
+      "NameServer": "ns1.kadragro.vrn.ru.",
+      "Origin": "kadragro.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/kafe-polet.vrn.ru..txt",
+      "NameServer": "ns1.kafe-polet.vrn.ru.",
+      "Origin": "kafe-polet.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/kauchuk.vrn.ru..txt",
+      "NameServer": "ns1.kauchuk.vrn.ru.",
+      "Origin": "kauchuk.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/kodofon.vrn.ru..txt",
+      "NameServer": "ns1.kodofon.vrn.ru.",
+      "Origin": "kodofon.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/komok.vrn.ru..txt",
+      "NameServer": "ns1.komok.vrn.ru.",
+      "Origin": "komok.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/konfet.vrn.ru..txt",
+      "NameServer": "ns1.konfet.vrn.ru.",
+      "Origin": "konfet.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/konstanta.vrn.ru..txt",
+      "NameServer": "ns1.konstanta.vrn.ru.",
+      "Origin": "konstanta.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/kuleshov.vrn.ru..txt",
+      "NameServer": "ns1.kuleshov.vrn.ru.",
+      "Origin": "kuleshov.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/ladgent.vrn.ru..txt",
+      "NameServer": "ns1.ladgent.vrn.ru.",
+      "Origin": "ladgent.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/lagres.vrn.ru..txt",
+      "NameServer": "ns1.lagres.vrn.ru.",
+      "Origin": "lagres.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/lekarstva.vrn.ru..txt",
+      "NameServer": "ns1.lekarstva.vrn.ru.",
+      "Origin": "lekarstva.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/lesmash.vrn.ru..txt",
+      "NameServer": "ns1.lesmash.vrn.ru.",
+      "Origin": "lesmash.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/lic1.vrn.ru..txt",
+      "NameServer": "ns1.lic1.vrn.ru.",
+      "Origin": "lic1.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/linuxportal.vrn.ru..txt",
+      "NameServer": "ns1.linuxportal.vrn.ru.",
+      "Origin": "linuxportal.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/los.vrn.ru..txt",
+      "NameServer": "ns1.los.vrn.ru.",
+      "Origin": "los.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/marlen.vrn.ru..txt",
+      "NameServer": "ns1.marlen.vrn.ru.",
+      "Origin": "marlen.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/mart.vrn.ru..txt",
+      "NameServer": "ns1.mart.vrn.ru.",
+      "Origin": "mart.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/maugli.vrn.ru..txt",
+      "NameServer": "ns1.maugli.vrn.ru.",
+      "Origin": "maugli.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/mdm.vrn.ru..txt",
+      "NameServer": "ns1.mdm.vrn.ru.",
+      "Origin": "mdm.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/mediasintez.vrn.ru..txt",
+      "NameServer": "ns1.mediasintez.vrn.ru.",
+      "Origin": "mediasintez.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/meteo.vrn.ru..txt",
+      "NameServer": "ns1.meteo.vrn.ru.",
+      "Origin": "meteo.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/metr.vrn.ru..txt",
+      "NameServer": "ns1.metr.vrn.ru.",
+      "Origin": "metr.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/mias.vrn.ru..txt",
+      "NameServer": "ns1.mias.vrn.ru.",
+      "Origin": "mias.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/miop.vrn.ru..txt",
+      "NameServer": "ns1.miop.vrn.ru.",
+      "Origin": "miop.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/museum.vrn.ru..txt",
+      "NameServer": "ns1.museum.vrn.ru.",
+      "Origin": "museum.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/muzsatel.vrn.ru..txt",
+      "NameServer": "ns1.muzsatel.vrn.ru.",
+      "Origin": "muzsatel.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/nc.vrn.ru..txt",
+      "NameServer": "ns1.nc.vrn.ru.",
+      "Origin": "nc.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/novogor.vrn.ru..txt",
+      "NameServer": "ns1.novogor.vrn.ru.",
+      "Origin": "novogor.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/npc.vrn.ru..txt",
+      "NameServer": "ns1.npc.vrn.ru.",
+      "Origin": "npc.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/nvnpp.vrn.ru..txt",
+      "NameServer": "ns1.nvnpp.vrn.ru.",
+      "Origin": "nvnpp.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/oblgaz.vrn.ru..txt",
+      "NameServer": "ns1.oblgaz.vrn.ru.",
+      "Origin": "oblgaz.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/oblzdrav.vrn.ru..txt",
+      "NameServer": "ns1.oblzdrav.vrn.ru.",
+      "Origin": "oblzdrav.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/obnovlenie.vrn.ru..txt",
+      "NameServer": "ns1.obnovlenie.vrn.ru.",
+      "Origin": "obnovlenie.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/odno-okno.vrn.ru..txt",
+      "NameServer": "ns1.odno-okno.vrn.ru.",
+      "Origin": "odno-okno.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/okna.vrn.ru..txt",
+      "NameServer": "ns1.okna.vrn.ru.",
+      "Origin": "okna.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/oktant.vrn.ru..txt",
+      "NameServer": "ns1.oktant.vrn.ru.",
+      "Origin": "oktant.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/opfr.vrn.ru..txt",
+      "NameServer": "ns1.opfr.vrn.ru.",
+      "Origin": "opfr.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/optika.vrn.ru..txt",
+      "NameServer": "ns1.optika.vrn.ru.",
+      "Origin": "optika.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/org.vrn.ru..txt",
+      "NameServer": "ns1.org.vrn.ru.",
+      "Origin": "org.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/ost-hram.vrn.ru..txt",
+      "NameServer": "ns1.ost-hram.vrn.ru.",
+      "Origin": "ost-hram.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/paraplan.vrn.ru..txt",
+      "NameServer": "ns1.paraplan.vrn.ru.",
+      "Origin": "paraplan.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/partyzone.vrn.ru..txt",
+      "NameServer": "ns1.partyzone.vrn.ru.",
+      "Origin": "partyzone.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/photo-life.vrn.ru..txt",
+      "NameServer": "ns1.photo-life.vrn.ru.",
+      "Origin": "photo-life.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/photounion.vrn.ru..txt",
+      "NameServer": "ns1.photounion.vrn.ru.",
+      "Origin": "photounion.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/pricelist.vrn.ru..txt",
+      "NameServer": "ns1.pricelist.vrn.ru.",
+      "Origin": "pricelist.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/qwerty.vrn.ru..txt",
+      "NameServer": "ns1.qwerty.vrn.ru.",
+      "Origin": "qwerty.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/racer.vrn.ru..txt",
+      "NameServer": "ns1.racer.vrn.ru.",
+      "Origin": "racer.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/rat.vrn.ru..txt",
+      "NameServer": "ns1.rat.vrn.ru.",
+      "Origin": "rat.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/realtor.vrn.ru..txt",
+      "NameServer": "ns1.realtor.vrn.ru.",
+      "Origin": "realtor.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/rock-city.vrn.ru..txt",
+      "NameServer": "ns1.rock-city.vrn.ru.",
+      "Origin": "rock-city.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/rodnaya-rech.vrn.ru..txt",
+      "NameServer": "ns1.rodnaya-rech.vrn.ru.",
+      "Origin": "rodnaya-rech.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/rosital.vrn.ru..txt",
+      "NameServer": "ns1.rosital.vrn.ru.",
+      "Origin": "rosital.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/rosno.vrn.ru..txt",
+      "NameServer": "ns1.rosno.vrn.ru.",
+      "Origin": "rosno.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/rrc.vrn.ru..txt",
+      "NameServer": "ns1.rrc.vrn.ru.",
+      "Origin": "rrc.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/rtc.vrn.ru..txt",
+      "NameServer": "ns1.rtc.vrn.ru.",
+      "Origin": "rtc.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/salt.vrn.ru..txt",
+      "NameServer": "ns1.salt.vrn.ru.",
+      "Origin": "salt.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/sanatorium-somovo.vrn.ru..txt",
+      "NameServer": "ns1.sanatorium-somovo.vrn.ru.",
+      "Origin": "sanatorium-somovo.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/school38.vrn.ru..txt",
+      "NameServer": "ns1.school38.vrn.ru.",
+      "Origin": "school38.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/sela.vrn.ru..txt",
+      "NameServer": "ns1.sela.vrn.ru.",
+      "Origin": "sela.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/shick.vrn.ru..txt",
+      "NameServer": "ns1.shick.vrn.ru.",
+      "Origin": "shick.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/sia.vrn.ru..txt",
+      "NameServer": "ns1.sia.vrn.ru.",
+      "Origin": "sia.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/sk.vrn.ru..txt",
+      "NameServer": "ns1.sk.vrn.ru.",
+      "Origin": "sk.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/solaris.vrn.ru..txt",
+      "NameServer": "ns1.solaris.vrn.ru.",
+      "Origin": "solaris.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/solgrad.vrn.ru..txt",
+      "NameServer": "ns1.solgrad.vrn.ru.",
+      "Origin": "solgrad.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/solver.vrn.ru..txt",
+      "NameServer": "ns1.solver.vrn.ru.",
+      "Origin": "solver.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/sonis.vrn.ru..txt",
+      "NameServer": "ns1.sonis.vrn.ru.",
+      "Origin": "sonis.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/sovita.vrn.ru..txt",
+      "NameServer": "ns1.sovita.vrn.ru.",
+      "Origin": "sovita.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/spvoronezh.vrn.ru..txt",
+      "NameServer": "ns1.spvoronezh.vrn.ru.",
+      "Origin": "spvoronezh.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/stomatolog.vrn.ru..txt",
+      "NameServer": "ns1.stomatolog.vrn.ru.",
+      "Origin": "stomatolog.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/streetracing.vrn.ru..txt",
+      "NameServer": "ns1.streetracing.vrn.ru.",
+      "Origin": "streetracing.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/stroyopttorg.vrn.ru..txt",
+      "NameServer": "ns1.stroyopttorg.vrn.ru.",
+      "Origin": "stroyopttorg.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/svb.vrn.ru..txt",
+      "NameServer": "ns1.svb.vrn.ru.",
+      "Origin": "svb.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/talk.vrn.ru..txt",
+      "NameServer": "ns1.talk.vrn.ru.",
+      "Origin": "talk.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/tangoclub.vrn.ru..txt",
+      "NameServer": "ns1.tangoclub.vrn.ru.",
+      "Origin": "tangoclub.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/tehno.vrn.ru..txt",
+      "NameServer": "ns1.tehno.vrn.ru.",
+      "Origin": "tehno.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/tempagro.vrn.ru..txt",
+      "NameServer": "ns1.tempagro.vrn.ru.",
+      "Origin": "tempagro.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/u-antona.vrn.ru..txt",
+      "NameServer": "ns1.u-antona.vrn.ru.",
+      "Origin": "u-antona.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/unix.vrn.ru..txt",
+      "NameServer": "ns1.unix.vrn.ru.",
+      "Origin": "unix.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/uvk1.vrn.ru..txt",
+      "NameServer": "ns1.uvk1.vrn.ru.",
+      "Origin": "uvk1.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/uvo-ohrana.vrn.ru..txt",
+      "NameServer": "ns1.uvo-ohrana.vrn.ru.",
+      "Origin": "uvo-ohrana.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vac.vrn.ru..txt",
+      "NameServer": "ns1.vac.vrn.ru.",
+      "Origin": "vac.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vagon.vrn.ru..txt",
+      "NameServer": "ns1.vagon.vrn.ru.",
+      "Origin": "vagon.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vasetsky.vrn.ru..txt",
+      "NameServer": "ns1.vasetsky.vrn.ru.",
+      "Origin": "vasetsky.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vashdom.vrn.ru..txt",
+      "NameServer": "ns1.vashdom.vrn.ru.",
+      "Origin": "vashdom.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vashepravo.vrn.ru..txt",
+      "NameServer": "ns1.vashepravo.vrn.ru.",
+      "Origin": "vashepravo.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vgasu.vrn.ru..txt",
+      "NameServer": "ns1.vgasu.vrn.ru.",
+      "Origin": "vgasu.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vglta.vrn.ru..txt",
+      "NameServer": "ns1.vglta.vrn.ru.",
+      "Origin": "vglta.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vgpgk.vrn.ru..txt",
+      "NameServer": "ns1.vgpgk.vrn.ru.",
+      "Origin": "vgpgk.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vgta.vrn.ru..txt",
+      "NameServer": "ns1.vgta.vrn.ru.",
+      "Origin": "vgta.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vgu.vrn.ru..txt",
+      "NameServer": "ns1.vgu.vrn.ru.",
+      "Origin": "vgu.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/viaprog.vrn.ru..txt",
+      "NameServer": "ns1.viaprog.vrn.ru.",
+      "Origin": "viaprog.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vicon.vrn.ru..txt",
+      "NameServer": "ns1.vicon.vrn.ru.",
+      "Origin": "vicon.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vidmedia.vrn.ru..txt",
+      "NameServer": "ns1.vidmedia.vrn.ru.",
+      "Origin": "vidmedia.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/viphouse.vrn.ru..txt",
+      "NameServer": "ns1.viphouse.vrn.ru.",
+      "Origin": "viphouse.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vitaline.vrn.ru..txt",
+      "NameServer": "ns1.vitaline.vrn.ru.",
+      "Origin": "vitaline.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vkgdt.vrn.ru..txt",
+      "NameServer": "ns1.vkgdt.vrn.ru.",
+      "Origin": "vkgdt.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/voipkro.vrn.ru..txt",
+      "NameServer": "ns1.voipkro.vrn.ru.",
+      "Origin": "voipkro.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vokod.vrn.ru..txt",
+      "NameServer": "ns1.vokod.vrn.ru.",
+      "Origin": "vokod.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vost.vrn.ru..txt",
+      "NameServer": "ns1.vost.vrn.ru.",
+      "Origin": "vost.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vrcse.vrn.ru..txt",
+      "NameServer": "ns1.vrcse.vrn.ru.",
+      "Origin": "vrcse.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vrn.ru..txt",
+      "NameServer": "ns1.vrn.ru.",
+      "Origin": "vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/vrps.vrn.ru..txt",
+      "NameServer": "ns1.vrps.vrn.ru.",
+      "Origin": "vrps.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/webmaster.vrn.ru..txt",
+      "NameServer": "ns1.webmaster.vrn.ru.",
+      "Origin": "webmaster.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/wit.vrn.ru..txt",
+      "NameServer": "ns1.wit.vrn.ru.",
+      "Origin": "wit.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/www.catholic.vrn.ru..txt",
+      "NameServer": "ns1.www.catholic.vrn.ru.",
+      "Origin": "www.catholic.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/xolod.vrn.ru..txt",
+      "NameServer": "ns1.xolod.vrn.ru.",
+      "Origin": "xolod.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/zevs.vrn.ru..txt",
+      "NameServer": "ns1.zevs.vrn.ru.",
+      "Origin": "zevs.vrn.ru."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vrn.ru/zk.vrn.ru..txt",
+      "NameServer": "ns1.zk.vrn.ru.",
+      "Origin": "zk.vrn.ru."
+    }
+  ]
+}

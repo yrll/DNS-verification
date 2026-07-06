@@ -1,0 +1,16 @@
+# 2026-05-26 # Writing: the main takeaway #
+
+1. Capability: Aether can find errors that do not supported by GRoot, and that is why we need local EC (by Qiao)
+   > The expressiveness and capability of Aether seems equal GRoot's (by Yao)
+
+2. Scalability: Aether can handle ?? with a novel local EC-based modeling. 
+
+   * Following the line of argument in EPVerifier [NSDI'24], which likewise targets scalability 
+     under update storms but explicitly dissects why Flash falls short where it succeeds
+
+   * So ?? (The motivation) could be:
+      > DNS update storm: Is it a real problem? 
+      > Real-time verification: A motivating example shows that adding a record shatters GRoot's 
+        global Label Graph and triggers an exponential GEC explosion, while LEC growth linearly?
+      > ...
+

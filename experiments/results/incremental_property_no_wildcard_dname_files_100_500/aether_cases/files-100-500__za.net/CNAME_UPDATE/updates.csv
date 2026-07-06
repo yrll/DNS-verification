@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/za.net,acidmax.za.net..txt,CNAME_UPDATE,DEL,www.acidmax.za.net.,CNAME,acidmax.za.net.
+files-100-500/za.net,acidmax.za.net..txt,CNAME_UPDATE,ADD,www.acidmax.za.net.,CNAME,cname-inc.acidmax.za.net.

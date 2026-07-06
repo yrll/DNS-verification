@@ -1,0 +1,10 @@
+[2026-07-03T07:10:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "washington", "onrc", "www"], rtype: A, rdata: "128.95.24.6" }
+[2026-07-03T07:10:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "washington", "bioeng", "nsr"], rtype: MX, rdata: "10 gloin.bioeng.washington.edu" }
+[2026-07-03T07:10:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "washington", "reuw", "www"], rtype: A, rdata: "96.126.112.7" }
+[2026-07-03T07:10:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "washington", "artsci", "www"], rtype: A, rdata: "128.95.249.91" }
+[2026-07-03T07:10:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "washington", "biology", "www"], rtype: A, rdata: "128.208.114.2" }
+[2026-07-03T07:10:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "washington", "hs", "mediasite"], rtype: A, rdata: "128.208.123.89" }
+[2026-07-03T07:10:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "washington", "ess", "rocky"], rtype: A, rdata: "128.208.23.125" }
+[2026-07-03T07:10:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "washington", "nebula", "support"], rtype: A, rdata: "140.142.3.77" }
+[2026-07-03T07:10:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "washington", "cs", "dada"], rtype: MX, rdata: "10 dada.cs.washington.edu" }
+[2026-07-03T07:10:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "washington", "cac", "webloginstats"], rtype: A, rdata: "140.142.16.10" }

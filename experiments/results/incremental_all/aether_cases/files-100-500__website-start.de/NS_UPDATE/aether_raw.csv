@@ -1,0 +1,2 @@
+zone,num_lec,io_time (ms),construction_time (ms),symbolic_time (ms),property_checking_time (ms),re_construction_time (ms),re_symbolic_time (ms),re_property_checking_time (ms),properties,initial_property_pass,initial_errors,incremental_property_pass,incremental_errors
+files-100-500/website-start.de,1899,13.648,75.379,9.252,0.289,0.006,0.557,0.002,hops|zone loop|too long|delegation consistency|rewrite blackholing|lame delegation|rewrites,true,,true,

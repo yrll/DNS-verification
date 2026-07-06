@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/virginia.edu,abcrc.virginia.edu..txt,CNAME_UPDATE,DEL,www.abcrc.virginia.edu.,CNAME,amazon.evsc.virginia.edu.
+files-100-500/virginia.edu,abcrc.virginia.edu..txt,CNAME_UPDATE,ADD,www.abcrc.virginia.edu.,CNAME,cname-inc.abcrc.virginia.edu.

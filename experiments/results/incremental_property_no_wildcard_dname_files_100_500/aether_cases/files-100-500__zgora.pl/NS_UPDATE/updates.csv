@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/zgora.pl,7liceum.zgora.pl..txt,NS_UPDATE,DEL,7liceum.zgora.pl.,NS,ns1.netmark.pl.
+files-100-500/zgora.pl,7liceum.zgora.pl..txt,NS_UPDATE,ADD,7liceum.zgora.pl.,NS,ns-inc.7liceum.zgora.pl.

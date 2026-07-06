@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.np,1130basan.com.np..txt,CNAME_UPDATE,DEL,www.1130basan.com.np.,CNAME,1130basan.com.np.
+top-10/com.np,1130basan.com.np..txt,CNAME_UPDATE,ADD,www.1130basan.com.np.,CNAME,cname-inc.1130basan.com.np.

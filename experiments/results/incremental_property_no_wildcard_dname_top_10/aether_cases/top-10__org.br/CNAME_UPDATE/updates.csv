@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/org.br,123s.org.br..txt,CNAME_UPDATE,DEL,blog.123s.org.br.,CNAME,ghs.google.com.
+top-10/org.br,123s.org.br..txt,CNAME_UPDATE,ADD,blog.123s.org.br.,CNAME,cname-inc.123s.org.br.

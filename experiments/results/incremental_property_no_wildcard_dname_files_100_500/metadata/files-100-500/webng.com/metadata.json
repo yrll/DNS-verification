@@ -1,0 +1,1357 @@
+{
+  "TopNameServers": [
+    "ns1.webng.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/a7lajram.webng.com..txt",
+      "NameServer": "ns1.a7lajram.webng.com.",
+      "Origin": "a7lajram.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/achsonline10.webng.com..txt",
+      "NameServer": "ns1.achsonline10.webng.com.",
+      "Origin": "achsonline10.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/adha.webng.com..txt",
+      "NameServer": "ns1.adha.webng.com.",
+      "Origin": "adha.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/adrianpeterson.webng.com..txt",
+      "NameServer": "ns1.adrianpeterson.webng.com.",
+      "Origin": "adrianpeterson.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/afsana01.webng.com..txt",
+      "NameServer": "ns1.afsana01.webng.com.",
+      "Origin": "afsana01.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/aguaviva.webng.com..txt",
+      "NameServer": "ns1.aguaviva.webng.com.",
+      "Origin": "aguaviva.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/airsite.webng.com..txt",
+      "NameServer": "ns1.airsite.webng.com.",
+      "Origin": "airsite.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/albaworld.webng.com..txt",
+      "NameServer": "ns1.albaworld.webng.com.",
+      "Origin": "albaworld.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/alexmrb.webng.com..txt",
+      "NameServer": "ns1.alexmrb.webng.com.",
+      "Origin": "alexmrb.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/alexmrb1.webng.com..txt",
+      "NameServer": "ns1.alexmrb1.webng.com.",
+      "Origin": "alexmrb1.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/alexmrbscooldudez.webng.com..txt",
+      "NameServer": "ns1.alexmrbscooldudez.webng.com.",
+      "Origin": "alexmrbscooldudez.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/alexmrbzcooldudez.webng.com..txt",
+      "NameServer": "ns1.alexmrbzcooldudez.webng.com.",
+      "Origin": "alexmrbzcooldudez.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/andrietephotography.webng.com..txt",
+      "NameServer": "ns1.andrietephotography.webng.com.",
+      "Origin": "andrietephotography.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/angel1000.webng.com..txt",
+      "NameServer": "ns1.angel1000.webng.com.",
+      "Origin": "angel1000.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/angelo10vip.webng.com..txt",
+      "NameServer": "ns1.angelo10vip.webng.com.",
+      "Origin": "angelo10vip.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ansonchi.webng.com..txt",
+      "NameServer": "ns1.ansonchi.webng.com.",
+      "Origin": "ansonchi.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/antress.webng.com..txt",
+      "NameServer": "ns1.antress.webng.com.",
+      "Origin": "antress.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/aradedesari.webng.com..txt",
+      "NameServer": "ns1.aradedesari.webng.com.",
+      "Origin": "aradedesari.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/arefin4.webng.com..txt",
+      "NameServer": "ns1.arefin4.webng.com.",
+      "Origin": "arefin4.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/aromasdaluz.webng.com..txt",
+      "NameServer": "ns1.aromasdaluz.webng.com.",
+      "Origin": "aromasdaluz.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/asgtrtrr.webng.com..txt",
+      "NameServer": "ns1.asgtrtrr.webng.com.",
+      "Origin": "asgtrtrr.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/aslama.webng.com..txt",
+      "NameServer": "ns1.aslama.webng.com.",
+      "Origin": "aslama.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/asmile.webng.com..txt",
+      "NameServer": "ns1.asmile.webng.com.",
+      "Origin": "asmile.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/asmilep5.webng.com..txt",
+      "NameServer": "ns1.asmilep5.webng.com.",
+      "Origin": "asmilep5.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/aspbin.webng.com..txt",
+      "NameServer": "ns1.aspbin.webng.com.",
+      "Origin": "aspbin.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/atadolfo.webng.com..txt",
+      "NameServer": "ns1.atadolfo.webng.com.",
+      "Origin": "atadolfo.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/baixem.webng.com..txt",
+      "NameServer": "ns1.baixem.webng.com.",
+      "Origin": "baixem.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/banglar.webng.com..txt",
+      "NameServer": "ns1.banglar.webng.com.",
+      "Origin": "banglar.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/beautifullenie.webng.com..txt",
+      "NameServer": "ns1.beautifullenie.webng.com.",
+      "Origin": "beautifullenie.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/bia2sia.webng.com..txt",
+      "NameServer": "ns1.bia2sia.webng.com.",
+      "Origin": "bia2sia.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/blacksearchproject.webng.com..txt",
+      "NameServer": "ns1.blacksearchproject.webng.com.",
+      "Origin": "blacksearchproject.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/blin90.webng.com..txt",
+      "NameServer": "ns1.blin90.webng.com.",
+      "Origin": "blin90.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/bmahaney.webng.com..txt",
+      "NameServer": "ns1.bmahaney.webng.com.",
+      "Origin": "bmahaney.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/boxingboy.webng.com..txt",
+      "NameServer": "ns1.boxingboy.webng.com.",
+      "Origin": "boxingboy.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/breakingthequo.webng.com..txt",
+      "NameServer": "ns1.breakingthequo.webng.com.",
+      "Origin": "breakingthequo.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/brunozacanti.webng.com..txt",
+      "NameServer": "ns1.brunozacanti.webng.com.",
+      "Origin": "brunozacanti.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/burtbacharach.webng.com..txt",
+      "NameServer": "ns1.burtbacharach.webng.com.",
+      "Origin": "burtbacharach.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/canberrang.webng.com..txt",
+      "NameServer": "ns1.canberrang.webng.com.",
+      "Origin": "canberrang.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/catty.webng.com..txt",
+      "NameServer": "ns1.catty.webng.com.",
+      "Origin": "catty.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/cdrmmbright.webng.com..txt",
+      "NameServer": "ns1.cdrmmbright.webng.com.",
+      "Origin": "cdrmmbright.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/certiciatesnocntuagr.webng.com..txt",
+      "NameServer": "ns1.certiciatesnocntuagr.webng.com.",
+      "Origin": "certiciatesnocntuagr.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/chawgarcia.webng.com..txt",
+      "NameServer": "ns1.chawgarcia.webng.com.",
+      "Origin": "chawgarcia.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/cheguevara.webng.com..txt",
+      "NameServer": "ns1.cheguevara.webng.com.",
+      "Origin": "cheguevara.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/chinamil.webng.com..txt",
+      "NameServer": "ns1.chinamil.webng.com.",
+      "Origin": "chinamil.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/cincinnatiaspergernetwork.webng.com..txt",
+      "NameServer": "ns1.cincinnatiaspergernetwork.webng.com.",
+      "Origin": "cincinnatiaspergernetwork.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/cityofburniebrassband.webng.com..txt",
+      "NameServer": "ns1.cityofburniebrassband.webng.com.",
+      "Origin": "cityofburniebrassband.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/clickkon.webng.com..txt",
+      "NameServer": "ns1.clickkon.webng.com.",
+      "Origin": "clickkon.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/clubeguardioes.webng.com..txt",
+      "NameServer": "ns1.clubeguardioes.webng.com.",
+      "Origin": "clubeguardioes.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/colheitaplayer.webng.com..txt",
+      "NameServer": "ns1.colheitaplayer.webng.com.",
+      "Origin": "colheitaplayer.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/comuaspx.webng.com..txt",
+      "NameServer": "ns1.comuaspx.webng.com.",
+      "Origin": "comuaspx.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/cp.webng.com..txt",
+      "NameServer": "ns1.cp.webng.com.",
+      "Origin": "cp.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/cp1.webng.com..txt",
+      "NameServer": "ns1.cp1.webng.com.",
+      "Origin": "cp1.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/cp3091.webng.com..txt",
+      "NameServer": "ns1.cp3091.webng.com.",
+      "Origin": "cp3091.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/crazy6.webng.com..txt",
+      "NameServer": "ns1.crazy6.webng.com.",
+      "Origin": "crazy6.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/crkimr.webng.com..txt",
+      "NameServer": "ns1.crkimr.webng.com.",
+      "Origin": "crkimr.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/dadigan.webng.com..txt",
+      "NameServer": "ns1.dadigan.webng.com.",
+      "Origin": "dadigan.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/danipolster.webng.com..txt",
+      "NameServer": "ns1.danipolster.webng.com.",
+      "Origin": "danipolster.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/delouvylux.webng.com..txt",
+      "NameServer": "ns1.delouvylux.webng.com.",
+      "Origin": "delouvylux.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/dhea.webng.com..txt",
+      "NameServer": "ns1.dhea.webng.com.",
+      "Origin": "dhea.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/dies1994.webng.com..txt",
+      "NameServer": "ns1.dies1994.webng.com.",
+      "Origin": "dies1994.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/dinobots.webng.com..txt",
+      "NameServer": "ns1.dinobots.webng.com.",
+      "Origin": "dinobots.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/diskv.webng.com..txt",
+      "NameServer": "ns1.diskv.webng.com.",
+      "Origin": "diskv.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/donnar.webng.com..txt",
+      "NameServer": "ns1.donnar.webng.com.",
+      "Origin": "donnar.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/downloadmania.webng.com..txt",
+      "NameServer": "ns1.downloadmania.webng.com.",
+      "Origin": "downloadmania.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/drpowerfun.webng.com..txt",
+      "NameServer": "ns1.drpowerfun.webng.com.",
+      "Origin": "drpowerfun.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/dung80.webng.com..txt",
+      "NameServer": "ns1.dung80.webng.com.",
+      "Origin": "dung80.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/dunga.webng.com..txt",
+      "NameServer": "ns1.dunga.webng.com.",
+      "Origin": "dunga.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/edsonrosa.webng.com..txt",
+      "NameServer": "ns1.edsonrosa.webng.com.",
+      "Origin": "edsonrosa.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/eduardounix.webng.com..txt",
+      "NameServer": "ns1.eduardounix.webng.com.",
+      "Origin": "eduardounix.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/electrofreakquency.webng.com..txt",
+      "NameServer": "ns1.electrofreakquency.webng.com.",
+      "Origin": "electrofreakquency.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/elisterdremster.webng.com..txt",
+      "NameServer": "ns1.elisterdremster.webng.com.",
+      "Origin": "elisterdremster.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/elmali7.webng.com..txt",
+      "NameServer": "ns1.elmali7.webng.com.",
+      "Origin": "elmali7.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/emoshire.webng.com..txt",
+      "NameServer": "ns1.emoshire.webng.com.",
+      "Origin": "emoshire.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/fabelem.webng.com..txt",
+      "NameServer": "ns1.fabelem.webng.com.",
+      "Origin": "fabelem.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/fb052010.webng.com..txt",
+      "NameServer": "ns1.fb052010.webng.com.",
+      "Origin": "fb052010.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/fernandinho2009.webng.com..txt",
+      "NameServer": "ns1.fernandinho2009.webng.com.",
+      "Origin": "fernandinho2009.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ferscrap.webng.com..txt",
+      "NameServer": "ns1.ferscrap.webng.com.",
+      "Origin": "ferscrap.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/fertus.webng.com..txt",
+      "NameServer": "ns1.fertus.webng.com.",
+      "Origin": "fertus.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/fionasdesigns.webng.com..txt",
+      "NameServer": "ns1.fionasdesigns.webng.com.",
+      "Origin": "fionasdesigns.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/followupletter.webng.com..txt",
+      "NameServer": "ns1.followupletter.webng.com.",
+      "Origin": "followupletter.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/formal.webng.com..txt",
+      "NameServer": "ns1.formal.webng.com.",
+      "Origin": "formal.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/freedomlandusa.webng.com..txt",
+      "NameServer": "ns1.freedomlandusa.webng.com.",
+      "Origin": "freedomlandusa.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ftp2.webng.com..txt",
+      "NameServer": "ns1.ftp2.webng.com.",
+      "Origin": "ftp2.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/funis.webng.com..txt",
+      "NameServer": "ns1.funis.webng.com.",
+      "Origin": "funis.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/gase.webng.com..txt",
+      "NameServer": "ns1.gase.webng.com.",
+      "Origin": "gase.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/gdynets.webng.com..txt",
+      "NameServer": "ns1.gdynets.webng.com.",
+      "Origin": "gdynets.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/generallyf1.webng.com..txt",
+      "NameServer": "ns1.generallyf1.webng.com.",
+      "Origin": "generallyf1.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ghost.webng.com..txt",
+      "NameServer": "ns1.ghost.webng.com.",
+      "Origin": "ghost.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/gofreerecharge.webng.com..txt",
+      "NameServer": "ns1.gofreerecharge.webng.com.",
+      "Origin": "gofreerecharge.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/google2.webng.com..txt",
+      "NameServer": "ns1.google2.webng.com.",
+      "Origin": "google2.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/gram.webng.com..txt",
+      "NameServer": "ns1.gram.webng.com.",
+      "Origin": "gram.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/graylady.webng.com..txt",
+      "NameServer": "ns1.graylady.webng.com.",
+      "Origin": "graylady.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/greekwatch.webng.com..txt",
+      "NameServer": "ns1.greekwatch.webng.com.",
+      "Origin": "greekwatch.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/greminder.webng.com..txt",
+      "NameServer": "ns1.greminder.webng.com.",
+      "Origin": "greminder.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/griefangels.webng.com..txt",
+      "NameServer": "ns1.griefangels.webng.com.",
+      "Origin": "griefangels.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/guarulhosfutebolvirtual.webng.com..txt",
+      "NameServer": "ns1.guarulhosfutebolvirtual.webng.com.",
+      "Origin": "guarulhosfutebolvirtual.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/haldenbueskyttere.webng.com..txt",
+      "NameServer": "ns1.haldenbueskyttere.webng.com.",
+      "Origin": "haldenbueskyttere.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/hax0r.webng.com..txt",
+      "NameServer": "ns1.hax0r.webng.com.",
+      "Origin": "hax0r.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/hayedeh.webng.com..txt",
+      "NameServer": "ns1.hayedeh.webng.com.",
+      "Origin": "hayedeh.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/hayooyamim.webng.com..txt",
+      "NameServer": "ns1.hayooyamim.webng.com.",
+      "Origin": "hayooyamim.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/hellsofts.webng.com..txt",
+      "NameServer": "ns1.hellsofts.webng.com.",
+      "Origin": "hellsofts.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/hmands.webng.com..txt",
+      "NameServer": "ns1.hmands.webng.com.",
+      "Origin": "hmands.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/hogwartschoolcommindex.webng.com..txt",
+      "NameServer": "ns1.hogwartschoolcommindex.webng.com.",
+      "Origin": "hogwartschoolcommindex.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/hojajoceje.webng.com..txt",
+      "NameServer": "ns1.hojajoceje.webng.com.",
+      "Origin": "hojajoceje.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/horacioapry.webng.com..txt",
+      "NameServer": "ns1.horacioapry.webng.com.",
+      "Origin": "horacioapry.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/horrormoviesastuff.webng.com..txt",
+      "NameServer": "ns1.horrormoviesastuff.webng.com.",
+      "Origin": "horrormoviesastuff.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/infoweb2010.webng.com..txt",
+      "NameServer": "ns1.infoweb2010.webng.com.",
+      "Origin": "infoweb2010.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/initaofckings.webng.com..txt",
+      "NameServer": "ns1.initaofckings.webng.com.",
+      "Origin": "initaofckings.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/inthewinnerscircle.webng.com..txt",
+      "NameServer": "ns1.inthewinnerscircle.webng.com.",
+      "Origin": "inthewinnerscircle.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/intocavelfotos.webng.com..txt",
+      "NameServer": "ns1.intocavelfotos.webng.com.",
+      "Origin": "intocavelfotos.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/iprint.webng.com..txt",
+      "NameServer": "ns1.iprint.webng.com.",
+      "Origin": "iprint.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/irule.webng.com..txt",
+      "NameServer": "ns1.irule.webng.com.",
+      "Origin": "irule.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/isis100.webng.com..txt",
+      "NameServer": "ns1.isis100.webng.com.",
+      "Origin": "isis100.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jaidatta.webng.com..txt",
+      "NameServer": "ns1.jaidatta.webng.com.",
+      "Origin": "jaidatta.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/japaa.webng.com..txt",
+      "NameServer": "ns1.japaa.webng.com.",
+      "Origin": "japaa.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/javarulx.webng.com..txt",
+      "NameServer": "ns1.javarulx.webng.com.",
+      "Origin": "javarulx.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jdbener.webng.com..txt",
+      "NameServer": "ns1.jdbener.webng.com.",
+      "Origin": "jdbener.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jendj192.webng.com..txt",
+      "NameServer": "ns1.jendj192.webng.com.",
+      "Origin": "jendj192.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jighil24k12.webng.com..txt",
+      "NameServer": "ns1.jighil24k12.webng.com.",
+      "Origin": "jighil24k12.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jighil24k6.webng.com..txt",
+      "NameServer": "ns1.jighil24k6.webng.com.",
+      "Origin": "jighil24k6.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jighilhollywoodundead.webng.com..txt",
+      "NameServer": "ns1.jighilhollywoodundead.webng.com.",
+      "Origin": "jighilhollywoodundead.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jighilkeane.webng.com..txt",
+      "NameServer": "ns1.jighilkeane.webng.com.",
+      "Origin": "jighilkeane.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jighilmariedigby.webng.com..txt",
+      "NameServer": "ns1.jighilmariedigby.webng.com.",
+      "Origin": "jighilmariedigby.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jighilrobinthicke.webng.com..txt",
+      "NameServer": "ns1.jighilrobinthicke.webng.com.",
+      "Origin": "jighilrobinthicke.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jitesh.webng.com..txt",
+      "NameServer": "ns1.jitesh.webng.com.",
+      "Origin": "jitesh.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jogsite.webng.com..txt",
+      "NameServer": "ns1.jogsite.webng.com.",
+      "Origin": "jogsite.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jordanrudy.webng.com..txt",
+      "NameServer": "ns1.jordanrudy.webng.com.",
+      "Origin": "jordanrudy.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/jornalismoseti.webng.com..txt",
+      "NameServer": "ns1.jornalismoseti.webng.com.",
+      "Origin": "jornalismoseti.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/josecrespin.webng.com..txt",
+      "NameServer": "ns1.josecrespin.webng.com.",
+      "Origin": "josecrespin.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/joshuadave143.webng.com..txt",
+      "NameServer": "ns1.joshuadave143.webng.com.",
+      "Origin": "joshuadave143.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/joshualangit123.webng.com..txt",
+      "NameServer": "ns1.joshualangit123.webng.com.",
+      "Origin": "joshualangit123.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/joyls.webng.com..txt",
+      "NameServer": "ns1.joyls.webng.com.",
+      "Origin": "joyls.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/justintv.us.webng.com..txt",
+      "NameServer": "ns1.justintv.us.webng.com.",
+      "Origin": "justintv.us.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/justintv.webng.com..txt",
+      "NameServer": "ns1.justintv.webng.com.",
+      "Origin": "justintv.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/kanihtimes.webng.com..txt",
+      "NameServer": "ns1.kanihtimes.webng.com.",
+      "Origin": "kanihtimes.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/kcarnduff.webng.com..txt",
+      "NameServer": "ns1.kcarnduff.webng.com.",
+      "Origin": "kcarnduff.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/kclauson.webng.com..txt",
+      "NameServer": "ns1.kclauson.webng.com.",
+      "Origin": "kclauson.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/keyvanjoon.webng.com..txt",
+      "NameServer": "ns1.keyvanjoon.webng.com.",
+      "Origin": "keyvanjoon.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/kievintim.webng.com..txt",
+      "NameServer": "ns1.kievintim.webng.com.",
+      "Origin": "kievintim.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/kinikdeliler.webng.com..txt",
+      "NameServer": "ns1.kinikdeliler.webng.com.",
+      "Origin": "kinikdeliler.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/kitsecreto.webng.com..txt",
+      "NameServer": "ns1.kitsecreto.webng.com.",
+      "Origin": "kitsecreto.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/kitsegredo.webng.com..txt",
+      "NameServer": "ns1.kitsegredo.webng.com.",
+      "Origin": "kitsegredo.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ksboys.webng.com..txt",
+      "NameServer": "ns1.ksboys.webng.com.",
+      "Origin": "ksboys.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/laghouat.webng.com..txt",
+      "NameServer": "ns1.laghouat.webng.com.",
+      "Origin": "laghouat.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/lekhthdat.webng.com..txt",
+      "NameServer": "ns1.lekhthdat.webng.com.",
+      "Origin": "lekhthdat.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/linuxman.webng.com..txt",
+      "NameServer": "ns1.linuxman.webng.com.",
+      "Origin": "linuxman.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/lisabernhard.webng.com..txt",
+      "NameServer": "ns1.lisabernhard.webng.com.",
+      "Origin": "lisabernhard.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/locus.webng.com..txt",
+      "NameServer": "ns1.locus.webng.com.",
+      "Origin": "locus.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/lodging4all.webng.com..txt",
+      "NameServer": "ns1.lodging4all.webng.com.",
+      "Origin": "lodging4all.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/lol2008.webng.com..txt",
+      "NameServer": "ns1.lol2008.webng.com.",
+      "Origin": "lol2008.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/louisiana.webng.com..txt",
+      "NameServer": "ns1.louisiana.webng.com.",
+      "Origin": "louisiana.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/lytikajora.webng.com..txt",
+      "NameServer": "ns1.lytikajora.webng.com.",
+      "Origin": "lytikajora.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/macmaster13.webng.com..txt",
+      "NameServer": "ns1.macmaster13.webng.com.",
+      "Origin": "macmaster13.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/madkat.webng.com..txt",
+      "NameServer": "ns1.madkat.webng.com.",
+      "Origin": "madkat.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/makuha.webng.com..txt",
+      "NameServer": "ns1.makuha.webng.com.",
+      "Origin": "makuha.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/mambos.webng.com..txt",
+      "NameServer": "ns1.mambos.webng.com.",
+      "Origin": "mambos.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/manilius.webng.com..txt",
+      "NameServer": "ns1.manilius.webng.com.",
+      "Origin": "manilius.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/marcosvendramini.webng.com..txt",
+      "NameServer": "ns1.marcosvendramini.webng.com.",
+      "Origin": "marcosvendramini.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/massensalon.webng.com..txt",
+      "NameServer": "ns1.massensalon.webng.com.",
+      "Origin": "massensalon.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/mastercardbrasil.webng.com..txt",
+      "NameServer": "ns1.mastercardbrasil.webng.com.",
+      "Origin": "mastercardbrasil.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/mazlumi.webng.com..txt",
+      "NameServer": "ns1.mazlumi.webng.com.",
+      "Origin": "mazlumi.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/mmsclips.webng.com..txt",
+      "NameServer": "ns1.mmsclips.webng.com.",
+      "Origin": "mmsclips.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/momirfarooq.webng.com..txt",
+      "NameServer": "ns1.momirfarooq.webng.com.",
+      "Origin": "momirfarooq.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/morcadon.webng.com..txt",
+      "NameServer": "ns1.morcadon.webng.com.",
+      "Origin": "morcadon.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/mp3forall.webng.com..txt",
+      "NameServer": "ns1.mp3forall.webng.com.",
+      "Origin": "mp3forall.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/mulambosot.webng.com..txt",
+      "NameServer": "ns1.mulambosot.webng.com.",
+      "Origin": "mulambosot.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/necqueproofdeg.webng.com..txt",
+      "NameServer": "ns1.necqueproofdeg.webng.com.",
+      "Origin": "necqueproofdeg.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/newarklocksmith.webng.com..txt",
+      "NameServer": "ns1.newarklocksmith.webng.com.",
+      "Origin": "newarklocksmith.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/nihongo.webng.com..txt",
+      "NameServer": "ns1.nihongo.webng.com.",
+      "Origin": "nihongo.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/noitepremiada.webng.com..txt",
+      "NameServer": "ns1.noitepremiada.webng.com.",
+      "Origin": "noitepremiada.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/nokstern.webng.com..txt",
+      "NameServer": "ns1.nokstern.webng.com.",
+      "Origin": "nokstern.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/nyubai.webng.com..txt",
+      "NameServer": "ns1.nyubai.webng.com.",
+      "Origin": "nyubai.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ococotaseco.webng.com..txt",
+      "NameServer": "ns1.ococotaseco.webng.com.",
+      "Origin": "ococotaseco.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ococotasecobsb.webng.com..txt",
+      "NameServer": "ns1.ococotasecobsb.webng.com.",
+      "Origin": "ococotasecobsb.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ocpoetry.webng.com..txt",
+      "NameServer": "ns1.ocpoetry.webng.com.",
+      "Origin": "ocpoetry.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/olimpianosrj.webng.com..txt",
+      "NameServer": "ns1.olimpianosrj.webng.com.",
+      "Origin": "olimpianosrj.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/omelski.webng.com..txt",
+      "NameServer": "ns1.omelski.webng.com.",
+      "Origin": "omelski.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/onlineephedra.webng.com..txt",
+      "NameServer": "ns1.onlineephedra.webng.com.",
+      "Origin": "onlineephedra.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/onsiteoptimization.webng.com..txt",
+      "NameServer": "ns1.onsiteoptimization.webng.com.",
+      "Origin": "onsiteoptimization.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/paklaystepler.webng.com..txt",
+      "NameServer": "ns1.paklaystepler.webng.com.",
+      "Origin": "paklaystepler.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/pcastilloashoka.webng.com..txt",
+      "NameServer": "ns1.pcastilloashoka.webng.com.",
+      "Origin": "pcastilloashoka.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/peraicasseta.webng.com..txt",
+      "NameServer": "ns1.peraicasseta.webng.com.",
+      "Origin": "peraicasseta.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/phattra.webng.com..txt",
+      "NameServer": "ns1.phattra.webng.com.",
+      "Origin": "phattra.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/pinkfloyd.webng.com..txt",
+      "NameServer": "ns1.pinkfloyd.webng.com.",
+      "Origin": "pinkfloyd.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/pinoybroadcast1.webng.com..txt",
+      "NameServer": "ns1.pinoybroadcast1.webng.com.",
+      "Origin": "pinoybroadcast1.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/pinoybroadcast4.webng.com..txt",
+      "NameServer": "ns1.pinoybroadcast4.webng.com.",
+      "Origin": "pinoybroadcast4.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/pinoytel.webng.com..txt",
+      "NameServer": "ns1.pinoytel.webng.com.",
+      "Origin": "pinoytel.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/pinytel.webng.com..txt",
+      "NameServer": "ns1.pinytel.webng.com.",
+      "Origin": "pinytel.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/plexplex.webng.com..txt",
+      "NameServer": "ns1.plexplex.webng.com.",
+      "Origin": "plexplex.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/putananet.webng.com..txt",
+      "NameServer": "ns1.putananet.webng.com.",
+      "Origin": "putananet.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/qronoz.wp.webng.com..txt",
+      "NameServer": "ns1.qronoz.wp.webng.com.",
+      "Origin": "qronoz.wp.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ranmath.webng.com..txt",
+      "NameServer": "ns1.ranmath.webng.com.",
+      "Origin": "ranmath.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/raybrazen.webng.com..txt",
+      "NameServer": "ns1.raybrazen.webng.com.",
+      "Origin": "raybrazen.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/raycharles.webng.com..txt",
+      "NameServer": "ns1.raycharles.webng.com.",
+      "Origin": "raycharles.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/razorcuts.webng.com..txt",
+      "NameServer": "ns1.razorcuts.webng.com.",
+      "Origin": "razorcuts.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/realdownload.webng.com..txt",
+      "NameServer": "ns1.realdownload.webng.com.",
+      "Origin": "realdownload.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/realityshift.webng.com..txt",
+      "NameServer": "ns1.realityshift.webng.com.",
+      "Origin": "realityshift.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/rechargefreedemo.webng.com..txt",
+      "NameServer": "ns1.rechargefreedemo.webng.com.",
+      "Origin": "rechargefreedemo.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/rechargefreee.webng.com..txt",
+      "NameServer": "ns1.rechargefreee.webng.com.",
+      "Origin": "rechargefreee.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/rhapsodydownload.webng.com..txt",
+      "NameServer": "ns1.rhapsodydownload.webng.com.",
+      "Origin": "rhapsodydownload.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/rihymonima.webng.com..txt",
+      "NameServer": "ns1.rihymonima.webng.com.",
+      "Origin": "rihymonima.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/rixmaestro.webng.com..txt",
+      "NameServer": "ns1.rixmaestro.webng.com.",
+      "Origin": "rixmaestro.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/rt1rt.webng.com..txt",
+      "NameServer": "ns1.rt1rt.webng.com.",
+      "Origin": "rt1rt.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ryansttcphotos.webng.com..txt",
+      "NameServer": "ns1.ryansttcphotos.webng.com.",
+      "Origin": "ryansttcphotos.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/safetylife.webng.com..txt",
+      "NameServer": "ns1.safetylife.webng.com.",
+      "Origin": "safetylife.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/santhoshtinku.webng.com..txt",
+      "NameServer": "ns1.santhoshtinku.webng.com.",
+      "Origin": "santhoshtinku.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/sax1.webng.com..txt",
+      "NameServer": "ns1.sax1.webng.com.",
+      "Origin": "sax1.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/sbproductions.webng.com..txt",
+      "NameServer": "ns1.sbproductions.webng.com.",
+      "Origin": "sbproductions.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/scriptx.webng.com..txt",
+      "NameServer": "ns1.scriptx.webng.com.",
+      "Origin": "scriptx.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/segredounico.webng.com..txt",
+      "NameServer": "ns1.segredounico.webng.com.",
+      "Origin": "segredounico.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/sekoliak.webng.com..txt",
+      "NameServer": "ns1.sekoliak.webng.com.",
+      "Origin": "sekoliak.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/sentidounicoo.webng.com..txt",
+      "NameServer": "ns1.sentidounicoo.webng.com.",
+      "Origin": "sentidounicoo.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/serefokonu.webng.com..txt",
+      "NameServer": "ns1.serefokonu.webng.com.",
+      "Origin": "serefokonu.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/serirarywi.webng.com..txt",
+      "NameServer": "ns1.serirarywi.webng.com.",
+      "Origin": "serirarywi.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/servern.webng.com..txt",
+      "NameServer": "ns1.servern.webng.com.",
+      "Origin": "servern.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/seunegociosemrisco.webng.com..txt",
+      "NameServer": "ns1.seunegociosemrisco.webng.com.",
+      "Origin": "seunegociosemrisco.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/shareclips.webng.com..txt",
+      "NameServer": "ns1.shareclips.webng.com.",
+      "Origin": "shareclips.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/shidhincr.webng.com..txt",
+      "NameServer": "ns1.shidhincr.webng.com.",
+      "Origin": "shidhincr.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/soskinet.webng.com..txt",
+      "NameServer": "ns1.soskinet.webng.com.",
+      "Origin": "soskinet.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/speed9.webng.com..txt",
+      "NameServer": "ns1.speed9.webng.com.",
+      "Origin": "speed9.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/spell32.webng.com..txt",
+      "NameServer": "ns1.spell32.webng.com.",
+      "Origin": "spell32.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/splurge2000.webng.com..txt",
+      "NameServer": "ns1.splurge2000.webng.com.",
+      "Origin": "splurge2000.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/sportchannel.webng.com..txt",
+      "NameServer": "ns1.sportchannel.webng.com.",
+      "Origin": "sportchannel.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/sportsknowers.webng.com..txt",
+      "NameServer": "ns1.sportsknowers.webng.com.",
+      "Origin": "sportsknowers.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/sreeforu.webng.com..txt",
+      "NameServer": "ns1.sreeforu.webng.com.",
+      "Origin": "sreeforu.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/sriramganapathy.webng.com..txt",
+      "NameServer": "ns1.sriramganapathy.webng.com.",
+      "Origin": "sriramganapathy.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/stampslandia.webng.com..txt",
+      "NameServer": "ns1.stampslandia.webng.com.",
+      "Origin": "stampslandia.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/starvos.webng.com..txt",
+      "NameServer": "ns1.starvos.webng.com.",
+      "Origin": "starvos.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/strokins.webng.com..txt",
+      "NameServer": "ns1.strokins.webng.com.",
+      "Origin": "strokins.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/taresunuwe.webng.com..txt",
+      "NameServer": "ns1.taresunuwe.webng.com.",
+      "Origin": "taresunuwe.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/temdetudo.webng.com..txt",
+      "NameServer": "ns1.temdetudo.webng.com.",
+      "Origin": "temdetudo.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/theimage.webng.com..txt",
+      "NameServer": "ns1.theimage.webng.com.",
+      "Origin": "theimage.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/thptlongthoi.webng.com..txt",
+      "NameServer": "ns1.thptlongthoi.webng.com.",
+      "Origin": "thptlongthoi.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/toribash.webng.com..txt",
+      "NameServer": "ns1.toribash.webng.com.",
+      "Origin": "toribash.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/trostfick.webng.com..txt",
+      "NameServer": "ns1.trostfick.webng.com.",
+      "Origin": "trostfick.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/tryc.webng.com..txt",
+      "NameServer": "ns1.tryc.webng.com.",
+      "Origin": "tryc.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/ttstudent.webng.com..txt",
+      "NameServer": "ns1.ttstudent.webng.com.",
+      "Origin": "ttstudent.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/tutes.webng.com..txt",
+      "NameServer": "ns1.tutes.webng.com.",
+      "Origin": "tutes.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/tvnopchd.webng.com..txt",
+      "NameServer": "ns1.tvnopchd.webng.com.",
+      "Origin": "tvnopchd.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/uerulis.webng.com..txt",
+      "NameServer": "ns1.uerulis.webng.com.",
+      "Origin": "uerulis.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/urineinlauf.webng.com..txt",
+      "NameServer": "ns1.urineinlauf.webng.com.",
+      "Origin": "urineinlauf.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/user1087.webng.com..txt",
+      "NameServer": "ns1.user1087.webng.com.",
+      "Origin": "user1087.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/vector.webng.com..txt",
+      "NameServer": "ns1.vector.webng.com.",
+      "Origin": "vector.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/vijaysangameswar.webng.com..txt",
+      "NameServer": "ns1.vijaysangameswar.webng.com.",
+      "Origin": "vijaysangameswar.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/wadihsaadeh.webng.com..txt",
+      "NameServer": "ns1.wadihsaadeh.webng.com.",
+      "Origin": "wadihsaadeh.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/waikiki.webng.com..txt",
+      "NameServer": "ns1.waikiki.webng.com.",
+      "Origin": "waikiki.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/walnutcreeklocksmith.webng.com..txt",
+      "NameServer": "ns1.walnutcreeklocksmith.webng.com.",
+      "Origin": "walnutcreeklocksmith.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/webng.com..txt",
+      "NameServer": "ns1.webng.com.",
+      "Origin": "webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/wichsorgie.webng.com..txt",
+      "NameServer": "ns1.wichsorgie.webng.com.",
+      "Origin": "wichsorgie.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/wowruler.webng.com..txt",
+      "NameServer": "ns1.wowruler.webng.com.",
+      "Origin": "wowruler.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/wp.webng.com..txt",
+      "NameServer": "ns1.wp.webng.com.",
+      "Origin": "wp.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www.banglar.webng.com..txt",
+      "NameServer": "ns1.www.banglar.webng.com.",
+      "Origin": "www.banglar.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www.lisabernhard.webng.com..txt",
+      "NameServer": "ns1.www.lisabernhard.webng.com.",
+      "Origin": "www.lisabernhard.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www.vinoth87.webng.com..txt",
+      "NameServer": "ns1.www.vinoth87.webng.com.",
+      "Origin": "www.vinoth87.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www.webng.com..txt",
+      "NameServer": "ns1.www.webng.com.",
+      "Origin": "www.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www1.webng.com..txt",
+      "NameServer": "ns1.www1.webng.com.",
+      "Origin": "www1.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www10.webng.com..txt",
+      "NameServer": "ns1.www10.webng.com.",
+      "Origin": "www10.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www2.webng.com..txt",
+      "NameServer": "ns1.www2.webng.com.",
+      "Origin": "www2.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www3.webng.com..txt",
+      "NameServer": "ns1.www3.webng.com.",
+      "Origin": "www3.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www4.webng.com..txt",
+      "NameServer": "ns1.www4.webng.com.",
+      "Origin": "www4.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www5.webng.com..txt",
+      "NameServer": "ns1.www5.webng.com.",
+      "Origin": "www5.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/www6.webng.com..txt",
+      "NameServer": "ns1.www6.webng.com.",
+      "Origin": "www6.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/xfmobile.webng.com..txt",
+      "NameServer": "ns1.xfmobile.webng.com.",
+      "Origin": "xfmobile.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/xmas2010.webng.com..txt",
+      "NameServer": "ns1.xmas2010.webng.com.",
+      "Origin": "xmas2010.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/xuantruong004.webng.com..txt",
+      "NameServer": "ns1.xuantruong004.webng.com.",
+      "Origin": "xuantruong004.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/xx2xx22x.webng.com..txt",
+      "NameServer": "ns1.xx2xx22x.webng.com.",
+      "Origin": "xx2xx22x.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/yahoomailplus.webng.com..txt",
+      "NameServer": "ns1.yahoomailplus.webng.com.",
+      "Origin": "yahoomailplus.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/yooglegahoo.webng.com..txt",
+      "NameServer": "ns1.yooglegahoo.webng.com.",
+      "Origin": "yooglegahoo.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/yqysyhug.webng.com..txt",
+      "NameServer": "ns1.yqysyhug.webng.com.",
+      "Origin": "yqysyhug.webng.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/webng.com/zyzix08.webng.com..txt",
+      "NameServer": "ns1.zyzix08.webng.com.",
+      "Origin": "zyzix08.webng.com."
+    }
+  ]
+}

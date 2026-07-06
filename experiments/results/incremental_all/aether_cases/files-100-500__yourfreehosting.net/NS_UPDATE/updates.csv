@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yourfreehosting.net,accordion2.yourfreehosting.net..txt,NS_UPDATE,DEL,accordion2.yourfreehosting.net.,NS,ns1.sedoparking.com.
+files-100-500/yourfreehosting.net,accordion2.yourfreehosting.net..txt,NS_UPDATE,ADD,accordion2.yourfreehosting.net.,NS,ns-inc.accordion2.yourfreehosting.net.

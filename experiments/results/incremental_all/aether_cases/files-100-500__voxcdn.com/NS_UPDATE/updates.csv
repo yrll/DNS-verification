@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/voxcdn.com,voxcdn.com..txt,NS_UPDATE,DEL,voxcdn.com.,NS,ns1.voxcdn.net.
+files-100-500/voxcdn.com,voxcdn.com..txt,NS_UPDATE,ADD,voxcdn.com.,NS,ns-inc.voxcdn.com.

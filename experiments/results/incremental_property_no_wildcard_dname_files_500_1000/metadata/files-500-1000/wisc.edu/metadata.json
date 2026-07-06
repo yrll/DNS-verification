@@ -1,0 +1,2902 @@
+{
+  "TopNameServers": [
+    "ns1.wisc.edu."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/333ecm.wisc.edu..txt",
+      "NameServer": "ns1.333ecm.wisc.edu.",
+      "Origin": "333ecm.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/aac.wisc.edu..txt",
+      "NameServer": "ns1.aac.wisc.edu.",
+      "Origin": "aac.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/aae.wisc.edu..txt",
+      "NameServer": "ns1.aae.wisc.edu.",
+      "Origin": "aae.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/academic-staff.wisc.edu..txt",
+      "NameServer": "ns1.academic-staff.wisc.edu.",
+      "Origin": "academic-staff.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/access.wisc.edu..txt",
+      "NameServer": "ns1.access.wisc.edu.",
+      "Origin": "access.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/acstaff.wisc.edu..txt",
+      "NameServer": "ns1.acstaff.wisc.edu.",
+      "Origin": "acstaff.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ad.aqua.wisc.edu..txt",
+      "NameServer": "ns1.ad.aqua.wisc.edu.",
+      "Origin": "ad.aqua.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ad.education.wisc.edu..txt",
+      "NameServer": "ns1.ad.education.wisc.edu.",
+      "Origin": "ad.education.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ad.epi.ophth.wisc.edu..txt",
+      "NameServer": "ns1.ad.epi.ophth.wisc.edu.",
+      "Origin": "ad.epi.ophth.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ad.ophth.wisc.edu..txt",
+      "NameServer": "ns1.ad.ophth.wisc.edu.",
+      "Origin": "ad.ophth.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ad.slh.wisc.edu..txt",
+      "NameServer": "ns1.ad.slh.wisc.edu.",
+      "Origin": "ad.slh.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/admin.wisc.edu..txt",
+      "NameServer": "ns1.admin.wisc.edu.",
+      "Origin": "admin.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/admissions.wisc.edu..txt",
+      "NameServer": "ns1.admissions.wisc.edu.",
+      "Origin": "admissions.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ads.ssc.wisc.edu..txt",
+      "NameServer": "ns1.ads.ssc.wisc.edu.",
+      "Origin": "ads.ssc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/africa.wisc.edu..txt",
+      "NameServer": "ns1.africa.wisc.edu.",
+      "Origin": "africa.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/afroamericanstudies.wisc.edu..txt",
+      "NameServer": "ns1.afroamericanstudies.wisc.edu.",
+      "Origin": "afroamericanstudies.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/aging.wisc.edu..txt",
+      "NameServer": "ns1.aging.wisc.edu.",
+      "Origin": "aging.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/agingresearch.wisc.edu..txt",
+      "NameServer": "ns1.agingresearch.wisc.edu.",
+      "Origin": "agingresearch.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/agroecology.wisc.edu..txt",
+      "NameServer": "ns1.agroecology.wisc.edu.",
+      "Origin": "agroecology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/agronomy.wisc.edu..txt",
+      "NameServer": "ns1.agronomy.wisc.edu.",
+      "Origin": "agronomy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ahabs.wisc.edu..txt",
+      "NameServer": "ns1.ahabs.wisc.edu.",
+      "Origin": "ahabs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ahec.wisc.edu..txt",
+      "NameServer": "ns1.ahec.wisc.edu.",
+      "Origin": "ahec.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/aims.wisc.edu..txt",
+      "NameServer": "ns1.aims.wisc.edu.",
+      "Origin": "aims.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/amanda.wisc.edu..txt",
+      "NameServer": "ns1.amanda.wisc.edu.",
+      "Origin": "amanda.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/amindian.wisc.edu..txt",
+      "NameServer": "ns1.amindian.wisc.edu.",
+      "Origin": "amindian.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/anatomy.wisc.edu..txt",
+      "NameServer": "ns1.anatomy.wisc.edu.",
+      "Origin": "anatomy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/anesthesia.wisc.edu..txt",
+      "NameServer": "ns1.anesthesia.wisc.edu.",
+      "Origin": "anesthesia.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ansci.wisc.edu..txt",
+      "NameServer": "ns1.ansci.wisc.edu.",
+      "Origin": "ansci.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/anthropology.wisc.edu..txt",
+      "NameServer": "ns1.anthropology.wisc.edu.",
+      "Origin": "anthropology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/aos.wisc.edu..txt",
+      "NameServer": "ns1.aos.wisc.edu.",
+      "Origin": "aos.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/apa.wisc.edu..txt",
+      "NameServer": "ns1.apa.wisc.edu.",
+      "Origin": "apa.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/apl.wisc.edu..txt",
+      "NameServer": "ns1.apl.wisc.edu.",
+      "Origin": "apl.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/aqua.wisc.edu..txt",
+      "NameServer": "ns1.aqua.wisc.edu.",
+      "Origin": "aqua.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/arch.wisc.edu..txt",
+      "NameServer": "ns1.arch.wisc.edu.",
+      "Origin": "arch.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/arrow.wisc.edu..txt",
+      "NameServer": "ns1.arrow.wisc.edu.",
+      "Origin": "arrow.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/arrowdev2.wisc.edu..txt",
+      "NameServer": "ns1.arrowdev2.wisc.edu.",
+      "Origin": "arrowdev2.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/arrowtest.wisc.edu..txt",
+      "NameServer": "ns1.arrowtest.wisc.edu.",
+      "Origin": "arrowtest.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ars.wisc.edu..txt",
+      "NameServer": "ns1.ars.wisc.edu.",
+      "Origin": "ars.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/art.wisc.edu..txt",
+      "NameServer": "ns1.art.wisc.edu.",
+      "Origin": "art.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/arthistory.wisc.edu..txt",
+      "NameServer": "ns1.arthistory.wisc.edu.",
+      "Origin": "arthistory.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/arts.wisc.edu..txt",
+      "NameServer": "ns1.arts.wisc.edu.",
+      "Origin": "arts.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/artsenterprise.wisc.edu..txt",
+      "NameServer": "ns1.artsenterprise.wisc.edu.",
+      "Origin": "artsenterprise.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/asm.wisc.edu..txt",
+      "NameServer": "ns1.asm.wisc.edu.",
+      "Origin": "asm.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/aspi.wisc.edu..txt",
+      "NameServer": "ns1.aspi.wisc.edu.",
+      "Origin": "aspi.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/astro.wisc.edu..txt",
+      "NameServer": "ns1.astro.wisc.edu.",
+      "Origin": "astro.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/athletics.wisc.edu..txt",
+      "NameServer": "ns1.athletics.wisc.edu.",
+      "Origin": "athletics.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/babcock.wisc.edu..txt",
+      "NameServer": "ns1.babcock.wisc.edu.",
+      "Origin": "babcock.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/babcockhalldairystore.wisc.edu..txt",
+      "NameServer": "ns1.babcockhalldairystore.wisc.edu.",
+      "Origin": "babcockhalldairystore.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bact.wisc.edu..txt",
+      "NameServer": "ns1.bact.wisc.edu.",
+      "Origin": "bact.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/badgersabroad.wisc.edu..txt",
+      "NameServer": "ns1.badgersabroad.wisc.edu.",
+      "Origin": "badgersabroad.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/baja.wisc.edu..txt",
+      "NameServer": "ns1.baja.wisc.edu.",
+      "Origin": "baja.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bascom.wisc.edu..txt",
+      "NameServer": "ns1.bascom.wisc.edu.",
+      "Origin": "bascom.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/basis.wisc.edu..txt",
+      "NameServer": "ns1.basis.wisc.edu.",
+      "Origin": "basis.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bcg.wisc.edu..txt",
+      "NameServer": "ns1.bcg.wisc.edu.",
+      "Origin": "bcg.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/biochem.wisc.edu..txt",
+      "NameServer": "ns1.biochem.wisc.edu.",
+      "Origin": "biochem.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/biocomp.wisc.edu..txt",
+      "NameServer": "ns1.biocomp.wisc.edu.",
+      "Origin": "biocomp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bioimaging.wisc.edu..txt",
+      "NameServer": "ns1.bioimaging.wisc.edu.",
+      "Origin": "bioimaging.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/biology.wisc.edu..txt",
+      "NameServer": "ns1.biology.wisc.edu.",
+      "Origin": "biology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/biome.wisc.edu..txt",
+      "NameServer": "ns1.biome.wisc.edu.",
+      "Origin": "biome.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/biostat.wisc.edu..txt",
+      "NameServer": "ns1.biostat.wisc.edu.",
+      "Origin": "biostat.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/biotech.wisc.edu..txt",
+      "NameServer": "ns1.biotech.wisc.edu.",
+      "Origin": "biotech.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/biotron.wisc.edu..txt",
+      "NameServer": "ns1.biotron.wisc.edu.",
+      "Origin": "biotron.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bme.wisc.edu..txt",
+      "NameServer": "ns1.bme.wisc.edu.",
+      "Origin": "bme.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bmec.wisc.edu..txt",
+      "NameServer": "ns1.bmec.wisc.edu.",
+      "Origin": "bmec.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bmolchem.wisc.edu..txt",
+      "NameServer": "ns1.bmolchem.wisc.edu.",
+      "Origin": "bmolchem.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bmrb.wisc.edu..txt",
+      "NameServer": "ns1.bmrb.wisc.edu.",
+      "Origin": "bmrb.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bocklabs.wisc.edu..txt",
+      "NameServer": "ns1.bocklabs.wisc.edu.",
+      "Origin": "bocklabs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/botany.wisc.edu..txt",
+      "NameServer": "ns1.botany.wisc.edu.",
+      "Origin": "botany.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/brainimaging.waisman.wisc.edu..txt",
+      "NameServer": "ns1.brainimaging.waisman.wisc.edu.",
+      "Origin": "brainimaging.waisman.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/brainmap.wisc.edu..txt",
+      "NameServer": "ns1.brainmap.wisc.edu.",
+      "Origin": "brainmap.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bse.wisc.edu..txt",
+      "NameServer": "ns1.bse.wisc.edu.",
+      "Origin": "bse.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/btcs.wisc.edu..txt",
+      "NameServer": "ns1.btcs.wisc.edu.",
+      "Origin": "btcs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/btp.wisc.edu..txt",
+      "NameServer": "ns1.btp.wisc.edu.",
+      "Origin": "btp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/budget.wisc.edu..txt",
+      "NameServer": "ns1.budget.wisc.edu.",
+      "Origin": "budget.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bus.wisc.edu..txt",
+      "NameServer": "ns1.bus.wisc.edu.",
+      "Origin": "bus.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/bussvc.wisc.edu..txt",
+      "NameServer": "ns1.bussvc.wisc.edu.",
+      "Origin": "bussvc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cae.wisc.edu..txt",
+      "NameServer": "ns1.cae.wisc.edu.",
+      "Origin": "cae.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cals.wisc.edu..txt",
+      "NameServer": "ns1.cals.wisc.edu.",
+      "Origin": "cals.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/campusareahousing.wisc.edu..txt",
+      "NameServer": "ns1.campusareahousing.wisc.edu.",
+      "Origin": "campusareahousing.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cancer.wisc.edu..txt",
+      "NameServer": "ns1.cancer.wisc.edu.",
+      "Origin": "cancer.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cancerbiology.wisc.edu..txt",
+      "NameServer": "ns1.cancerbiology.wisc.edu.",
+      "Origin": "cancerbiology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cbe.wisc.edu..txt",
+      "NameServer": "ns1.cbe.wisc.edu.",
+      "Origin": "cbe.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ccp.wisc.edu..txt",
+      "NameServer": "ns1.ccp.wisc.edu.",
+      "Origin": "ccp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cdp.wisc.edu..txt",
+      "NameServer": "ns1.cdp.wisc.edu.",
+      "Origin": "cdp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cdr.wisc.edu..txt",
+      "NameServer": "ns1.cdr.wisc.edu.",
+      "Origin": "cdr.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cee.wisc.edu..txt",
+      "NameServer": "ns1.cee.wisc.edu.",
+      "Origin": "cee.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ces.wisc.edu..txt",
+      "NameServer": "ns1.ces.wisc.edu.",
+      "Origin": "ces.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cew.wisc.edu..txt",
+      "NameServer": "ns1.cew.wisc.edu.",
+      "Origin": "cew.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cfl.wisc.edu..txt",
+      "NameServer": "ns1.cfl.wisc.edu.",
+      "Origin": "cfl.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cfli.wisc.edu..txt",
+      "NameServer": "ns1.cfli.wisc.edu.",
+      "Origin": "cfli.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/chancellor.wisc.edu..txt",
+      "NameServer": "ns1.chancellor.wisc.edu.",
+      "Origin": "chancellor.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/chancellorsearch.wisc.edu..txt",
+      "NameServer": "ns1.chancellorsearch.wisc.edu.",
+      "Origin": "chancellorsearch.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/charge.wisc.edu..txt",
+      "NameServer": "ns1.charge.wisc.edu.",
+      "Origin": "charge.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/chazen.wisc.edu..txt",
+      "NameServer": "ns1.chazen.wisc.edu.",
+      "Origin": "chazen.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/che.wisc.edu..txt",
+      "NameServer": "ns1.che.wisc.edu.",
+      "Origin": "che.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/chem.wisc.edu..txt",
+      "NameServer": "ns1.chem.wisc.edu.",
+      "Origin": "chem.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/chess.wisc.edu..txt",
+      "NameServer": "ns1.chess.wisc.edu.",
+      "Origin": "chess.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/chicla.wisc.edu..txt",
+      "NameServer": "ns1.chicla.wisc.edu.",
+      "Origin": "chicla.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/chsra.wisc.edu..txt",
+      "NameServer": "ns1.chsra.wisc.edu.",
+      "Origin": "chsra.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/chtc.wisc.edu..txt",
+      "NameServer": "ns1.chtc.wisc.edu.",
+      "Origin": "chtc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cias.wisc.edu..txt",
+      "NameServer": "ns1.cias.wisc.edu.",
+      "Origin": "cias.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cibm.wisc.edu..txt",
+      "NameServer": "ns1.cibm.wisc.edu.",
+      "Origin": "cibm.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cinema.wisc.edu..txt",
+      "NameServer": "ns1.cinema.wisc.edu.",
+      "Origin": "cinema.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cio.wisc.edu..txt",
+      "NameServer": "ns1.cio.wisc.edu.",
+      "Origin": "cio.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/civc.wisc.edu..txt",
+      "NameServer": "ns1.civc.wisc.edu.",
+      "Origin": "civc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/classlists.wisc.edu..txt",
+      "NameServer": "ns1.classlists.wisc.edu.",
+      "Origin": "classlists.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cls.wisc.edu..txt",
+      "NameServer": "ns1.cls.wisc.edu.",
+      "Origin": "cls.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cluster.waisman.wisc.edu..txt",
+      "NameServer": "ns1.cluster.waisman.wisc.edu.",
+      "Origin": "cluster.waisman.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/clusters.wisc.edu..txt",
+      "NameServer": "ns1.clusters.wisc.edu.",
+      "Origin": "clusters.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cmc.me.wisc.edu..txt",
+      "NameServer": "ns1.cmc.me.wisc.edu.",
+      "Origin": "cmc.me.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cme.wisc.edu..txt",
+      "NameServer": "ns1.cme.wisc.edu.",
+      "Origin": "cme.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cne.wisc.edu..txt",
+      "NameServer": "ns1.cne.wisc.edu.",
+      "Origin": "cne.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cogsci.wisc.edu..txt",
+      "NameServer": "ns1.cogsci.wisc.edu.",
+      "Origin": "cogsci.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/college.library.wisc.edu..txt",
+      "NameServer": "ns1.college.library.wisc.edu.",
+      "Origin": "college.library.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/comdis.wisc.edu..txt",
+      "NameServer": "ns1.comdis.wisc.edu.",
+      "Origin": "comdis.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/comets.wisc.edu..txt",
+      "NameServer": "ns1.comets.wisc.edu.",
+      "Origin": "comets.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/comm-org.wisc.edu..txt",
+      "NameServer": "ns1.comm-org.wisc.edu.",
+      "Origin": "comm-org.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/commarts.wisc.edu..txt",
+      "NameServer": "ns1.commarts.wisc.edu.",
+      "Origin": "commarts.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/commencement.wisc.edu..txt",
+      "NameServer": "ns1.commencement.wisc.edu.",
+      "Origin": "commencement.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/conneyproject.wisc.edu..txt",
+      "NameServer": "ns1.conneyproject.wisc.edu.",
+      "Origin": "conneyproject.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/conservation-training.wisc.edu..txt",
+      "NameServer": "ns1.conservation-training.wisc.edu.",
+      "Origin": "conservation-training.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/continuingstudies.wisc.edu..txt",
+      "NameServer": "ns1.continuingstudies.wisc.edu.",
+      "Origin": "continuingstudies.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/corprelations.wisc.edu..txt",
+      "NameServer": "ns1.corprelations.wisc.edu.",
+      "Origin": "corprelations.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/courseguide.wisc.edu..txt",
+      "NameServer": "ns1.courseguide.wisc.edu.",
+      "Origin": "courseguide.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/courses.wisc.edu..txt",
+      "NameServer": "ns1.courses.wisc.edu.",
+      "Origin": "courses.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/creativewriting.wisc.edu..txt",
+      "NameServer": "ns1.creativewriting.wisc.edu.",
+      "Origin": "creativewriting.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/creeca.wisc.edu..txt",
+      "NameServer": "ns1.creeca.wisc.edu.",
+      "Origin": "creeca.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/crisauthorization.wisc.edu..txt",
+      "NameServer": "ns1.crisauthorization.wisc.edu.",
+      "Origin": "crisauthorization.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/cs.wisc.edu..txt",
+      "NameServer": "ns1.cs.wisc.edu.",
+      "Origin": "cs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/csld.wisc.edu..txt",
+      "NameServer": "ns1.csld.wisc.edu.",
+      "Origin": "csld.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/csumc.wisc.edu..txt",
+      "NameServer": "ns1.csumc.wisc.edu.",
+      "Origin": "csumc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ctri.wisc.edu..txt",
+      "NameServer": "ns1.ctri.wisc.edu.",
+      "Origin": "ctri.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/daadcenter.wisc.edu..txt",
+      "NameServer": "ns1.daadcenter.wisc.edu.",
+      "Origin": "daadcenter.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dacc.wisc.edu..txt",
+      "NameServer": "ns1.dacc.wisc.edu.",
+      "Origin": "dacc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dairy.wisc.edu..txt",
+      "NameServer": "ns1.dairy.wisc.edu.",
+      "Origin": "dairy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dairynutrient.wisc.edu..txt",
+      "NameServer": "ns1.dairynutrient.wisc.edu.",
+      "Origin": "dairynutrient.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dance.wisc.edu..txt",
+      "NameServer": "ns1.dance.wisc.edu.",
+      "Origin": "dance.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dare.wisc.edu..txt",
+      "NameServer": "ns1.dare.wisc.edu.",
+      "Origin": "dare.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/datn.wisc.edu..txt",
+      "NameServer": "ns1.datn.wisc.edu.",
+      "Origin": "datn.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dces.wisc.edu..txt",
+      "NameServer": "ns1.dces.wisc.edu.",
+      "Origin": "dces.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dcs.wisc.edu..txt",
+      "NameServer": "ns1.dcs.wisc.edu.",
+      "Origin": "dcs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/delta.wisc.edu..txt",
+      "NameServer": "ns1.delta.wisc.edu.",
+      "Origin": "delta.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/depd.wisc.edu..txt",
+      "NameServer": "ns1.depd.wisc.edu.",
+      "Origin": "depd.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dept.wisc.edu..txt",
+      "NameServer": "ns1.dept.wisc.edu.",
+      "Origin": "dept.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dermatology.wisc.edu..txt",
+      "NameServer": "ns1.dermatology.wisc.edu.",
+      "Origin": "dermatology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/designlab.wisc.edu..txt",
+      "NameServer": "ns1.designlab.wisc.edu.",
+      "Origin": "designlab.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dfrc.wisc.edu..txt",
+      "NameServer": "ns1.dfrc.wisc.edu.",
+      "Origin": "dfrc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/disc.wisc.edu..txt",
+      "NameServer": "ns1.disc.wisc.edu.",
+      "Origin": "disc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/discovery.wisc.edu..txt",
+      "NameServer": "ns1.discovery.wisc.edu.",
+      "Origin": "discovery.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/diversity.wisc.edu..txt",
+      "NameServer": "ns1.diversity.wisc.edu.",
+      "Origin": "diversity.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/dmc.wisc.edu..txt",
+      "NameServer": "ns1.dmc.wisc.edu.",
+      "Origin": "dmc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/doit.wisc.edu..txt",
+      "NameServer": "ns1.doit.wisc.edu.",
+      "Origin": "doit.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/driftless.wisc.edu..txt",
+      "NameServer": "ns1.driftless.wisc.edu.",
+      "Origin": "driftless.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/drs.wisc.edu..txt",
+      "NameServer": "ns1.drs.wisc.edu.",
+      "Origin": "drs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/drupal.wisc.edu..txt",
+      "NameServer": "ns1.drupal.wisc.edu.",
+      "Origin": "drupal.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/eall.wisc.edu..txt",
+      "NameServer": "ns1.eall.wisc.edu.",
+      "Origin": "eall.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/eao.wisc.edu..txt",
+      "NameServer": "ns1.eao.wisc.edu.",
+      "Origin": "eao.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/eastasia.wisc.edu..txt",
+      "NameServer": "ns1.eastasia.wisc.edu.",
+      "Origin": "eastasia.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ece.wisc.edu..txt",
+      "NameServer": "ns1.ece.wisc.edu.",
+      "Origin": "ece.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/econ.wisc.edu..txt",
+      "NameServer": "ns1.econ.wisc.edu.",
+      "Origin": "econ.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ecrt.wisc.edu..txt",
+      "NameServer": "ns1.ecrt.wisc.edu.",
+      "Origin": "ecrt.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ecrtdev.wisc.edu..txt",
+      "NameServer": "ns1.ecrtdev.wisc.edu.",
+      "Origin": "ecrtdev.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ecrttest.wisc.edu..txt",
+      "NameServer": "ns1.ecrttest.wisc.edu.",
+      "Origin": "ecrttest.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/edinnovation.wisc.edu..txt",
+      "NameServer": "ns1.edinnovation.wisc.edu.",
+      "Origin": "edinnovation.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ediphy.wisc.edu..txt",
+      "NameServer": "ns1.ediphy.wisc.edu.",
+      "Origin": "ediphy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/education.wisc.edu..txt",
+      "NameServer": "ns1.education.wisc.edu.",
+      "Origin": "education.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ehs.wisc.edu..txt",
+      "NameServer": "ns1.ehs.wisc.edu.",
+      "Origin": "ehs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/em.wisc.edu..txt",
+      "NameServer": "ns1.em.wisc.edu.",
+      "Origin": "em.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/energy.wisc.edu..txt",
+      "NameServer": "ns1.energy.wisc.edu.",
+      "Origin": "energy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/engage.wisc.edu..txt",
+      "NameServer": "ns1.engage.wisc.edu.",
+      "Origin": "engage.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/engineeringexpo.wisc.edu..txt",
+      "NameServer": "ns1.engineeringexpo.wisc.edu.",
+      "Origin": "engineeringexpo.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/english.wisc.edu..txt",
+      "NameServer": "ns1.english.wisc.edu.",
+      "Origin": "english.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/engr.wisc.edu..txt",
+      "NameServer": "ns1.engr.wisc.edu.",
+      "Origin": "engr.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/entomology.wisc.edu..txt",
+      "NameServer": "ns1.entomology.wisc.edu.",
+      "Origin": "entomology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/envhist.wisc.edu..txt",
+      "NameServer": "ns1.envhist.wisc.edu.",
+      "Origin": "envhist.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ep.wisc.edu..txt",
+      "NameServer": "ns1.ep.wisc.edu.",
+      "Origin": "ep.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/epics.wisc.edu..txt",
+      "NameServer": "ns1.epics.wisc.edu.",
+      "Origin": "epics.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/erc.wisc.edu..txt",
+      "NameServer": "ns1.erc.wisc.edu.",
+      "Origin": "erc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/erp.wisc.edu..txt",
+      "NameServer": "ns1.erp.wisc.edu.",
+      "Origin": "erp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ersc.wisc.edu..txt",
+      "NameServer": "ns1.ersc.wisc.edu.",
+      "Origin": "ersc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/esc.wisc.edu..txt",
+      "NameServer": "ns1.esc.wisc.edu.",
+      "Origin": "esc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/eucenter.wisc.edu..txt",
+      "NameServer": "ns1.eucenter.wisc.edu.",
+      "Origin": "eucenter.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/events.wisc.edu..txt",
+      "NameServer": "ns1.events.wisc.edu.",
+      "Origin": "events.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/exams.wisc.edu..txt",
+      "NameServer": "ns1.exams.wisc.edu.",
+      "Origin": "exams.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/exed.wisc.edu..txt",
+      "NameServer": "ns1.exed.wisc.edu.",
+      "Origin": "exed.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/experts.wisc.edu..txt",
+      "NameServer": "ns1.experts.wisc.edu.",
+      "Origin": "experts.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/facstaff.wisc.edu..txt",
+      "NameServer": "ns1.facstaff.wisc.edu.",
+      "Origin": "facstaff.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/familyvillage.wisc.edu..txt",
+      "NameServer": "ns1.familyvillage.wisc.edu.",
+      "Origin": "familyvillage.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/fammed.wisc.edu..txt",
+      "NameServer": "ns1.fammed.wisc.edu.",
+      "Origin": "fammed.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/fashionshow.wisc.edu..txt",
+      "NameServer": "ns1.fashionshow.wisc.edu.",
+      "Origin": "fashionshow.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/fbc.wisc.edu..txt",
+      "NameServer": "ns1.fbc.wisc.edu.",
+      "Origin": "fbc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/fieldrecords.wisc.edu..txt",
+      "NameServer": "ns1.fieldrecords.wisc.edu.",
+      "Origin": "fieldrecords.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/figs.wisc.edu..txt",
+      "NameServer": "ns1.figs.wisc.edu.",
+      "Origin": "figs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/finaid.wisc.edu..txt",
+      "NameServer": "ns1.finaid.wisc.edu.",
+      "Origin": "finaid.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/flas.wisc.edu..txt",
+      "NameServer": "ns1.flas.wisc.edu.",
+      "Origin": "flas.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/flu.wisc.edu..txt",
+      "NameServer": "ns1.flu.wisc.edu.",
+      "Origin": "flu.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/folklore.wisc.edu..txt",
+      "NameServer": "ns1.folklore.wisc.edu.",
+      "Origin": "folklore.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/foodsafety.wisc.edu..txt",
+      "NameServer": "ns1.foodsafety.wisc.edu.",
+      "Origin": "foodsafety.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/foodsci.wisc.edu..txt",
+      "NameServer": "ns1.foodsci.wisc.edu.",
+      "Origin": "foodsci.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/forest.wisc.edu..txt",
+      "NameServer": "ns1.forest.wisc.edu.",
+      "Origin": "forest.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/forestandwildlifeecology.wisc.edu..txt",
+      "NameServer": "ns1.forestandwildlifeecology.wisc.edu.",
+      "Origin": "forestandwildlifeecology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/forestlandscape.wisc.edu..txt",
+      "NameServer": "ns1.forestlandscape.wisc.edu.",
+      "Origin": "forestlandscape.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/fpm.wisc.edu..txt",
+      "NameServer": "ns1.fpm.wisc.edu.",
+      "Origin": "fpm.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/fri.wisc.edu..txt",
+      "NameServer": "ns1.fri.wisc.edu.",
+      "Origin": "fri.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/fwe.wisc.edu..txt",
+      "NameServer": "ns1.fwe.wisc.edu.",
+      "Origin": "fwe.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/genetics.wisc.edu..txt",
+      "NameServer": "ns1.genetics.wisc.edu.",
+      "Origin": "genetics.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/genome.wisc.edu..txt",
+      "NameServer": "ns1.genome.wisc.edu.",
+      "Origin": "genome.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/geography.wisc.edu..txt",
+      "NameServer": "ns1.geography.wisc.edu.",
+      "Origin": "geography.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/geology.wisc.edu..txt",
+      "NameServer": "ns1.geology.wisc.edu.",
+      "Origin": "geology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/geoscience.wisc.edu..txt",
+      "NameServer": "ns1.geoscience.wisc.edu.",
+      "Origin": "geoscience.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/german.wisc.edu..txt",
+      "NameServer": "ns1.german.wisc.edu.",
+      "Origin": "german.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ghi.wisc.edu..txt",
+      "NameServer": "ns1.ghi.wisc.edu.",
+      "Origin": "ghi.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/glbrc.wisc.edu..txt",
+      "NameServer": "ns1.glbrc.wisc.edu.",
+      "Origin": "glbrc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/global.wisc.edu..txt",
+      "NameServer": "ns1.global.wisc.edu.",
+      "Origin": "global.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/gobigread.wisc.edu..txt",
+      "NameServer": "ns1.gobigread.wisc.edu.",
+      "Origin": "gobigread.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/googleapps.wisc.edu..txt",
+      "NameServer": "ns1.googleapps.wisc.edu.",
+      "Origin": "googleapps.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/grad.wisc.edu..txt",
+      "NameServer": "ns1.grad.wisc.edu.",
+      "Origin": "grad.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/gradsch.wisc.edu..txt",
+      "NameServer": "ns1.gradsch.wisc.edu.",
+      "Origin": "gradsch.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/greatu.wisc.edu..txt",
+      "NameServer": "ns1.greatu.wisc.edu.",
+      "Origin": "greatu.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/guestnetid.wisc.edu..txt",
+      "NameServer": "ns1.guestnetid.wisc.edu.",
+      "Origin": "guestnetid.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/gwmadison.wisc.edu..txt",
+      "NameServer": "ns1.gwmadison.wisc.edu.",
+      "Origin": "gwmadison.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/han.wisc.edu..txt",
+      "NameServer": "ns1.han.wisc.edu.",
+      "Origin": "han.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hebrew.wisc.edu..txt",
+      "NameServer": "ns1.hebrew.wisc.edu.",
+      "Origin": "hebrew.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/helpdesk.wisc.edu..txt",
+      "NameServer": "ns1.helpdesk.wisc.edu.",
+      "Origin": "helpdesk.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hep.wisc.edu..txt",
+      "NameServer": "ns1.hep.wisc.edu.",
+      "Origin": "hep.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hipaa.wisc.edu..txt",
+      "NameServer": "ns1.hipaa.wisc.edu.",
+      "Origin": "hipaa.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/histology.wisc.edu..txt",
+      "NameServer": "ns1.histology.wisc.edu.",
+      "Origin": "histology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/history.wisc.edu..txt",
+      "NameServer": "ns1.history.wisc.edu.",
+      "Origin": "history.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/histsci.wisc.edu..txt",
+      "NameServer": "ns1.histsci.wisc.edu.",
+      "Origin": "histsci.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hmongrp.wisc.edu..txt",
+      "NameServer": "ns1.hmongrp.wisc.edu.",
+      "Origin": "hmongrp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hort.wisc.edu..txt",
+      "NameServer": "ns1.hort.wisc.edu.",
+      "Origin": "hort.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/horticulture.wisc.edu..txt",
+      "NameServer": "ns1.horticulture.wisc.edu.",
+      "Origin": "horticulture.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hosp.wisc.edu..txt",
+      "NameServer": "ns1.hosp.wisc.edu.",
+      "Origin": "hosp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/housing.wisc.edu..txt",
+      "NameServer": "ns1.housing.wisc.edu.",
+      "Origin": "housing.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hrs.wisc.edu..txt",
+      "NameServer": "ns1.hrs.wisc.edu.",
+      "Origin": "hrs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hrsadmin.wisc.edu..txt",
+      "NameServer": "ns1.hrsadmin.wisc.edu.",
+      "Origin": "hrsadmin.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hsl.wisc.edu..txt",
+      "NameServer": "ns1.hsl.wisc.edu.",
+      "Origin": "hsl.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hslc.wisc.edu..txt",
+      "NameServer": "ns1.hslc.wisc.edu.",
+      "Origin": "hslc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/hsx.wisc.edu..txt",
+      "NameServer": "ns1.hsx.wisc.edu.",
+      "Origin": "hsx.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/humanities.wisc.edu..txt",
+      "NameServer": "ns1.humanities.wisc.edu.",
+      "Origin": "humanities.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/humanproteomics.wisc.edu..txt",
+      "NameServer": "ns1.humanproteomics.wisc.edu.",
+      "Origin": "humanproteomics.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/humanrights.wisc.edu..txt",
+      "NameServer": "ns1.humanrights.wisc.edu.",
+      "Origin": "humanrights.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/humonc.wisc.edu..txt",
+      "NameServer": "ns1.humonc.wisc.edu.",
+      "Origin": "humonc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/icecube.wisc.edu..txt",
+      "NameServer": "ns1.icecube.wisc.edu.",
+      "Origin": "icecube.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ictr.wisc.edu..txt",
+      "NameServer": "ns1.ictr.wisc.edu.",
+      "Origin": "ictr.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/iec.wisc.edu..txt",
+      "NameServer": "ns1.iec.wisc.edu.",
+      "Origin": "iec.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ils.wisc.edu..txt",
+      "NameServer": "ns1.ils.wisc.edu.",
+      "Origin": "ils.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/indiainitiative.wisc.edu..txt",
+      "NameServer": "ns1.indiainitiative.wisc.edu.",
+      "Origin": "indiainitiative.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/infolabs.wisc.edu..txt",
+      "NameServer": "ns1.infolabs.wisc.edu.",
+      "Origin": "infolabs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/insideislam.wisc.edu..txt",
+      "NameServer": "ns1.insideislam.wisc.edu.",
+      "Origin": "insideislam.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/international.wisc.edu..txt",
+      "NameServer": "ns1.international.wisc.edu.",
+      "Origin": "international.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/internationalinstitute.wisc.edu..txt",
+      "NameServer": "ns1.internationalinstitute.wisc.edu.",
+      "Origin": "internationalinstitute.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/intl-institute.wisc.edu..txt",
+      "NameServer": "ns1.intl-institute.wisc.edu.",
+      "Origin": "intl-institute.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ipcm.wisc.edu..txt",
+      "NameServer": "ns1.ipcm.wisc.edu.",
+      "Origin": "ipcm.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/irc.wisc.edu..txt",
+      "NameServer": "ns1.irc.wisc.edu.",
+      "Origin": "irc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/irh.wisc.edu..txt",
+      "NameServer": "ns1.irh.wisc.edu.",
+      "Origin": "irh.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/irp.wisc.edu..txt",
+      "NameServer": "ns1.irp.wisc.edu.",
+      "Origin": "irp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/isdev.wisc.edu..txt",
+      "NameServer": "ns1.isdev.wisc.edu.",
+      "Origin": "isdev.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/isis.wisc.edu..txt",
+      "NameServer": "ns1.isis.wisc.edu.",
+      "Origin": "isis.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ismajor.wisc.edu..txt",
+      "NameServer": "ns1.ismajor.wisc.edu.",
+      "Origin": "ismajor.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/iss.wisc.edu..txt",
+      "NameServer": "ns1.iss.wisc.edu.",
+      "Origin": "iss.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/istst.wisc.edu..txt",
+      "NameServer": "ns1.istst.wisc.edu.",
+      "Origin": "istst.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ita.wisc.edu..txt",
+      "NameServer": "ns1.ita.wisc.edu.",
+      "Origin": "ita.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/jasons.wisc.edu..txt",
+      "NameServer": "ns1.jasons.wisc.edu.",
+      "Origin": "jasons.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/jcr.wisc.edu..txt",
+      "NameServer": "ns1.jcr.wisc.edu.",
+      "Origin": "jcr.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/jewishstudies.wisc.edu..txt",
+      "NameServer": "ns1.jewishstudies.wisc.edu.",
+      "Origin": "jewishstudies.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/jobcenter.wisc.edu..txt",
+      "NameServer": "ns1.jobcenter.wisc.edu.",
+      "Origin": "jobcenter.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/jobs.wisc.edu..txt",
+      "NameServer": "ns1.jobs.wisc.edu.",
+      "Origin": "jobs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/journalism.wisc.edu..txt",
+      "NameServer": "ns1.journalism.wisc.edu.",
+      "Origin": "journalism.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/juno.wisc.edu..txt",
+      "NameServer": "ns1.juno.wisc.edu.",
+      "Origin": "juno.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/kb.wisc.edu..txt",
+      "NameServer": "ns1.kb.wisc.edu.",
+      "Origin": "kb.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/keck.waisman.wisc.edu..txt",
+      "NameServer": "ns1.keck.waisman.wisc.edu.",
+      "Origin": "keck.waisman.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/kemp.wisc.edu..txt",
+      "NameServer": "ns1.kemp.wisc.edu.",
+      "Origin": "kemp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/la.wisc.edu..txt",
+      "NameServer": "ns1.la.wisc.edu.",
+      "Origin": "la.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lacis.wisc.edu..txt",
+      "NameServer": "ns1.lacis.wisc.edu.",
+      "Origin": "lacis.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lafollette.wisc.edu..txt",
+      "NameServer": "ns1.lafollette.wisc.edu.",
+      "Origin": "lafollette.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lakeshorepreserve.wisc.edu..txt",
+      "NameServer": "ns1.lakeshorepreserve.wisc.edu.",
+      "Origin": "lakeshorepreserve.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/landick.wisc.edu..txt",
+      "NameServer": "ns1.landick.wisc.edu.",
+      "Origin": "landick.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/languageinstitute.wisc.edu..txt",
+      "NameServer": "ns1.languageinstitute.wisc.edu.",
+      "Origin": "languageinstitute.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/law.wisc.edu..txt",
+      "NameServer": "ns1.law.wisc.edu.",
+      "Origin": "law.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lca.wisc.edu..txt",
+      "NameServer": "ns1.lca.wisc.edu.",
+      "Origin": "lca.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lcnl.wisc.edu..txt",
+      "NameServer": "ns1.lcnl.wisc.edu.",
+      "Origin": "lcnl.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/learning.wisc.edu..txt",
+      "NameServer": "ns1.learning.wisc.edu.",
+      "Origin": "learning.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/learnuw.wisc.edu..txt",
+      "NameServer": "ns1.learnuw.wisc.edu.",
+      "Origin": "learnuw.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lgbt.wisc.edu..txt",
+      "NameServer": "ns1.lgbt.wisc.edu.",
+      "Origin": "lgbt.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/library.wisc.edu..txt",
+      "NameServer": "ns1.library.wisc.edu.",
+      "Origin": "library.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lic.wisc.edu..txt",
+      "NameServer": "ns1.lic.wisc.edu.",
+      "Origin": "lic.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/licensing.wisc.edu..txt",
+      "NameServer": "ns1.licensing.wisc.edu.",
+      "Origin": "licensing.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/limnology.wisc.edu..txt",
+      "NameServer": "ns1.limnology.wisc.edu.",
+      "Origin": "limnology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ling.wisc.edu..txt",
+      "NameServer": "ns1.ling.wisc.edu.",
+      "Origin": "ling.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lis.wisc.edu..txt",
+      "NameServer": "ns1.lis.wisc.edu.",
+      "Origin": "lis.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lists.wisc.edu..txt",
+      "NameServer": "ns1.lists.wisc.edu.",
+      "Origin": "lists.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lmcg.wisc.edu..txt",
+      "NameServer": "ns1.lmcg.wisc.edu.",
+      "Origin": "lmcg.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/localroads.wisc.edu..txt",
+      "NameServer": "ns1.localroads.wisc.edu.",
+      "Origin": "localroads.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/loci.wisc.edu..txt",
+      "NameServer": "ns1.loci.wisc.edu.",
+      "Origin": "loci.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/login.wisc.edu..txt",
+      "NameServer": "ns1.login.wisc.edu.",
+      "Origin": "login.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/logintest.wisc.edu..txt",
+      "NameServer": "ns1.logintest.wisc.edu.",
+      "Origin": "logintest.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ls.wisc.edu..txt",
+      "NameServer": "ns1.ls.wisc.edu.",
+      "Origin": "ls.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lsc.wisc.edu..txt",
+      "NameServer": "ns1.lsc.wisc.edu.",
+      "Origin": "lsc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lss.wisc.edu..txt",
+      "NameServer": "ns1.lss.wisc.edu.",
+      "Origin": "lss.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/lssaa.wisc.edu..txt",
+      "NameServer": "ns1.lssaa.wisc.edu.",
+      "Origin": "lssaa.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/madisoninitiative.wisc.edu..txt",
+      "NameServer": "ns1.madisoninitiative.wisc.edu.",
+      "Origin": "madisoninitiative.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/map.wisc.edu..txt",
+      "NameServer": "ns1.map.wisc.edu.",
+      "Origin": "map.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/match.wisc.edu..txt",
+      "NameServer": "ns1.match.wisc.edu.",
+      "Origin": "match.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/materialculture.wisc.edu..txt",
+      "NameServer": "ns1.materialculture.wisc.edu.",
+      "Origin": "materialculture.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/math.wisc.edu..txt",
+      "NameServer": "ns1.math.wisc.edu.",
+      "Origin": "math.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mbo.wisc.edu..txt",
+      "NameServer": "ns1.mbo.wisc.edu.",
+      "Origin": "mbo.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mcardle.wisc.edu..txt",
+      "NameServer": "ns1.mcardle.wisc.edu.",
+      "Origin": "mcardle.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mcb.wisc.edu..txt",
+      "NameServer": "ns1.mcb.wisc.edu.",
+      "Origin": "mcb.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mcburney.wisc.edu..txt",
+      "NameServer": "ns1.mcburney.wisc.edu.",
+      "Origin": "mcburney.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/me.wisc.edu..txt",
+      "NameServer": "ns1.me.wisc.edu.",
+      "Origin": "me.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/meathaccp.wisc.edu..txt",
+      "NameServer": "ns1.meathaccp.wisc.edu.",
+      "Origin": "meathaccp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/med.wisc.edu..txt",
+      "NameServer": "ns1.med.wisc.edu.",
+      "Origin": "med.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/medhist.wisc.edu..txt",
+      "NameServer": "ns1.medhist.wisc.edu.",
+      "Origin": "medhist.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/medicago.wisc.edu..txt",
+      "NameServer": "ns1.medicago.wisc.edu.",
+      "Origin": "medicago.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/medicine.wisc.edu..txt",
+      "NameServer": "ns1.medicine.wisc.edu.",
+      "Origin": "medicine.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/medievalstudies.wisc.edu..txt",
+      "NameServer": "ns1.medievalstudies.wisc.edu.",
+      "Origin": "medievalstudies.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/medmail.wisc.edu..txt",
+      "NameServer": "ns1.medmail.wisc.edu.",
+      "Origin": "medmail.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/medmicro.wisc.edu..txt",
+      "NameServer": "ns1.medmicro.wisc.edu.",
+      "Origin": "medmicro.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/medphysics.wisc.edu..txt",
+      "NameServer": "ns1.medphysics.wisc.edu.",
+      "Origin": "medphysics.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/medsch.wisc.edu..txt",
+      "NameServer": "ns1.medsch.wisc.edu.",
+      "Origin": "medsch.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mesp.wisc.edu..txt",
+      "NameServer": "ns1.mesp.wisc.edu.",
+      "Origin": "mesp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/meteor.wisc.edu..txt",
+      "NameServer": "ns1.meteor.wisc.edu.",
+      "Origin": "meteor.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/microbialsciences.wisc.edu..txt",
+      "NameServer": "ns1.microbialsciences.wisc.edu.",
+      "Origin": "microbialsciences.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/microbiology.wisc.edu..txt",
+      "NameServer": "ns1.microbiology.wisc.edu.",
+      "Origin": "microbiology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/microscopy.wisc.edu..txt",
+      "NameServer": "ns1.microscopy.wisc.edu.",
+      "Origin": "microscopy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mideast.wisc.edu..txt",
+      "NameServer": "ns1.mideast.wisc.edu.",
+      "Origin": "mideast.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/midus.wisc.edu..txt",
+      "NameServer": "ns1.midus.wisc.edu.",
+      "Origin": "midus.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/miyamotolab.wisc.edu..txt",
+      "NameServer": "ns1.miyamotolab.wisc.edu.",
+      "Origin": "miyamotolab.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mki.wisc.edu..txt",
+      "NameServer": "ns1.mki.wisc.edu.",
+      "Origin": "mki.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mobile.wisc.edu..txt",
+      "NameServer": "ns1.mobile.wisc.edu.",
+      "Origin": "mobile.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/molbio.wisc.edu..txt",
+      "NameServer": "ns1.molbio.wisc.edu.",
+      "Origin": "molbio.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/molpg.wisc.edu..txt",
+      "NameServer": "ns1.molpg.wisc.edu.",
+      "Origin": "molpg.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/molpharm.wisc.edu..txt",
+      "NameServer": "ns1.molpharm.wisc.edu.",
+      "Origin": "molpharm.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/morgridge.wisc.edu..txt",
+      "NameServer": "ns1.morgridge.wisc.edu.",
+      "Origin": "morgridge.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mosseprogram.wisc.edu..txt",
+      "NameServer": "ns1.mosseprogram.wisc.edu.",
+      "Origin": "mosseprogram.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mrsec.wisc.edu..txt",
+      "NameServer": "ns1.mrsec.wisc.edu.",
+      "Origin": "mrsec.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ms-biotech.wisc.edu..txt",
+      "NameServer": "ns1.ms-biotech.wisc.edu.",
+      "Origin": "ms-biotech.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/msae.wisc.edu..txt",
+      "NameServer": "ns1.msae.wisc.edu.",
+      "Origin": "msae.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/msttools.wisc.edu..txt",
+      "NameServer": "ns1.msttools.wisc.edu.",
+      "Origin": "msttools.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/music.wisc.edu..txt",
+      "NameServer": "ns1.music.wisc.edu.",
+      "Origin": "music.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/my.wisc.edu..txt",
+      "NameServer": "ns1.my.wisc.edu.",
+      "Origin": "my.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/myinfo.wisc.edu..txt",
+      "NameServer": "ns1.myinfo.wisc.edu.",
+      "Origin": "myinfo.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mynetid.wisc.edu..txt",
+      "NameServer": "ns1.mynetid.wisc.edu.",
+      "Origin": "mynetid.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/myprofdev.wisc.edu..txt",
+      "NameServer": "ns1.myprofdev.wisc.edu.",
+      "Origin": "myprofdev.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mytime.wisc.edu..txt",
+      "NameServer": "ns1.mytime.wisc.edu.",
+      "Origin": "mytime.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mywebspace.wisc.edu..txt",
+      "NameServer": "ns1.mywebspace.wisc.edu.",
+      "Origin": "mywebspace.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/mywebspacetest.wisc.edu..txt",
+      "NameServer": "ns1.mywebspacetest.wisc.edu.",
+      "Origin": "mywebspacetest.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/nalrc.wisc.edu..txt",
+      "NameServer": "ns1.nalrc.wisc.edu.",
+      "Origin": "nalrc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/nanonet.wisc.edu..txt",
+      "NameServer": "ns1.nanonet.wisc.edu.",
+      "Origin": "nanonet.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/nanotech.wisc.edu..txt",
+      "NameServer": "ns1.nanotech.wisc.edu.",
+      "Origin": "nanotech.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ncra.wisc.edu..txt",
+      "NameServer": "ns1.ncra.wisc.edu.",
+      "Origin": "ncra.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/neep.wisc.edu..txt",
+      "NameServer": "ns1.neep.wisc.edu.",
+      "Origin": "neep.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/nelson.wisc.edu..txt",
+      "NameServer": "ns1.nelson.wisc.edu.",
+      "Origin": "nelson.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/net.wisc.edu..txt",
+      "NameServer": "ns1.net.wisc.edu.",
+      "Origin": "net.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/neuro.wisc.edu..txt",
+      "NameServer": "ns1.neuro.wisc.edu.",
+      "Origin": "neuro.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/neuroanatomy.wisc.edu..txt",
+      "NameServer": "ns1.neuroanatomy.wisc.edu.",
+      "Origin": "neuroanatomy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/neurology.wisc.edu..txt",
+      "NameServer": "ns1.neurology.wisc.edu.",
+      "Origin": "neurology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/neurophys.wisc.edu..txt",
+      "NameServer": "ns1.neurophys.wisc.edu.",
+      "Origin": "neurophys.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/neuroscience.wisc.edu..txt",
+      "NameServer": "ns1.neuroscience.wisc.edu.",
+      "Origin": "neuroscience.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/neurosurg.wisc.edu..txt",
+      "NameServer": "ns1.neurosurg.wisc.edu.",
+      "Origin": "neurosurg.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/neurosurgery.wisc.edu..txt",
+      "NameServer": "ns1.neurosurgery.wisc.edu.",
+      "Origin": "neurosurgery.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/newbadgerpartnership.wisc.edu..txt",
+      "NameServer": "ns1.newbadgerpartnership.wisc.edu.",
+      "Origin": "newbadgerpartnership.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/newhire.wisc.edu..txt",
+      "NameServer": "ns1.newhire.wisc.edu.",
+      "Origin": "newhire.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/news.wisc.edu..txt",
+      "NameServer": "ns1.news.wisc.edu.",
+      "Origin": "news.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/newstudent.wisc.edu..txt",
+      "NameServer": "ns1.newstudent.wisc.edu.",
+      "Origin": "newstudent.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/newunion.wisc.edu..txt",
+      "NameServer": "ns1.newunion.wisc.edu.",
+      "Origin": "newunion.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/nmrfam.wisc.edu..txt",
+      "NameServer": "ns1.nmrfam.wisc.edu.",
+      "Origin": "nmrfam.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/npp.wisc.edu..txt",
+      "NameServer": "ns1.npp.wisc.edu.",
+      "Origin": "npp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/nrotc.wisc.edu..txt",
+      "NameServer": "ns1.nrotc.wisc.edu.",
+      "Origin": "nrotc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/nsec.wisc.edu..txt",
+      "NameServer": "ns1.nsec.wisc.edu.",
+      "Origin": "nsec.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/nutrisci.wisc.edu..txt",
+      "NameServer": "ns1.nutrisci.wisc.edu.",
+      "Origin": "nutrisci.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/obgyn.wisc.edu..txt",
+      "NameServer": "ns1.obgyn.wisc.edu.",
+      "Origin": "obgyn.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/occfr.wisc.edu..txt",
+      "NameServer": "ns1.occfr.wisc.edu.",
+      "Origin": "occfr.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ocpd.wisc.edu..txt",
+      "NameServer": "ns1.ocpd.wisc.edu.",
+      "Origin": "ocpd.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ocr.wisc.edu..txt",
+      "NameServer": "ns1.ocr.wisc.edu.",
+      "Origin": "ocr.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/oed.wisc.edu..txt",
+      "NameServer": "ns1.oed.wisc.edu.",
+      "Origin": "oed.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ohr.wisc.edu..txt",
+      "NameServer": "ns1.ohr.wisc.edu.",
+      "Origin": "ohr.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ohrd.wisc.edu..txt",
+      "NameServer": "ns1.ohrd.wisc.edu.",
+      "Origin": "ohrd.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/omai.wisc.edu..txt",
+      "NameServer": "ns1.omai.wisc.edu.",
+      "Origin": "omai.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/oncology.wisc.edu..txt",
+      "NameServer": "ns1.oncology.wisc.edu.",
+      "Origin": "oncology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/oob.wisc.edu..txt",
+      "NameServer": "ns1.oob.wisc.edu.",
+      "Origin": "oob.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ophth.wisc.edu..txt",
+      "NameServer": "ns1.ophth.wisc.edu.",
+      "Origin": "ophth.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/oqi.wisc.edu..txt",
+      "NameServer": "ns1.oqi.wisc.edu.",
+      "Origin": "oqi.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ordertranscript.wisc.edu..txt",
+      "NameServer": "ns1.ordertranscript.wisc.edu.",
+      "Origin": "ordertranscript.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ortho.wisc.edu..txt",
+      "NameServer": "ns1.ortho.wisc.edu.",
+      "Origin": "ortho.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/orthorehab.wisc.edu..txt",
+      "NameServer": "ns1.orthorehab.wisc.edu.",
+      "Origin": "orthorehab.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ovpdc.wisc.edu..txt",
+      "NameServer": "ns1.ovpdc.wisc.edu.",
+      "Origin": "ovpdc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/painpolicy.wisc.edu..txt",
+      "NameServer": "ns1.painpolicy.wisc.edu.",
+      "Origin": "painpolicy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/parent.wisc.edu..txt",
+      "NameServer": "ns1.parent.wisc.edu.",
+      "Origin": "parent.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/parking.wisc.edu..txt",
+      "NameServer": "ns1.parking.wisc.edu.",
+      "Origin": "parking.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pathology.wisc.edu..txt",
+      "NameServer": "ns1.pathology.wisc.edu.",
+      "Origin": "pathology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/patstore.wisc.edu..txt",
+      "NameServer": "ns1.patstore.wisc.edu.",
+      "Origin": "patstore.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pddc.wisc.edu..txt",
+      "NameServer": "ns1.pddc.wisc.edu.",
+      "Origin": "pddc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pediatrics.wisc.edu..txt",
+      "NameServer": "ns1.pediatrics.wisc.edu.",
+      "Origin": "pediatrics.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pen.wisc.edu..txt",
+      "NameServer": "ns1.pen.wisc.edu.",
+      "Origin": "pen.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pharmacy.wisc.edu..txt",
+      "NameServer": "ns1.pharmacy.wisc.edu.",
+      "Origin": "pharmacy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pheno.wisc.edu..txt",
+      "NameServer": "ns1.pheno.wisc.edu.",
+      "Origin": "pheno.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/philosophy.wisc.edu..txt",
+      "NameServer": "ns1.philosophy.wisc.edu.",
+      "Origin": "philosophy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/physicalplant.wisc.edu..txt",
+      "NameServer": "ns1.physicalplant.wisc.edu.",
+      "Origin": "physicalplant.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/physicianassistant.wisc.edu..txt",
+      "NameServer": "ns1.physicianassistant.wisc.edu.",
+      "Origin": "physicianassistant.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/physics.wisc.edu..txt",
+      "NameServer": "ns1.physics.wisc.edu.",
+      "Origin": "physics.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/physiol.physiology.wisc.edu..txt",
+      "NameServer": "ns1.physiol.physiology.wisc.edu.",
+      "Origin": "physiol.physiology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/physiology.wisc.edu..txt",
+      "NameServer": "ns1.physiology.wisc.edu.",
+      "Origin": "physiology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/phytomorph.wisc.edu..txt",
+      "NameServer": "ns1.phytomorph.wisc.edu.",
+      "Origin": "phytomorph.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/plantpath.wisc.edu..txt",
+      "NameServer": "ns1.plantpath.wisc.edu.",
+      "Origin": "plantpath.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/polisci.wisc.edu..txt",
+      "NameServer": "ns1.polisci.wisc.edu.",
+      "Origin": "polisci.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pophealth.wisc.edu..txt",
+      "NameServer": "ns1.pophealth.wisc.edu.",
+      "Origin": "pophealth.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/prehealth.wisc.edu..txt",
+      "NameServer": "ns1.prehealth.wisc.edu.",
+      "Origin": "prehealth.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/primate.wisc.edu..txt",
+      "NameServer": "ns1.primate.wisc.edu.",
+      "Origin": "primate.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/profs.wisc.edu..txt",
+      "NameServer": "ns1.profs.wisc.edu.",
+      "Origin": "profs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/provost.wisc.edu..txt",
+      "NameServer": "ns1.provost.wisc.edu.",
+      "Origin": "provost.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pserc.wisc.edu..txt",
+      "NameServer": "ns1.pserc.wisc.edu.",
+      "Origin": "pserc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/psl.wisc.edu..txt",
+      "NameServer": "ns1.psl.wisc.edu.",
+      "Origin": "psl.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/psych.wisc.edu..txt",
+      "NameServer": "ns1.psych.wisc.edu.",
+      "Origin": "psych.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/psychiatry.wisc.edu..txt",
+      "NameServer": "ns1.psychiatry.wisc.edu.",
+      "Origin": "psychiatry.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pt.wisc.edu..txt",
+      "NameServer": "ns1.pt.wisc.edu.",
+      "Origin": "pt.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pubs.wisc.edu..txt",
+      "NameServer": "ns1.pubs.wisc.edu.",
+      "Origin": "pubs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/pubsoc.wisc.edu..txt",
+      "NameServer": "ns1.pubsoc.wisc.edu.",
+      "Origin": "pubsoc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/quality.wisc.edu..txt",
+      "NameServer": "ns1.quality.wisc.edu.",
+      "Origin": "quality.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/radiology.wisc.edu..txt",
+      "NameServer": "ns1.radiology.wisc.edu.",
+      "Origin": "radiology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/rarc.wisc.edu..txt",
+      "NameServer": "ns1.rarc.wisc.edu.",
+      "Origin": "rarc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/readingthai.wisc.edu..txt",
+      "NameServer": "ns1.readingthai.wisc.edu.",
+      "Origin": "readingthai.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/recsports.wisc.edu..txt",
+      "NameServer": "ns1.recsports.wisc.edu.",
+      "Origin": "recsports.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/registrar.wisc.edu..txt",
+      "NameServer": "ns1.registrar.wisc.edu.",
+      "Origin": "registrar.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/rehab.wisc.edu..txt",
+      "NameServer": "ns1.rehab.wisc.edu.",
+      "Origin": "rehab.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/reqgenerator.wisc.edu..txt",
+      "NameServer": "ns1.reqgenerator.wisc.edu.",
+      "Origin": "reqgenerator.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/resnet.wisc.edu..txt",
+      "NameServer": "ns1.resnet.wisc.edu.",
+      "Origin": "resnet.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/rso.wisc.edu..txt",
+      "NameServer": "ns1.rso.wisc.edu.",
+      "Origin": "rso.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/rsp.wisc.edu..txt",
+      "NameServer": "ns1.rsp.wisc.edu.",
+      "Origin": "rsp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/russell.wisc.edu..txt",
+      "NameServer": "ns1.russell.wisc.edu.",
+      "Origin": "russell.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/saa.wisc.edu..txt",
+      "NameServer": "ns1.saa.wisc.edu.",
+      "Origin": "saa.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/safeu.wisc.edu..txt",
+      "NameServer": "ns1.safeu.wisc.edu.",
+      "Origin": "safeu.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sage.wisc.edu..txt",
+      "NameServer": "ns1.sage.wisc.edu.",
+      "Origin": "sage.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sal.wisc.edu..txt",
+      "NameServer": "ns1.sal.wisc.edu.",
+      "Origin": "sal.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sasli.wisc.edu..txt",
+      "NameServer": "ns1.sasli.wisc.edu.",
+      "Origin": "sasli.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sbdc.wisc.edu..txt",
+      "NameServer": "ns1.sbdc.wisc.edu.",
+      "Origin": "sbdc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sbel.wisc.edu..txt",
+      "NameServer": "ns1.sbel.wisc.edu.",
+      "Origin": "sbel.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/scandinavian.wisc.edu..txt",
+      "NameServer": "ns1.scandinavian.wisc.edu.",
+      "Origin": "scandinavian.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/scholarships.wisc.edu..txt",
+      "NameServer": "ns1.scholarships.wisc.edu.",
+      "Origin": "scholarships.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/schooner.wail.wisc.edu..txt",
+      "NameServer": "ns1.schooner.wail.wisc.edu.",
+      "Origin": "schooner.wail.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/science.wisc.edu..txt",
+      "NameServer": "ns1.science.wisc.edu.",
+      "Origin": "science.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sciencehall.wisc.edu..txt",
+      "NameServer": "ns1.sciencehall.wisc.edu.",
+      "Origin": "sciencehall.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/scientificteaching.wisc.edu..txt",
+      "NameServer": "ns1.scientificteaching.wisc.edu.",
+      "Origin": "scientificteaching.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sco.wisc.edu..txt",
+      "NameServer": "ns1.sco.wisc.edu.",
+      "Origin": "sco.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/scout.wisc.edu..txt",
+      "NameServer": "ns1.scout.wisc.edu.",
+      "Origin": "scout.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/se.doit.wisc.edu..txt",
+      "NameServer": "ns1.se.doit.wisc.edu.",
+      "Origin": "se.doit.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/seagrant.wisc.edu..txt",
+      "NameServer": "ns1.seagrant.wisc.edu.",
+      "Origin": "seagrant.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/seasia.wisc.edu..txt",
+      "NameServer": "ns1.seasia.wisc.edu.",
+      "Origin": "seasia.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/seassi.wisc.edu..txt",
+      "NameServer": "ns1.seassi.wisc.edu.",
+      "Origin": "seassi.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/secfac.wisc.edu..txt",
+      "NameServer": "ns1.secfac.wisc.edu.",
+      "Origin": "secfac.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/services.wisc.edu..txt",
+      "NameServer": "ns1.services.wisc.edu.",
+      "Origin": "services.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sesame.wisc.edu..txt",
+      "NameServer": "ns1.sesame.wisc.edu.",
+      "Origin": "sesame.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/show.wisc.edu..txt",
+      "NameServer": "ns1.show.wisc.edu.",
+      "Origin": "show.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sit.wisc.edu..txt",
+      "NameServer": "ns1.sit.wisc.edu.",
+      "Origin": "sit.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sla.wisc.edu..txt",
+      "NameServer": "ns1.sla.wisc.edu.",
+      "Origin": "sla.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/slc.engr.wisc.edu..txt",
+      "NameServer": "ns1.slc.engr.wisc.edu.",
+      "Origin": "slc.engr.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sleepcohort.wisc.edu..txt",
+      "NameServer": "ns1.sleepcohort.wisc.edu.",
+      "Origin": "sleepcohort.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/slh.wisc.edu..txt",
+      "NameServer": "ns1.slh.wisc.edu.",
+      "Origin": "slh.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/slis.wisc.edu..txt",
+      "NameServer": "ns1.slis.wisc.edu.",
+      "Origin": "slis.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/smph.wisc.edu..txt",
+      "NameServer": "ns1.smph.wisc.edu.",
+      "Origin": "smph.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/soar.wisc.edu..txt",
+      "NameServer": "ns1.soar.wisc.edu.",
+      "Origin": "soar.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/socwork.wisc.edu..txt",
+      "NameServer": "ns1.socwork.wisc.edu.",
+      "Origin": "socwork.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/soemadison.wisc.edu..txt",
+      "NameServer": "ns1.soemadison.wisc.edu.",
+      "Origin": "soemadison.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/software.wisc.edu..txt",
+      "NameServer": "ns1.software.wisc.edu.",
+      "Origin": "software.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sohe.wisc.edu..txt",
+      "NameServer": "ns1.sohe.wisc.edu.",
+      "Origin": "sohe.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/soils.wisc.edu..txt",
+      "NameServer": "ns1.soils.wisc.edu.",
+      "Origin": "soils.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/son.wisc.edu..txt",
+      "NameServer": "ns1.son.wisc.edu.",
+      "Origin": "son.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/southasia.wisc.edu..txt",
+      "NameServer": "ns1.southasia.wisc.edu.",
+      "Origin": "southasia.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/southasiaconference.wisc.edu..txt",
+      "NameServer": "ns1.southasiaconference.wisc.edu.",
+      "Origin": "southasiaconference.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/southasiaoutreach.wisc.edu..txt",
+      "NameServer": "ns1.southasiaoutreach.wisc.edu.",
+      "Origin": "southasiaoutreach.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/spaceplace.wisc.edu..txt",
+      "NameServer": "ns1.spaceplace.wisc.edu.",
+      "Origin": "spaceplace.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/src.wisc.edu..txt",
+      "NameServer": "ns1.src.wisc.edu.",
+      "Origin": "src.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ssc.wisc.edu..txt",
+      "NameServer": "ns1.ssc.wisc.edu.",
+      "Origin": "ssc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/ssec.wisc.edu..txt",
+      "NameServer": "ns1.ssec.wisc.edu.",
+      "Origin": "ssec.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/stat.wisc.edu..txt",
+      "NameServer": "ns1.stat.wisc.edu.",
+      "Origin": "stat.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/staterelations.wisc.edu..txt",
+      "NameServer": "ns1.staterelations.wisc.edu.",
+      "Origin": "staterelations.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/stemcells.wisc.edu..txt",
+      "NameServer": "ns1.stemcells.wisc.edu.",
+      "Origin": "stemcells.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/stimulus.wisc.edu..txt",
+      "NameServer": "ns1.stimulus.wisc.edu.",
+      "Origin": "stimulus.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sts.wisc.edu..txt",
+      "NameServer": "ns1.sts.wisc.edu.",
+      "Origin": "sts.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/studentorg.wisc.edu..txt",
+      "NameServer": "ns1.studentorg.wisc.edu.",
+      "Origin": "studentorg.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/students.wisc.edu..txt",
+      "NameServer": "ns1.students.wisc.edu.",
+      "Origin": "students.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/studyabroad.wisc.edu..txt",
+      "NameServer": "ns1.studyabroad.wisc.edu.",
+      "Origin": "studyabroad.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/surgery.wisc.edu..txt",
+      "NameServer": "ns1.surgery.wisc.edu.",
+      "Origin": "surgery.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/survey.wisc.edu..txt",
+      "NameServer": "ns1.survey.wisc.edu.",
+      "Origin": "survey.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/sustainability.wisc.edu..txt",
+      "NameServer": "ns1.sustainability.wisc.edu.",
+      "Origin": "sustainability.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/t32database.wisc.edu..txt",
+      "NameServer": "ns1.t32database.wisc.edu.",
+      "Origin": "t32database.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/tandempress.wisc.edu..txt",
+      "NameServer": "ns1.tandempress.wisc.edu.",
+      "Origin": "tandempress.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/tdl.wisc.edu..txt",
+      "NameServer": "ns1.tdl.wisc.edu.",
+      "Origin": "tdl.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/teachingacademy.wisc.edu..txt",
+      "NameServer": "ns1.teachingacademy.wisc.edu.",
+      "Origin": "teachingacademy.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/telepresence.wisc.edu..txt",
+      "NameServer": "ns1.telepresence.wisc.edu.",
+      "Origin": "telepresence.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/teosinte.wisc.edu..txt",
+      "NameServer": "ns1.teosinte.wisc.edu.",
+      "Origin": "teosinte.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/testing.wisc.edu..txt",
+      "NameServer": "ns1.testing.wisc.edu.",
+      "Origin": "testing.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/testlists.wisc.edu..txt",
+      "NameServer": "ns1.testlists.wisc.edu.",
+      "Origin": "testlists.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/textilecollection.wisc.edu..txt",
+      "NameServer": "ns1.textilecollection.wisc.edu.",
+      "Origin": "textilecollection.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/theatre.wisc.edu..txt",
+      "NameServer": "ns1.theatre.wisc.edu.",
+      "Origin": "theatre.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/theweekly.wisc.edu..txt",
+      "NameServer": "ns1.theweekly.wisc.edu.",
+      "Origin": "theweekly.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/tle.wisc.edu..txt",
+      "NameServer": "ns1.tle.wisc.edu.",
+      "Origin": "tle.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/today.wisc.edu..txt",
+      "NameServer": "ns1.today.wisc.edu.",
+      "Origin": "today.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/topslab.wisc.edu..txt",
+      "NameServer": "ns1.topslab.wisc.edu.",
+      "Origin": "topslab.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/trace.wisc.edu..txt",
+      "NameServer": "ns1.trace.wisc.edu.",
+      "Origin": "trace.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/transportation.wisc.edu..txt",
+      "NameServer": "ns1.transportation.wisc.edu.",
+      "Origin": "transportation.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/trc.wisc.edu..txt",
+      "NameServer": "ns1.trc.wisc.edu.",
+      "Origin": "trc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uc.wisc.edu..txt",
+      "NameServer": "ns1.uc.wisc.edu.",
+      "Origin": "uc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uconnect.wisc.edu..txt",
+      "NameServer": "ns1.uconnect.wisc.edu.",
+      "Origin": "uconnect.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/udsview.wisc.edu..txt",
+      "NameServer": "ns1.udsview.wisc.edu.",
+      "Origin": "udsview.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uhs.wisc.edu..txt",
+      "NameServer": "ns1.uhs.wisc.edu.",
+      "Origin": "uhs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/union.wisc.edu..txt",
+      "NameServer": "ns1.union.wisc.edu.",
+      "Origin": "union.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uniontheater.wisc.edu..txt",
+      "NameServer": "ns1.uniontheater.wisc.edu.",
+      "Origin": "uniontheater.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/upl.cs.wisc.edu..txt",
+      "NameServer": "ns1.upl.cs.wisc.edu.",
+      "Origin": "upl.cs.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/urpl.wisc.edu..txt",
+      "NameServer": "ns1.urpl.wisc.edu.",
+      "Origin": "urpl.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uwcc.wisc.edu..txt",
+      "NameServer": "ns1.uwcc.wisc.edu.",
+      "Origin": "uwcc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uwfoundation.wisc.edu..txt",
+      "NameServer": "ns1.uwfoundation.wisc.edu.",
+      "Origin": "uwfoundation.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uwhealth.wisc.edu..txt",
+      "NameServer": "ns1.uwhealth.wisc.edu.",
+      "Origin": "uwhealth.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uwia.wisc.edu..txt",
+      "NameServer": "ns1.uwia.wisc.edu.",
+      "Origin": "uwia.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uwjobapply.wisc.edu..txt",
+      "NameServer": "ns1.uwjobapply.wisc.edu.",
+      "Origin": "uwjobapply.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uwmf.wisc.edu..txt",
+      "NameServer": "ns1.uwmf.wisc.edu.",
+      "Origin": "uwmf.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uwnet.wisc.edu..txt",
+      "NameServer": "ns1.uwnet.wisc.edu.",
+      "Origin": "uwnet.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uwpd.wisc.edu..txt",
+      "NameServer": "ns1.uwpd.wisc.edu.",
+      "Origin": "uwpd.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uwpress.wisc.edu..txt",
+      "NameServer": "ns1.uwpress.wisc.edu.",
+      "Origin": "uwpress.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/uwsc.wisc.edu..txt",
+      "NameServer": "ns1.uwsc.wisc.edu.",
+      "Origin": "uwsc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/vc.wisc.edu..txt",
+      "NameServer": "ns1.vc.wisc.edu.",
+      "Origin": "vc.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/vcru.wisc.edu..txt",
+      "NameServer": "ns1.vcru.wisc.edu.",
+      "Origin": "vcru.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/venus.wisc.edu..txt",
+      "NameServer": "ns1.venus.wisc.edu.",
+      "Origin": "venus.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/vetmed.wisc.edu..txt",
+      "NameServer": "ns1.vetmed.wisc.edu.",
+      "Origin": "vetmed.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/vip.wisc.edu..txt",
+      "NameServer": "ns1.vip.wisc.edu.",
+      "Origin": "vip.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/virology.wisc.edu..txt",
+      "NameServer": "ns1.virology.wisc.edu.",
+      "Origin": "virology.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/visitbucky.wisc.edu..txt",
+      "NameServer": "ns1.visitbucky.wisc.edu.",
+      "Origin": "visitbucky.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/visualculture.wisc.edu..txt",
+      "NameServer": "ns1.visualculture.wisc.edu.",
+      "Origin": "visualculture.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/vitalsigns.wisc.edu..txt",
+      "NameServer": "ns1.vitalsigns.wisc.edu.",
+      "Origin": "vitalsigns.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/vu.wsum.wisc.edu..txt",
+      "NameServer": "ns1.vu.wsum.wisc.edu.",
+      "Origin": "vu.wsum.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/waa.wisc.edu..txt",
+      "NameServer": "ns1.waa.wisc.edu.",
+      "Origin": "waa.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wage.wisc.edu..txt",
+      "NameServer": "ns1.wage.wisc.edu.",
+      "Origin": "wage.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wail.wisc.edu..txt",
+      "NameServer": "ns1.wail.wisc.edu.",
+      "Origin": "wail.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/waisman.wisc.edu..txt",
+      "NameServer": "ns1.waisman.wisc.edu.",
+      "Origin": "waisman.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/warungsinema.wisc.edu..txt",
+      "NameServer": "ns1.warungsinema.wisc.edu.",
+      "Origin": "warungsinema.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wbi.wisc.edu..txt",
+      "NameServer": "ns1.wbi.wisc.edu.",
+      "Origin": "wbi.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wcer.wisc.edu..txt",
+      "NameServer": "ns1.wcer.wisc.edu.",
+      "Origin": "wcer.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wcmp.wisc.edu..txt",
+      "NameServer": "ns1.wcmp.wisc.edu.",
+      "Origin": "wcmp.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/webdas.wisc.edu..txt",
+      "NameServer": "ns1.webdas.wisc.edu.",
+      "Origin": "webdas.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/websurvey.wisc.edu..txt",
+      "NameServer": "ns1.websurvey.wisc.edu.",
+      "Origin": "websurvey.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wempec.wisc.edu..txt",
+      "NameServer": "ns1.wempec.wisc.edu.",
+      "Origin": "wempec.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wendt.wisc.edu..txt",
+      "NameServer": "ns1.wendt.wisc.edu.",
+      "Origin": "wendt.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wgbn.wisc.edu..txt",
+      "NameServer": "ns1.wgbn.wisc.edu.",
+      "Origin": "wgbn.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/whocancerpain.wisc.edu..txt",
+      "NameServer": "ns1.whocancerpain.wisc.edu.",
+      "Origin": "whocancerpain.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wicore.wisc.edu..txt",
+      "NameServer": "ns1.wicore.wisc.edu.",
+      "Origin": "wicore.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wid.wisc.edu..txt",
+      "NameServer": "ns1.wid.wisc.edu.",
+      "Origin": "wid.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wida.wisc.edu..txt",
+      "NameServer": "ns1.wida.wisc.edu.",
+      "Origin": "wida.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wildlife.wisc.edu..txt",
+      "NameServer": "ns1.wildlife.wisc.edu.",
+      "Origin": "wildlife.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wils.wisc.edu..txt",
+      "NameServer": "ns1.wils.wisc.edu.",
+      "Origin": "wils.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/win.wisc.edu..txt",
+      "NameServer": "ns1.win.wisc.edu.",
+      "Origin": "win.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wipac.wisc.edu..txt",
+      "NameServer": "ns1.wipac.wisc.edu.",
+      "Origin": "wipac.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wisc.edu..txt",
+      "NameServer": "ns1.wisc.edu.",
+      "Origin": "wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wiscadproject.wisc.edu..txt",
+      "NameServer": "ns1.wiscadproject.wisc.edu.",
+      "Origin": "wiscadproject.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wiscape.wisc.edu..txt",
+      "NameServer": "ns1.wiscape.wisc.edu.",
+      "Origin": "wiscape.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wiscareers.wisc.edu..txt",
+      "NameServer": "ns1.wiscareers.wisc.edu.",
+      "Origin": "wiscareers.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wisccal.wisc.edu..txt",
+      "NameServer": "ns1.wisccal.wisc.edu.",
+      "Origin": "wisccal.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wisccaltest.wisc.edu..txt",
+      "NameServer": "ns1.wisccaltest.wisc.edu.",
+      "Origin": "wisccaltest.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wiscel.wisc.edu..txt",
+      "NameServer": "ns1.wiscel.wisc.edu.",
+      "Origin": "wiscel.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wiscinfo.wisc.edu..txt",
+      "NameServer": "ns1.wiscinfo.wisc.edu.",
+      "Origin": "wiscinfo.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wiscipedia.wisc.edu..txt",
+      "NameServer": "ns1.wiscipedia.wisc.edu.",
+      "Origin": "wiscipedia.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wiscmail.wisc.edu..txt",
+      "NameServer": "ns1.wiscmail.wisc.edu.",
+      "Origin": "wiscmail.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wisconsinidea.wisc.edu..txt",
+      "NameServer": "ns1.wisconsinidea.wisc.edu.",
+      "Origin": "wisconsinidea.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wisconsinreflections.wisc.edu..txt",
+      "NameServer": "ns1.wisconsinreflections.wisc.edu.",
+      "Origin": "wisconsinreflections.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wisconsinwelcome.wisc.edu..txt",
+      "NameServer": "ns1.wisconsinwelcome.wisc.edu.",
+      "Origin": "wisconsinwelcome.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wiscsoftware.wisc.edu..txt",
+      "NameServer": "ns1.wiscsoftware.wisc.edu.",
+      "Origin": "wiscsoftware.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wisctest.wisc.edu..txt",
+      "NameServer": "ns1.wisctest.wisc.edu.",
+      "Origin": "wisctest.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wiscweb5.wisc.edu..txt",
+      "NameServer": "ns1.wiscweb5.wisc.edu.",
+      "Origin": "wiscweb5.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wistep.wisc.edu..txt",
+      "NameServer": "ns1.wistep.wisc.edu.",
+      "Origin": "wistep.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/womenshealth.wisc.edu..txt",
+      "NameServer": "ns1.womenshealth.wisc.edu.",
+      "Origin": "womenshealth.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/worh.wisc.edu..txt",
+      "NameServer": "ns1.worh.wisc.edu.",
+      "Origin": "worh.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wpui.wisc.edu..txt",
+      "NameServer": "ns1.wpui.wisc.edu.",
+      "Origin": "wpui.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wri.wisc.edu..txt",
+      "NameServer": "ns1.wri.wisc.edu.",
+      "Origin": "wri.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/writing.wisc.edu..txt",
+      "NameServer": "ns1.writing.wisc.edu.",
+      "Origin": "writing.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wsum.wisc.edu..txt",
+      "NameServer": "ns1.wsum.wisc.edu.",
+      "Origin": "wsum.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wts.wisc.edu..txt",
+      "NameServer": "ns1.wts.wisc.edu.",
+      "Origin": "wts.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/wvdl.wisc.edu..txt",
+      "NameServer": "ns1.wvdl.wisc.edu.",
+      "Origin": "wvdl.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/xulab.wisc.edu..txt",
+      "NameServer": "ns1.xulab.wisc.edu.",
+      "Origin": "xulab.wisc.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wisc.edu/zoology.wisc.edu..txt",
+      "NameServer": "ns1.zoology.wisc.edu.",
+      "Origin": "zoology.wisc.edu."
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+zone,file,scenario,op,domain,type,rdata
+microbench/delegation-glue,example.test.zone,A_ADD,ADD,rev-a-add.example.test.,A,192.0.2.10

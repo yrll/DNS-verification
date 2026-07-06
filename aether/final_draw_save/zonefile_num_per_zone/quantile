@@ -1,0 +1,28 @@
+Top 20 Largest ZoneFilesCount and Corresponding Metadata Path:
+             ZoneFilesCount                    Metadata Path
+540128            80209           /home/matsu/census/co.kr/metadata.json
+141693            46821          /home/matsu/census/com.cn/metadata.json
+364378            41847          /home/matsu/census/com.tw/metadata.json
+148227            32271          /home/matsu/census/com.mx/metadata.json
+258628            27966          /home/matsu/census/com.ua/metadata.json
+1292770           14580          /home/matsu/census/gov.cn/metadata.json
+480922            13504          /home/matsu/census/net.au/metadata.json
+1222810           11285          /home/matsu/census/org.br/metadata.json
+652366            11240          /home/matsu/census/com.np/metadata.json
+1206552           11189  /home/matsu/census/cloudflare.net/metadata.json
+696739            11072          /home/matsu/census/com.sg/metadata.json
+1164746           10693   /home/matsu/census/amazonaws.com/metadata.json
+668459            10489           /home/matsu/census/co.in/metadata.json
+1165132            9917          /home/matsu/census/spb.ru/metadata.json
+1264061            9799          /home/matsu/census/com.py/metadata.json
+832229             9424          /home/matsu/census/com.my/metadata.json
+235368             7753          /home/matsu/census/org.ua/metadata.json
+404908             7037           /home/matsu/census/co.cc/metadata.json
+160744             6420           /home/matsu/census/or.kr/metadata.json
+918184             6326          /home/matsu/census/gov.br/metadata.json
+
+Construction Times Quantiles (90%, 95%, 99%, 99.9%):
+90%: 3.0
+95%: 3.0
+99%: 6.0
+99.9%: 52.0

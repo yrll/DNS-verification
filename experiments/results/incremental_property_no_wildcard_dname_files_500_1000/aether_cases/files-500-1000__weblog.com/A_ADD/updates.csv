@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/weblog.com,3cministries.weblog.com..txt,A_ADD,ADD,__aether_veridns_inc__.3cministries.weblog.com.,A,192.0.2.254

@@ -1,0 +1,2 @@
+zone,num_lec,io_time (ms),construction_time (ms),symbolic_time (ms),property_checking_time (ms),re_construction_time (ms),re_symbolic_time (ms),re_property_checking_time (ms),properties,initial_property_pass,initial_errors,incremental_property_pass,incremental_errors
+files-500-1000/zp.ua,4480,61.026,318.491,0.005,0.001,0.006,0.001,0.001,delegation consistency|rewrite blackholing|hops|zone loop|too long|lame delegation|rewrites,true,,true,

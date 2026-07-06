@@ -1,0 +1,291 @@
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hanyin"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1354697902 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "0437", "yl"], rtype: A, rdata: "61.235.62.226" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "tlghj", "www"], rtype: A, rdata: "218.23.48.138" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "0663888"], rtype: SOA, rdata: "ns1.0663888.gov.cn root.ns1.0663888.gov.cn 52 36000 600 1800 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ccq"], rtype: SOA, rdata: ". hostmaster.nameserver 19 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "wymzj", "www"], rtype: A, rdata: "60.191.138.121" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "harc", "www"], rtype: A, rdata: "61.155.154.43" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "gzweining", "www"], rtype: A, rdata: "115.47.61.237" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "12388", "www"], rtype: A, rdata: "1.202.144.199" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hzfgw", "www"], rtype: A, rdata: "111.12.108.82" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hbsm", "www"], rtype: A, rdata: "211.152.51.108" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "bthd", "www"], rtype: A, rdata: "220.195.35.25" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "htqrs", "www"], rtype: A, rdata: "114.112.59.86" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xichong"], rtype: SOA, rdata: "ns2.dns.com.cn root.ns2.dns.com.cn 2008092215 3600 3600 68400 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jdjf"], rtype: SOA, rdata: "ns2.dns.com.cn root.ns2.dns.com.cn 2008092215 3600 3600 68400 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xichuan", "www"], rtype: A, rdata: "27.50.130.144" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hljqingan", "www"], rtype: A, rdata: "218.8.194.12" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "tzjcy", "www"], rtype: A, rdata: "60.191.145.146" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "0663888", "www"], rtype: SOA, rdata: "ns1.0663888.gov.cn root.ns1.0663888.gov.cn 46 36000 600 1800 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cdss", "www"], rtype: A, rdata: "221.237.182.210" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ttgt", "www"], rtype: A, rdata: "202.75.223.72" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xigong", "www"], rtype: A, rdata: "221.13.140.87" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "pqq", "www"], rtype: A, rdata: "122.70.138.217" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "chart", "www"], rtype: A, rdata: "218.242.169.158" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "pqqzf", "www"], rtype: A, rdata: "223.5.16.90" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "gdpic", "www"], rtype: SOA, rdata: "ns1.newfavor.net hostmaster.newfavor.net 1187079398 900 600 86400 1800" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "tzsjw", "www"], rtype: A, rdata: "1.93.34.63" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "www"], rtype: SOA, rdata: "dns1.www.gov.cn hostmaster.dns1.www.gov.cn 2012083116 28800 7200 604800 1800" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cdeic", "www"], rtype: A, rdata: "221.237.182.209" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "csx", "www"], rtype: A, rdata: "113.247.241.251" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hgehdq", "www"], rtype: A, rdata: "101.226.4.147" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jgjy", "www"], rtype: A, rdata: "101.226.4.154" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "huailai"], rtype: SOA, rdata: "ns15.xincache.com hostmaster.xincache.com 2002042718 3600 900 720000 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lxlsj", "www"], rtype: A, rdata: "112.121.187.66" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hnscse", "www"], rtype: SOA, rdata: "ns.dnsfamily.com hostmaster.dnsfamily.com 1083128252 900 600 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hsbz", "www"], rtype: SOA, rdata: "hsbz.gov.cn hsbz.gov.cn 3 36000 600 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cdfc", "www"], rtype: A, rdata: "125.71.28.169" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ctei", "english"], rtype: A, rdata: "211.147.7.96" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "tzxjcg", "www"], rtype: A, rdata: "183.90.188.28" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "huaiyang", "www"], rtype: A, rdata: "116.255.164.130" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "haikou", "www"], rtype: A, rdata: "59.50.109.166" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "nmldt"], rtype: SOA, rdata: "ns1.22.cn support.22.cn 1 14400 7200 172800 1800" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hbfz"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 0 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lscg", "www"], rtype: SOA, rdata: "ns.dnsfamily.com hostmaster.dnsfamily.com 1083128252 900 600 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ceecm", "mail"], rtype: A, rdata: "58.68.254.27" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cdgtzy"], rtype: SOA, rdata: "ns1.360wzb.com domainadmin.360wzb.com 1363245755 3600 600 86400 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hbyxx", "www"], rtype: A, rdata: "119.146.223.214" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xz", "www"], rtype: A, rdata: "58.218.194.20" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lship", "www"], rtype: SOA, rdata: "ns.dnsfamily.com hostmaster.dnsfamily.com 1083128252 900 600 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cdguihuaju"], rtype: SOA, rdata: "ns1.cdguihuaju.gov.cn root.ns1.cdguihuaju.gov.cn 12 900 600 1800 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "bzagri", "www"], rtype: A, rdata: "118.123.13.173" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "nmxcb"], rtype: SOA, rdata: "ns.dnsfamily.com hostmaster.dnsfamily.com 1083128252 900 600 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "qzlc", "www"], rtype: A, rdata: "59.60.30.130" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "tourlq", "www"], rtype: A, rdata: "183.90.188.28" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hainan", "chengmai"], rtype: A, rdata: "202.100.222.47" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "bzfp", "www"], rtype: A, rdata: "222.208.156.4" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "nmxcb", "www"], rtype: SOA, rdata: "ns.dnsfamily.com hostmaster.dnsfamily.com 1083128252 900 600 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "nanning", "www"], rtype: A, rdata: "219.159.80.233" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "shxca", "www"], rtype: SOA, rdata: "ns1.shxca.gov.cn root.ns1.shxca.gov.cn 29 36000 600 1800 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "pucheng", "www"], rtype: A, rdata: "61.185.82.119" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cxzf", "www"], rtype: A, rdata: "118.244.2.77" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "nnpn", "www"], rtype: A, rdata: "180.141.88.106" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xzgs"], rtype: SOA, rdata: "xzgs-e-tax hostmaster 6 900 600 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hanchuan", "www"], rtype: A, rdata: "221.233.195.68" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "smecq"], rtype: SOA, rdata: "ns.mei.gov.cn admin.mei.gov.cn 178 900 600 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cdldbz", "www"], rtype: A, rdata: "220.241.47.17" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "tzlss", "www"], rtype: SOA, rdata: "ns1.tzlss.gov.cn root.ns1.tzlss.gov.cn 22 36000 600 1800 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "nnws", "www"], rtype: A, rdata: "180.141.88.99" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "smegx", "e"], rtype: A, rdata: "113.12.112.86" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cdmb", "www"], rtype: A, rdata: "114.112.59.126" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hhww", "www"], rtype: A, rdata: "114.112.51.133" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cdmzzj", "www"], rtype: A, rdata: "118.122.176.175" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xcws", "www"], rtype: A, rdata: "61.191.55.24" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "qishan", "www"], rtype: A, rdata: "125.76.248.61" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "houma", "www"], rtype: A, rdata: "112.64.18.131" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hicourt", "www"], rtype: A, rdata: "218.77.128.138" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "puning"], rtype: SOA, rdata: ". hostmaster.nameserver 152 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "changan", "www"], rtype: A, rdata: "121.12.164.138" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "rany100", "www"], rtype: A, rdata: "60.190.114.165" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "qiye", "www"], rtype: A, rdata: "119.57.20.95" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "puxian", "www"], rtype: A, rdata: "101.226.4.158" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cdqingyang", "www"], rtype: A, rdata: "101.226.4.135" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lygtzy"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1308546233 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jiangdu"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1351558011 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hppc", "www"], rtype: A, rdata: "59.173.12.200" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "pccz"], rtype: SOA, rdata: "ns1.myhostadmin.net dnsconct.myhostadmin.net 2009071213 3600 300 604800 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "changtu", "www"], rtype: A, rdata: "218.60.131.238" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "changxing", "www"], rtype: A, rdata: "122.224.234.36" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xf", "www"], rtype: A, rdata: "27.22.85.244" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "pxzf", "www"], rtype: A, rdata: "116.252.253.52" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "huixian", "www"], rtype: A, rdata: "219.154.17.147" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "caofeidian"], rtype: SOA, rdata: "ns1.ce.net.cn tech.ce.net.cn 2007102217 3600 900 864000 1800" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "gzcss", "www"], rtype: A, rdata: "120.31.68.39" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hlbejw", "www"], rtype: A, rdata: "116.255.173.213" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "nbeport", "www"], rtype: NS, rdata: "linkproof1.nbeport.gov.cn." }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xfland", "www"], rtype: A, rdata: "221.233.94.209" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hbdawu", "mail"], rtype: SOA, rdata: "hbdawu.gov.cn hbdawu.gov.cn 115 36000 600 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "wmgz"], rtype: SOA, rdata: ". hostmaster.nameserver 14 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "czedu", "mail"], rtype: A, rdata: "218.93.120.43" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hlbezx"], rtype: SOA, rdata: "ns1.myhostadmin.net dnsconct.myhostadmin.net 2012122803 3600 300 1209600 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jc", "www"], rtype: A, rdata: "202.96.137.107" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ahdy", "www"], rtype: A, rdata: "61.155.161.146" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "rftgd", "www"], rtype: A, rdata: "121.14.53.225" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lysghj", "www"], rtype: A, rdata: "116.255.217.67" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zbjj"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1266740010 3600 900 1209600 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yals", "www"], rtype: A, rdata: "171.208.78.108" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "nxdz", "www"], rtype: A, rdata: "125.65.112.35" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "mlnews", "www"], rtype: A, rdata: "61.187.93.10" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "qhrt", "www"], rtype: A, rdata: "42.96.129.53" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "pdszs"], rtype: SOA, rdata: "ns19.xincache.com hostmaster.xincache.com 2002042718 3600 900 720000 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jiantou", "www"], rtype: A, rdata: "113.107.219.35" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "mlr"], rtype: SOA, rdata: "outdns1.ad.mlr.gov.cn hostmaster 334 5 5 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hlbaoqing", "www"], rtype: A, rdata: "218.8.245.120" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jiaohe", "www"], rtype: A, rdata: "125.32.42.164" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "miibeian", "www"], rtype: A, rdata: "219.143.225.36" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hldsafety", "www"], rtype: A, rdata: "122.115.36.171" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "pixian", "www"], rtype: A, rdata: "101.226.4.162" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "smx"], rtype: SOA, rdata: ". hostmaster.nameserver 23 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "miitbeian", "www"], rtype: A, rdata: "219.143.225.36" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "maqu"], rtype: SOA, rdata: "ns1.myhostadmin.net dnsconct.myhostadmin.net 2012031307 3600 300 1209600 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "wuhanagri"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 0 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "hlgls"], rtype: SOA, rdata: ". hostmaster.nameserver 4 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "sxly", "www"], rtype: A, rdata: "121.197.13.117" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "wuhansourcing", "www"], rtype: A, rdata: "221.233.134.64" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cnshiling", "www"], rtype: A, rdata: "119.134.250.96" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yangxian"], rtype: SOA, rdata: ". hostmaster.nameserver 280 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "pjkx", "www"], rtype: A, rdata: "119.117.80.46" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "mof", "www"], rtype: NS, rdata: "linkproof.mof.gov.cn." }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lzdangxiao", "www"], rtype: A, rdata: "113.10.189.240" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dpxq", "www"], rtype: A, rdata: "121.37.43.27" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dpzj", "www"], rtype: A, rdata: "124.130.149.122" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cnyl", "www"], rtype: A, rdata: "112.114.8.46" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zcupb", "mail"], rtype: NS, rdata: "ns1.72dns.com." }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ncrc", "www"], rtype: A, rdata: "222.208.6.114" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zcw", "www"], rtype: A, rdata: "223.4.245.241" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "wuming", "www"], rtype: A, rdata: "202.103.240.203" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cqpa", "wsbm"], rtype: A, rdata: "124.162.168.187" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "snepb", "www"], rtype: A, rdata: "219.144.222.198" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "bba"], rtype: SOA, rdata: "ns.dns.net.cn admin.dns.net.cn 25 900 600 86400 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "qutang"], rtype: SOA, rdata: ". hostmaster.nameserver 35 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "most", "hp51s"], rtype: A, rdata: "168.160.11.2" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xhzs", "www"], rtype: A, rdata: "218.108.127.99" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cqppb"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1358324592 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yanzhou"], rtype: SOA, rdata: "ns1.360wzb.com domainadmin.360wzb.com 1378106685 3600 600 86400 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yaodu", "www"], rtype: A, rdata: "101.226.4.139" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ncagri", "www"], rtype: A, rdata: "118.123.10.178" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "czzx", "www"], rtype: A, rdata: "74.126.180.114" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "rzcl", "www"], rtype: A, rdata: "60.216.97.83" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dyghj", "www"], rtype: A, rdata: "218.206.125.184" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "meitan", "www"], rtype: A, rdata: "202.104.188.115" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "glxfq"], rtype: SOA, rdata: "ns2.dns.com.cn root.ns2.dns.com.cn 2008092215 3600 3600 68400 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "rzzx"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1319854361 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "glyjd", "www"], rtype: A, rdata: "110.84.128.11" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cqxl", "www"], rtype: A, rdata: "121.14.145.35" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "mencius", "www"], rtype: A, rdata: "223.4.245.241" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cicheng"], rtype: SOA, rdata: "ns15.xincache.com hostmaster.xincache.com 2002042718 3600 900 720000 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "sxtywbl", "www"], rtype: A, rdata: "218.26.165.25" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "sxwanrong", "www"], rtype: A, rdata: "101.226.4.162" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cla"], rtype: SOA, rdata: "ns1.01isp.com webmaster.now.net.cn 2005010265 7200 1800 1209600 7200" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cqz3"], rtype: SOA, rdata: "ns1.myhostadmin.net dnsconct.myhostadmin.net 2009042205 3600 300 1209600 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xjkcdj", "www"], rtype: A, rdata: "218.31.149.131" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jnxf"], rtype: SOA, rdata: "ns2.dns.com.cn root.ns2.dns.com.cn 2008092215 3600 3600 68400 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "kashi", "www"], rtype: A, rdata: "222.80.80.6" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "moj", "www"], rtype: A, rdata: "58.68.134.170" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ssfgj", "www"], rtype: A, rdata: "119.146.223.198" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "merchant"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1320296739 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "daixian", "www"], rtype: A, rdata: "122.115.47.85" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "soa", "www"], rtype: A, rdata: "202.99.63.158" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cqcoop", "www"], rtype: A, rdata: "218.70.229.122" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "aqdgq", "www"], rtype: A, rdata: "184.82.206.30" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zgdx", "www"], rtype: A, rdata: "218.64.164.152" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "bjwmb", "www"], rtype: A, rdata: "210.75.211.10" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "eqsn", "www"], rtype: A, rdata: "221.11.21.39" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dcqzf"], rtype: SOA, rdata: "ns2.dns.com.cn root.ns2.dns.com.cn 2008092215 3600 3600 68400 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xianxian", "www"], rtype: A, rdata: "202.77.176.162" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dcrlj", "www"], rtype: A, rdata: "216.218.158.19" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ahyx"], rtype: SOA, rdata: ". hostmaster.nameserver 388 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zggs", "www"], rtype: A, rdata: "27.17.40.100" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zgjssw", "www"], rtype: A, rdata: "218.94.123.203" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dalitour", "www"], rtype: A, rdata: "220.165.9.204" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dwk", "www"], rtype: MX, rdata: "1 218.21.44.170" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "js-n-tax", "www"], rtype: A, rdata: "221.130.28.83" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ahzzw", "www"], rtype: A, rdata: "114.80.213.31" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dancheng", "www"], rtype: A, rdata: "116.255.136.3" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "bjxch", "big5"], rtype: A, rdata: "61.49.3.29" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dunhuang"], rtype: SOA, rdata: ". hostmaster.nameserver 201 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ewenke", "www"], rtype: A, rdata: "122.49.40.139" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "beihai", "www"], rtype: A, rdata: "202.103.215.200" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "kfxrmzf", "www"], rtype: A, rdata: "116.255.141.204" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "liangshan", "www"], rtype: A, rdata: "210.51.57.166" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "cqhrss", "www"], rtype: A, rdata: "124.162.168.188" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dehuajie", "www"], rtype: A, rdata: "125.46.62.126" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zgpta", "www"], rtype: A, rdata: "125.71.28.58" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "kunlun"], rtype: SOA, rdata: "dns.bizcn.com dnsconct.bizcn.com 1311095253 28800 14400 14400 600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jlagri", "www"], rtype: A, rdata: "61.138.188.214" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "spp", "www"], rtype: A, rdata: "219.141.231.58" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "daocheng"], rtype: SOA, rdata: "ns1.myhostadmin.net dnsconct.myhostadmin.net 2011022305 3600 300 1209600 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jxca", "www"], rtype: A, rdata: "59.53.48.131" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "fagt", "www"], rtype: A, rdata: "223.4.122.4" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "sh", "www"], rtype: A, rdata: "218.242.143.196" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "gdsf", "www"], rtype: A, rdata: "210.76.65.153" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "szaic", "app01"], rtype: A, rdata: "218.17.223.87" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lib"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 0 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yclyw", "www"], rtype: A, rdata: "116.255.215.106" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zhangjiajie"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1365349767 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xm-l-tax", "www"], rtype: A, rdata: "218.5.65.188" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "shanghai", "www"], rtype: A, rdata: "61.129.65.58" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "fanshui", "www"], rtype: A, rdata: "218.85.132.208" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yunyang", "zfxx"], rtype: A, rdata: "222.180.77.12" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jswst", "pop"], rtype: A, rdata: "58.213.112.249" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "szciq", "www"], rtype: A, rdata: "59.40.185.216" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "shengao", "www"], rtype: A, rdata: "223.7.36.125" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "linfen", "www"], rtype: A, rdata: "203.158.16.65" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "stwater"], rtype: SOA, rdata: "ns1.myhostadmin.net dnsconct.myhostadmin.net 2009042203 3600 300 1209600 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "biancheng", "www"], rtype: A, rdata: "101.226.4.140" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "laiyang"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 0 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yutian"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 0 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yuwangtai", "www"], rtype: A, rdata: "118.244.25.197" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "big5"], rtype: SOA, rdata: "dns1.www.gov.cn hostmaster.dns1.www.gov.cn 2006010411 28800 7200 604800 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "xmedu", "www"], rtype: A, rdata: "218.5.84.21" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "suifenhe"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 0 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "baixiang", "www"], rtype: A, rdata: "122.228.242.54" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "shangnan"], rtype: SOA, rdata: "ns1.myhostadmin.net dnsconct.myhostadmin.net 2009042275 3600 300 604800 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "futurecity", "www"], rtype: A, rdata: "114.112.35.74" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "fmprc", "bbs"], rtype: A, rdata: "211.99.196.166" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "fmxly", "www"], rtype: A, rdata: "218.25.89.74" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "enghunan", "www"], rtype: A, rdata: "202.103.114.9" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "english"], rtype: SOA, rdata: "dns1.www.gov.cn hostmaster.dns1.www.gov.cn 2006010413 28800 7200 604800 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jsshaxi", "www"], rtype: A, rdata: "220.179.151.20" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "gdmsa", "www"], rtype: A, rdata: "121.8.249.10" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lintong", "www"], rtype: A, rdata: "113.140.83.81" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "nldj"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 0 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "linux", "lamp"], rtype: A, rdata: "204.45.0.10" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dhrk", "www"], rtype: A, rdata: "60.164.175.95" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lantian", "www"], rtype: A, rdata: "219.144.222.212" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "szfwzwh"], rtype: SOA, rdata: "ns2.dns.com.cn root.ns2.dns.com.cn 2008092215 3600 3600 68400 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "gjjkq", "www"], rtype: A, rdata: "203.124.15.89" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zhaotong", "www"], rtype: A, rdata: "61.166.50.131" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "fjxwcbj", "www"], rtype: A, rdata: "120.35.31.36" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "nmemc", "www"], rtype: A, rdata: "124.93.235.198" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ycxcb", "www"], rtype: A, rdata: "60.219.0.170" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jmjgj", "www"], rtype: A, rdata: "183.61.5.193" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "sxcr", "www"], rtype: A, rdata: "221.204.232.69" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "fengxiang", "www"], rtype: A, rdata: "124.115.212.19" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dna"], rtype: SOA, rdata: "ns11.xincache.com hostmaster.xincache.com 2002042718 3600 900 720000 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dhcm"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1308657041 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jxinfo", "www"], rtype: A, rdata: "218.64.59.108" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yxnews"], rtype: SOA, rdata: "dns17.hichina.com hostmaster.hichina.com 2012011201 10800 2000 691200 50000" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jnlz"], rtype: SOA, rdata: "ns2.dns.com.cn root.ns2.dns.com.cn 2008092215 3600 3600 68400 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "ll"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 0 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zsboftec"], rtype: SOA, rdata: "dns1.zstoday.com root.xinosoft.com 42 10800 900 604800 86400" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lj", "www"], rtype: A, rdata: "218.22.228.156" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "shio", "en"], rtype: A, rdata: "114.80.148.103" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dongchong", "www"], rtype: A, rdata: "96.46.9.201" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "guanghan"], rtype: SOA, rdata: ". hostmaster.nameserver 43 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "diqing", "www"], rtype: A, rdata: "61.166.147.67" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lm", "www"], rtype: A, rdata: "59.252.162.36" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jndz", "www"], rtype: A, rdata: "218.94.103.122" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "djda"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1343955312 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "jxzgh", "www"], rtype: A, rdata: "114.80.209.235" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yyjcw", "www"], rtype: A, rdata: "218.75.174.142" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "fzkjcyy"], rtype: SOA, rdata: ". hostmaster.nameserver 5 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zsfda", "www"], rtype: A, rdata: "220.189.205.18" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "shizhong"], rtype: SOA, rdata: "ns1.360wzb.com domainadmin.360wzb.com 1378108714 3600 600 86400 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yongxing", "www"], rtype: A, rdata: "113.240.254.45" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "bjdch", "www"], rtype: A, rdata: "202.108.143.22" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zycg", "www"], rtype: A, rdata: "61.135.227.116" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "luannan", "www"], rtype: A, rdata: "60.2.45.67" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lss", "he", "www"], rtype: A, rdata: "222.222.31.166" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "bjdzgw"], rtype: SOA, rdata: "ns19.xincache.com hostmaster.xincache.com 2002042718 3600 900 720000 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "luhuo"], rtype: SOA, rdata: "ns1.myhostadmin.net dnsconct.myhostadmin.net 2011031412 3600 300 1209600 3600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "shucheng", "www"], rtype: A, rdata: "220.180.7.197" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zjskw", "www"], rtype: A, rdata: "122.224.129.21" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "grta"], rtype: SOA, rdata: "grta.gov.cn admin.grta.gov.cn 1 3600 600 86400 600" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "legalinfo", "www"], rtype: A, rdata: "58.68.134.147" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zxzs", "www"], rtype: A, rdata: "61.184.196.74" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "shpt", "english"], rtype: A, rdata: "218.242.149.120" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zt", "www"], rtype: A, rdata: "61.166.50.131" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yinhai"], rtype: SOA, rdata: ". hostmaster.nameserver 126 28800 7200 604800 5" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zx", "www"], rtype: A, rdata: "125.65.113.231" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "lhk", "www"], rtype: A, rdata: "219.138.40.153" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zzedu", "mail"], rtype: A, rdata: "58.20.192.229" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "gxnj", "www"], rtype: A, rdata: "116.255.202.49" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "yishuizhen"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 0 3600 180 1209600 180" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "zjagri", "www"], rtype: A, rdata: "119.37.199.165" }
+[2026-07-03T07:36:21Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "shxca"], rtype: SOA, rdata: "ns1.shxca.gov.cn root.ns1.shxca.gov.cn 10 36000 600 1800 3600" }
+[2026-07-03T07:36:22Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["cn", "gov", "dl"], rtype: TXT, rdata: "v=spf1 a mx mx:primail.dl.gov.cn ip4:124.93.228.4 ip4:59.46.135.4 ~all" }
+
+thread 'main' (1336) panicked at src/lib.rs:114:36:
+update zone file not found: 0437.gov.cn..txt
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace

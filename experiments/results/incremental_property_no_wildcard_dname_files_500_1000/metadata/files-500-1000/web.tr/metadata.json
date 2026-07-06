@@ -1,0 +1,2817 @@
+{
+  "TopNameServers": [
+    "ns1.web.tr."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/2k.web.tr..txt",
+      "NameServer": "ns1.2k.web.tr.",
+      "Origin": "2k.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/4story.web.tr..txt",
+      "NameServer": "ns1.4story.web.tr.",
+      "Origin": "4story.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/7-24.web.tr..txt",
+      "NameServer": "ns1.7-24.web.tr.",
+      "Origin": "7-24.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/abc.web.tr..txt",
+      "NameServer": "ns1.abc.web.tr.",
+      "Origin": "abc.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ad.web.tr..txt",
+      "NameServer": "ns1.ad.web.tr.",
+      "Origin": "ad.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ada.web.tr..txt",
+      "NameServer": "ns1.ada.web.tr.",
+      "Origin": "ada.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/adanaweb.web.tr..txt",
+      "NameServer": "ns1.adanaweb.web.tr.",
+      "Origin": "adanaweb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/adc.web.tr..txt",
+      "NameServer": "ns1.adc.web.tr.",
+      "Origin": "adc.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/adopen.web.tr..txt",
+      "NameServer": "ns1.adopen.web.tr.",
+      "Origin": "adopen.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ahmetgurel.web.tr..txt",
+      "NameServer": "ns1.ahmetgurel.web.tr.",
+      "Origin": "ahmetgurel.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ahsapoyuncak.web.tr..txt",
+      "NameServer": "ns1.ahsapoyuncak.web.tr.",
+      "Origin": "ahsapoyuncak.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/aikido.web.tr..txt",
+      "NameServer": "ns1.aikido.web.tr.",
+      "Origin": "aikido.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/airnet.web.tr..txt",
+      "NameServer": "ns1.airnet.web.tr.",
+      "Origin": "airnet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/airrivals.web.tr..txt",
+      "NameServer": "ns1.airrivals.web.tr.",
+      "Origin": "airrivals.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ais.web.tr..txt",
+      "NameServer": "ns1.ais.web.tr.",
+      "Origin": "ais.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/akcay.web.tr..txt",
+      "NameServer": "ns1.akcay.web.tr.",
+      "Origin": "akcay.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/akcayhaber.web.tr..txt",
+      "NameServer": "ns1.akcayhaber.web.tr.",
+      "Origin": "akcayhaber.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/akgul.web.tr..txt",
+      "NameServer": "ns1.akgul.web.tr.",
+      "Origin": "akgul.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/aksoy.web.tr..txt",
+      "NameServer": "ns1.aksoy.web.tr.",
+      "Origin": "aksoy.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/alarmsistemi.web.tr..txt",
+      "NameServer": "ns1.alarmsistemi.web.tr.",
+      "Origin": "alarmsistemi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/alarmsistemleri.web.tr..txt",
+      "NameServer": "ns1.alarmsistemleri.web.tr.",
+      "Origin": "alarmsistemleri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/albil.web.tr..txt",
+      "NameServer": "ns1.albil.web.tr.",
+      "Origin": "albil.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/aliergin.web.tr..txt",
+      "NameServer": "ns1.aliergin.web.tr.",
+      "Origin": "aliergin.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/almancaceviri.web.tr..txt",
+      "NameServer": "ns1.almancaceviri.web.tr.",
+      "Origin": "almancaceviri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/almancakursu.web.tr..txt",
+      "NameServer": "ns1.almancakursu.web.tr.",
+      "Origin": "almancakursu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/almancasozluk.web.tr..txt",
+      "NameServer": "ns1.almancasozluk.web.tr.",
+      "Origin": "almancasozluk.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/alora.web.tr..txt",
+      "NameServer": "ns1.alora.web.tr.",
+      "Origin": "alora.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/alper.web.tr..txt",
+      "NameServer": "ns1.alper.web.tr.",
+      "Origin": "alper.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/altinoluk.web.tr..txt",
+      "NameServer": "ns1.altinoluk.web.tr.",
+      "Origin": "altinoluk.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/altinova.web.tr..txt",
+      "NameServer": "ns1.altinova.web.tr.",
+      "Origin": "altinova.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/alzheimer.web.tr..txt",
+      "NameServer": "ns1.alzheimer.web.tr.",
+      "Origin": "alzheimer.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/amasya.web.tr..txt",
+      "NameServer": "ns1.amasya.web.tr.",
+      "Origin": "amasya.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/anda.web.tr..txt",
+      "NameServer": "ns1.anda.web.tr.",
+      "Origin": "anda.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/androidoyunlar.web.tr..txt",
+      "NameServer": "ns1.androidoyunlar.web.tr.",
+      "Origin": "androidoyunlar.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/anime.web.tr..txt",
+      "NameServer": "ns1.anime.web.tr.",
+      "Origin": "anime.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ankaradahaliyikama.web.tr..txt",
+      "NameServer": "ns1.ankaradahaliyikama.web.tr.",
+      "Origin": "ankaradahaliyikama.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ankarahosting.web.tr..txt",
+      "NameServer": "ns1.ankarahosting.web.tr.",
+      "Origin": "ankarahosting.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ant.web.tr..txt",
+      "NameServer": "ns1.ant.web.tr.",
+      "Origin": "ant.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/antalyahaliyikama.web.tr..txt",
+      "NameServer": "ns1.antalyahaliyikama.web.tr.",
+      "Origin": "antalyahaliyikama.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/antalyaspor.web.tr..txt",
+      "NameServer": "ns1.antalyaspor.web.tr.",
+      "Origin": "antalyaspor.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/aplus.web.tr..txt",
+      "NameServer": "ns1.aplus.web.tr.",
+      "Origin": "aplus.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/aramasonuclari.web.tr..txt",
+      "NameServer": "ns1.aramasonuclari.web.tr.",
+      "Origin": "aramasonuclari.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/arapcakursu.web.tr..txt",
+      "NameServer": "ns1.arapcakursu.web.tr.",
+      "Origin": "arapcakursu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/arkeoloji.web.tr..txt",
+      "NameServer": "ns1.arkeoloji.web.tr.",
+      "Origin": "arkeoloji.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/artemis.web.tr..txt",
+      "NameServer": "ns1.artemis.web.tr.",
+      "Origin": "artemis.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/artworx.web.tr..txt",
+      "NameServer": "ns1.artworx.web.tr.",
+      "Origin": "artworx.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/artyria.web.tr..txt",
+      "NameServer": "ns1.artyria.web.tr.",
+      "Origin": "artyria.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/arvin.web.tr..txt",
+      "NameServer": "ns1.arvin.web.tr.",
+      "Origin": "arvin.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/asnet.web.tr..txt",
+      "NameServer": "ns1.asnet.web.tr.",
+      "Origin": "asnet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/atasehirescort.web.tr..txt",
+      "NameServer": "ns1.atasehirescort.web.tr.",
+      "Origin": "atasehirescort.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/atesvesu.web.tr..txt",
+      "NameServer": "ns1.atesvesu.web.tr.",
+      "Origin": "atesvesu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ats.web.tr..txt",
+      "NameServer": "ns1.ats.web.tr.",
+      "Origin": "ats.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/avize.web.tr..txt",
+      "NameServer": "ns1.avize.web.tr.",
+      "Origin": "avize.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ayakizi.web.tr..txt",
+      "NameServer": "ns1.ayakizi.web.tr.",
+      "Origin": "ayakizi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/aytasarim.web.tr..txt",
+      "NameServer": "ns1.aytasarim.web.tr.",
+      "Origin": "aytasarim.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ayvalik.web.tr..txt",
+      "NameServer": "ns1.ayvalik.web.tr.",
+      "Origin": "ayvalik.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/b2g.web.tr..txt",
+      "NameServer": "ns1.b2g.web.tr.",
+      "Origin": "b2g.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/balayiotelleri.web.tr..txt",
+      "NameServer": "ns1.balayiotelleri.web.tr.",
+      "Origin": "balayiotelleri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/balekursu.web.tr..txt",
+      "NameServer": "ns1.balekursu.web.tr.",
+      "Origin": "balekursu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/balgatevdenevenakliyat.web.tr..txt",
+      "NameServer": "ns1.balgatevdenevenakliyat.web.tr.",
+      "Origin": "balgatevdenevenakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/balikesirspor.web.tr..txt",
+      "NameServer": "ns1.balikesirspor.web.tr.",
+      "Origin": "balikesirspor.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/balon.web.tr..txt",
+      "NameServer": "ns1.balon.web.tr.",
+      "Origin": "balon.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/barbieoyunlari.web.tr..txt",
+      "NameServer": "ns1.barbieoyunlari.web.tr.",
+      "Origin": "barbieoyunlari.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/barkod.web.tr..txt",
+      "NameServer": "ns1.barkod.web.tr.",
+      "Origin": "barkod.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/basakemlak.web.tr..txt",
+      "NameServer": "ns1.basakemlak.web.tr.",
+      "Origin": "basakemlak.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/batarya.web.tr..txt",
+      "NameServer": "ns1.batarya.web.tr.",
+      "Origin": "batarya.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/batikentevdenevenakliyat.web.tr..txt",
+      "NameServer": "ns1.batikentevdenevenakliyat.web.tr.",
+      "Origin": "batikentevdenevenakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bayanicgiyim.web.tr..txt",
+      "NameServer": "ns1.bayanicgiyim.web.tr.",
+      "Origin": "bayanicgiyim.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bayburt.web.tr..txt",
+      "NameServer": "ns1.bayburt.web.tr.",
+      "Origin": "bayburt.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bayrakfiyatlari.web.tr..txt",
+      "NameServer": "ns1.bayrakfiyatlari.web.tr.",
+      "Origin": "bayrakfiyatlari.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bebegim.web.tr..txt",
+      "NameServer": "ns1.bebegim.web.tr.",
+      "Origin": "bebegim.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ben10.web.tr..txt",
+      "NameServer": "ns1.ben10.web.tr.",
+      "Origin": "ben10.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/benq.web.tr..txt",
+      "NameServer": "ns1.benq.web.tr.",
+      "Origin": "benq.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/beta.web.tr..txt",
+      "NameServer": "ns1.beta.web.tr.",
+      "Origin": "beta.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bil.web.tr..txt",
+      "NameServer": "ns1.bil.web.tr.",
+      "Origin": "bil.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bilgiagi.web.tr..txt",
+      "NameServer": "ns1.bilgiagi.web.tr.",
+      "Origin": "bilgiagi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bir.web.tr..txt",
+      "NameServer": "ns1.bir.web.tr.",
+      "Origin": "bir.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/biret.web.tr..txt",
+      "NameServer": "ns1.biret.web.tr.",
+      "Origin": "biret.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/birteknoloji.web.tr..txt",
+      "NameServer": "ns1.birteknoloji.web.tr.",
+      "Origin": "birteknoloji.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bit.web.tr..txt",
+      "NameServer": "ns1.bit.web.tr.",
+      "Origin": "bit.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bodrum.web.tr..txt",
+      "NameServer": "ns1.bodrum.web.tr.",
+      "Origin": "bodrum.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bookmark.web.tr..txt",
+      "NameServer": "ns1.bookmark.web.tr.",
+      "Origin": "bookmark.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/buca.web.tr..txt",
+      "NameServer": "ns1.buca.web.tr.",
+      "Origin": "buca.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/burc.web.tr..txt",
+      "NameServer": "ns1.burc.web.tr.",
+      "Origin": "burc.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/burclar.web.tr..txt",
+      "NameServer": "ns1.burclar.web.tr.",
+      "Origin": "burclar.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bursanakliyat.web.tr..txt",
+      "NameServer": "ns1.bursanakliyat.web.tr.",
+      "Origin": "bursanakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bursanakliye.web.tr..txt",
+      "NameServer": "ns1.bursanakliye.web.tr.",
+      "Origin": "bursanakliye.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/burunestetigiameliyati.web.tr..txt",
+      "NameServer": "ns1.burunestetigiameliyati.web.tr.",
+      "Origin": "burunestetigiameliyati.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/buta.web.tr..txt",
+      "NameServer": "ns1.buta.web.tr.",
+      "Origin": "buta.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/bx.web.tr..txt",
+      "NameServer": "ns1.bx.web.tr.",
+      "Origin": "bx.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/by.web.tr..txt",
+      "NameServer": "ns1.by.web.tr.",
+      "Origin": "by.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/calmiva.web.tr..txt",
+      "NameServer": "ns1.calmiva.web.tr.",
+      "Origin": "calmiva.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/camasirtopu.web.tr..txt",
+      "NameServer": "ns1.camasirtopu.web.tr.",
+      "Origin": "camasirtopu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/camyagi.web.tr..txt",
+      "NameServer": "ns1.camyagi.web.tr.",
+      "Origin": "camyagi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cankiri.web.tr..txt",
+      "NameServer": "ns1.cankiri.web.tr.",
+      "Origin": "cankiri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/canliradyo.web.tr..txt",
+      "NameServer": "ns1.canliradyo.web.tr.",
+      "Origin": "canliradyo.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/canliradyodinle.web.tr..txt",
+      "NameServer": "ns1.canliradyodinle.web.tr.",
+      "Origin": "canliradyodinle.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/canlitv.web.tr..txt",
+      "NameServer": "ns1.canlitv.web.tr.",
+      "Origin": "canlitv.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/casustelefon.web.tr..txt",
+      "NameServer": "ns1.casustelefon.web.tr.",
+      "Origin": "casustelefon.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cayyoluevdenevenakliyat.web.tr..txt",
+      "NameServer": "ns1.cayyoluevdenevenakliyat.web.tr.",
+      "Origin": "cayyoluevdenevenakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cekirdek.web.tr..txt",
+      "NameServer": "ns1.cekirdek.web.tr.",
+      "Origin": "cekirdek.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cekmekoy.web.tr..txt",
+      "NameServer": "ns1.cekmekoy.web.tr.",
+      "Origin": "cekmekoy.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cemre.web.tr..txt",
+      "NameServer": "ns1.cemre.web.tr.",
+      "Origin": "cemre.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cemsima.web.tr..txt",
+      "NameServer": "ns1.cemsima.web.tr.",
+      "Origin": "cemsima.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ceplinux.web.tr..txt",
+      "NameServer": "ns1.ceplinux.web.tr.",
+      "Origin": "ceplinux.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cerkezkoy.web.tr..txt",
+      "NameServer": "ns1.cerkezkoy.web.tr.",
+      "Origin": "cerkezkoy.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cetiner.web.tr..txt",
+      "NameServer": "ns1.cetiner.web.tr.",
+      "Origin": "cetiner.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/chartis.web.tr..txt",
+      "NameServer": "ns1.chartis.web.tr.",
+      "Origin": "chartis.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/chatroulette.web.tr..txt",
+      "NameServer": "ns1.chatroulette.web.tr.",
+      "Origin": "chatroulette.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/chatyap.web.tr..txt",
+      "NameServer": "ns1.chatyap.web.tr.",
+      "Origin": "chatyap.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/chery.web.tr..txt",
+      "NameServer": "ns1.chery.web.tr.",
+      "Origin": "chery.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cilt.web.tr..txt",
+      "NameServer": "ns1.cilt.web.tr.",
+      "Origin": "cilt.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cloudit.web.tr..txt",
+      "NameServer": "ns1.cloudit.web.tr.",
+      "Origin": "cloudit.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/colyak.web.tr..txt",
+      "NameServer": "ns1.colyak.web.tr.",
+      "Origin": "colyak.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/conanturk.web.tr..txt",
+      "NameServer": "ns1.conanturk.web.tr.",
+      "Origin": "conanturk.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cozumdestek.web.tr..txt",
+      "NameServer": "ns1.cozumdestek.web.tr.",
+      "Origin": "cozumdestek.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/crea.web.tr..txt",
+      "NameServer": "ns1.crea.web.tr.",
+      "Origin": "crea.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/creativebox.web.tr..txt",
+      "NameServer": "ns1.creativebox.web.tr.",
+      "Origin": "creativebox.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cs.web.tr..txt",
+      "NameServer": "ns1.cs.web.tr.",
+      "Origin": "cs.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ctrlplus.web.tr..txt",
+      "NameServer": "ns1.ctrlplus.web.tr.",
+      "Origin": "ctrlplus.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/cunda.web.tr..txt",
+      "NameServer": "ns1.cunda.web.tr.",
+      "Origin": "cunda.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/data.web.tr..txt",
+      "NameServer": "ns1.data.web.tr.",
+      "Origin": "data.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/datacenter.web.tr..txt",
+      "NameServer": "ns1.datacenter.web.tr.",
+      "Origin": "datacenter.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/datasis.web.tr..txt",
+      "NameServer": "ns1.datasis.web.tr.",
+      "Origin": "datasis.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/davetiyem.web.tr..txt",
+      "NameServer": "ns1.davetiyem.web.tr.",
+      "Origin": "davetiyem.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/decom.web.tr..txt",
+      "NameServer": "ns1.decom.web.tr.",
+      "Origin": "decom.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/dejavu.web.tr..txt",
+      "NameServer": "ns1.dejavu.web.tr.",
+      "Origin": "dejavu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/demir.web.tr..txt",
+      "NameServer": "ns1.demir.web.tr.",
+      "Origin": "demir.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/denki.web.tr..txt",
+      "NameServer": "ns1.denki.web.tr.",
+      "Origin": "denki.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/dennet.web.tr..txt",
+      "NameServer": "ns1.dennet.web.tr.",
+      "Origin": "dennet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/deopastil.web.tr..txt",
+      "NameServer": "ns1.deopastil.web.tr.",
+      "Origin": "deopastil.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/dersonet.web.tr..txt",
+      "NameServer": "ns1.dersonet.web.tr.",
+      "Origin": "dersonet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/destekpatent.web.tr..txt",
+      "NameServer": "ns1.destekpatent.web.tr.",
+      "Origin": "destekpatent.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/deu.web.tr..txt",
+      "NameServer": "ns1.deu.web.tr.",
+      "Origin": "deu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/devrek.web.tr..txt",
+      "NameServer": "ns1.devrek.web.tr.",
+      "Origin": "devrek.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/dharamsala.web.tr..txt",
+      "NameServer": "ns1.dharamsala.web.tr.",
+      "Origin": "dharamsala.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/didim.web.tr..txt",
+      "NameServer": "ns1.didim.web.tr.",
+      "Origin": "didim.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/dikiliotelleri.web.tr..txt",
+      "NameServer": "ns1.dikiliotelleri.web.tr.",
+      "Origin": "dikiliotelleri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/dikmenevdenevenakliyat.web.tr..txt",
+      "NameServer": "ns1.dikmenevdenevenakliyat.web.tr.",
+      "Origin": "dikmenevdenevenakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/dinle.web.tr..txt",
+      "NameServer": "ns1.dinle.web.tr.",
+      "Origin": "dinle.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/disbeyazlatma.web.tr..txt",
+      "NameServer": "ns1.disbeyazlatma.web.tr.",
+      "Origin": "disbeyazlatma.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/doga.web.tr..txt",
+      "NameServer": "ns1.doga.web.tr.",
+      "Origin": "doga.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/domainalma.web.tr..txt",
+      "NameServer": "ns1.domainalma.web.tr.",
+      "Origin": "domainalma.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/dominant.web.tr..txt",
+      "NameServer": "ns1.dominant.web.tr.",
+      "Origin": "dominant.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/doodle.web.tr..txt",
+      "NameServer": "ns1.doodle.web.tr.",
+      "Origin": "doodle.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/dovizkuru.web.tr..txt",
+      "NameServer": "ns1.dovizkuru.web.tr.",
+      "Origin": "dovizkuru.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/download.web.tr..txt",
+      "NameServer": "ns1.download.web.tr.",
+      "Origin": "download.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/duman.web.tr..txt",
+      "NameServer": "ns1.duman.web.tr.",
+      "Origin": "duman.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/dynamic.web.tr..txt",
+      "NameServer": "ns1.dynamic.web.tr.",
+      "Origin": "dynamic.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/e-baro.web.tr..txt",
+      "NameServer": "ns1.e-baro.web.tr.",
+      "Origin": "e-baro.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/e-dersane.web.tr..txt",
+      "NameServer": "ns1.e-dersane.web.tr.",
+      "Origin": "e-dersane.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/e-dershane.web.tr..txt",
+      "NameServer": "ns1.e-dershane.web.tr.",
+      "Origin": "e-dershane.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/e-sektor.web.tr..txt",
+      "NameServer": "ns1.e-sektor.web.tr.",
+      "Origin": "e-sektor.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/e-sinav.web.tr..txt",
+      "NameServer": "ns1.e-sinav.web.tr.",
+      "Origin": "e-sinav.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ecer.web.tr..txt",
+      "NameServer": "ns1.ecer.web.tr.",
+      "Origin": "ecer.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ecza.web.tr..txt",
+      "NameServer": "ns1.ecza.web.tr.",
+      "Origin": "ecza.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/edersane.web.tr..txt",
+      "NameServer": "ns1.edersane.web.tr.",
+      "Origin": "edersane.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/edershane.web.tr..txt",
+      "NameServer": "ns1.edershane.web.tr.",
+      "Origin": "edershane.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/edirne.web.tr..txt",
+      "NameServer": "ns1.edirne.web.tr.",
+      "Origin": "edirne.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/efsun.web.tr..txt",
+      "NameServer": "ns1.efsun.web.tr.",
+      "Origin": "efsun.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ekle.web.tr..txt",
+      "NameServer": "ns1.ekle.web.tr.",
+      "Origin": "ekle.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/elektromarket.web.tr..txt",
+      "NameServer": "ns1.elektromarket.web.tr.",
+      "Origin": "elektromarket.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/elektroniksigarafiyat.web.tr..txt",
+      "NameServer": "ns1.elektroniksigarafiyat.web.tr.",
+      "Origin": "elektroniksigarafiyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/elpida.web.tr..txt",
+      "NameServer": "ns1.elpida.web.tr.",
+      "Origin": "elpida.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/elsa.web.tr..txt",
+      "NameServer": "ns1.elsa.web.tr.",
+      "Origin": "elsa.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/emirdag.web.tr..txt",
+      "NameServer": "ns1.emirdag.web.tr.",
+      "Origin": "emirdag.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/emirtesisat.web.tr..txt",
+      "NameServer": "ns1.emirtesisat.web.tr.",
+      "Origin": "emirtesisat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/emlakdanismani.web.tr..txt",
+      "NameServer": "ns1.emlakdanismani.web.tr.",
+      "Origin": "emlakdanismani.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/emmawatson.web.tr..txt",
+      "NameServer": "ns1.emmawatson.web.tr.",
+      "Origin": "emmawatson.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/empati.web.tr..txt",
+      "NameServer": "ns1.empati.web.tr.",
+      "Origin": "empati.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/engelliler.web.tr..txt",
+      "NameServer": "ns1.engelliler.web.tr.",
+      "Origin": "engelliler.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/english.web.tr..txt",
+      "NameServer": "ns1.english.web.tr.",
+      "Origin": "english.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ensa.web.tr..txt",
+      "NameServer": "ns1.ensa.web.tr.",
+      "Origin": "ensa.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/eokul.web.tr..txt",
+      "NameServer": "ns1.eokul.web.tr.",
+      "Origin": "eokul.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/epilasyonlazer.web.tr..txt",
+      "NameServer": "ns1.epilasyonlazer.web.tr.",
+      "Origin": "epilasyonlazer.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/erdek.web.tr..txt",
+      "NameServer": "ns1.erdek.web.tr.",
+      "Origin": "erdek.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/eregli.web.tr..txt",
+      "NameServer": "ns1.eregli.web.tr.",
+      "Origin": "eregli.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/erg.web.tr..txt",
+      "NameServer": "ns1.erg.web.tr.",
+      "Origin": "erg.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ermenek.web.tr..txt",
+      "NameServer": "ns1.ermenek.web.tr.",
+      "Origin": "ermenek.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/eryamanevdenevenakliyat.web.tr..txt",
+      "NameServer": "ns1.eryamanevdenevenakliyat.web.tr.",
+      "Origin": "eryamanevdenevenakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/escape.web.tr..txt",
+      "NameServer": "ns1.escape.web.tr.",
+      "Origin": "escape.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/esinav.web.tr..txt",
+      "NameServer": "ns1.esinav.web.tr.",
+      "Origin": "esinav.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/eskort.web.tr..txt",
+      "NameServer": "ns1.eskort.web.tr.",
+      "Origin": "eskort.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/etlikevdenevenakliyat.web.tr..txt",
+      "NameServer": "ns1.etlikevdenevenakliyat.web.tr.",
+      "Origin": "etlikevdenevenakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/euroave.web.tr..txt",
+      "NameServer": "ns1.euroave.web.tr.",
+      "Origin": "euroave.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/eurogroup.web.tr..txt",
+      "NameServer": "ns1.eurogroup.web.tr.",
+      "Origin": "eurogroup.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/europe1400.web.tr..txt",
+      "NameServer": "ns1.europe1400.web.tr.",
+      "Origin": "europe1400.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/evdenevenakliyat.web.tr..txt",
+      "NameServer": "ns1.evdenevenakliyat.web.tr.",
+      "Origin": "evdenevenakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/evdenevenakliyatbursa.web.tr..txt",
+      "NameServer": "ns1.evdenevenakliyatbursa.web.tr.",
+      "Origin": "evdenevenakliyatbursa.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/evdenevenakliyatsirketleri.web.tr..txt",
+      "NameServer": "ns1.evdenevenakliyatsirketleri.web.tr.",
+      "Origin": "evdenevenakliyatsirketleri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/evin.web.tr..txt",
+      "NameServer": "ns1.evin.web.tr.",
+      "Origin": "evin.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/evrenel.web.tr..txt",
+      "NameServer": "ns1.evrenel.web.tr.",
+      "Origin": "evrenel.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/excel.web.tr..txt",
+      "NameServer": "ns1.excel.web.tr.",
+      "Origin": "excel.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/f1.web.tr..txt",
+      "NameServer": "ns1.f1.web.tr.",
+      "Origin": "f1.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/fizyomed.web.tr..txt",
+      "NameServer": "ns1.fizyomed.web.tr.",
+      "Origin": "fizyomed.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/fmedya.web.tr..txt",
+      "NameServer": "ns1.fmedya.web.tr.",
+      "Origin": "fmedya.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/forex.web.tr..txt",
+      "NameServer": "ns1.forex.web.tr.",
+      "Origin": "forex.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/forumup.web.tr..txt",
+      "NameServer": "ns1.forumup.web.tr.",
+      "Origin": "forumup.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/fotograf.web.tr..txt",
+      "NameServer": "ns1.fotograf.web.tr.",
+      "Origin": "fotograf.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/fotokopimakinesi.web.tr..txt",
+      "NameServer": "ns1.fotokopimakinesi.web.tr.",
+      "Origin": "fotokopimakinesi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/fragman.web.tr..txt",
+      "NameServer": "ns1.fragman.web.tr.",
+      "Origin": "fragman.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/frp.web.tr..txt",
+      "NameServer": "ns1.frp.web.tr.",
+      "Origin": "frp.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/fundaarar.web.tr..txt",
+      "NameServer": "ns1.fundaarar.web.tr.",
+      "Origin": "fundaarar.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/furkan.web.tr..txt",
+      "NameServer": "ns1.furkan.web.tr.",
+      "Origin": "furkan.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gag.web.tr..txt",
+      "NameServer": "ns1.gag.web.tr.",
+      "Origin": "gag.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gamigo.web.tr..txt",
+      "NameServer": "ns1.gamigo.web.tr.",
+      "Origin": "gamigo.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/garaj.web.tr..txt",
+      "NameServer": "ns1.garaj.web.tr.",
+      "Origin": "garaj.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gelinlik.web.tr..txt",
+      "NameServer": "ns1.gelinlik.web.tr.",
+      "Origin": "gelinlik.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gercek.web.tr..txt",
+      "NameServer": "ns1.gercek.web.tr.",
+      "Origin": "gercek.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gerede.web.tr..txt",
+      "NameServer": "ns1.gerede.web.tr.",
+      "Origin": "gerede.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gimp.web.tr..txt",
+      "NameServer": "ns1.gimp.web.tr.",
+      "Origin": "gimp.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gogle.web.tr..txt",
+      "NameServer": "ns1.gogle.web.tr.",
+      "Origin": "gogle.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gogusdiklestirme.web.tr..txt",
+      "NameServer": "ns1.gogusdiklestirme.web.tr.",
+      "Origin": "gogusdiklestirme.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/goguskucultme.web.tr..txt",
+      "NameServer": "ns1.goguskucultme.web.tr.",
+      "Origin": "goguskucultme.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gold.web.tr..txt",
+      "NameServer": "ns1.gold.web.tr.",
+      "Origin": "gold.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gondal.web.tr..txt",
+      "NameServer": "ns1.gondal.web.tr.",
+      "Origin": "gondal.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gonen.web.tr..txt",
+      "NameServer": "ns1.gonen.web.tr.",
+      "Origin": "gonen.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gonuldostlari.web.tr..txt",
+      "NameServer": "ns1.gonuldostlari.web.tr.",
+      "Origin": "gonuldostlari.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/googlereklam.web.tr..txt",
+      "NameServer": "ns1.googlereklam.web.tr.",
+      "Origin": "googlereklam.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/grip.web.tr..txt",
+      "NameServer": "ns1.grip.web.tr.",
+      "Origin": "grip.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gta5indir.web.tr..txt",
+      "NameServer": "ns1.gta5indir.web.tr.",
+      "Origin": "gta5indir.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/guner.web.tr..txt",
+      "NameServer": "ns1.guner.web.tr.",
+      "Origin": "guner.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gunz2.web.tr..txt",
+      "NameServer": "ns1.gunz2.web.tr.",
+      "Origin": "gunz2.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/gure.web.tr..txt",
+      "NameServer": "ns1.gure.web.tr.",
+      "Origin": "gure.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/guzelliksalonu.web.tr..txt",
+      "NameServer": "ns1.guzelliksalonu.web.tr.",
+      "Origin": "guzelliksalonu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/guzelsozler.web.tr..txt",
+      "NameServer": "ns1.guzelsozler.web.tr.",
+      "Origin": "guzelsozler.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/hacibektasvakfi.web.tr..txt",
+      "NameServer": "ns1.hacibektasvakfi.web.tr.",
+      "Origin": "hacibektasvakfi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/hacumre.web.tr..txt",
+      "NameServer": "ns1.hacumre.web.tr.",
+      "Origin": "hacumre.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/haritalar.web.tr..txt",
+      "NameServer": "ns1.haritalar.web.tr.",
+      "Origin": "haritalar.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/havadurumu.web.tr..txt",
+      "NameServer": "ns1.havadurumu.web.tr.",
+      "Origin": "havadurumu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/hayrati.web.tr..txt",
+      "NameServer": "ns1.hayrati.web.tr.",
+      "Origin": "hayrati.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/hbk.web.tr..txt",
+      "NameServer": "ns1.hbk.web.tr.",
+      "Origin": "hbk.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/hek.web.tr..txt",
+      "NameServer": "ns1.hek.web.tr.",
+      "Origin": "hek.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/hexagon.web.tr..txt",
+      "NameServer": "ns1.hexagon.web.tr.",
+      "Origin": "hexagon.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/hit.web.tr..txt",
+      "NameServer": "ns1.hit.web.tr.",
+      "Origin": "hit.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/host24.web.tr..txt",
+      "NameServer": "ns1.host24.web.tr.",
+      "Origin": "host24.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/hostinger.web.tr..txt",
+      "NameServer": "ns1.hostinger.web.tr.",
+      "Origin": "hostinger.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/htc.web.tr..txt",
+      "NameServer": "ns1.htc.web.tr.",
+      "Origin": "htc.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/hypertv.web.tr..txt",
+      "NameServer": "ns1.hypertv.web.tr.",
+      "Origin": "hypertv.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/iktisat.web.tr..txt",
+      "NameServer": "ns1.iktisat.web.tr.",
+      "Origin": "iktisat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ilahi.web.tr..txt",
+      "NameServer": "ns1.ilahi.web.tr.",
+      "Origin": "ilahi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/im.web.tr..txt",
+      "NameServer": "ns1.im.web.tr.",
+      "Origin": "im.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/imle.web.tr..txt",
+      "NameServer": "ns1.imle.web.tr.",
+      "Origin": "imle.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/imweb.web.tr..txt",
+      "NameServer": "ns1.imweb.web.tr.",
+      "Origin": "imweb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/inc.web.tr..txt",
+      "NameServer": "ns1.inc.web.tr.",
+      "Origin": "inc.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/infocom.web.tr..txt",
+      "NameServer": "ns1.infocom.web.tr.",
+      "Origin": "infocom.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/infoline.web.tr..txt",
+      "NameServer": "ns1.infoline.web.tr.",
+      "Origin": "infoline.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ingilizceceviri.web.tr..txt",
+      "NameServer": "ns1.ingilizceceviri.web.tr.",
+      "Origin": "ingilizceceviri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ingilizceturkceceviri.web.tr..txt",
+      "NameServer": "ns1.ingilizceturkceceviri.web.tr.",
+      "Origin": "ingilizceturkceceviri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ingress.web.tr..txt",
+      "NameServer": "ns1.ingress.web.tr.",
+      "Origin": "ingress.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/intermedia.web.tr..txt",
+      "NameServer": "ns1.intermedia.web.tr.",
+      "Origin": "intermedia.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/intersoft.web.tr..txt",
+      "NameServer": "ns1.intersoft.web.tr.",
+      "Origin": "intersoft.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/iosdeveloper.web.tr..txt",
+      "NameServer": "ns1.iosdeveloper.web.tr.",
+      "Origin": "iosdeveloper.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/iq-test.web.tr..txt",
+      "NameServer": "ns1.iq-test.web.tr.",
+      "Origin": "iq-test.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/iqtesti.web.tr..txt",
+      "NameServer": "ns1.iqtesti.web.tr.",
+      "Origin": "iqtesti.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/irisnet.web.tr..txt",
+      "NameServer": "ns1.irisnet.web.tr.",
+      "Origin": "irisnet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/isimiz.web.tr..txt",
+      "NameServer": "ns1.isimiz.web.tr.",
+      "Origin": "isimiz.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/isimler.web.tr..txt",
+      "NameServer": "ns1.isimler.web.tr.",
+      "Origin": "isimler.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/isingilizcesi.web.tr..txt",
+      "NameServer": "ns1.isingilizcesi.web.tr.",
+      "Origin": "isingilizcesi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/iskur.web.tr..txt",
+      "NameServer": "ns1.iskur.web.tr.",
+      "Origin": "iskur.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/itak.web.tr..txt",
+      "NameServer": "ns1.itak.web.tr.",
+      "Origin": "itak.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/italyavizesi.web.tr..txt",
+      "NameServer": "ns1.italyavizesi.web.tr.",
+      "Origin": "italyavizesi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/iwebtool.web.tr..txt",
+      "NameServer": "ns1.iwebtool.web.tr.",
+      "Origin": "iwebtool.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/izmirevdenevenakliyat.web.tr..txt",
+      "NameServer": "ns1.izmirevdenevenakliyat.web.tr.",
+      "Origin": "izmirevdenevenakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/izmirhosting.web.tr..txt",
+      "NameServer": "ns1.izmirhosting.web.tr.",
+      "Origin": "izmirhosting.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/izmirnakliyat.web.tr..txt",
+      "NameServer": "ns1.izmirnakliyat.web.tr.",
+      "Origin": "izmirnakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/japonca.web.tr..txt",
+      "NameServer": "ns1.japonca.web.tr.",
+      "Origin": "japonca.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ka.web.tr..txt",
+      "NameServer": "ns1.ka.web.tr.",
+      "Origin": "ka.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kadinlar.web.tr..txt",
+      "NameServer": "ns1.kadinlar.web.tr.",
+      "Origin": "kadinlar.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kadir.web.tr..txt",
+      "NameServer": "ns1.kadir.web.tr.",
+      "Origin": "kadir.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kalem.web.tr..txt",
+      "NameServer": "ns1.kalem.web.tr.",
+      "Origin": "kalem.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kanal3.web.tr..txt",
+      "NameServer": "ns1.kanal3.web.tr.",
+      "Origin": "kanal3.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/karasu.web.tr..txt",
+      "NameServer": "ns1.karasu.web.tr.",
+      "Origin": "karasu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/karingerme.web.tr..txt",
+      "NameServer": "ns1.karingerme.web.tr.",
+      "Origin": "karingerme.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kart.web.tr..txt",
+      "NameServer": "ns1.kart.web.tr.",
+      "Origin": "kart.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kartalkaya.web.tr..txt",
+      "NameServer": "ns1.kartalkaya.web.tr.",
+      "Origin": "kartalkaya.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kartus.web.tr..txt",
+      "NameServer": "ns1.kartus.web.tr.",
+      "Origin": "kartus.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kasko.web.tr..txt",
+      "NameServer": "ns1.kasko.web.tr.",
+      "Origin": "kasko.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kastamonuspor.web.tr..txt",
+      "NameServer": "ns1.kastamonuspor.web.tr.",
+      "Origin": "kastamonuspor.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kayasoft.web.tr..txt",
+      "NameServer": "ns1.kayasoft.web.tr.",
+      "Origin": "kayasoft.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kazdaglari.web.tr..txt",
+      "NameServer": "ns1.kazdaglari.web.tr.",
+      "Origin": "kazdaglari.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/keciorenevdenevenakliyat.web.tr..txt",
+      "NameServer": "ns1.keciorenevdenevenakliyat.web.tr.",
+      "Origin": "keciorenevdenevenakliyat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kekemelik.web.tr..txt",
+      "NameServer": "ns1.kekemelik.web.tr.",
+      "Origin": "kekemelik.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kelebeksoft.web.tr..txt",
+      "NameServer": "ns1.kelebeksoft.web.tr.",
+      "Origin": "kelebeksoft.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kemalpasa.web.tr..txt",
+      "NameServer": "ns1.kemalpasa.web.tr.",
+      "Origin": "kemalpasa.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/keremcem.web.tr..txt",
+      "NameServer": "ns1.keremcem.web.tr.",
+      "Origin": "keremcem.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kimiraikkonen.web.tr..txt",
+      "NameServer": "ns1.kimiraikkonen.web.tr.",
+      "Origin": "kimiraikkonen.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kiralikyazlik.web.tr..txt",
+      "NameServer": "ns1.kiralikyazlik.web.tr.",
+      "Origin": "kiralikyazlik.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kirsehir.web.tr..txt",
+      "NameServer": "ns1.kirsehir.web.tr.",
+      "Origin": "kirsehir.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/klavye.web.tr..txt",
+      "NameServer": "ns1.klavye.web.tr.",
+      "Origin": "klavye.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kocaeli.web.tr..txt",
+      "NameServer": "ns1.kocaeli.web.tr.",
+      "Origin": "kocaeli.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kolaytest.web.tr..txt",
+      "NameServer": "ns1.kolaytest.web.tr.",
+      "Origin": "kolaytest.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/komikfikralar.web.tr..txt",
+      "NameServer": "ns1.komikfikralar.web.tr.",
+      "Origin": "komikfikralar.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/komple.web.tr..txt",
+      "NameServer": "ns1.komple.web.tr.",
+      "Origin": "komple.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/korgan.web.tr..txt",
+      "NameServer": "ns1.korgan.web.tr.",
+      "Origin": "korgan.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kosmodisk.web.tr..txt",
+      "NameServer": "ns1.kosmodisk.web.tr.",
+      "Origin": "kosmodisk.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kpss.web.tr..txt",
+      "NameServer": "ns1.kpss.web.tr.",
+      "Origin": "kpss.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/krc.web.tr..txt",
+      "NameServer": "ns1.krc.web.tr.",
+      "Origin": "krc.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kroma.web.tr..txt",
+      "NameServer": "ns1.kroma.web.tr.",
+      "Origin": "kroma.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kucukkuyu.web.tr..txt",
+      "NameServer": "ns1.kucukkuyu.web.tr.",
+      "Origin": "kucukkuyu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kumbag.web.tr..txt",
+      "NameServer": "ns1.kumbag.web.tr.",
+      "Origin": "kumbag.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kumlama.web.tr..txt",
+      "NameServer": "ns1.kumlama.web.tr.",
+      "Origin": "kumlama.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kurumsal.web.tr..txt",
+      "NameServer": "ns1.kurumsal.web.tr.",
+      "Origin": "kurumsal.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kutukev.web.tr..txt",
+      "NameServer": "ns1.kutukev.web.tr.",
+      "Origin": "kutukev.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/kuytu.web.tr..txt",
+      "NameServer": "ns1.kuytu.web.tr.",
+      "Origin": "kuytu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/l-carnitine.web.tr..txt",
+      "NameServer": "ns1.l-carnitine.web.tr.",
+      "Origin": "l-carnitine.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/lacinia.web.tr..txt",
+      "NameServer": "ns1.lacinia.web.tr.",
+      "Origin": "lacinia.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ladnok.web.tr..txt",
+      "NameServer": "ns1.ladnok.web.tr.",
+      "Origin": "ladnok.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/lanse.web.tr..txt",
+      "NameServer": "ns1.lanse.web.tr.",
+      "Origin": "lanse.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/lastchaos.web.tr..txt",
+      "NameServer": "ns1.lastchaos.web.tr.",
+      "Origin": "lastchaos.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/lazer.web.tr..txt",
+      "NameServer": "ns1.lazer.web.tr.",
+      "Origin": "lazer.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/letoon.web.tr..txt",
+      "NameServer": "ns1.letoon.web.tr.",
+      "Origin": "letoon.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/lg.web.tr..txt",
+      "NameServer": "ns1.lg.web.tr.",
+      "Origin": "lg.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/literatur.web.tr..txt",
+      "NameServer": "ns1.literatur.web.tr.",
+      "Origin": "literatur.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/luksarackiralama.web.tr..txt",
+      "NameServer": "ns1.luksarackiralama.web.tr.",
+      "Origin": "luksarackiralama.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/maas.web.tr..txt",
+      "NameServer": "ns1.maas.web.tr.",
+      "Origin": "maas.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/manga.web.tr..txt",
+      "NameServer": "ns1.manga.web.tr.",
+      "Origin": "manga.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/mangafan.web.tr..txt",
+      "NameServer": "ns1.mangafan.web.tr.",
+      "Origin": "mangafan.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/marmara.web.tr..txt",
+      "NameServer": "ns1.marmara.web.tr.",
+      "Origin": "marmara.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/marmaris.web.tr..txt",
+      "NameServer": "ns1.marmaris.web.tr.",
+      "Origin": "marmaris.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/maro.web.tr..txt",
+      "NameServer": "ns1.maro.web.tr.",
+      "Origin": "maro.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/master.web.tr..txt",
+      "NameServer": "ns1.master.web.tr.",
+      "Origin": "master.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/matriks.web.tr..txt",
+      "NameServer": "ns1.matriks.web.tr.",
+      "Origin": "matriks.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/mavi.web.tr..txt",
+      "NameServer": "ns1.mavi.web.tr.",
+      "Origin": "mavi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/maya.web.tr..txt",
+      "NameServer": "ns1.maya.web.tr.",
+      "Origin": "maya.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/medyum.web.tr..txt",
+      "NameServer": "ns1.medyum.web.tr.",
+      "Origin": "medyum.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/merkur.web.tr..txt",
+      "NameServer": "ns1.merkur.web.tr.",
+      "Origin": "merkur.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/mersin.web.tr..txt",
+      "NameServer": "ns1.mersin.web.tr.",
+      "Origin": "mersin.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/mersinotelleri.web.tr..txt",
+      "NameServer": "ns1.mersinotelleri.web.tr.",
+      "Origin": "mersinotelleri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/mini.web.tr..txt",
+      "NameServer": "ns1.mini.web.tr.",
+      "Origin": "mini.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/mitsubishiklima.web.tr..txt",
+      "NameServer": "ns1.mitsubishiklima.web.tr.",
+      "Origin": "mitsubishiklima.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/mobile.web.tr..txt",
+      "NameServer": "ns1.mobile.web.tr.",
+      "Origin": "mobile.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/modelfan.web.tr..txt",
+      "NameServer": "ns1.modelfan.web.tr.",
+      "Origin": "modelfan.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/moliva.web.tr..txt",
+      "NameServer": "ns1.moliva.web.tr.",
+      "Origin": "moliva.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/mono.web.tr..txt",
+      "NameServer": "ns1.mono.web.tr.",
+      "Origin": "mono.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ms.web.tr..txt",
+      "NameServer": "ns1.ms.web.tr.",
+      "Origin": "ms.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/msf.web.tr..txt",
+      "NameServer": "ns1.msf.web.tr.",
+      "Origin": "msf.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/muhabbet.web.tr..txt",
+      "NameServer": "ns1.muhabbet.web.tr.",
+      "Origin": "muhabbet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/muhasebeprogrami.web.tr..txt",
+      "NameServer": "ns1.muhasebeprogrami.web.tr.",
+      "Origin": "muhasebeprogrami.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/muhendis.web.tr..txt",
+      "NameServer": "ns1.muhendis.web.tr.",
+      "Origin": "muhendis.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/mustafaerdogan.web.tr..txt",
+      "NameServer": "ns1.mustafaerdogan.web.tr.",
+      "Origin": "mustafaerdogan.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/naildesigneurodiscount.web.tr..txt",
+      "NameServer": "ns1.naildesigneurodiscount.web.tr.",
+      "Origin": "naildesigneurodiscount.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/nakliyat-firmalari.web.tr..txt",
+      "NameServer": "ns1.nakliyat-firmalari.web.tr.",
+      "Origin": "nakliyat-firmalari.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/nakliyatbul.web.tr..txt",
+      "NameServer": "ns1.nakliyatbul.web.tr.",
+      "Origin": "nakliyatbul.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/narhapi.web.tr..txt",
+      "NameServer": "ns1.narhapi.web.tr.",
+      "Origin": "narhapi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/native-translator.web.tr..txt",
+      "NameServer": "ns1.native-translator.web.tr.",
+      "Origin": "native-translator.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/nebula.web.tr..txt",
+      "NameServer": "ns1.nebula.web.tr.",
+      "Origin": "nebula.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/netcom.web.tr..txt",
+      "NameServer": "ns1.netcom.web.tr.",
+      "Origin": "netcom.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/nethosting.web.tr..txt",
+      "NameServer": "ns1.nethosting.web.tr.",
+      "Origin": "nethosting.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/network.web.tr..txt",
+      "NameServer": "ns1.network.web.tr.",
+      "Origin": "network.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/nevsehir.web.tr..txt",
+      "NameServer": "ns1.nevsehir.web.tr.",
+      "Origin": "nevsehir.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/next.web.tr..txt",
+      "NameServer": "ns1.next.web.tr.",
+      "Origin": "next.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/neyzen.web.tr..txt",
+      "NameServer": "ns1.neyzen.web.tr.",
+      "Origin": "neyzen.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/no.web.tr..txt",
+      "NameServer": "ns1.no.web.tr.",
+      "Origin": "no.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/norbekov.web.tr..txt",
+      "NameServer": "ns1.norbekov.web.tr.",
+      "Origin": "norbekov.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/nostale.web.tr..txt",
+      "NameServer": "ns1.nostale.web.tr.",
+      "Origin": "nostale.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/nova.web.tr..txt",
+      "NameServer": "ns1.nova.web.tr.",
+      "Origin": "nova.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ns1.artworx.web.tr..txt",
+      "NameServer": "ns1.ns1.artworx.web.tr.",
+      "Origin": "ns1.artworx.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ns1.lanse.web.tr..txt",
+      "NameServer": "ns1.ns1.lanse.web.tr.",
+      "Origin": "ns1.lanse.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ns1.nethosting.web.tr..txt",
+      "NameServer": "ns1.ns1.nethosting.web.tr.",
+      "Origin": "ns1.nethosting.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ns2.artworx.web.tr..txt",
+      "NameServer": "ns1.ns2.artworx.web.tr.",
+      "Origin": "ns2.artworx.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ns2.lanse.web.tr..txt",
+      "NameServer": "ns1.ns2.lanse.web.tr.",
+      "Origin": "ns2.lanse.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ns2.nethosting.web.tr..txt",
+      "NameServer": "ns1.ns2.nethosting.web.tr.",
+      "Origin": "ns2.nethosting.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/nukleer.web.tr..txt",
+      "NameServer": "ns1.nukleer.web.tr.",
+      "Origin": "nukleer.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/numanusta.web.tr..txt",
+      "NameServer": "ns1.numanusta.web.tr.",
+      "Origin": "numanusta.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/nur.web.tr..txt",
+      "NameServer": "ns1.nur.web.tr.",
+      "Origin": "nur.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ocaklar.web.tr..txt",
+      "NameServer": "ns1.ocaklar.web.tr.",
+      "Origin": "ocaklar.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/odak.web.tr..txt",
+      "NameServer": "ns1.odak.web.tr.",
+      "Origin": "odak.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/olx.web.tr..txt",
+      "NameServer": "ns1.olx.web.tr.",
+      "Origin": "olx.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/omer.web.tr..txt",
+      "NameServer": "ns1.omer.web.tr.",
+      "Origin": "omer.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/onlineoyunlar.web.tr..txt",
+      "NameServer": "ns1.onlineoyunlar.web.tr.",
+      "Origin": "onlineoyunlar.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/orca.web.tr..txt",
+      "NameServer": "ns1.orca.web.tr.",
+      "Origin": "orca.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/organizma.web.tr..txt",
+      "NameServer": "ns1.organizma.web.tr.",
+      "Origin": "organizma.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/orjinalafricanmango.web.tr..txt",
+      "NameServer": "ns1.orjinalafricanmango.web.tr.",
+      "Origin": "orjinalafricanmango.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/orjinalafrikamangosu.web.tr..txt",
+      "NameServer": "ns1.orjinalafrikamangosu.web.tr.",
+      "Origin": "orjinalafrikamangosu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/orjinallipitabs.web.tr..txt",
+      "NameServer": "ns1.orjinallipitabs.web.tr.",
+      "Origin": "orjinallipitabs.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/orjinalsolusitan.web.tr..txt",
+      "NameServer": "ns1.orjinalsolusitan.web.tr.",
+      "Origin": "orjinalsolusitan.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/orman.web.tr..txt",
+      "NameServer": "ns1.orman.web.tr.",
+      "Origin": "orman.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ortakoy.web.tr..txt",
+      "NameServer": "ns1.ortakoy.web.tr.",
+      "Origin": "ortakoy.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ortodonti.web.tr..txt",
+      "NameServer": "ns1.ortodonti.web.tr.",
+      "Origin": "ortodonti.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/oskay.web.tr..txt",
+      "NameServer": "ns1.oskay.web.tr.",
+      "Origin": "oskay.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/osmaneli.web.tr..txt",
+      "NameServer": "ns1.osmaneli.web.tr.",
+      "Origin": "osmaneli.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/osmaniye.web.tr..txt",
+      "NameServer": "ns1.osmaniye.web.tr.",
+      "Origin": "osmaniye.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/osmanozturk.web.tr..txt",
+      "NameServer": "ns1.osmanozturk.web.tr.",
+      "Origin": "osmanozturk.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/oyunlari.web.tr..txt",
+      "NameServer": "ns1.oyunlari.web.tr.",
+      "Origin": "oyunlari.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/oyunoyna.web.tr..txt",
+      "NameServer": "ns1.oyunoyna.web.tr.",
+      "Origin": "oyunoyna.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ozay.web.tr..txt",
+      "NameServer": "ns1.ozay.web.tr.",
+      "Origin": "ozay.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ozdag.web.tr..txt",
+      "NameServer": "ns1.ozdag.web.tr.",
+      "Origin": "ozdag.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ozmoz.web.tr..txt",
+      "NameServer": "ns1.ozmoz.web.tr.",
+      "Origin": "ozmoz.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/palmiye.web.tr..txt",
+      "NameServer": "ns1.palmiye.web.tr.",
+      "Origin": "palmiye.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/pamukkale.web.tr..txt",
+      "NameServer": "ns1.pamukkale.web.tr.",
+      "Origin": "pamukkale.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/panda.web.tr..txt",
+      "NameServer": "ns1.panda.web.tr.",
+      "Origin": "panda.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/paradox.web.tr..txt",
+      "NameServer": "ns1.paradox.web.tr.",
+      "Origin": "paradox.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/pasifik.web.tr..txt",
+      "NameServer": "ns1.pasifik.web.tr.",
+      "Origin": "pasifik.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/paslanmazci.web.tr..txt",
+      "NameServer": "ns1.paslanmazci.web.tr.",
+      "Origin": "paslanmazci.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/paysafecard.web.tr..txt",
+      "NameServer": "ns1.paysafecard.web.tr.",
+      "Origin": "paysafecard.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/pehlivan.web.tr..txt",
+      "NameServer": "ns1.pehlivan.web.tr.",
+      "Origin": "pehlivan.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/pelikan.web.tr..txt",
+      "NameServer": "ns1.pelikan.web.tr.",
+      "Origin": "pelikan.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/penguen.web.tr..txt",
+      "NameServer": "ns1.penguen.web.tr.",
+      "Origin": "penguen.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/perfect.web.tr..txt",
+      "NameServer": "ns1.perfect.web.tr.",
+      "Origin": "perfect.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/peslife.web.tr..txt",
+      "NameServer": "ns1.peslife.web.tr.",
+      "Origin": "peslife.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/phmetre.web.tr..txt",
+      "NameServer": "ns1.phmetre.web.tr.",
+      "Origin": "phmetre.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/php.web.tr..txt",
+      "NameServer": "ns1.php.web.tr.",
+      "Origin": "php.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/pi.web.tr..txt",
+      "NameServer": "ns1.pi.web.tr.",
+      "Origin": "pi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/piranha.web.tr..txt",
+      "NameServer": "ns1.piranha.web.tr.",
+      "Origin": "piranha.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/pixmac.web.tr..txt",
+      "NameServer": "ns1.pixmac.web.tr.",
+      "Origin": "pixmac.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/polis.web.tr..txt",
+      "NameServer": "ns1.polis.web.tr.",
+      "Origin": "polis.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/pornoizlee.web.tr..txt",
+      "NameServer": "ns1.pornoizlee.web.tr.",
+      "Origin": "pornoizlee.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/pornosex.web.tr..txt",
+      "NameServer": "ns1.pornosex.web.tr.",
+      "Origin": "pornosex.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/portal.web.tr..txt",
+      "NameServer": "ns1.portal.web.tr.",
+      "Origin": "portal.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/povori.web.tr..txt",
+      "NameServer": "ns1.povori.web.tr.",
+      "Origin": "povori.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/power.web.tr..txt",
+      "NameServer": "ns1.power.web.tr.",
+      "Origin": "power.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/powerixir.web.tr..txt",
+      "NameServer": "ns1.powerixir.web.tr.",
+      "Origin": "powerixir.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/pozitif.web.tr..txt",
+      "NameServer": "ns1.pozitif.web.tr.",
+      "Origin": "pozitif.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/prizma.web.tr..txt",
+      "NameServer": "ns1.prizma.web.tr.",
+      "Origin": "prizma.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/prndergi.web.tr..txt",
+      "NameServer": "ns1.prndergi.web.tr.",
+      "Origin": "prndergi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/professional.web.tr..txt",
+      "NameServer": "ns1.professional.web.tr.",
+      "Origin": "professional.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/projeksiyon.web.tr..txt",
+      "NameServer": "ns1.projeksiyon.web.tr.",
+      "Origin": "projeksiyon.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/promail.web.tr..txt",
+      "NameServer": "ns1.promail.web.tr.",
+      "Origin": "promail.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/promet.web.tr..txt",
+      "NameServer": "ns1.promet.web.tr.",
+      "Origin": "promet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/proses.web.tr..txt",
+      "NameServer": "ns1.proses.web.tr.",
+      "Origin": "proses.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/protest.web.tr..txt",
+      "NameServer": "ns1.protest.web.tr.",
+      "Origin": "protest.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/proxima.web.tr..txt",
+      "NameServer": "ns1.proxima.web.tr.",
+      "Origin": "proxima.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/publicist.web.tr..txt",
+      "NameServer": "ns1.publicist.web.tr.",
+      "Origin": "publicist.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/queen.web.tr..txt",
+      "NameServer": "ns1.queen.web.tr.",
+      "Origin": "queen.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/qzone.web.tr..txt",
+      "NameServer": "ns1.qzone.web.tr.",
+      "Origin": "qzone.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/radius.web.tr..txt",
+      "NameServer": "ns1.radius.web.tr.",
+      "Origin": "radius.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/radmer.web.tr..txt",
+      "NameServer": "ns1.radmer.web.tr.",
+      "Origin": "radmer.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/rainbow.web.tr..txt",
+      "NameServer": "ns1.rainbow.web.tr.",
+      "Origin": "rainbow.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/realist.web.tr..txt",
+      "NameServer": "ns1.realist.web.tr.",
+      "Origin": "realist.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/red.web.tr..txt",
+      "NameServer": "ns1.red.web.tr.",
+      "Origin": "red.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/redcode.web.tr..txt",
+      "NameServer": "ns1.redcode.web.tr.",
+      "Origin": "redcode.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/rehberi.web.tr..txt",
+      "NameServer": "ns1.rehberi.web.tr.",
+      "Origin": "rehberi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/rehberim.web.tr..txt",
+      "NameServer": "ns1.rehberim.web.tr.",
+      "Origin": "rehberim.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/reklamci.web.tr..txt",
+      "NameServer": "ns1.reklamci.web.tr.",
+      "Origin": "reklamci.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/resimleri.web.tr..txt",
+      "NameServer": "ns1.resimleri.web.tr.",
+      "Origin": "resimleri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/rhex.web.tr..txt",
+      "NameServer": "ns1.rhex.web.tr.",
+      "Origin": "rhex.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/risaleinur.web.tr..txt",
+      "NameServer": "ns1.risaleinur.web.tr.",
+      "Origin": "risaleinur.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/rottweiler.web.tr..txt",
+      "NameServer": "ns1.rottweiler.web.tr.",
+      "Origin": "rottweiler.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ruscaceviri.web.tr..txt",
+      "NameServer": "ns1.ruscaceviri.web.tr.",
+      "Origin": "ruscaceviri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ruyatabirleri.web.tr..txt",
+      "NameServer": "ns1.ruyatabirleri.web.tr.",
+      "Origin": "ruyatabirleri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/saccikarici.web.tr..txt",
+      "NameServer": "ns1.saccikarici.web.tr.",
+      "Origin": "saccikarici.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sacdokulmesi.web.tr..txt",
+      "NameServer": "ns1.sacdokulmesi.web.tr.",
+      "Origin": "sacdokulmesi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sacekimifiyati.web.tr..txt",
+      "NameServer": "ns1.sacekimifiyati.web.tr.",
+      "Origin": "sacekimifiyati.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sacekimifue.web.tr..txt",
+      "NameServer": "ns1.sacekimifue.web.tr.",
+      "Origin": "sacekimifue.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/safranbolu.web.tr..txt",
+      "NameServer": "ns1.safranbolu.web.tr.",
+      "Origin": "safranbolu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/safranbolubelediyesi.web.tr..txt",
+      "NameServer": "ns1.safranbolubelediyesi.web.tr.",
+      "Origin": "safranbolubelediyesi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sahin42.web.tr..txt",
+      "NameServer": "ns1.sahin42.web.tr.",
+      "Origin": "sahin42.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/samet.web.tr..txt",
+      "NameServer": "ns1.samet.web.tr.",
+      "Origin": "samet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sanayiler.web.tr..txt",
+      "NameServer": "ns1.sanayiler.web.tr.",
+      "Origin": "sanayiler.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sanex.web.tr..txt",
+      "NameServer": "ns1.sanex.web.tr.",
+      "Origin": "sanex.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sarkisozleri.web.tr..txt",
+      "NameServer": "ns1.sarkisozleri.web.tr.",
+      "Origin": "sarkisozleri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sarkisozu.web.tr..txt",
+      "NameServer": "ns1.sarkisozu.web.tr.",
+      "Origin": "sarkisozu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/satilik-kiralik.web.tr..txt",
+      "NameServer": "ns1.satilik-kiralik.web.tr.",
+      "Origin": "satilik-kiralik.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sb.web.tr..txt",
+      "NameServer": "ns1.sb.web.tr.",
+      "Origin": "sb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/science.web.tr..txt",
+      "NameServer": "ns1.science.web.tr.",
+      "Origin": "science.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/scooter.web.tr..txt",
+      "NameServer": "ns1.scooter.web.tr.",
+      "Origin": "scooter.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sehirrehberi.web.tr..txt",
+      "NameServer": "ns1.sehirrehberi.web.tr.",
+      "Origin": "sehirrehberi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sehitoglu.web.tr..txt",
+      "NameServer": "ns1.sehitoglu.web.tr.",
+      "Origin": "sehitoglu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sektorler.web.tr..txt",
+      "NameServer": "ns1.sektorler.web.tr.",
+      "Origin": "sektorler.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/seslichat.web.tr..txt",
+      "NameServer": "ns1.seslichat.web.tr.",
+      "Origin": "seslichat.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sev.web.tr..txt",
+      "NameServer": "ns1.sev.web.tr.",
+      "Origin": "sev.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/seyma.web.tr..txt",
+      "NameServer": "ns1.seyma.web.tr.",
+      "Origin": "seyma.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/seyret.web.tr..txt",
+      "NameServer": "ns1.seyret.web.tr.",
+      "Origin": "seyret.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sfgame.web.tr..txt",
+      "NameServer": "ns1.sfgame.web.tr.",
+      "Origin": "sfgame.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sibersahne.web.tr..txt",
+      "NameServer": "ns1.sibersahne.web.tr.",
+      "Origin": "sibersahne.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/silifkehaberler.web.tr..txt",
+      "NameServer": "ns1.silifkehaberler.web.tr.",
+      "Origin": "silifkehaberler.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sinav.web.tr..txt",
+      "NameServer": "ns1.sinav.web.tr.",
+      "Origin": "sinav.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/siran.web.tr..txt",
+      "NameServer": "ns1.siran.web.tr.",
+      "Origin": "siran.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sistemnet.web.tr..txt",
+      "NameServer": "ns1.sistemnet.web.tr.",
+      "Origin": "sistemnet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sitekur.web.tr..txt",
+      "NameServer": "ns1.sitekur.web.tr.",
+      "Origin": "sitekur.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sitesi.web.tr..txt",
+      "NameServer": "ns1.sitesi.web.tr.",
+      "Origin": "sitesi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sivasspor.web.tr..txt",
+      "NameServer": "ns1.sivasspor.web.tr.",
+      "Origin": "sivasspor.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/smf.web.tr..txt",
+      "NameServer": "ns1.smf.web.tr.",
+      "Origin": "smf.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/soccerstar.web.tr..txt",
+      "NameServer": "ns1.soccerstar.web.tr.",
+      "Origin": "soccerstar.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/soma.web.tr..txt",
+      "NameServer": "ns1.soma.web.tr.",
+      "Origin": "soma.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/son.web.tr..txt",
+      "NameServer": "ns1.son.web.tr.",
+      "Origin": "son.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sondakika.web.tr..txt",
+      "NameServer": "ns1.sondakika.web.tr.",
+      "Origin": "sondakika.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sozluk.web.tr..txt",
+      "NameServer": "ns1.sozluk.web.tr.",
+      "Origin": "sozluk.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/srthosting.web.tr..txt",
+      "NameServer": "ns1.srthosting.web.tr.",
+      "Origin": "srthosting.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ssksorgulama.web.tr..txt",
+      "NameServer": "ns1.ssksorgulama.web.tr.",
+      "Origin": "ssksorgulama.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/stardogs.web.tr..txt",
+      "NameServer": "ns1.stardogs.web.tr.",
+      "Origin": "stardogs.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/start.web.tr..txt",
+      "NameServer": "ns1.start.web.tr.",
+      "Origin": "start.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sungerbobizle.web.tr..txt",
+      "NameServer": "ns1.sungerbobizle.web.tr.",
+      "Origin": "sungerbobizle.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/sunny.web.tr..txt",
+      "NameServer": "ns1.sunny.web.tr.",
+      "Origin": "sunny.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/superkanal.web.tr..txt",
+      "NameServer": "ns1.superkanal.web.tr.",
+      "Origin": "superkanal.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/support.web.tr..txt",
+      "NameServer": "ns1.support.web.tr.",
+      "Origin": "support.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/suttozu.web.tr..txt",
+      "NameServer": "ns1.suttozu.web.tr.",
+      "Origin": "suttozu.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/takasbank.web.tr..txt",
+      "NameServer": "ns1.takasbank.web.tr.",
+      "Origin": "takasbank.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/taobao.web.tr..txt",
+      "NameServer": "ns1.taobao.web.tr.",
+      "Origin": "taobao.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tarotfali.web.tr..txt",
+      "NameServer": "ns1.tarotfali.web.tr.",
+      "Origin": "tarotfali.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tarsus.web.tr..txt",
+      "NameServer": "ns1.tarsus.web.tr.",
+      "Origin": "tarsus.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tatarramazan.web.tr..txt",
+      "NameServer": "ns1.tatarramazan.web.tr.",
+      "Origin": "tatarramazan.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tatilevleri.web.tr..txt",
+      "NameServer": "ns1.tatilevleri.web.tr.",
+      "Origin": "tatilevleri.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/taylan.web.tr..txt",
+      "NameServer": "ns1.taylan.web.tr.",
+      "Origin": "taylan.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tbs.web.tr..txt",
+      "NameServer": "ns1.tbs.web.tr.",
+      "Origin": "tbs.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/teksanjenerator.web.tr..txt",
+      "NameServer": "ns1.teksanjenerator.web.tr.",
+      "Origin": "teksanjenerator.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/teos.web.tr..txt",
+      "NameServer": "ns1.teos.web.tr.",
+      "Origin": "teos.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tercih.web.tr..txt",
+      "NameServer": "ns1.tercih.web.tr.",
+      "Origin": "tercih.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tercihrehberi.web.tr..txt",
+      "NameServer": "ns1.tercihrehberi.web.tr.",
+      "Origin": "tercihrehberi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/thm.web.tr..txt",
+      "NameServer": "ns1.thm.web.tr.",
+      "Origin": "thm.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tid.web.tr..txt",
+      "NameServer": "ns1.tid.web.tr.",
+      "Origin": "tid.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tml.web.tr..txt",
+      "NameServer": "ns1.tml.web.tr.",
+      "Origin": "tml.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tokiohotel.web.tr..txt",
+      "NameServer": "ns1.tokiohotel.web.tr.",
+      "Origin": "tokiohotel.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/toplumail.web.tr..txt",
+      "NameServer": "ns1.toplumail.web.tr.",
+      "Origin": "toplumail.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/totem.web.tr..txt",
+      "NameServer": "ns1.totem.web.tr.",
+      "Origin": "totem.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tugla.web.tr..txt",
+      "NameServer": "ns1.tugla.web.tr.",
+      "Origin": "tugla.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/turkmuzigi.web.tr..txt",
+      "NameServer": "ns1.turkmuzigi.web.tr.",
+      "Origin": "turkmuzigi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/tvizle.web.tr..txt",
+      "NameServer": "ns1.tvizle.web.tr.",
+      "Origin": "tvizle.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ucurtma.web.tr..txt",
+      "NameServer": "ns1.ucurtma.web.tr.",
+      "Origin": "ucurtma.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ucuzbilet.web.tr..txt",
+      "NameServer": "ns1.ucuzbilet.web.tr.",
+      "Origin": "ucuzbilet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ukash.web.tr..txt",
+      "NameServer": "ns1.ukash.web.tr.",
+      "Origin": "ukash.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ulku.web.tr..txt",
+      "NameServer": "ns1.ulku.web.tr.",
+      "Origin": "ulku.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ultrason.web.tr..txt",
+      "NameServer": "ns1.ultrason.web.tr.",
+      "Origin": "ultrason.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/umreturlari.web.tr..txt",
+      "NameServer": "ns1.umreturlari.web.tr.",
+      "Origin": "umreturlari.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/umut.web.tr..txt",
+      "NameServer": "ns1.umut.web.tr.",
+      "Origin": "umut.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/univercell.web.tr..txt",
+      "NameServer": "ns1.univercell.web.tr.",
+      "Origin": "univercell.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/ups.web.tr..txt",
+      "NameServer": "ns1.ups.web.tr.",
+      "Origin": "ups.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/uskudar.web.tr..txt",
+      "NameServer": "ns1.uskudar.web.tr.",
+      "Origin": "uskudar.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/uydunet.web.tr..txt",
+      "NameServer": "ns1.uydunet.web.tr.",
+      "Origin": "uydunet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/uysal.web.tr..txt",
+      "NameServer": "ns1.uysal.web.tr.",
+      "Origin": "uysal.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/v-pills.web.tr..txt",
+      "NameServer": "ns1.v-pills.web.tr.",
+      "Origin": "v-pills.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/vbulletin.web.tr..txt",
+      "NameServer": "ns1.vbulletin.web.tr.",
+      "Origin": "vbulletin.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/vbulletindestek.web.tr..txt",
+      "NameServer": "ns1.vbulletindestek.web.tr.",
+      "Origin": "vbulletindestek.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/vega.web.tr..txt",
+      "NameServer": "ns1.vega.web.tr.",
+      "Origin": "vega.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/vhost.web.tr..txt",
+      "NameServer": "ns1.vhost.web.tr.",
+      "Origin": "vhost.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/video-izle.web.tr..txt",
+      "NameServer": "ns1.video-izle.web.tr.",
+      "Origin": "video-izle.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/vipminibuskiralama.web.tr..txt",
+      "NameServer": "ns1.vipminibuskiralama.web.tr.",
+      "Origin": "vipminibuskiralama.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/virusler.web.tr..txt",
+      "NameServer": "ns1.virusler.web.tr.",
+      "Origin": "virusler.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/weather.web.tr..txt",
+      "NameServer": "ns1.weather.web.tr.",
+      "Origin": "weather.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/web.tr..txt",
+      "NameServer": "ns1.web.tr.",
+      "Origin": "web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/webci.web.tr..txt",
+      "NameServer": "ns1.webci.web.tr.",
+      "Origin": "webci.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/webkobi.web.tr..txt",
+      "NameServer": "ns1.webkobi.web.tr.",
+      "Origin": "webkobi.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/webmatik.web.tr..txt",
+      "NameServer": "ns1.webmatik.web.tr.",
+      "Origin": "webmatik.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/webposta.web.tr..txt",
+      "NameServer": "ns1.webposta.web.tr.",
+      "Origin": "webposta.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/webtasarim.web.tr..txt",
+      "NameServer": "ns1.webtasarim.web.tr.",
+      "Origin": "webtasarim.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/whois.web.tr..txt",
+      "NameServer": "ns1.whois.web.tr.",
+      "Origin": "whois.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/wizard101.web.tr..txt",
+      "NameServer": "ns1.wizard101.web.tr.",
+      "Origin": "wizard101.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xm.web.tr..txt",
+      "NameServer": "ns1.xm.web.tr.",
+      "Origin": "xm.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--berlineuakbileti-jpb.web.tr..txt",
+      "NameServer": "ns1.xn--berlineuakbileti-jpb.web.tr.",
+      "Origin": "xn--berlineuakbileti-jpb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--berlineuakbiletleri-dyb.web.tr..txt",
+      "NameServer": "ns1.xn--berlineuakbiletleri-dyb.web.tr.",
+      "Origin": "xn--berlineuakbiletleri-dyb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--fransauakbileti-kmb.web.tr..txt",
+      "NameServer": "ns1.xn--fransauakbileti-kmb.web.tr.",
+      "Origin": "xn--fransauakbileti-kmb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--isvireyeuakbiletleri-60bf.web.tr..txt",
+      "NameServer": "ns1.xn--isvireyeuakbiletleri-60bf.web.tr.",
+      "Origin": "xn--isvireyeuakbiletleri-60bf.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--italyayauakbileti-isb.web.tr..txt",
+      "NameServer": "ns1.xn--italyayauakbileti-isb.web.tr.",
+      "Origin": "xn--italyayauakbileti-isb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--madriduakbiletleri-evb.web.tr..txt",
+      "NameServer": "ns1.xn--madriduakbiletleri-evb.web.tr.",
+      "Origin": "xn--madriduakbiletleri-evb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--mnichuakbileti-ljb44a.web.tr..txt",
+      "NameServer": "ns1.xn--mnichuakbileti-ljb44a.web.tr.",
+      "Origin": "xn--mnichuakbileti-ljb44a.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--rusyauakbiletleri-fsb.web.tr..txt",
+      "NameServer": "ns1.xn--rusyauakbiletleri-fsb.web.tr.",
+      "Origin": "xn--rusyauakbiletleri-fsb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--thyuakbileti-ndb.web.tr..txt",
+      "NameServer": "ns1.xn--thyuakbileti-ndb.web.tr.",
+      "Origin": "xn--thyuakbileti-ndb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--thyuakbiletleri-hmb.web.tr..txt",
+      "NameServer": "ns1.xn--thyuakbiletleri-hmb.web.tr.",
+      "Origin": "xn--thyuakbiletleri-hmb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--ucuzthyuakbileti-jpb.web.tr..txt",
+      "NameServer": "ns1.xn--ucuzthyuakbileti-jpb.web.tr.",
+      "Origin": "xn--ucuzthyuakbileti-jpb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/xn--viyanayauakbileti-isb.web.tr..txt",
+      "NameServer": "ns1.xn--viyanayauakbileti-isb.web.tr.",
+      "Origin": "xn--viyanayauakbileti-isb.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/yahost.web.tr..txt",
+      "NameServer": "ns1.yahost.web.tr.",
+      "Origin": "yahost.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/yandex.web.tr..txt",
+      "NameServer": "ns1.yandex.web.tr.",
+      "Origin": "yandex.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/yemekoyunlarioyna.web.tr..txt",
+      "NameServer": "ns1.yemekoyunlarioyna.web.tr.",
+      "Origin": "yemekoyunlarioyna.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/yeni.web.tr..txt",
+      "NameServer": "ns1.yeni.web.tr.",
+      "Origin": "yeni.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/yenibosna.web.tr..txt",
+      "NameServer": "ns1.yenibosna.web.tr.",
+      "Origin": "yenibosna.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/yerelnet.web.tr..txt",
+      "NameServer": "ns1.yerelnet.web.tr.",
+      "Origin": "yerelnet.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/yilmaz.web.tr..txt",
+      "NameServer": "ns1.yilmaz.web.tr.",
+      "Origin": "yilmaz.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/zara.web.tr..txt",
+      "NameServer": "ns1.zara.web.tr.",
+      "Origin": "zara.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/zeo.web.tr..txt",
+      "NameServer": "ns1.zeo.web.tr.",
+      "Origin": "zeo.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/zeron.web.tr..txt",
+      "NameServer": "ns1.zeron.web.tr.",
+      "Origin": "zeron.web.tr."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/web.tr/zip.web.tr..txt",
+      "NameServer": "ns1.zip.web.tr.",
+      "Origin": "zip.web.tr."
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+dataset_id,scenario,status,repeat_index,updated_zone_file,initial_total_ms,incremental_ms,full_no_io_ms,num_lec,rr_count_aether,zone_file_count_aether,trace_count,log_count,affected_trace_count,update_add_count,update_del_count,update_type,initial_property_pass,initial_errors,incremental_property_pass,incremental_errors,max_query_depth,min_label_num,min_label_bits,wall_ms,detail
+top-10/co.kr,A_ADD,error,,,,,,,,,,,,,,,,,,,,,,2.366112,exit=101; stderr=experiments/results/aether_revision_smoke/cases/top-10__co.kr/A_ADD/stderr.log
+top-10/co.kr,A_UPDATE,error,,,,,,,,,,,,,,,,,,,,,,2.19013,exit=101; stderr=experiments/results/aether_revision_smoke/cases/top-10__co.kr/A_UPDATE/stderr.log

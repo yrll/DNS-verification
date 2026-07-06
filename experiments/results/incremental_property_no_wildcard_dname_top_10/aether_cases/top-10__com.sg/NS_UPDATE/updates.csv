@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.sg,01computer.com.sg..txt,NS_UPDATE,DEL,01computer.com.sg.,NS,ns1.ipmirror.com.
+top-10/com.sg,01computer.com.sg..txt,NS_UPDATE,ADD,01computer.com.sg.,NS,ns-inc.01computer.com.sg.

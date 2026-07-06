@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/zhp.pl,1procent.zhp.pl..txt,NS_UPDATE,DEL,1procent.zhp.pl.,NS,dns.home.pl.
+files-100-500/zhp.pl,1procent.zhp.pl..txt,NS_UPDATE,ADD,1procent.zhp.pl.,NS,ns-inc.1procent.zhp.pl.

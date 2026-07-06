@@ -1,0 +1,28 @@
+Matsu Quantiles (90%, 95%, 99%, 99.9%):
+90%: 0.083
+95%: 0.109
+99%: 0.195
+99.9%: 0.61
+
+Groot Times Quantiles (90%, 95%, 99%, 99.9%):
+90%: 25.48071969479166
+95%: 33.140009046497575
+99%: 63.681090826475995
+99.9%: 211.76390858168784
+Number of rows where ratio < 1: 63
+### Maximum Ratio ###
+zone: co.kr
+cttime of Groot: 0.038 
+cttime of Matsu: 40952.62886241233 
+inc time Ratio: 1077700.7595371667
+
+### Minimum Ratio ###
+zone: omtrdc.net
+cttime of Groot: 119263.04 
+cttime of Matsu: 11.2136491707187 
+inc time Ratio: 9.402451229415837e-05
+Ratio Quantiles (90%, 95%, 99%, 99.9%):
+90%: 823.8120223758812
+95%: 1060.9587579772012
+99%: 2135.4756525033267
+99.9%: 6927.985490933565

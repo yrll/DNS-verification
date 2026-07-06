@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/co.kr,0.co.kr..txt,A_ADD,ADD,__aether_veridns_inc__.0.co.kr.,A,192.0.2.254

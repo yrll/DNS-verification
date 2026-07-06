@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/webd.pl,1lokrasnystaw.webd.pl..txt,CNAME_UPDATE,DEL,www.1lokrasnystaw.webd.pl.,CNAME,1lokrasnystaw.webd.pl.
+files-100-500/webd.pl,1lokrasnystaw.webd.pl..txt,CNAME_UPDATE,ADD,www.1lokrasnystaw.webd.pl.,CNAME,cname-inc.1lokrasnystaw.webd.pl.

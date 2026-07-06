@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yourprospex.com,aaronwroten.yourprospex.com..txt,A_UPDATE,DEL,aaronwroten.yourprospex.com.,A,50.57.171.207
+files-100-500/yourprospex.com,aaronwroten.yourprospex.com..txt,A_UPDATE,ADD,aaronwroten.yourprospex.com.,A,192.0.2.253

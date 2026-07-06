@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yahoo.com,a1.b.yahoo.com..txt,NS_UPDATE,DEL,a1.b.yahoo.com.,NS,yf1.yahoo.com.
+files-100-500/yahoo.com,a1.b.yahoo.com..txt,NS_UPDATE,ADD,a1.b.yahoo.com.,NS,ns-inc.a1.b.yahoo.com.

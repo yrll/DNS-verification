@@ -1,0 +1,1667 @@
+{
+  "TopNameServers": [
+    "ns1.webself.net."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/aspnetdevelopment.webself.net..txt",
+      "NameServer": "ns1.aspnetdevelopment.webself.net.",
+      "Origin": "aspnetdevelopment.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/c-habbo.webself.net..txt",
+      "NameServer": "ns1.c-habbo.webself.net.",
+      "Origin": "c-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/calientelfnet.webself.net..txt",
+      "NameServer": "ns1.calientelfnet.webself.net.",
+      "Origin": "calientelfnet.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/calvin.webself.net..txt",
+      "NameServer": "ns1.calvin.webself.net.",
+      "Origin": "calvin.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/ccredithabbogratuit13.webself.net..txt",
+      "NameServer": "ns1.ccredithabbogratuit13.webself.net.",
+      "Origin": "ccredithabbogratuit13.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/charrasunidasdevilla.webself.net..txt",
+      "NameServer": "ns1.charrasunidasdevilla.webself.net.",
+      "Origin": "charrasunidasdevilla.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/ckilatchi1.webself.net..txt",
+      "NameServer": "ns1.ckilatchi1.webself.net.",
+      "Origin": "ckilatchi1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/clandesfaucons1.webself.net..txt",
+      "NameServer": "ns1.clandesfaucons1.webself.net.",
+      "Origin": "clandesfaucons1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/collegeminipolis.webself.net..txt",
+      "NameServer": "ns1.collegeminipolis.webself.net.",
+      "Origin": "collegeminipolis.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/com.webself.net..txt",
+      "NameServer": "ns1.com.webself.net.",
+      "Origin": "com.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/comment-voir-des-gratuit-sur-habbo.webself.net..txt",
+      "NameServer": "ns1.comment-voir-des-gratuit-sur-habbo.webself.net.",
+      "Origin": "comment-voir-des-gratuit-sur-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/concourcasino.webself.net..txt",
+      "NameServer": "ns1.concourcasino.webself.net.",
+      "Origin": "concourcasino.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/corentindisparition.webself.net..txt",
+      "NameServer": "ns1.corentindisparition.webself.net.",
+      "Origin": "corentindisparition.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/cr3dits-habbo1.webself.net..txt",
+      "NameServer": "ns1.cr3dits-habbo1.webself.net.",
+      "Origin": "cr3dits-habbo1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credit-gratuit-par-sulake.webself.net..txt",
+      "NameServer": "ns1.credit-gratuit-par-sulake.webself.net.",
+      "Origin": "credit-gratuit-par-sulake.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credit-gratuit2.webself.net..txt",
+      "NameServer": "ns1.credit-gratuit2.webself.net.",
+      "Origin": "credit-gratuit2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credit-habbo-gratuit.webself.net..txt",
+      "NameServer": "ns1.credit-habbo-gratuit.webself.net.",
+      "Origin": "credit-habbo-gratuit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credit-habbo8.webself.net..txt",
+      "NameServer": "ns1.credit-habbo8.webself.net.",
+      "Origin": "credit-habbo8.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credit-par-habbo.webself.net..txt",
+      "NameServer": "ns1.credit-par-habbo.webself.net.",
+      "Origin": "credit-par-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credit-par-sulake1.webself.net..txt",
+      "NameServer": "ns1.credit-par-sulake1.webself.net.",
+      "Origin": "credit-par-sulake1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credit-par-sulakes.webself.net..txt",
+      "NameServer": "ns1.credit-par-sulakes.webself.net.",
+      "Origin": "credit-par-sulakes.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/creditgratos1.webself.net..txt",
+      "NameServer": "ns1.creditgratos1.webself.net.",
+      "Origin": "creditgratos1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/creditgratuit9.webself.net..txt",
+      "NameServer": "ns1.creditgratuit9.webself.net.",
+      "Origin": "creditgratuit9.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/creditgratuithabbo3.webself.net..txt",
+      "NameServer": "ns1.creditgratuithabbo3.webself.net.",
+      "Origin": "creditgratuithabbo3.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/creditgratuithabbo4.webself.net..txt",
+      "NameServer": "ns1.creditgratuithabbo4.webself.net.",
+      "Origin": "creditgratuithabbo4.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credithabbo1.webself.net..txt",
+      "NameServer": "ns1.credithabbo1.webself.net.",
+      "Origin": "credithabbo1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credithabbo2.webself.net..txt",
+      "NameServer": "ns1.credithabbo2.webself.net.",
+      "Origin": "credithabbo2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credithabbogratos2.webself.net..txt",
+      "NameServer": "ns1.credithabbogratos2.webself.net.",
+      "Origin": "credithabbogratos2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credithabbogratuit3.webself.net..txt",
+      "NameServer": "ns1.credithabbogratuit3.webself.net.",
+      "Origin": "credithabbogratuit3.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credithabbogratuit5.webself.net..txt",
+      "NameServer": "ns1.credithabbogratuit5.webself.net.",
+      "Origin": "credithabbogratuit5.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credits-gratuit2.webself.net..txt",
+      "NameServer": "ns1.credits-gratuit2.webself.net.",
+      "Origin": "credits-gratuit2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credits-gratuits-habbo.webself.net..txt",
+      "NameServer": "ns1.credits-gratuits-habbo.webself.net.",
+      "Origin": "credits-gratuits-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credits-habbo-gratuits1.webself.net..txt",
+      "NameServer": "ns1.credits-habbo-gratuits1.webself.net.",
+      "Origin": "credits-habbo-gratuits1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credits-habbo-gratuitshabbo.webself.net..txt",
+      "NameServer": "ns1.credits-habbo-gratuitshabbo.webself.net.",
+      "Origin": "credits-habbo-gratuitshabbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/credits-habbo-officiel.webself.net..txt",
+      "NameServer": "ns1.credits-habbo-officiel.webself.net.",
+      "Origin": "credits-habbo-officiel.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/creditshabbo.webself.net..txt",
+      "NameServer": "ns1.creditshabbo.webself.net.",
+      "Origin": "creditshabbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/creditshabbogratuit.webself.net..txt",
+      "NameServer": "ns1.creditshabbogratuit.webself.net.",
+      "Origin": "creditshabbogratuit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/creditshabbogratuitsstaff.webself.net..txt",
+      "NameServer": "ns1.creditshabbogratuitsstaff.webself.net.",
+      "Origin": "creditshabbogratuitsstaff.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/creditsvraimentgratuits.webself.net..txt",
+      "NameServer": "ns1.creditsvraimentgratuits.webself.net.",
+      "Origin": "creditsvraimentgratuits.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/david59leguitariste.webself.net..txt",
+      "NameServer": "ns1.david59leguitariste.webself.net.",
+      "Origin": "david59leguitariste.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/descreditsavolonter.webself.net..txt",
+      "NameServer": "ns1.descreditsavolonter.webself.net.",
+      "Origin": "descreditsavolonter.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/dns1.webself.net..txt",
+      "NameServer": "ns1.dns1.webself.net.",
+      "Origin": "dns1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/dns2.webself.net..txt",
+      "NameServer": "ns1.dns2.webself.net.",
+      "Origin": "dns2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/donne-credits-habbo.webself.net..txt",
+      "NameServer": "ns1.donne-credits-habbo.webself.net.",
+      "Origin": "donne-credits-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/duckleyrecyclagedemetauxferreux.webself.net..txt",
+      "NameServer": "ns1.duckleyrecyclagedemetauxferreux.webself.net.",
+      "Origin": "duckleyrecyclagedemetauxferreux.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/elisabethconseil.webself.net..txt",
+      "NameServer": "ns1.elisabethconseil.webself.net.",
+      "Origin": "elisabethconseil.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/en.webself.net..txt",
+      "NameServer": "ns1.en.webself.net.",
+      "Origin": "en.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/etoro.webself.net..txt",
+      "NameServer": "ns1.etoro.webself.net.",
+      "Origin": "etoro.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/facebook-for-all.webself.net..txt",
+      "NameServer": "ns1.facebook-for-all.webself.net.",
+      "Origin": "facebook-for-all.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/felipejaviersaldivia.webself.net..txt",
+      "NameServer": "ns1.felipejaviersaldivia.webself.net.",
+      "Origin": "felipejaviersaldivia.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/fr.webself.net..txt",
+      "NameServer": "ns1.fr.webself.net.",
+      "Origin": "fr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/france-loves-justin-bieber.webself.net..txt",
+      "NameServer": "ns1.france-loves-justin-bieber.webself.net.",
+      "Origin": "france-loves-justin-bieber.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/fredericm.webself.net..txt",
+      "NameServer": "ns1.fredericm.webself.net.",
+      "Origin": "fredericm.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/garny.webself.net..txt",
+      "NameServer": "ns1.garny.webself.net.",
+      "Origin": "garny.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/gauravhackingtricks1.webself.net..txt",
+      "NameServer": "ns1.gauravhackingtricks1.webself.net.",
+      "Origin": "gauravhackingtricks1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/guantanamopenitanciarycenter.webself.net..txt",
+      "NameServer": "ns1.guantanamopenitanciarycenter.webself.net.",
+      "Origin": "guantanamopenitanciarycenter.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/guidleo1.webself.net..txt",
+      "NameServer": "ns1.guidleo1.webself.net.",
+      "Origin": "guidleo1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-astuce2.webself.net..txt",
+      "NameServer": "ns1.habbo-astuce2.webself.net.",
+      "Origin": "habbo-astuce2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-chg1.webself.net..txt",
+      "NameServer": "ns1.habbo-chg1.webself.net.",
+      "Origin": "habbo-chg1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-credit-gratuit-habbo.webself.net..txt",
+      "NameServer": "ns1.habbo-credit-gratuit-habbo.webself.net.",
+      "Origin": "habbo-credit-gratuit-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-credit-gratuit3.webself.net..txt",
+      "NameServer": "ns1.habbo-credit-gratuit3.webself.net.",
+      "Origin": "habbo-credit-gratuit3.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-credit.webself.net..txt",
+      "NameServer": "ns1.habbo-credit.webself.net.",
+      "Origin": "habbo-credit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-credit1.webself.net..txt",
+      "NameServer": "ns1.habbo-credit1.webself.net.",
+      "Origin": "habbo-credit1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-credits-gratuits1.webself.net..txt",
+      "NameServer": "ns1.habbo-credits-gratuits1.webself.net.",
+      "Origin": "habbo-credits-gratuits1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-credits-gratuits2.webself.net..txt",
+      "NameServer": "ns1.habbo-credits-gratuits2.webself.net.",
+      "Origin": "habbo-credits-gratuits2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-credits6.webself.net..txt",
+      "NameServer": "ns1.habbo-credits6.webself.net.",
+      "Origin": "habbo-credits6.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-creds-gratos.webself.net..txt",
+      "NameServer": "ns1.habbo-creds-gratos.webself.net.",
+      "Origin": "habbo-creds-gratos.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-creds-gratos2.webself.net..txt",
+      "NameServer": "ns1.habbo-creds-gratos2.webself.net.",
+      "Origin": "habbo-creds-gratos2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-hotel-francefr.webself.net..txt",
+      "NameServer": "ns1.habbo-hotel-francefr.webself.net.",
+      "Origin": "habbo-hotel-francefr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-life2.webself.net..txt",
+      "NameServer": "ns1.habbo-life2.webself.net.",
+      "Origin": "habbo-life2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-magot.webself.net..txt",
+      "NameServer": "ns1.habbo-magot.webself.net.",
+      "Origin": "habbo-magot.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-riche.webself.net..txt",
+      "NameServer": "ns1.habbo-riche.webself.net.",
+      "Origin": "habbo-riche.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-saluke-cred.webself.net..txt",
+      "NameServer": "ns1.habbo-saluke-cred.webself.net.",
+      "Origin": "habbo-saluke-cred.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-secret.webself.net..txt",
+      "NameServer": "ns1.habbo-secret.webself.net.",
+      "Origin": "habbo-secret.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo-xastuces.webself.net..txt",
+      "NameServer": "ns1.habbo-xastuces.webself.net.",
+      "Origin": "habbo-xastuces.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo100credits.webself.net..txt",
+      "NameServer": "ns1.habbo100credits.webself.net.",
+      "Origin": "habbo100credits.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo2011.webself.net..txt",
+      "NameServer": "ns1.habbo2011.webself.net.",
+      "Origin": "habbo2011.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbo54.webself.net..txt",
+      "NameServer": "ns1.habbo54.webself.net.",
+      "Origin": "habbo54.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocredit5.webself.net..txt",
+      "NameServer": "ns1.habbocredit5.webself.net.",
+      "Origin": "habbocredit5.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocredit7.webself.net..txt",
+      "NameServer": "ns1.habbocredit7.webself.net.",
+      "Origin": "habbocredit7.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocredit71.webself.net..txt",
+      "NameServer": "ns1.habbocredit71.webself.net.",
+      "Origin": "habbocredit71.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocreditagogo.webself.net..txt",
+      "NameServer": "ns1.habbocreditagogo.webself.net.",
+      "Origin": "habbocreditagogo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocreditgratosfr.webself.net..txt",
+      "NameServer": "ns1.habbocreditgratosfr.webself.net.",
+      "Origin": "habbocreditgratosfr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocreditgratui1.webself.net..txt",
+      "NameServer": "ns1.habbocreditgratui1.webself.net.",
+      "Origin": "habbocreditgratui1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocreditgratuit13.webself.net..txt",
+      "NameServer": "ns1.habbocreditgratuit13.webself.net.",
+      "Origin": "habbocreditgratuit13.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocredits.webself.net..txt",
+      "NameServer": "ns1.habbocredits.webself.net.",
+      "Origin": "habbocredits.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocredits9.webself.net..txt",
+      "NameServer": "ns1.habbocredits9.webself.net.",
+      "Origin": "habbocredits9.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocreditsgratosfacild.webself.net..txt",
+      "NameServer": "ns1.habbocreditsgratosfacild.webself.net.",
+      "Origin": "habbocreditsgratosfacild.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocreditsgratui8.webself.net..txt",
+      "NameServer": "ns1.habbocreditsgratui8.webself.net.",
+      "Origin": "habbocreditsgratui8.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocreditsgratuit.webself.net..txt",
+      "NameServer": "ns1.habbocreditsgratuit.webself.net.",
+      "Origin": "habbocreditsgratuit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbocreditsgratuit2.webself.net..txt",
+      "NameServer": "ns1.habbocreditsgratuit2.webself.net.",
+      "Origin": "habbocreditsgratuit2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbofrancefr.webself.net..txt",
+      "NameServer": "ns1.habbofrancefr.webself.net.",
+      "Origin": "habbofrancefr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbofrcreditgratuit.webself.net..txt",
+      "NameServer": "ns1.habbofrcreditgratuit.webself.net.",
+      "Origin": "habbofrcreditgratuit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbomachine.webself.net..txt",
+      "NameServer": "ns1.habbomachine.webself.net.",
+      "Origin": "habbomachine.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbomessage.webself.net..txt",
+      "NameServer": "ns1.habbomessage.webself.net.",
+      "Origin": "habbomessage.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbor.webself.net..txt",
+      "NameServer": "ns1.habbor.webself.net.",
+      "Origin": "habbor.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habboreality.webself.net..txt",
+      "NameServer": "ns1.habboreality.webself.net.",
+      "Origin": "habboreality.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbosulakehotelcredit.webself.net..txt",
+      "NameServer": "ns1.habbosulakehotelcredit.webself.net.",
+      "Origin": "habbosulakehotelcredit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbov54.webself.net..txt",
+      "NameServer": "ns1.habbov54.webself.net.",
+      "Origin": "habbov54.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habboworldhelp.webself.net..txt",
+      "NameServer": "ns1.habboworldhelp.webself.net.",
+      "Origin": "habboworldhelp.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habbp-aide.webself.net..txt",
+      "NameServer": "ns1.habbp-aide.webself.net.",
+      "Origin": "habbp-aide.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habeur-hotel2.webself.net..txt",
+      "NameServer": "ns1.habeur-hotel2.webself.net.",
+      "Origin": "habeur-hotel2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/habol.webself.net..txt",
+      "NameServer": "ns1.habol.webself.net.",
+      "Origin": "habol.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/hammerkrieg.webself.net..txt",
+      "NameServer": "ns1.hammerkrieg.webself.net.",
+      "Origin": "hammerkrieg.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/hausmeister.webself.net..txt",
+      "NameServer": "ns1.hausmeister.webself.net.",
+      "Origin": "hausmeister.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/httpmiss-creditshabbogratuit.webself.net..txt",
+      "NameServer": "ns1.httpmiss-creditshabbogratuit.webself.net.",
+      "Origin": "httpmiss-creditshabbogratuit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/httpwwwcreditsgratuitsfr.webself.net..txt",
+      "NameServer": "ns1.httpwwwcreditsgratuitsfr.webself.net.",
+      "Origin": "httpwwwcreditsgratuitsfr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/inscriptionretronopayant.webself.net..txt",
+      "NameServer": "ns1.inscriptionretronopayant.webself.net.",
+      "Origin": "inscriptionretronopayant.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/islamickorner.webself.net..txt",
+      "NameServer": "ns1.islamickorner.webself.net.",
+      "Origin": "islamickorner.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/ivanterrisse.webself.net..txt",
+      "NameServer": "ns1.ivanterrisse.webself.net.",
+      "Origin": "ivanterrisse.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/jehuet27yahoo.webself.net..txt",
+      "NameServer": "ns1.jehuet27yahoo.webself.net.",
+      "Origin": "jehuet27yahoo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/kathleen.webself.net..txt",
+      "NameServer": "ns1.kathleen.webself.net.",
+      "Origin": "kathleen.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/kingdinydabiggestboss.webself.net..txt",
+      "NameServer": "ns1.kingdinydabiggestboss.webself.net.",
+      "Origin": "kingdinydabiggestboss.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/laetii-x3.webself.net..txt",
+      "NameServer": "ns1.laetii-x3.webself.net.",
+      "Origin": "laetii-x3.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/lartiste-mister-safsaf.webself.net..txt",
+      "NameServer": "ns1.lartiste-mister-safsaf.webself.net.",
+      "Origin": "lartiste-mister-safsaf.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/lasouffrance.webself.net..txt",
+      "NameServer": "ns1.lasouffrance.webself.net.",
+      "Origin": "lasouffrance.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/le-credit-gratis.webself.net..txt",
+      "NameServer": "ns1.le-credit-gratis.webself.net.",
+      "Origin": "le-credit-gratis.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/legroupepokemondeshynopok.webself.net..txt",
+      "NameServer": "ns1.legroupepokemondeshynopok.webself.net.",
+      "Origin": "legroupepokemondeshynopok.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/lesacrylisme.webself.net..txt",
+      "NameServer": "ns1.lesacrylisme.webself.net.",
+      "Origin": "lesacrylisme.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/lesalluvions.webself.net..txt",
+      "NameServer": "ns1.lesalluvions.webself.net.",
+      "Origin": "lesalluvions.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/liberty1960.webself.net..txt",
+      "NameServer": "ns1.liberty1960.webself.net.",
+      "Origin": "liberty1960.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/lilsweety.webself.net..txt",
+      "NameServer": "ns1.lilsweety.webself.net.",
+      "Origin": "lilsweety.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/lumieresondiffusion.webself.net..txt",
+      "NameServer": "ns1.lumieresondiffusion.webself.net.",
+      "Origin": "lumieresondiffusion.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/mail.webself.net..txt",
+      "NameServer": "ns1.mail.webself.net.",
+      "Origin": "mail.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/meli-melo.webself.net..txt",
+      "NameServer": "ns1.meli-melo.webself.net.",
+      "Origin": "meli-melo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/meteo-intemperies.webself.net..txt",
+      "NameServer": "ns1.meteo-intemperies.webself.net.",
+      "Origin": "meteo-intemperies.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/monaetfidji.webself.net..txt",
+      "NameServer": "ns1.monaetfidji.webself.net.",
+      "Origin": "monaetfidji.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/montaillouetsonclochercom.webself.net..txt",
+      "NameServer": "ns1.montaillouetsonclochercom.webself.net.",
+      "Origin": "montaillouetsonclochercom.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/montjay05150.webself.net..txt",
+      "NameServer": "ns1.montjay05150.webself.net.",
+      "Origin": "montjay05150.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/musicliferecords.webself.net..txt",
+      "NameServer": "ns1.musicliferecords.webself.net.",
+      "Origin": "musicliferecords.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/newraphiphopmcj.webself.net..txt",
+      "NameServer": "ns1.newraphiphopmcj.webself.net.",
+      "Origin": "newraphiphopmcj.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/newworld1.webself.net..txt",
+      "NameServer": "ns1.newworld1.webself.net.",
+      "Origin": "newworld1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/normandonnecreditgratuix1.webself.net..txt",
+      "NameServer": "ns1.normandonnecreditgratuix1.webself.net.",
+      "Origin": "normandonnecreditgratuix1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/offredecreditshabbo.webself.net..txt",
+      "NameServer": "ns1.offredecreditshabbo.webself.net.",
+      "Origin": "offredecreditshabbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/panoramadelapocalypse.webself.net..txt",
+      "NameServer": "ns1.panoramadelapocalypse.webself.net.",
+      "Origin": "panoramadelapocalypse.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/papparrazzi.com.webself.net..txt",
+      "NameServer": "ns1.papparrazzi.com.webself.net.",
+      "Origin": "papparrazzi.com.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/photosdorly.webself.net..txt",
+      "NameServer": "ns1.photosdorly.webself.net.",
+      "Origin": "photosdorly.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/pogarment.webself.net..txt",
+      "NameServer": "ns1.pogarment.webself.net.",
+      "Origin": "pogarment.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/rockmahbooooooooooool.webself.net..txt",
+      "NameServer": "ns1.rockmahbooooooooooool.webself.net.",
+      "Origin": "rockmahbooooooooooool.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/screamit5.webself.net..txt",
+      "NameServer": "ns1.screamit5.webself.net.",
+      "Origin": "screamit5.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/scripter-casino.webself.net..txt",
+      "NameServer": "ns1.scripter-casino.webself.net.",
+      "Origin": "scripter-casino.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/subaru.webself.net..txt",
+      "NameServer": "ns1.subaru.webself.net.",
+      "Origin": "subaru.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/sulakehabbohotelfr.webself.net..txt",
+      "NameServer": "ns1.sulakehabbohotelfr.webself.net.",
+      "Origin": "sulakehabbohotelfr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/teamspirit.webself.net..txt",
+      "NameServer": "ns1.teamspirit.webself.net.",
+      "Origin": "teamspirit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/thespace.webself.net..txt",
+      "NameServer": "ns1.thespace.webself.net.",
+      "Origin": "thespace.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/tonycolombo.webself.net..txt",
+      "NameServer": "ns1.tonycolombo.webself.net.",
+      "Origin": "tonycolombo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/travailindependant.webself.net..txt",
+      "NameServer": "ns1.travailindependant.webself.net.",
+      "Origin": "travailindependant.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/tropicpetitesannoncesentreparticulier.webself.net..txt",
+      "NameServer": "ns1.tropicpetitesannoncesentreparticulier.webself.net.",
+      "Origin": "tropicpetitesannoncesentreparticulier.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/unefamillepournosfidelescompagnons.webself.net..txt",
+      "NameServer": "ns1.unefamillepournosfidelescompagnons.webself.net.",
+      "Origin": "unefamillepournosfidelescompagnons.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/vie-de-nana.webself.net..txt",
+      "NameServer": "ns1.vie-de-nana.webself.net.",
+      "Origin": "vie-de-nana.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/walterfriedrichotto.webself.net..txt",
+      "NameServer": "ns1.walterfriedrichotto.webself.net.",
+      "Origin": "walterfriedrichotto.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/wayansbrothers.webself.net..txt",
+      "NameServer": "ns1.wayansbrothers.webself.net.",
+      "Origin": "wayansbrothers.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/webphoto.webself.net..txt",
+      "NameServer": "ns1.webphoto.webself.net.",
+      "Origin": "webphoto.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/webself.net..txt",
+      "NameServer": "ns1.webself.net.",
+      "Origin": "webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/winxclub6.webself.net..txt",
+      "NameServer": "ns1.winxclub6.webself.net.",
+      "Origin": "winxclub6.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.amissouss.webself.net..txt",
+      "NameServer": "ns1.www.amissouss.webself.net.",
+      "Origin": "www.amissouss.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.aspnetdevelopment.webself.net..txt",
+      "NameServer": "ns1.www.aspnetdevelopment.webself.net.",
+      "Origin": "www.aspnetdevelopment.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.c-habbo.webself.net..txt",
+      "NameServer": "ns1.www.c-habbo.webself.net.",
+      "Origin": "www.c-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.calientelfnet.webself.net..txt",
+      "NameServer": "ns1.www.calientelfnet.webself.net.",
+      "Origin": "www.calientelfnet.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.calvin.webself.net..txt",
+      "NameServer": "ns1.www.calvin.webself.net.",
+      "Origin": "www.calvin.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.ccredithabbogratuit13.webself.net..txt",
+      "NameServer": "ns1.www.ccredithabbogratuit13.webself.net.",
+      "Origin": "www.ccredithabbogratuit13.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.charrasunidasdevilla.webself.net..txt",
+      "NameServer": "ns1.www.charrasunidasdevilla.webself.net.",
+      "Origin": "www.charrasunidasdevilla.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.ckilatchi1.webself.net..txt",
+      "NameServer": "ns1.www.ckilatchi1.webself.net.",
+      "Origin": "www.ckilatchi1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.clandesfaucons1.webself.net..txt",
+      "NameServer": "ns1.www.clandesfaucons1.webself.net.",
+      "Origin": "www.clandesfaucons1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.collegeminipolis.webself.net..txt",
+      "NameServer": "ns1.www.collegeminipolis.webself.net.",
+      "Origin": "www.collegeminipolis.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.comment-voir-des-gratuit-sur-habbo.webself.net..txt",
+      "NameServer": "ns1.www.comment-voir-des-gratuit-sur-habbo.webself.net.",
+      "Origin": "www.comment-voir-des-gratuit-sur-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.concourcasino.webself.net..txt",
+      "NameServer": "ns1.www.concourcasino.webself.net.",
+      "Origin": "www.concourcasino.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.corentindisparition.webself.net..txt",
+      "NameServer": "ns1.www.corentindisparition.webself.net.",
+      "Origin": "www.corentindisparition.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.cr3dits-habbo1.webself.net..txt",
+      "NameServer": "ns1.www.cr3dits-habbo1.webself.net.",
+      "Origin": "www.cr3dits-habbo1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credit-gratuit-par-sulake.webself.net..txt",
+      "NameServer": "ns1.www.credit-gratuit-par-sulake.webself.net.",
+      "Origin": "www.credit-gratuit-par-sulake.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credit-gratuit2.webself.net..txt",
+      "NameServer": "ns1.www.credit-gratuit2.webself.net.",
+      "Origin": "www.credit-gratuit2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credit-habbo-gratuit.webself.net..txt",
+      "NameServer": "ns1.www.credit-habbo-gratuit.webself.net.",
+      "Origin": "www.credit-habbo-gratuit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credit-habbo8.webself.net..txt",
+      "NameServer": "ns1.www.credit-habbo8.webself.net.",
+      "Origin": "www.credit-habbo8.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credit-par-habbo.webself.net..txt",
+      "NameServer": "ns1.www.credit-par-habbo.webself.net.",
+      "Origin": "www.credit-par-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credit-par-sulake1.webself.net..txt",
+      "NameServer": "ns1.www.credit-par-sulake1.webself.net.",
+      "Origin": "www.credit-par-sulake1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credit-par-sulakes.webself.net..txt",
+      "NameServer": "ns1.www.credit-par-sulakes.webself.net.",
+      "Origin": "www.credit-par-sulakes.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.creditgratos1.webself.net..txt",
+      "NameServer": "ns1.www.creditgratos1.webself.net.",
+      "Origin": "www.creditgratos1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.creditgratuit9.webself.net..txt",
+      "NameServer": "ns1.www.creditgratuit9.webself.net.",
+      "Origin": "www.creditgratuit9.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.creditgratuithabbo3.webself.net..txt",
+      "NameServer": "ns1.www.creditgratuithabbo3.webself.net.",
+      "Origin": "www.creditgratuithabbo3.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.creditgratuithabbo4.webself.net..txt",
+      "NameServer": "ns1.www.creditgratuithabbo4.webself.net.",
+      "Origin": "www.creditgratuithabbo4.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credithabbo1.webself.net..txt",
+      "NameServer": "ns1.www.credithabbo1.webself.net.",
+      "Origin": "www.credithabbo1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credithabbo2.webself.net..txt",
+      "NameServer": "ns1.www.credithabbo2.webself.net.",
+      "Origin": "www.credithabbo2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credithabbogratos2.webself.net..txt",
+      "NameServer": "ns1.www.credithabbogratos2.webself.net.",
+      "Origin": "www.credithabbogratos2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credithabbogratuit3.webself.net..txt",
+      "NameServer": "ns1.www.credithabbogratuit3.webself.net.",
+      "Origin": "www.credithabbogratuit3.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credithabbogratuit5.webself.net..txt",
+      "NameServer": "ns1.www.credithabbogratuit5.webself.net.",
+      "Origin": "www.credithabbogratuit5.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credits-gratuit2.webself.net..txt",
+      "NameServer": "ns1.www.credits-gratuit2.webself.net.",
+      "Origin": "www.credits-gratuit2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credits-gratuits-habbo.webself.net..txt",
+      "NameServer": "ns1.www.credits-gratuits-habbo.webself.net.",
+      "Origin": "www.credits-gratuits-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credits-habbo-gratuits1.webself.net..txt",
+      "NameServer": "ns1.www.credits-habbo-gratuits1.webself.net.",
+      "Origin": "www.credits-habbo-gratuits1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credits-habbo-gratuitshabbo.webself.net..txt",
+      "NameServer": "ns1.www.credits-habbo-gratuitshabbo.webself.net.",
+      "Origin": "www.credits-habbo-gratuitshabbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.credits-habbo-officiel.webself.net..txt",
+      "NameServer": "ns1.www.credits-habbo-officiel.webself.net.",
+      "Origin": "www.credits-habbo-officiel.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.creditshabbogratuit.webself.net..txt",
+      "NameServer": "ns1.www.creditshabbogratuit.webself.net.",
+      "Origin": "www.creditshabbogratuit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.creditshabbogratuitsstaff.webself.net..txt",
+      "NameServer": "ns1.www.creditshabbogratuitsstaff.webself.net.",
+      "Origin": "www.creditshabbogratuitsstaff.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.creditsvraimentgratuits.webself.net..txt",
+      "NameServer": "ns1.www.creditsvraimentgratuits.webself.net.",
+      "Origin": "www.creditsvraimentgratuits.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.david59leguitariste.webself.net..txt",
+      "NameServer": "ns1.www.david59leguitariste.webself.net.",
+      "Origin": "www.david59leguitariste.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.descreditsavolonter.webself.net..txt",
+      "NameServer": "ns1.www.descreditsavolonter.webself.net.",
+      "Origin": "www.descreditsavolonter.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.donne-credits-habbo.webself.net..txt",
+      "NameServer": "ns1.www.donne-credits-habbo.webself.net.",
+      "Origin": "www.donne-credits-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.duckleyrecyclagedemetauxferreux.webself.net..txt",
+      "NameServer": "ns1.www.duckleyrecyclagedemetauxferreux.webself.net.",
+      "Origin": "www.duckleyrecyclagedemetauxferreux.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.elbayadh-rabie.webself.net..txt",
+      "NameServer": "ns1.www.elbayadh-rabie.webself.net.",
+      "Origin": "www.elbayadh-rabie.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.elisabethconseil.webself.net..txt",
+      "NameServer": "ns1.www.elisabethconseil.webself.net.",
+      "Origin": "www.elisabethconseil.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.elsextoset.webself.net..txt",
+      "NameServer": "ns1.www.elsextoset.webself.net.",
+      "Origin": "www.elsextoset.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.etoro.webself.net..txt",
+      "NameServer": "ns1.www.etoro.webself.net.",
+      "Origin": "www.etoro.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.facebook-for-all.webself.net..txt",
+      "NameServer": "ns1.www.facebook-for-all.webself.net.",
+      "Origin": "www.facebook-for-all.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.felipejaviersaldivia.webself.net..txt",
+      "NameServer": "ns1.www.felipejaviersaldivia.webself.net.",
+      "Origin": "www.felipejaviersaldivia.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.france-loves-justin-bieber.webself.net..txt",
+      "NameServer": "ns1.www.france-loves-justin-bieber.webself.net.",
+      "Origin": "www.france-loves-justin-bieber.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.fredericm.webself.net..txt",
+      "NameServer": "ns1.www.fredericm.webself.net.",
+      "Origin": "www.fredericm.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.galactikfootball1.webself.net..txt",
+      "NameServer": "ns1.www.galactikfootball1.webself.net.",
+      "Origin": "www.galactikfootball1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.garny.webself.net..txt",
+      "NameServer": "ns1.www.garny.webself.net.",
+      "Origin": "www.garny.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.gauravhackingtricks1.webself.net..txt",
+      "NameServer": "ns1.www.gauravhackingtricks1.webself.net.",
+      "Origin": "www.gauravhackingtricks1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.guantanamopenitanciarycenter.webself.net..txt",
+      "NameServer": "ns1.www.guantanamopenitanciarycenter.webself.net.",
+      "Origin": "www.guantanamopenitanciarycenter.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.guidleo1.webself.net..txt",
+      "NameServer": "ns1.www.guidleo1.webself.net.",
+      "Origin": "www.guidleo1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-astuce2.webself.net..txt",
+      "NameServer": "ns1.www.habbo-astuce2.webself.net.",
+      "Origin": "www.habbo-astuce2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-chg1.webself.net..txt",
+      "NameServer": "ns1.www.habbo-chg1.webself.net.",
+      "Origin": "www.habbo-chg1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-credit-gratuit-habbo.webself.net..txt",
+      "NameServer": "ns1.www.habbo-credit-gratuit-habbo.webself.net.",
+      "Origin": "www.habbo-credit-gratuit-habbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-credit-gratuit3.webself.net..txt",
+      "NameServer": "ns1.www.habbo-credit-gratuit3.webself.net.",
+      "Origin": "www.habbo-credit-gratuit3.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-credit.webself.net..txt",
+      "NameServer": "ns1.www.habbo-credit.webself.net.",
+      "Origin": "www.habbo-credit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-credit1.webself.net..txt",
+      "NameServer": "ns1.www.habbo-credit1.webself.net.",
+      "Origin": "www.habbo-credit1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-credits-gratuits1.webself.net..txt",
+      "NameServer": "ns1.www.habbo-credits-gratuits1.webself.net.",
+      "Origin": "www.habbo-credits-gratuits1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-credits-gratuits2.webself.net..txt",
+      "NameServer": "ns1.www.habbo-credits-gratuits2.webself.net.",
+      "Origin": "www.habbo-credits-gratuits2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-credits6.webself.net..txt",
+      "NameServer": "ns1.www.habbo-credits6.webself.net.",
+      "Origin": "www.habbo-credits6.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-creds-gratos.webself.net..txt",
+      "NameServer": "ns1.www.habbo-creds-gratos.webself.net.",
+      "Origin": "www.habbo-creds-gratos.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-creds-gratos2.webself.net..txt",
+      "NameServer": "ns1.www.habbo-creds-gratos2.webself.net.",
+      "Origin": "www.habbo-creds-gratos2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-hotel-francefr.webself.net..txt",
+      "NameServer": "ns1.www.habbo-hotel-francefr.webself.net.",
+      "Origin": "www.habbo-hotel-francefr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-magot.webself.net..txt",
+      "NameServer": "ns1.www.habbo-magot.webself.net.",
+      "Origin": "www.habbo-magot.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-riche.webself.net..txt",
+      "NameServer": "ns1.www.habbo-riche.webself.net.",
+      "Origin": "www.habbo-riche.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-saluke-cred.webself.net..txt",
+      "NameServer": "ns1.www.habbo-saluke-cred.webself.net.",
+      "Origin": "www.habbo-saluke-cred.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-secret.webself.net..txt",
+      "NameServer": "ns1.www.habbo-secret.webself.net.",
+      "Origin": "www.habbo-secret.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo-xastuces.webself.net..txt",
+      "NameServer": "ns1.www.habbo-xastuces.webself.net.",
+      "Origin": "www.habbo-xastuces.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo2011.webself.net..txt",
+      "NameServer": "ns1.www.habbo2011.webself.net.",
+      "Origin": "www.habbo2011.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbo54.webself.net..txt",
+      "NameServer": "ns1.www.habbo54.webself.net.",
+      "Origin": "www.habbo54.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocredit5.webself.net..txt",
+      "NameServer": "ns1.www.habbocredit5.webself.net.",
+      "Origin": "www.habbocredit5.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocredit7.webself.net..txt",
+      "NameServer": "ns1.www.habbocredit7.webself.net.",
+      "Origin": "www.habbocredit7.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocredit71.webself.net..txt",
+      "NameServer": "ns1.www.habbocredit71.webself.net.",
+      "Origin": "www.habbocredit71.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocreditagogo.webself.net..txt",
+      "NameServer": "ns1.www.habbocreditagogo.webself.net.",
+      "Origin": "www.habbocreditagogo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocreditgratosfr.webself.net..txt",
+      "NameServer": "ns1.www.habbocreditgratosfr.webself.net.",
+      "Origin": "www.habbocreditgratosfr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocreditgratui1.webself.net..txt",
+      "NameServer": "ns1.www.habbocreditgratui1.webself.net.",
+      "Origin": "www.habbocreditgratui1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocreditgratuit13.webself.net..txt",
+      "NameServer": "ns1.www.habbocreditgratuit13.webself.net.",
+      "Origin": "www.habbocreditgratuit13.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocredits9.webself.net..txt",
+      "NameServer": "ns1.www.habbocredits9.webself.net.",
+      "Origin": "www.habbocredits9.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocreditsgratosfacild.webself.net..txt",
+      "NameServer": "ns1.www.habbocreditsgratosfacild.webself.net.",
+      "Origin": "www.habbocreditsgratosfacild.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocreditsgratui8.webself.net..txt",
+      "NameServer": "ns1.www.habbocreditsgratui8.webself.net.",
+      "Origin": "www.habbocreditsgratui8.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocreditsgratuit.webself.net..txt",
+      "NameServer": "ns1.www.habbocreditsgratuit.webself.net.",
+      "Origin": "www.habbocreditsgratuit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbocreditsgratuit2.webself.net..txt",
+      "NameServer": "ns1.www.habbocreditsgratuit2.webself.net.",
+      "Origin": "www.habbocreditsgratuit2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbofrancefr.webself.net..txt",
+      "NameServer": "ns1.www.habbofrancefr.webself.net.",
+      "Origin": "www.habbofrancefr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbofrcreditgratuit.webself.net..txt",
+      "NameServer": "ns1.www.habbofrcreditgratuit.webself.net.",
+      "Origin": "www.habbofrcreditgratuit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbomachine.webself.net..txt",
+      "NameServer": "ns1.www.habbomachine.webself.net.",
+      "Origin": "www.habbomachine.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbomessage.webself.net..txt",
+      "NameServer": "ns1.www.habbomessage.webself.net.",
+      "Origin": "www.habbomessage.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbor.webself.net..txt",
+      "NameServer": "ns1.www.habbor.webself.net.",
+      "Origin": "www.habbor.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habboreality.webself.net..txt",
+      "NameServer": "ns1.www.habboreality.webself.net.",
+      "Origin": "www.habboreality.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbosulakehotelcredit.webself.net..txt",
+      "NameServer": "ns1.www.habbosulakehotelcredit.webself.net.",
+      "Origin": "www.habbosulakehotelcredit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habbov54.webself.net..txt",
+      "NameServer": "ns1.www.habbov54.webself.net.",
+      "Origin": "www.habbov54.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habboworldhelp.webself.net..txt",
+      "NameServer": "ns1.www.habboworldhelp.webself.net.",
+      "Origin": "www.habboworldhelp.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habeur-hotel2.webself.net..txt",
+      "NameServer": "ns1.www.habeur-hotel2.webself.net.",
+      "Origin": "www.habeur-hotel2.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.habol.webself.net..txt",
+      "NameServer": "ns1.www.habol.webself.net.",
+      "Origin": "www.habol.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.hammerkrieg.webself.net..txt",
+      "NameServer": "ns1.www.hammerkrieg.webself.net.",
+      "Origin": "www.hammerkrieg.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.hausmeister.webself.net..txt",
+      "NameServer": "ns1.www.hausmeister.webself.net.",
+      "Origin": "www.hausmeister.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.httpmiss-creditshabbogratuit.webself.net..txt",
+      "NameServer": "ns1.www.httpmiss-creditshabbogratuit.webself.net.",
+      "Origin": "www.httpmiss-creditshabbogratuit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.httpwwwcreditsgratuitsfr.webself.net..txt",
+      "NameServer": "ns1.www.httpwwwcreditsgratuitsfr.webself.net.",
+      "Origin": "www.httpwwwcreditsgratuitsfr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.inscriptionretronopayant.webself.net..txt",
+      "NameServer": "ns1.www.inscriptionretronopayant.webself.net.",
+      "Origin": "www.inscriptionretronopayant.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.irenevelardeoficial.webself.net..txt",
+      "NameServer": "ns1.www.irenevelardeoficial.webself.net.",
+      "Origin": "www.irenevelardeoficial.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.islamickorner.webself.net..txt",
+      "NameServer": "ns1.www.islamickorner.webself.net.",
+      "Origin": "www.islamickorner.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.ivanterrisse.webself.net..txt",
+      "NameServer": "ns1.www.ivanterrisse.webself.net.",
+      "Origin": "www.ivanterrisse.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.jehuet27yahoo.webself.net..txt",
+      "NameServer": "ns1.www.jehuet27yahoo.webself.net.",
+      "Origin": "www.jehuet27yahoo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.kathleen.webself.net..txt",
+      "NameServer": "ns1.www.kathleen.webself.net.",
+      "Origin": "www.kathleen.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.kingdinydabiggestboss.webself.net..txt",
+      "NameServer": "ns1.www.kingdinydabiggestboss.webself.net.",
+      "Origin": "www.kingdinydabiggestboss.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.laetii-x3.webself.net..txt",
+      "NameServer": "ns1.www.laetii-x3.webself.net.",
+      "Origin": "www.laetii-x3.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.lartiste-mister-safsaf.webself.net..txt",
+      "NameServer": "ns1.www.lartiste-mister-safsaf.webself.net.",
+      "Origin": "www.lartiste-mister-safsaf.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.lasouffrance.webself.net..txt",
+      "NameServer": "ns1.www.lasouffrance.webself.net.",
+      "Origin": "www.lasouffrance.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.le-credit-gratis.webself.net..txt",
+      "NameServer": "ns1.www.le-credit-gratis.webself.net.",
+      "Origin": "www.le-credit-gratis.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.legroupepokemondeshynopok.webself.net..txt",
+      "NameServer": "ns1.www.legroupepokemondeshynopok.webself.net.",
+      "Origin": "www.legroupepokemondeshynopok.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.lesacrylisme.webself.net..txt",
+      "NameServer": "ns1.www.lesacrylisme.webself.net.",
+      "Origin": "www.lesacrylisme.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.lesalluvions.webself.net..txt",
+      "NameServer": "ns1.www.lesalluvions.webself.net.",
+      "Origin": "www.lesalluvions.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.liberty1960.webself.net..txt",
+      "NameServer": "ns1.www.liberty1960.webself.net.",
+      "Origin": "www.liberty1960.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.lilsweety.webself.net..txt",
+      "NameServer": "ns1.www.lilsweety.webself.net.",
+      "Origin": "www.lilsweety.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.lumieresondiffusion.webself.net..txt",
+      "NameServer": "ns1.www.lumieresondiffusion.webself.net.",
+      "Origin": "www.lumieresondiffusion.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.mairiedeluche-pringe.webself.net..txt",
+      "NameServer": "ns1.www.mairiedeluche-pringe.webself.net.",
+      "Origin": "www.mairiedeluche-pringe.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.meli-melo.webself.net..txt",
+      "NameServer": "ns1.www.meli-melo.webself.net.",
+      "Origin": "www.meli-melo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.meteo-intemperies.webself.net..txt",
+      "NameServer": "ns1.www.meteo-intemperies.webself.net.",
+      "Origin": "www.meteo-intemperies.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.microphonefrancophonecom.webself.net..txt",
+      "NameServer": "ns1.www.microphonefrancophonecom.webself.net.",
+      "Origin": "www.microphonefrancophonecom.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.monaetfidji.webself.net..txt",
+      "NameServer": "ns1.www.monaetfidji.webself.net.",
+      "Origin": "www.monaetfidji.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.montaillouetsonclochercom.webself.net..txt",
+      "NameServer": "ns1.www.montaillouetsonclochercom.webself.net.",
+      "Origin": "www.montaillouetsonclochercom.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.montjay05150.webself.net..txt",
+      "NameServer": "ns1.www.montjay05150.webself.net.",
+      "Origin": "www.montjay05150.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.musicliferecords.webself.net..txt",
+      "NameServer": "ns1.www.musicliferecords.webself.net.",
+      "Origin": "www.musicliferecords.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.newraphiphopmcj.webself.net..txt",
+      "NameServer": "ns1.www.newraphiphopmcj.webself.net.",
+      "Origin": "www.newraphiphopmcj.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.newworld1.webself.net..txt",
+      "NameServer": "ns1.www.newworld1.webself.net.",
+      "Origin": "www.newworld1.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.noticierouniverso.webself.net..txt",
+      "NameServer": "ns1.www.noticierouniverso.webself.net.",
+      "Origin": "www.noticierouniverso.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.offredecreditshabbo.webself.net..txt",
+      "NameServer": "ns1.www.offredecreditshabbo.webself.net.",
+      "Origin": "www.offredecreditshabbo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.panoramadelapocalypse.webself.net..txt",
+      "NameServer": "ns1.www.panoramadelapocalypse.webself.net.",
+      "Origin": "www.panoramadelapocalypse.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.papparrazzi.com.webself.net..txt",
+      "NameServer": "ns1.www.papparrazzi.com.webself.net.",
+      "Origin": "www.papparrazzi.com.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.photosdorly.webself.net..txt",
+      "NameServer": "ns1.www.photosdorly.webself.net.",
+      "Origin": "www.photosdorly.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.pogarment.webself.net..txt",
+      "NameServer": "ns1.www.pogarment.webself.net.",
+      "Origin": "www.pogarment.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.rockmahbooooooooooool.webself.net..txt",
+      "NameServer": "ns1.www.rockmahbooooooooooool.webself.net.",
+      "Origin": "www.rockmahbooooooooooool.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.satfootball.webself.net..txt",
+      "NameServer": "ns1.www.satfootball.webself.net.",
+      "Origin": "www.satfootball.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.screamit5.webself.net..txt",
+      "NameServer": "ns1.www.screamit5.webself.net.",
+      "Origin": "www.screamit5.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.scripter-casino.webself.net..txt",
+      "NameServer": "ns1.www.scripter-casino.webself.net.",
+      "Origin": "www.scripter-casino.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.subaru.webself.net..txt",
+      "NameServer": "ns1.www.subaru.webself.net.",
+      "Origin": "www.subaru.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.sulakehabbohotelfr.webself.net..txt",
+      "NameServer": "ns1.www.sulakehabbohotelfr.webself.net.",
+      "Origin": "www.sulakehabbohotelfr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.teamspirit.webself.net..txt",
+      "NameServer": "ns1.www.teamspirit.webself.net.",
+      "Origin": "www.teamspirit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.thebears.webself.net..txt",
+      "NameServer": "ns1.www.thebears.webself.net.",
+      "Origin": "www.thebears.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.thespace.webself.net..txt",
+      "NameServer": "ns1.www.thespace.webself.net.",
+      "Origin": "www.thespace.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.tonycolombo.webself.net..txt",
+      "NameServer": "ns1.www.tonycolombo.webself.net.",
+      "Origin": "www.tonycolombo.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.travailindependant.webself.net..txt",
+      "NameServer": "ns1.www.travailindependant.webself.net.",
+      "Origin": "www.travailindependant.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.tropicpetitesannoncesentreparticulier.webself.net..txt",
+      "NameServer": "ns1.www.tropicpetitesannoncesentreparticulier.webself.net.",
+      "Origin": "www.tropicpetitesannoncesentreparticulier.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.truteaunet.webself.net..txt",
+      "NameServer": "ns1.www.truteaunet.webself.net.",
+      "Origin": "www.truteaunet.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.unefamillepournosfidelescompagnons.webself.net..txt",
+      "NameServer": "ns1.www.unefamillepournosfidelescompagnons.webself.net.",
+      "Origin": "www.unefamillepournosfidelescompagnons.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.unionbsv.webself.net..txt",
+      "NameServer": "ns1.www.unionbsv.webself.net.",
+      "Origin": "www.unionbsv.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.vie-de-nana.webself.net..txt",
+      "NameServer": "ns1.www.vie-de-nana.webself.net.",
+      "Origin": "www.vie-de-nana.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.walterfriedrichotto.webself.net..txt",
+      "NameServer": "ns1.www.walterfriedrichotto.webself.net.",
+      "Origin": "www.walterfriedrichotto.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.wayansbrothers.webself.net..txt",
+      "NameServer": "ns1.www.wayansbrothers.webself.net.",
+      "Origin": "www.wayansbrothers.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.webphoto.webself.net..txt",
+      "NameServer": "ns1.www.webphoto.webself.net.",
+      "Origin": "www.webphoto.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.webself.net..txt",
+      "NameServer": "ns1.www.webself.net.",
+      "Origin": "www.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.winxclub6.webself.net..txt",
+      "NameServer": "ns1.www.winxclub6.webself.net.",
+      "Origin": "www.winxclub6.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.wwwbuscandoelverdaderosecreto.webself.net..txt",
+      "NameServer": "ns1.www.wwwbuscandoelverdaderosecreto.webself.net.",
+      "Origin": "www.wwwbuscandoelverdaderosecreto.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.wwwcreditsgratuitsnormanfr.webself.net..txt",
+      "NameServer": "ns1.www.wwwcreditsgratuitsnormanfr.webself.net.",
+      "Origin": "www.wwwcreditsgratuitsnormanfr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.wwwdonne20credit.webself.net..txt",
+      "NameServer": "ns1.www.wwwdonne20credit.webself.net.",
+      "Origin": "www.wwwdonne20credit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.wwwextremedream.webself.net..txt",
+      "NameServer": "ns1.www.wwwextremedream.webself.net.",
+      "Origin": "www.wwwextremedream.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.wwwlescredscestici.fr.webself.net..txt",
+      "NameServer": "ns1.www.wwwlescredscestici.fr.webself.net.",
+      "Origin": "www.wwwlescredscestici.fr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.xcredgratuits.webself.net..txt",
+      "NameServer": "ns1.www.xcredgratuits.webself.net.",
+      "Origin": "www.xcredgratuits.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.xcreditsgratuitsx.webself.net..txt",
+      "NameServer": "ns1.www.xcreditsgratuitsx.webself.net.",
+      "Origin": "www.xcreditsgratuitsx.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.xstrascom.webself.net..txt",
+      "NameServer": "ns1.www.xstrascom.webself.net.",
+      "Origin": "www.xstrascom.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.yamidooofficiel.webself.net..txt",
+      "NameServer": "ns1.www.yamidooofficiel.webself.net.",
+      "Origin": "www.yamidooofficiel.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.yelfrimanuel29.webself.net..txt",
+      "NameServer": "ns1.www.yelfrimanuel29.webself.net.",
+      "Origin": "www.yelfrimanuel29.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.ysa-ferrercom.webself.net..txt",
+      "NameServer": "ns1.www.ysa-ferrercom.webself.net.",
+      "Origin": "www.ysa-ferrercom.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.zebooks.webself.net..txt",
+      "NameServer": "ns1.www.zebooks.webself.net.",
+      "Origin": "www.zebooks.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/www.zelayabuenosaires.webself.net..txt",
+      "NameServer": "ns1.www.zelayabuenosaires.webself.net.",
+      "Origin": "www.zelayabuenosaires.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/wwwcreditsgratuitsnormanfr.webself.net..txt",
+      "NameServer": "ns1.wwwcreditsgratuitsnormanfr.webself.net.",
+      "Origin": "wwwcreditsgratuitsnormanfr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/wwwdonne20credit.webself.net..txt",
+      "NameServer": "ns1.wwwdonne20credit.webself.net.",
+      "Origin": "wwwdonne20credit.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/wwwextremedream.webself.net..txt",
+      "NameServer": "ns1.wwwextremedream.webself.net.",
+      "Origin": "wwwextremedream.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/wwwlescredscestici.fr.webself.net..txt",
+      "NameServer": "ns1.wwwlescredscestici.fr.webself.net.",
+      "Origin": "wwwlescredscestici.fr.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/xcredgratuits.webself.net..txt",
+      "NameServer": "ns1.xcredgratuits.webself.net.",
+      "Origin": "xcredgratuits.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/xcreditsgratuitsx.webself.net..txt",
+      "NameServer": "ns1.xcreditsgratuitsx.webself.net.",
+      "Origin": "xcreditsgratuitsx.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/xstrascom.webself.net..txt",
+      "NameServer": "ns1.xstrascom.webself.net.",
+      "Origin": "xstrascom.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/yamidooofficiel.webself.net..txt",
+      "NameServer": "ns1.yamidooofficiel.webself.net.",
+      "Origin": "yamidooofficiel.webself.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webself.net/zebooks.webself.net..txt",
+      "NameServer": "ns1.zebooks.webself.net.",
+      "Origin": "zebooks.webself.net."
+    }
+  ]
+}

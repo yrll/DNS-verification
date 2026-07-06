@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wblogin.com,wblogin.com..txt,NS_UPDATE,DEL,wblogin.com.,NS,ns1.above.com.
+files-100-500/wblogin.com,wblogin.com..txt,NS_UPDATE,ADD,wblogin.com.,NS,ns-inc.wblogin.com.

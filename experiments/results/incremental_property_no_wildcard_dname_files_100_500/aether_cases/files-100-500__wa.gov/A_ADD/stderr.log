@@ -1,0 +1,6 @@
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["gov", "wa", "hca", "basichealth"], rtype: A, rdata: "198.238.214.7" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["gov", "wa", "houserepublicans", "www"], rtype: A, rdata: "198.154.239.110" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["gov", "wa", "dshs", "hrsa"], rtype: A, rdata: "198.239.85.227" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["gov", "wa", "commerce", "www"], rtype: A, rdata: "198.239.32.18" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["gov", "wa", "scc", "www"], rtype: A, rdata: "205.134.192.93" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["gov", "wa", "leg", "hrc"], rtype: A, rdata: "108.179.224.119" }

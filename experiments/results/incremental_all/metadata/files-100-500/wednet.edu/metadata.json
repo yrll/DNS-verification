@@ -1,0 +1,762 @@
+{
+  "TopNameServers": [
+    "ns1.wednet.edu."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/aasd.wednet.edu..txt",
+      "NameServer": "ns1.aasd.wednet.edu.",
+      "Origin": "aasd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/asd.wednet.edu..txt",
+      "NameServer": "ns1.asd.wednet.edu.",
+      "Origin": "asd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/auburn.wednet.edu..txt",
+      "NameServer": "ns1.auburn.wednet.edu.",
+      "Origin": "auburn.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/bainbridge.wednet.edu..txt",
+      "NameServer": "ns1.bainbridge.wednet.edu.",
+      "Origin": "bainbridge.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/be.wednet.edu..txt",
+      "NameServer": "ns1.be.wednet.edu.",
+      "Origin": "be.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/bethel.wednet.edu..txt",
+      "NameServer": "ns1.bethel.wednet.edu.",
+      "Origin": "bethel.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/bham.wednet.edu..txt",
+      "NameServer": "ns1.bham.wednet.edu.",
+      "Origin": "bham.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/blaine.wednet.edu..txt",
+      "NameServer": "ns1.blaine.wednet.edu.",
+      "Origin": "blaine.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/brewster.wednet.edu..txt",
+      "NameServer": "ns1.brewster.wednet.edu.",
+      "Origin": "brewster.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/bridgeport.wednet.edu..txt",
+      "NameServer": "ns1.bridgeport.wednet.edu.",
+      "Origin": "bridgeport.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/bsd.wednet.edu..txt",
+      "NameServer": "ns1.bsd.wednet.edu.",
+      "Origin": "bsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/camas.wednet.edu..txt",
+      "NameServer": "ns1.camas.wednet.edu.",
+      "Origin": "camas.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/capeflattery.wednet.edu..txt",
+      "NameServer": "ns1.capeflattery.wednet.edu.",
+      "Origin": "capeflattery.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/cascade.wednet.edu..txt",
+      "NameServer": "ns1.cascade.wednet.edu.",
+      "Origin": "cascade.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/cashmere.wednet.edu..txt",
+      "NameServer": "ns1.cashmere.wednet.edu.",
+      "Origin": "cashmere.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/castlerock.wednet.edu..txt",
+      "NameServer": "ns1.castlerock.wednet.edu.",
+      "Origin": "castlerock.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/ce.riverview.wednet.edu..txt",
+      "NameServer": "ns1.ce.riverview.wednet.edu.",
+      "Origin": "ce.riverview.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/centralia.wednet.edu..txt",
+      "NameServer": "ns1.centralia.wednet.edu.",
+      "Origin": "centralia.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/chs.riverview.wednet.edu..txt",
+      "NameServer": "ns1.chs.riverview.wednet.edu.",
+      "Origin": "chs.riverview.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/cksd.wednet.edu..txt",
+      "NameServer": "ns1.cksd.wednet.edu.",
+      "Origin": "cksd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/cleelum.wednet.edu..txt",
+      "NameServer": "ns1.cleelum.wednet.edu.",
+      "Origin": "cleelum.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/creston.wednet.edu..txt",
+      "NameServer": "ns1.creston.wednet.edu.",
+      "Origin": "creston.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/curlew.wednet.edu..txt",
+      "NameServer": "ns1.curlew.wednet.edu.",
+      "Origin": "curlew.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/cusick.wednet.edu..txt",
+      "NameServer": "ns1.cusick.wednet.edu.",
+      "Origin": "cusick.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/cv.riverview.wednet.edu..txt",
+      "NameServer": "ns1.cv.riverview.wednet.edu.",
+      "Origin": "cv.riverview.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/davenport.wednet.edu..txt",
+      "NameServer": "ns1.davenport.wednet.edu.",
+      "Origin": "davenport.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/dayton.wednet.edu..txt",
+      "NameServer": "ns1.dayton.wednet.edu.",
+      "Origin": "dayton.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/deerpark.wednet.edu..txt",
+      "NameServer": "ns1.deerpark.wednet.edu.",
+      "Origin": "deerpark.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/dieringer.wednet.edu..txt",
+      "NameServer": "ns1.dieringer.wednet.edu.",
+      "Origin": "dieringer.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/district7.wednet.edu..txt",
+      "NameServer": "ns1.district7.wednet.edu.",
+      "Origin": "district7.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/eburg.wednet.edu..txt",
+      "NameServer": "ns1.eburg.wednet.edu.",
+      "Origin": "eburg.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/edmonds.wednet.edu..txt",
+      "NameServer": "ns1.edmonds.wednet.edu.",
+      "Origin": "edmonds.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/edtech.wednet.edu..txt",
+      "NameServer": "ns1.edtech.wednet.edu.",
+      "Origin": "edtech.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/egreen.wednet.edu..txt",
+      "NameServer": "ns1.egreen.wednet.edu.",
+      "Origin": "egreen.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/elma.wednet.edu..txt",
+      "NameServer": "ns1.elma.wednet.edu.",
+      "Origin": "elma.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/enumclaw.wednet.edu..txt",
+      "NameServer": "ns1.enumclaw.wednet.edu.",
+      "Origin": "enumclaw.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/esd105.wednet.edu..txt",
+      "NameServer": "ns1.esd105.wednet.edu.",
+      "Origin": "esd105.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/esd114.wednet.edu..txt",
+      "NameServer": "ns1.esd114.wednet.edu.",
+      "Origin": "esd114.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/esd189.wednet.edu..txt",
+      "NameServer": "ns1.esd189.wednet.edu.",
+      "Origin": "esd189.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/everett.wednet.edu..txt",
+      "NameServer": "ns1.everett.wednet.edu.",
+      "Origin": "everett.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/evsd90.wednet.edu..txt",
+      "NameServer": "ns1.evsd90.wednet.edu.",
+      "Origin": "evsd90.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/ferndale.wednet.edu..txt",
+      "NameServer": "ns1.ferndale.wednet.edu.",
+      "Origin": "ferndale.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/forks.wednet.edu..txt",
+      "NameServer": "ns1.forks.wednet.edu.",
+      "Origin": "forks.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/freeman.wednet.edu..txt",
+      "NameServer": "ns1.freeman.wednet.edu.",
+      "Origin": "freeman.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/fwsd.wednet.edu..txt",
+      "NameServer": "ns1.fwsd.wednet.edu.",
+      "Origin": "fwsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/garpal.wednet.edu..txt",
+      "NameServer": "ns1.garpal.wednet.edu.",
+      "Origin": "garpal.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/gcdsd.wednet.edu..txt",
+      "NameServer": "ns1.gcdsd.wednet.edu.",
+      "Origin": "gcdsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/gfalls.wednet.edu..txt",
+      "NameServer": "ns1.gfalls.wednet.edu.",
+      "Origin": "gfalls.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/golden.wednet.edu..txt",
+      "NameServer": "ns1.golden.wednet.edu.",
+      "Origin": "golden.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/grandview.wednet.edu..txt",
+      "NameServer": "ns1.grandview.wednet.edu.",
+      "Origin": "grandview.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/gsd.wednet.edu..txt",
+      "NameServer": "ns1.gsd.wednet.edu.",
+      "Origin": "gsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/highland.wednet.edu..txt",
+      "NameServer": "ns1.highland.wednet.edu.",
+      "Origin": "highland.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/hoodcanal.wednet.edu..txt",
+      "NameServer": "ns1.hoodcanal.wednet.edu.",
+      "Origin": "hoodcanal.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/inchelium.wednet.edu..txt",
+      "NameServer": "ns1.inchelium.wednet.edu.",
+      "Origin": "inchelium.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/issaquah.wednet.edu..txt",
+      "NameServer": "ns1.issaquah.wednet.edu.",
+      "Origin": "issaquah.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/kelso.wednet.edu..txt",
+      "NameServer": "ns1.kelso.wednet.edu.",
+      "Origin": "kelso.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/kent.wednet.edu..txt",
+      "NameServer": "ns1.kent.wednet.edu.",
+      "Origin": "kent.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/kettlefalls.wednet.edu..txt",
+      "NameServer": "ns1.kettlefalls.wednet.edu.",
+      "Origin": "kettlefalls.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/kibe.wednet.edu..txt",
+      "NameServer": "ns1.kibe.wednet.edu.",
+      "Origin": "kibe.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/klickitat.wednet.edu..txt",
+      "NameServer": "ns1.klickitat.wednet.edu.",
+      "Origin": "klickitat.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/lax.wednet.edu..txt",
+      "NameServer": "ns1.lax.wednet.edu.",
+      "Origin": "lax.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/lcsd.wednet.edu..txt",
+      "NameServer": "ns1.lcsd.wednet.edu.",
+      "Origin": "lcsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/liberty.wednet.edu..txt",
+      "NameServer": "ns1.liberty.wednet.edu.",
+      "Origin": "liberty.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/lkstevens.wednet.edu..txt",
+      "NameServer": "ns1.lkstevens.wednet.edu.",
+      "Origin": "lkstevens.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/lkwash.wednet.edu..txt",
+      "NameServer": "ns1.lkwash.wednet.edu.",
+      "Origin": "lkwash.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/lwsd.wednet.edu..txt",
+      "NameServer": "ns1.lwsd.wednet.edu.",
+      "Origin": "lwsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/lyle.wednet.edu..txt",
+      "NameServer": "ns1.lyle.wednet.edu.",
+      "Origin": "lyle.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/lynden.wednet.edu..txt",
+      "NameServer": "ns1.lynden.wednet.edu.",
+      "Origin": "lynden.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/mabton.wednet.edu..txt",
+      "NameServer": "ns1.mabton.wednet.edu.",
+      "Origin": "mabton.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/mansfield.wednet.edu..txt",
+      "NameServer": "ns1.mansfield.wednet.edu.",
+      "Origin": "mansfield.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/meridian.wednet.edu..txt",
+      "NameServer": "ns1.meridian.wednet.edu.",
+      "Origin": "meridian.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/monroe.wednet.edu..txt",
+      "NameServer": "ns1.monroe.wednet.edu.",
+      "Origin": "monroe.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/morton.wednet.edu..txt",
+      "NameServer": "ns1.morton.wednet.edu.",
+      "Origin": "morton.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/mtadams.wednet.edu..txt",
+      "NameServer": "ns1.mtadams.wednet.edu.",
+      "Origin": "mtadams.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/mtbaker.wednet.edu..txt",
+      "NameServer": "ns1.mtbaker.wednet.edu.",
+      "Origin": "mtbaker.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/mukilteo.wednet.edu..txt",
+      "NameServer": "ns1.mukilteo.wednet.edu.",
+      "Origin": "mukilteo.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/naselle.wednet.edu..txt",
+      "NameServer": "ns1.naselle.wednet.edu.",
+      "Origin": "naselle.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/netserv.wednet.edu..txt",
+      "NameServer": "ns1.netserv.wednet.edu.",
+      "Origin": "netserv.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/newport.wednet.edu..txt",
+      "NameServer": "ns1.newport.wednet.edu.",
+      "Origin": "newport.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/nksd.wednet.edu..txt",
+      "NameServer": "ns1.nksd.wednet.edu.",
+      "Origin": "nksd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/nmsd.wednet.edu..txt",
+      "NameServer": "ns1.nmsd.wednet.edu.",
+      "Origin": "nmsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/northmason.wednet.edu..txt",
+      "NameServer": "ns1.northmason.wednet.edu.",
+      "Origin": "northmason.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/ntsd.wednet.edu..txt",
+      "NameServer": "ns1.ntsd.wednet.edu.",
+      "Origin": "ntsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/oakesdale.wednet.edu..txt",
+      "NameServer": "ns1.oakesdale.wednet.edu.",
+      "Origin": "oakesdale.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/odessa.wednet.edu..txt",
+      "NameServer": "ns1.odessa.wednet.edu.",
+      "Origin": "odessa.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/oesd.wednet.edu..txt",
+      "NameServer": "ns1.oesd.wednet.edu.",
+      "Origin": "oesd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/oesdmail.wednet.edu..txt",
+      "NameServer": "ns1.oesdmail.wednet.edu.",
+      "Origin": "oesdmail.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/oksd.wednet.edu..txt",
+      "NameServer": "ns1.oksd.wednet.edu.",
+      "Origin": "oksd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/omaksd.wednet.edu..txt",
+      "NameServer": "ns1.omaksd.wednet.edu.",
+      "Origin": "omaksd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/onysd.wednet.edu..txt",
+      "NameServer": "ns1.onysd.wednet.edu.",
+      "Origin": "onysd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/orondo.wednet.edu..txt",
+      "NameServer": "ns1.orondo.wednet.edu.",
+      "Origin": "orondo.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/oroville.wednet.edu..txt",
+      "NameServer": "ns1.oroville.wednet.edu.",
+      "Origin": "oroville.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/orting.wednet.edu..txt",
+      "NameServer": "ns1.orting.wednet.edu.",
+      "Origin": "orting.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/osd.wednet.edu..txt",
+      "NameServer": "ns1.osd.wednet.edu.",
+      "Origin": "osd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/othello.wednet.edu..txt",
+      "NameServer": "ns1.othello.wednet.edu.",
+      "Origin": "othello.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/palisades.wednet.edu..txt",
+      "NameServer": "ns1.palisades.wednet.edu.",
+      "Origin": "palisades.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/pasco.wednet.edu..txt",
+      "NameServer": "ns1.pasco.wednet.edu.",
+      "Origin": "pasco.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/pasd.wednet.edu..txt",
+      "NameServer": "ns1.pasd.wednet.edu.",
+      "Origin": "pasd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/peell.wednet.edu..txt",
+      "NameServer": "ns1.peell.wednet.edu.",
+      "Origin": "peell.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/peninsula.wednet.edu..txt",
+      "NameServer": "ns1.peninsula.wednet.edu.",
+      "Origin": "peninsula.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/psd.wednet.edu..txt",
+      "NameServer": "ns1.psd.wednet.edu.",
+      "Origin": "psd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/psd267.wednet.edu..txt",
+      "NameServer": "ns1.psd267.wednet.edu.",
+      "Origin": "psd267.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/psesd.wednet.edu..txt",
+      "NameServer": "ns1.psesd.wednet.edu.",
+      "Origin": "psesd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/ptsd.wednet.edu..txt",
+      "NameServer": "ns1.ptsd.wednet.edu.",
+      "Origin": "ptsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/qsd.wednet.edu..txt",
+      "NameServer": "ns1.qsd.wednet.edu.",
+      "Origin": "qsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/quilcene.wednet.edu..txt",
+      "NameServer": "ns1.quilcene.wednet.edu.",
+      "Origin": "quilcene.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/rainier.wednet.edu..txt",
+      "NameServer": "ns1.rainier.wednet.edu.",
+      "Origin": "rainier.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/renton.wednet.edu..txt",
+      "NameServer": "ns1.renton.wednet.edu.",
+      "Origin": "renton.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/republic.wednet.edu..txt",
+      "NameServer": "ns1.republic.wednet.edu.",
+      "Origin": "republic.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/ritzville.wednet.edu..txt",
+      "NameServer": "ns1.ritzville.wednet.edu.",
+      "Origin": "ritzville.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/riverview.wednet.edu..txt",
+      "NameServer": "ns1.riverview.wednet.edu.",
+      "Origin": "riverview.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/rochester.wednet.edu..txt",
+      "NameServer": "ns1.rochester.wednet.edu.",
+      "Origin": "rochester.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/rosalia.wednet.edu..txt",
+      "NameServer": "ns1.rosalia.wednet.edu.",
+      "Origin": "rosalia.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/royal.wednet.edu..txt",
+      "NameServer": "ns1.royal.wednet.edu.",
+      "Origin": "royal.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/sequimschools.wednet.edu..txt",
+      "NameServer": "ns1.sequimschools.wednet.edu.",
+      "Origin": "sequimschools.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/sje.wednet.edu..txt",
+      "NameServer": "ns1.sje.wednet.edu.",
+      "Origin": "sje.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/sjisd.wednet.edu..txt",
+      "NameServer": "ns1.sjisd.wednet.edu.",
+      "Origin": "sjisd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/skitsap.wednet.edu..txt",
+      "NameServer": "ns1.skitsap.wednet.edu.",
+      "Origin": "skitsap.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/sno.wednet.edu..txt",
+      "NameServer": "ns1.sno.wednet.edu.",
+      "Origin": "sno.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/snoqualmie.wednet.edu..txt",
+      "NameServer": "ns1.snoqualmie.wednet.edu.",
+      "Origin": "snoqualmie.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/southbend.wednet.edu..txt",
+      "NameServer": "ns1.southbend.wednet.edu.",
+      "Origin": "southbend.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/sprague.wednet.edu..txt",
+      "NameServer": "ns1.sprague.wednet.edu.",
+      "Origin": "sprague.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/stanwood.wednet.edu..txt",
+      "NameServer": "ns1.stanwood.wednet.edu.",
+      "Origin": "stanwood.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/sumner.wednet.edu..txt",
+      "NameServer": "ns1.sumner.wednet.edu.",
+      "Origin": "sumner.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/sunnyside.wednet.edu..txt",
+      "NameServer": "ns1.sunnyside.wednet.edu.",
+      "Origin": "sunnyside.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/sw.riverview.wednet.edu..txt",
+      "NameServer": "ns1.sw.riverview.wednet.edu.",
+      "Origin": "sw.riverview.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/sw.wednet.edu..txt",
+      "NameServer": "ns1.sw.wednet.edu.",
+      "Origin": "sw.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/tahoma.wednet.edu..txt",
+      "NameServer": "ns1.tahoma.wednet.edu.",
+      "Origin": "tahoma.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/tekoa.wednet.edu..txt",
+      "NameServer": "ns1.tekoa.wednet.edu.",
+      "Origin": "tekoa.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/tms.riverview.wednet.edu..txt",
+      "NameServer": "ns1.tms.riverview.wednet.edu.",
+      "Origin": "tms.riverview.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/tonasket.wednet.edu..txt",
+      "NameServer": "ns1.tonasket.wednet.edu.",
+      "Origin": "tonasket.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/toppenish.wednet.edu..txt",
+      "NameServer": "ns1.toppenish.wednet.edu.",
+      "Origin": "toppenish.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/tucna.wednet.edu..txt",
+      "NameServer": "ns1.tucna.wednet.edu.",
+      "Origin": "tucna.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/tukwila.wednet.edu..txt",
+      "NameServer": "ns1.tukwila.wednet.edu.",
+      "Origin": "tukwila.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/upsd.wednet.edu..txt",
+      "NameServer": "ns1.upsd.wednet.edu.",
+      "Origin": "upsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/vashonsd.wednet.edu..txt",
+      "NameServer": "ns1.vashonsd.wednet.edu.",
+      "Origin": "vashonsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/warden.wednet.edu..txt",
+      "NameServer": "ns1.warden.wednet.edu.",
+      "Origin": "warden.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/waterville.wednet.edu..txt",
+      "NameServer": "ns1.waterville.wednet.edu.",
+      "Origin": "waterville.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/wednet.edu..txt",
+      "NameServer": "ns1.wednet.edu.",
+      "Origin": "wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/wellpinit.wednet.edu..txt",
+      "NameServer": "ns1.wellpinit.wednet.edu.",
+      "Origin": "wellpinit.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/whiteriver.wednet.edu..txt",
+      "NameServer": "ns1.whiteriver.wednet.edu.",
+      "Origin": "whiteriver.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/wilbur.wednet.edu..txt",
+      "NameServer": "ns1.wilbur.wednet.edu.",
+      "Origin": "wilbur.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/winlock.wednet.edu..txt",
+      "NameServer": "ns1.winlock.wednet.edu.",
+      "Origin": "winlock.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/woodland.wednet.edu..txt",
+      "NameServer": "ns1.woodland.wednet.edu.",
+      "Origin": "woodland.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/wpsd.wednet.edu..txt",
+      "NameServer": "ns1.wpsd.wednet.edu.",
+      "Origin": "wpsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/wsd.wednet.edu..txt",
+      "NameServer": "ns1.wsd.wednet.edu.",
+      "Origin": "wsd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/wsd73.wednet.edu..txt",
+      "NameServer": "ns1.wsd73.wednet.edu.",
+      "Origin": "wsd73.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/wsipc.wednet.edu..txt",
+      "NameServer": "ns1.wsipc.wednet.edu.",
+      "Origin": "wsipc.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/ycs.wednet.edu..txt",
+      "NameServer": "ns1.ycs.wednet.edu.",
+      "Origin": "ycs.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/ysd.wednet.edu..txt",
+      "NameServer": "ns1.ysd.wednet.edu.",
+      "Origin": "ysd.wednet.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wednet.edu/zsd.wednet.edu..txt",
+      "NameServer": "ns1.zsd.wednet.edu.",
+      "Origin": "zsd.wednet.edu."
+    }
+  ]
+}

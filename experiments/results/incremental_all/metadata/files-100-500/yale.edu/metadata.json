@@ -1,0 +1,1012 @@
+{
+  "TopNameServers": [
+    "ns1.yale.edu."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/acir.yale.edu..txt",
+      "NameServer": "ns1.acir.yale.edu.",
+      "Origin": "acir.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/admissions.yale.edu..txt",
+      "NameServer": "ns1.admissions.yale.edu.",
+      "Origin": "admissions.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/afam.yale.edu..txt",
+      "NameServer": "ns1.afam.yale.edu.",
+      "Origin": "afam.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/afamstudies.yale.edu..txt",
+      "NameServer": "ns1.afamstudies.yale.edu.",
+      "Origin": "afamstudies.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/alumni.som.yale.edu..txt",
+      "NameServer": "ns1.alumni.som.yale.edu.",
+      "Origin": "alumni.som.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/alumni.yale.edu..txt",
+      "NameServer": "ns1.alumni.yale.edu.",
+      "Origin": "alumni.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/alumnievents.yale.edu..txt",
+      "NameServer": "ns1.alumnievents.yale.edu.",
+      "Origin": "alumnievents.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/alumninet.yale.edu..txt",
+      "NameServer": "ns1.alumninet.yale.edu.",
+      "Origin": "alumninet.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/analytics.yale.edu..txt",
+      "NameServer": "ns1.analytics.yale.edu.",
+      "Origin": "analytics.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/application.yale.edu..txt",
+      "NameServer": "ns1.application.yale.edu.",
+      "Origin": "application.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/apply.yale.edu..txt",
+      "NameServer": "ns1.apply.yale.edu.",
+      "Origin": "apply.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/architecture.yale.edu..txt",
+      "NameServer": "ns1.architecture.yale.edu.",
+      "Origin": "architecture.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/art-arch.yale.edu..txt",
+      "NameServer": "ns1.art-arch.yale.edu.",
+      "Origin": "art-arch.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/art.yale.edu..txt",
+      "NameServer": "ns1.art.yale.edu.",
+      "Origin": "art.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/artgallery.yale.edu..txt",
+      "NameServer": "ns1.artgallery.yale.edu.",
+      "Origin": "artgallery.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/arthistory.yale.edu..txt",
+      "NameServer": "ns1.arthistory.yale.edu.",
+      "Origin": "arthistory.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/artscalendar.yale.edu..txt",
+      "NameServer": "ns1.artscalendar.yale.edu.",
+      "Origin": "artscalendar.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/astro.yale.edu..txt",
+      "NameServer": "ns1.astro.yale.edu.",
+      "Origin": "astro.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/aya.yale.edu..txt",
+      "NameServer": "ns1.aya.yale.edu.",
+      "Origin": "aya.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ayastaff.yale.edu..txt",
+      "NameServer": "ns1.ayastaff.yale.edu.",
+      "Origin": "ayastaff.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/bac.yale.edu..txt",
+      "NameServer": "ns1.bac.yale.edu.",
+      "Origin": "bac.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/bbs.yale.edu..txt",
+      "NameServer": "ns1.bbs.yale.edu.",
+      "Origin": "bbs.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/bioinformatics.med.yale.edu..txt",
+      "NameServer": "ns1.bioinformatics.med.yale.edu.",
+      "Origin": "bioinformatics.med.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/biology.yale.edu..txt",
+      "NameServer": "ns1.biology.yale.edu.",
+      "Origin": "biology.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/blu.yale.edu..txt",
+      "NameServer": "ns1.blu.yale.edu.",
+      "Origin": "blu.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/britishart.yale.edu..txt",
+      "NameServer": "ns1.britishart.yale.edu.",
+      "Origin": "britishart.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/buildings.yale.edu..txt",
+      "NameServer": "ns1.buildings.yale.edu.",
+      "Origin": "buildings.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/bulletin.yale.edu..txt",
+      "NameServer": "ns1.bulletin.yale.edu.",
+      "Origin": "bulletin.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/business.yale.edu..txt",
+      "NameServer": "ns1.business.yale.edu.",
+      "Origin": "business.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/c2s2.yale.edu..txt",
+      "NameServer": "ns1.c2s2.yale.edu.",
+      "Origin": "c2s2.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/caim.yale.edu..txt",
+      "NameServer": "ns1.caim.yale.edu.",
+      "Origin": "caim.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/calendar.yale.edu..txt",
+      "NameServer": "ns1.calendar.yale.edu.",
+      "Origin": "calendar.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/cbc.yale.edu..txt",
+      "NameServer": "ns1.cbc.yale.edu.",
+      "Origin": "cbc.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/celi.som.yale.edu..txt",
+      "NameServer": "ns1.celi.som.yale.edu.",
+      "Origin": "celi.som.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/cellbiology.yale.edu..txt",
+      "NameServer": "ns1.cellbiology.yale.edu.",
+      "Origin": "cellbiology.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/chaplain.yale.edu..txt",
+      "NameServer": "ns1.chaplain.yale.edu.",
+      "Origin": "chaplain.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/chem.yale.edu..txt",
+      "NameServer": "ns1.chem.yale.edu.",
+      "Origin": "chem.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/childconductclinic.yale.edu..txt",
+      "NameServer": "ns1.childconductclinic.yale.edu.",
+      "Origin": "childconductclinic.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/childstudycenter.yale.edu..txt",
+      "NameServer": "ns1.childstudycenter.yale.edu.",
+      "Origin": "childstudycenter.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/cis.yale.edu..txt",
+      "NameServer": "ns1.cis.yale.edu.",
+      "Origin": "cis.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/classesv2.yale.edu..txt",
+      "NameServer": "ns1.classesv2.yale.edu.",
+      "Origin": "classesv2.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/climate.yale.edu..txt",
+      "NameServer": "ns1.climate.yale.edu.",
+      "Origin": "climate.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/cls.yale.edu..txt",
+      "NameServer": "ns1.cls.yale.edu.",
+      "Origin": "cls.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/cme.yale.edu..txt",
+      "NameServer": "ns1.cme.yale.edu.",
+      "Origin": "cme.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/cmi.yale.edu..txt",
+      "NameServer": "ns1.cmi.yale.edu.",
+      "Origin": "cmi.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/colon-ramos.yale.edu..txt",
+      "NameServer": "ns1.colon-ramos.yale.edu.",
+      "Origin": "colon-ramos.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/commerce.yale.edu..txt",
+      "NameServer": "ns1.commerce.yale.edu.",
+      "Origin": "commerce.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/commons.yale.edu..txt",
+      "NameServer": "ns1.commons.yale.edu.",
+      "Origin": "commons.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/cs.yale.edu..txt",
+      "NameServer": "ns1.cs.yale.edu.",
+      "Origin": "cs.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/csb.yale.edu..txt",
+      "NameServer": "ns1.csb.yale.edu.",
+      "Origin": "csb.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/cvc.yale.edu..txt",
+      "NameServer": "ns1.cvc.yale.edu.",
+      "Origin": "cvc.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/dailybulletin.yale.edu..txt",
+      "NameServer": "ns1.dailybulletin.yale.edu.",
+      "Origin": "dailybulletin.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/dermatology.yale.edu..txt",
+      "NameServer": "ns1.dermatology.yale.edu.",
+      "Origin": "dermatology.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/dermpath.yale.edu..txt",
+      "NameServer": "ns1.dermpath.yale.edu.",
+      "Origin": "dermpath.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/development.yale.edu..txt",
+      "NameServer": "ns1.development.yale.edu.",
+      "Origin": "development.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/disclosures.yale.edu..txt",
+      "NameServer": "ns1.disclosures.yale.edu.",
+      "Origin": "disclosures.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/divinity.yale.edu..txt",
+      "NameServer": "ns1.divinity.yale.edu.",
+      "Origin": "divinity.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/divinitylibrary.yale.edu..txt",
+      "NameServer": "ns1.divinitylibrary.yale.edu.",
+      "Origin": "divinitylibrary.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/dmca.yale.edu..txt",
+      "NameServer": "ns1.dmca.yale.edu.",
+      "Origin": "dmca.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/drama.yale.edu..txt",
+      "NameServer": "ns1.drama.yale.edu.",
+      "Origin": "drama.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/drupal.yale.edu..txt",
+      "NameServer": "ns1.drupal.yale.edu.",
+      "Origin": "drupal.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/dyslexia.yale.edu..txt",
+      "NameServer": "ns1.dyslexia.yale.edu.",
+      "Origin": "dyslexia.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/e360.yale.edu..txt",
+      "NameServer": "ns1.e360.yale.edu.",
+      "Origin": "e360.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/earth.yale.edu..txt",
+      "NameServer": "ns1.earth.yale.edu.",
+      "Origin": "earth.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/econ.yale.edu..txt",
+      "NameServer": "ns1.econ.yale.edu.",
+      "Origin": "econ.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/edwards.yale.edu..txt",
+      "NameServer": "ns1.edwards.yale.edu.",
+      "Origin": "edwards.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/eeb.yale.edu..txt",
+      "NameServer": "ns1.eeb.yale.edu.",
+      "Origin": "eeb.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/energysummit.yale.edu..txt",
+      "NameServer": "ns1.energysummit.yale.edu.",
+      "Origin": "energysummit.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/eng.yale.edu..txt",
+      "NameServer": "ns1.eng.yale.edu.",
+      "Origin": "eng.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/english.yale.edu..txt",
+      "NameServer": "ns1.english.yale.edu.",
+      "Origin": "english.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/environment.yale.edu..txt",
+      "NameServer": "ns1.environment.yale.edu.",
+      "Origin": "environment.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/epe.yale.edu..txt",
+      "NameServer": "ns1.epe.yale.edu.",
+      "Origin": "epe.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/epi.yale.edu..txt",
+      "NameServer": "ns1.epi.yale.edu.",
+      "Origin": "epi.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/epilepsy.yale.edu..txt",
+      "NameServer": "ns1.epilepsy.yale.edu.",
+      "Origin": "epilepsy.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/erm.yale.edu..txt",
+      "NameServer": "ns1.erm.yale.edu.",
+      "Origin": "erm.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/events.yale.edu..txt",
+      "NameServer": "ns1.events.yale.edu.",
+      "Origin": "events.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/eyes.yale.edu..txt",
+      "NameServer": "ns1.eyes.yale.edu.",
+      "Origin": "eyes.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/facilities.yale.edu..txt",
+      "NameServer": "ns1.facilities.yale.edu.",
+      "Origin": "facilities.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/faculty.yale.edu..txt",
+      "NameServer": "ns1.faculty.yale.edu.",
+      "Origin": "faculty.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/faithandglobalization.yale.edu..txt",
+      "NameServer": "ns1.faithandglobalization.yale.edu.",
+      "Origin": "faithandglobalization.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/fasit.yale.edu..txt",
+      "NameServer": "ns1.fasit.yale.edu.",
+      "Origin": "fasit.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/forestry.yale.edu..txt",
+      "NameServer": "ns1.forestry.yale.edu.",
+      "Origin": "forestry.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/formbuilder.yale.edu..txt",
+      "NameServer": "ns1.formbuilder.yale.edu.",
+      "Origin": "formbuilder.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/forums.yale.edu..txt",
+      "NameServer": "ns1.forums.yale.edu.",
+      "Origin": "forums.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/french.yale.edu..txt",
+      "NameServer": "ns1.french.yale.edu.",
+      "Origin": "french.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/geology.yale.edu..txt",
+      "NameServer": "ns1.geology.yale.edu.",
+      "Origin": "geology.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/german.yale.edu..txt",
+      "NameServer": "ns1.german.yale.edu.",
+      "Origin": "german.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/givingcatalog.yale.edu..txt",
+      "NameServer": "ns1.givingcatalog.yale.edu.",
+      "Origin": "givingcatalog.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/globalhealthscholar.yale.edu..txt",
+      "NameServer": "ns1.globalhealthscholar.yale.edu.",
+      "Origin": "globalhealthscholar.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/greenchemistry.yale.edu..txt",
+      "NameServer": "ns1.greenchemistry.yale.edu.",
+      "Origin": "greenchemistry.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/haskins.yale.edu..txt",
+      "NameServer": "ns1.haskins.yale.edu.",
+      "Origin": "haskins.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/healthplan.yale.edu..txt",
+      "NameServer": "ns1.healthplan.yale.edu.",
+      "Origin": "healthplan.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/hipaa.yale.edu..txt",
+      "NameServer": "ns1.hipaa.yale.edu.",
+      "Origin": "hipaa.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/history.yale.edu..txt",
+      "NameServer": "ns1.history.yale.edu.",
+      "Origin": "history.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/iacuc.yale.edu..txt",
+      "NameServer": "ns1.iacuc.yale.edu.",
+      "Origin": "iacuc.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ibd.yale.edu..txt",
+      "NameServer": "ns1.ibd.yale.edu.",
+      "Origin": "ibd.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/immunobiology.yale.edu..txt",
+      "NameServer": "ns1.immunobiology.yale.edu.",
+      "Origin": "immunobiology.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/innovators.yale.edu..txt",
+      "NameServer": "ns1.innovators.yale.edu.",
+      "Origin": "innovators.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/invest.yale.edu..txt",
+      "NameServer": "ns1.invest.yale.edu.",
+      "Origin": "invest.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ism.yale.edu..txt",
+      "NameServer": "ns1.ism.yale.edu.",
+      "Origin": "ism.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/isps.yale.edu..txt",
+      "NameServer": "ns1.isps.yale.edu.",
+      "Origin": "isps.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/italian.yale.edu..txt",
+      "NameServer": "ns1.italian.yale.edu.",
+      "Origin": "italian.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/itg.yale.edu..txt",
+      "NameServer": "ns1.itg.yale.edu.",
+      "Origin": "itg.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/its.yale.edu..txt",
+      "NameServer": "ns1.its.yale.edu.",
+      "Origin": "its.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/itunes.yale.edu..txt",
+      "NameServer": "ns1.itunes.yale.edu.",
+      "Origin": "itunes.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ivy.yale.edu..txt",
+      "NameServer": "ns1.ivy.yale.edu.",
+      "Origin": "ivy.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/java.facilities.yale.edu..txt",
+      "NameServer": "ns1.java.facilities.yale.edu.",
+      "Origin": "java.facilities.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/law.yale.edu..txt",
+      "NameServer": "ns1.law.yale.edu.",
+      "Origin": "law.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/leilan.yale.edu..txt",
+      "NameServer": "ns1.leilan.yale.edu.",
+      "Origin": "leilan.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/library.yale.edu..txt",
+      "NameServer": "ns1.library.yale.edu.",
+      "Origin": "library.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ling.yale.edu..txt",
+      "NameServer": "ns1.ling.yale.edu.",
+      "Origin": "ling.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/macmillan.yale.edu..txt",
+      "NameServer": "ns1.macmillan.yale.edu.",
+      "Origin": "macmillan.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/mail.yale.edu..txt",
+      "NameServer": "ns1.mail.yale.edu.",
+      "Origin": "mail.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/math.yale.edu..txt",
+      "NameServer": "ns1.math.yale.edu.",
+      "Origin": "math.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/mba.yale.edu..txt",
+      "NameServer": "ns1.mba.yale.edu.",
+      "Origin": "mba.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/mbb.yale.edu..txt",
+      "NameServer": "ns1.mbb.yale.edu.",
+      "Origin": "mbb.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/med.yale.edu..txt",
+      "NameServer": "ns1.med.yale.edu.",
+      "Origin": "med.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/medicine.yale.edu..txt",
+      "NameServer": "ns1.medicine.yale.edu.",
+      "Origin": "medicine.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/medonline.yale.edu..txt",
+      "NameServer": "ns1.medonline.yale.edu.",
+      "Origin": "medonline.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/music.yale.edu..txt",
+      "NameServer": "ns1.music.yale.edu.",
+      "Origin": "music.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/musiclib.yale.edu..txt",
+      "NameServer": "ns1.musiclib.yale.edu.",
+      "Origin": "musiclib.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/mw.yale.edu..txt",
+      "NameServer": "ns1.mw.yale.edu.",
+      "Origin": "mw.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/myfiles.yale.edu..txt",
+      "NameServer": "ns1.myfiles.yale.edu.",
+      "Origin": "myfiles.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/net.yale.edu..txt",
+      "NameServer": "ns1.net.yale.edu.",
+      "Origin": "net.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/neuron.yale.edu..txt",
+      "NameServer": "ns1.neuron.yale.edu.",
+      "Origin": "neuron.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/nursing.yale.edu..txt",
+      "NameServer": "ns1.nursing.yale.edu.",
+      "Origin": "nursing.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/odai.yale.edu..txt",
+      "NameServer": "ns1.odai.yale.edu.",
+      "Origin": "odai.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ogc.yale.edu..txt",
+      "NameServer": "ns1.ogc.yale.edu.",
+      "Origin": "ogc.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/oir.yale.edu..txt",
+      "NameServer": "ns1.oir.yale.edu.",
+      "Origin": "oir.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/oiss.yale.edu..txt",
+      "NameServer": "ns1.oiss.yale.edu.",
+      "Origin": "oiss.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/opa.yale.edu..txt",
+      "NameServer": "ns1.opa.yale.edu.",
+      "Origin": "opa.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/opac.yale.edu..txt",
+      "NameServer": "ns1.opac.yale.edu.",
+      "Origin": "opac.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/orthopaedics.yale.edu..txt",
+      "NameServer": "ns1.orthopaedics.yale.edu.",
+      "Origin": "orthopaedics.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/oyc.yale.edu..txt",
+      "NameServer": "ns1.oyc.yale.edu.",
+      "Origin": "oyc.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/paprogram.yale.edu..txt",
+      "NameServer": "ns1.paprogram.yale.edu.",
+      "Origin": "paprogram.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/peabody.yale.edu..txt",
+      "NameServer": "ns1.peabody.yale.edu.",
+      "Origin": "peabody.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/philosophy.yale.edu..txt",
+      "NameServer": "ns1.philosophy.yale.edu.",
+      "Origin": "philosophy.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/physics.yale.edu..txt",
+      "NameServer": "ns1.physics.yale.edu.",
+      "Origin": "physics.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/plastics.yale.edu..txt",
+      "NameServer": "ns1.plastics.yale.edu.",
+      "Origin": "plastics.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/portal.yale.edu..txt",
+      "NameServer": "ns1.portal.yale.edu.",
+      "Origin": "portal.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/preview.yale.edu..txt",
+      "NameServer": "ns1.preview.yale.edu.",
+      "Origin": "preview.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/psych.yale.edu..txt",
+      "NameServer": "ns1.psych.yale.edu.",
+      "Origin": "psych.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/psychiatry.yale.edu..txt",
+      "NameServer": "ns1.psychiatry.yale.edu.",
+      "Origin": "psychiatry.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/pubaf.yale.edu..txt",
+      "NameServer": "ns1.pubaf.yale.edu.",
+      "Origin": "pubaf.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/publichealth.yale.edu..txt",
+      "NameServer": "ns1.publichealth.yale.edu.",
+      "Origin": "publichealth.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/publicsafety.yale.edu..txt",
+      "NameServer": "ns1.publicsafety.yale.edu.",
+      "Origin": "publicsafety.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/qn.som.yale.edu..txt",
+      "NameServer": "ns1.qn.som.yale.edu.",
+      "Origin": "qn.som.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/radiology.yale.edu..txt",
+      "NameServer": "ns1.radiology.yale.edu.",
+      "Origin": "radiology.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/rc.yale.edu..txt",
+      "NameServer": "ns1.rc.yale.edu.",
+      "Origin": "rc.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/research.yale.edu..txt",
+      "NameServer": "ns1.research.yale.edu.",
+      "Origin": "research.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/residency.med.yale.edu..txt",
+      "NameServer": "ns1.residency.med.yale.edu.",
+      "Origin": "residency.med.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ris.yale.edu..txt",
+      "NameServer": "ns1.ris.yale.edu.",
+      "Origin": "ris.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/schepartzlab.yale.edu..txt",
+      "NameServer": "ns1.schepartzlab.yale.edu.",
+      "Origin": "schepartzlab.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/seas.yale.edu..txt",
+      "NameServer": "ns1.seas.yale.edu.",
+      "Origin": "seas.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/secops.yale.edu..txt",
+      "NameServer": "ns1.secops.yale.edu.",
+      "Origin": "secops.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/selfservice.yale.edu..txt",
+      "NameServer": "ns1.selfservice.yale.edu.",
+      "Origin": "selfservice.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/servicedesk.yale.edu..txt",
+      "NameServer": "ns1.servicedesk.yale.edu.",
+      "Origin": "servicedesk.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/sis.yale.edu..txt",
+      "NameServer": "ns1.sis.yale.edu.",
+      "Origin": "sis.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/sites.yale.edu..txt",
+      "NameServer": "ns1.sites.yale.edu.",
+      "Origin": "sites.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/slavery.yale.edu..txt",
+      "NameServer": "ns1.slavery.yale.edu.",
+      "Origin": "slavery.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/slavic.yale.edu..txt",
+      "NameServer": "ns1.slavic.yale.edu.",
+      "Origin": "slavic.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/socialsciencelibraries.yale.edu..txt",
+      "NameServer": "ns1.socialsciencelibraries.yale.edu.",
+      "Origin": "socialsciencelibraries.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/som.yale.edu..txt",
+      "NameServer": "ns1.som.yale.edu.",
+      "Origin": "som.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/span-port.yale.edu..txt",
+      "NameServer": "ns1.span-port.yale.edu.",
+      "Origin": "span-port.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/spiegelgroup.yale.edu..txt",
+      "NameServer": "ns1.spiegelgroup.yale.edu.",
+      "Origin": "spiegelgroup.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ssrs.yale.edu..txt",
+      "NameServer": "ns1.ssrs.yale.edu.",
+      "Origin": "ssrs.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/stat.yale.edu..txt",
+      "NameServer": "ns1.stat.yale.edu.",
+      "Origin": "stat.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/stc.yale.edu..txt",
+      "NameServer": "ns1.stc.yale.edu.",
+      "Origin": "stc.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/stm.yale.edu..txt",
+      "NameServer": "ns1.stm.yale.edu.",
+      "Origin": "stm.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/student.yale.edu..txt",
+      "NameServer": "ns1.student.yale.edu.",
+      "Origin": "student.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/students.yale.edu..txt",
+      "NameServer": "ns1.students.yale.edu.",
+      "Origin": "students.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/surgery.yale.edu..txt",
+      "NameServer": "ns1.surgery.yale.edu.",
+      "Origin": "surgery.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/surveys.yale.edu..txt",
+      "NameServer": "ns1.surveys.yale.edu.",
+      "Origin": "surveys.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/sustainability.yale.edu..txt",
+      "NameServer": "ns1.sustainability.yale.edu.",
+      "Origin": "sustainability.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/teachers.yale.edu..txt",
+      "NameServer": "ns1.teachers.yale.edu.",
+      "Origin": "teachers.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/telecom.yale.edu..txt",
+      "NameServer": "ns1.telecom.yale.edu.",
+      "Origin": "telecom.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ventures.yale.edu..txt",
+      "NameServer": "ns1.ventures.yale.edu.",
+      "Origin": "ventures.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/virtual.yale.edu..txt",
+      "NameServer": "ns1.virtual.yale.edu.",
+      "Origin": "virtual.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/wss.yale.edu..txt",
+      "NameServer": "ns1.wss.yale.edu.",
+      "Origin": "wss.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yale.edu..txt",
+      "NameServer": "ns1.yale.edu.",
+      "Origin": "yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yalearts.yale.edu..txt",
+      "NameServer": "ns1.yalearts.yale.edu.",
+      "Origin": "yalearts.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yalecollege.yale.edu..txt",
+      "NameServer": "ns1.yalecollege.yale.edu.",
+      "Origin": "yalecollege.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yaleglobal.yale.edu..txt",
+      "NameServer": "ns1.yaleglobal.yale.edu.",
+      "Origin": "yaleglobal.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yalehealthonline.yale.edu..txt",
+      "NameServer": "ns1.yalehealthonline.yale.edu.",
+      "Origin": "yalehealthonline.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yalepolice.yale.edu..txt",
+      "NameServer": "ns1.yalepolice.yale.edu.",
+      "Origin": "yalepolice.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yalepress.yale.edu..txt",
+      "NameServer": "ns1.yalepress.yale.edu.",
+      "Origin": "yalepress.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yalesecurity.yale.edu..txt",
+      "NameServer": "ns1.yalesecurity.yale.edu.",
+      "Origin": "yalesecurity.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yalestation.yale.edu..txt",
+      "NameServer": "ns1.yalestation.yale.edu.",
+      "Origin": "yalestation.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yaletomorrow.yale.edu..txt",
+      "NameServer": "ns1.yaletomorrow.yale.edu.",
+      "Origin": "yaletomorrow.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ycas.yale.edu..txt",
+      "NameServer": "ns1.ycas.yale.edu.",
+      "Origin": "ycas.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ycba.yale.edu..txt",
+      "NameServer": "ns1.ycba.yale.edu.",
+      "Origin": "ycba.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ycc.yale.edu..txt",
+      "NameServer": "ns1.ycc.yale.edu.",
+      "Origin": "ycc.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ycci.yale.edu..txt",
+      "NameServer": "ns1.ycci.yale.edu.",
+      "Origin": "ycci.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ycmd.yale.edu..txt",
+      "NameServer": "ns1.ycmd.yale.edu.",
+      "Origin": "ycmd.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ycsg.yale.edu..txt",
+      "NameServer": "ns1.ycsg.yale.edu.",
+      "Origin": "ycsg.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yes.yale.edu..txt",
+      "NameServer": "ns1.yes.yale.edu.",
+      "Origin": "yes.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yhp.yale.edu..txt",
+      "NameServer": "ns1.yhp.yale.edu.",
+      "Origin": "yhp.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yhpstudentwaiver.yale.edu..txt",
+      "NameServer": "ns1.yhpstudentwaiver.yale.edu.",
+      "Origin": "yhpstudentwaiver.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/ysd.yale.edu..txt",
+      "NameServer": "ns1.ysd.yale.edu.",
+      "Origin": "ysd.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/yuhsemrtest.yale.edu..txt",
+      "NameServer": "ns1.yuhsemrtest.yale.edu.",
+      "Origin": "yuhsemrtest.yale.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yale.edu/zoo.cs.yale.edu..txt",
+      "NameServer": "ns1.zoo.cs.yale.edu.",
+      "Origin": "zoo.cs.yale.edu."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+www.nju.com. 	14400	IN	SOA	ns1.www.nju.com. james.nju.edu. 19122302 14400 3600 2419200 14400
+www.nju.com.		    IN	NS ns1.www.nju.com.
+ns1.www.nju.com.	    IN	A	10.166.21.15
+
+www.nju.com.		    IN	A	6.6.6.6
+

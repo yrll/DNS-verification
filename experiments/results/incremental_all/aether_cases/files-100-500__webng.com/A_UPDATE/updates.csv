@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/webng.com,a7lajram.webng.com..txt,A_UPDATE,DEL,a7lajram.webng.com.,A,38.100.19.105
+files-100-500/webng.com,a7lajram.webng.com..txt,A_UPDATE,ADD,a7lajram.webng.com.,A,192.0.2.253

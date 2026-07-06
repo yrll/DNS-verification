@@ -1,0 +1,15 @@
+[
+  {
+    "file_name": "r.class.wlgc.com.-2.txt",
+    "origin": "r.class.wlgc.com.",
+    "bugs": [
+      {
+        "Property": "check_miss_glue_record",
+        "domain_name": "ns2.r.class.wlgc.com.",
+        "error_message": {
+          "info": "NS server 'ns2.r.class.wlgc.com.' for domain 'r.class.wlgc.com.' is in-bailiwick but missing A/AAAA glue record"
+        }
+      }
+    ]
+  }
+]

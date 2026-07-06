@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.cn,0-100.com.cn..txt,NS_UPDATE,DEL,0-100.com.cn.,NS,ns3.sanfront.com.cn.
+top-10/com.cn,0-100.com.cn..txt,NS_UPDATE,ADD,0-100.com.cn.,NS,ns-inc.0-100.com.cn.

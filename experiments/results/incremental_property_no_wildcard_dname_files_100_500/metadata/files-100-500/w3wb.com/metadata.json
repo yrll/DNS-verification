@@ -1,0 +1,747 @@
+{
+  "TopNameServers": [
+    "ns1.w3wb.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/aboutchristmas.w3wb.com..txt",
+      "NameServer": "ns1.aboutchristmas.w3wb.com.",
+      "Origin": "aboutchristmas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/angelinavalentine.w3wb.com..txt",
+      "NameServer": "ns1.angelinavalentine.w3wb.com.",
+      "Origin": "angelinavalentine.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/antiqueindianfurniture.w3wb.com..txt",
+      "NameServer": "ns1.antiqueindianfurniture.w3wb.com.",
+      "Origin": "antiqueindianfurniture.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/antiquevictorianfurniture.w3wb.com..txt",
+      "NameServer": "ns1.antiquevictorianfurniture.w3wb.com.",
+      "Origin": "antiquevictorianfurniture.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/aswimming.w3wb.com..txt",
+      "NameServer": "ns1.aswimming.w3wb.com.",
+      "Origin": "aswimming.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/bathroomdesignispa.w3wb.com..txt",
+      "NameServer": "ns1.bathroomdesignispa.w3wb.com.",
+      "Origin": "bathroomdesignispa.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/bathroomdesignthailand.w3wb.com..txt",
+      "NameServer": "ns1.bathroomdesignthailand.w3wb.com.",
+      "Origin": "bathroomdesignthailand.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/bathroomsink.w3wb.com..txt",
+      "NameServer": "ns1.bathroomsink.w3wb.com.",
+      "Origin": "bathroomsink.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/bathroomthailand.w3wb.com..txt",
+      "NameServer": "ns1.bathroomthailand.w3wb.com.",
+      "Origin": "bathroomthailand.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/bemyvalentine.w3wb.com..txt",
+      "NameServer": "ns1.bemyvalentine.w3wb.com.",
+      "Origin": "bemyvalentine.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/bestgiftbaskets.w3wb.com..txt",
+      "NameServer": "ns1.bestgiftbaskets.w3wb.com.",
+      "Origin": "bestgiftbaskets.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/braceletsfor.w3wb.com..txt",
+      "NameServer": "ns1.braceletsfor.w3wb.com.",
+      "Origin": "braceletsfor.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/brownpromdresses.w3wb.com..txt",
+      "NameServer": "ns1.brownpromdresses.w3wb.com.",
+      "Origin": "brownpromdresses.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/brushchristmas.w3wb.com..txt",
+      "NameServer": "ns1.brushchristmas.w3wb.com.",
+      "Origin": "brushchristmas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/buygiftcard.w3wb.com..txt",
+      "NameServer": "ns1.buygiftcard.w3wb.com.",
+      "Origin": "buygiftcard.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/cardchristmas.w3wb.com..txt",
+      "NameServer": "ns1.cardchristmas.w3wb.com.",
+      "Origin": "cardchristmas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/cardgiftmanufacturer.w3wb.com..txt",
+      "NameServer": "ns1.cardgiftmanufacturer.w3wb.com.",
+      "Origin": "cardgiftmanufacturer.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/cardgiftsell.w3wb.com..txt",
+      "NameServer": "ns1.cardgiftsell.w3wb.com.",
+      "Origin": "cardgiftsell.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/cashgiftcards.w3wb.com..txt",
+      "NameServer": "ns1.cashgiftcards.w3wb.com.",
+      "Origin": "cashgiftcards.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/celebratechristmas.w3wb.com..txt",
+      "NameServer": "ns1.celebratechristmas.w3wb.com.",
+      "Origin": "celebratechristmas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/charmbracelet.w3wb.com..txt",
+      "NameServer": "ns1.charmbracelet.w3wb.com.",
+      "Origin": "charmbracelet.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/cheesecakefactorygiftcard.w3wb.com..txt",
+      "NameServer": "ns1.cheesecakefactorygiftcard.w3wb.com.",
+      "Origin": "cheesecakefactorygiftcard.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/chocolatemousecake.w3wb.com..txt",
+      "NameServer": "ns1.chocolatemousecake.w3wb.com.",
+      "Origin": "chocolatemousecake.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmascollection.w3wb.com..txt",
+      "NameServer": "ns1.christmascollection.w3wb.com.",
+      "Origin": "christmascollection.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmascraft.w3wb.com..txt",
+      "NameServer": "ns1.christmascraft.w3wb.com.",
+      "Origin": "christmascraft.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmasdance.w3wb.com..txt",
+      "NameServer": "ns1.christmasdance.w3wb.com.",
+      "Origin": "christmasdance.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmasfont.w3wb.com..txt",
+      "NameServer": "ns1.christmasfont.w3wb.com.",
+      "Origin": "christmasfont.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmasgiftsbaskets.w3wb.com..txt",
+      "NameServer": "ns1.christmasgiftsbaskets.w3wb.com.",
+      "Origin": "christmasgiftsbaskets.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmasgiftsideas.w3wb.com..txt",
+      "NameServer": "ns1.christmasgiftsideas.w3wb.com.",
+      "Origin": "christmasgiftsideas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmasholiday.w3wb.com..txt",
+      "NameServer": "ns1.christmasholiday.w3wb.com.",
+      "Origin": "christmasholiday.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmasisatime.w3wb.com..txt",
+      "NameServer": "ns1.christmasisatime.w3wb.com.",
+      "Origin": "christmasisatime.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmasnight.w3wb.com..txt",
+      "NameServer": "ns1.christmasnight.w3wb.com.",
+      "Origin": "christmasnight.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmaspicture.w3wb.com..txt",
+      "NameServer": "ns1.christmaspicture.w3wb.com.",
+      "Origin": "christmaspicture.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmasremix.w3wb.com..txt",
+      "NameServer": "ns1.christmasremix.w3wb.com.",
+      "Origin": "christmasremix.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmasrock.w3wb.com..txt",
+      "NameServer": "ns1.christmasrock.w3wb.com.",
+      "Origin": "christmasrock.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmassms.w3wb.com..txt",
+      "NameServer": "ns1.christmassms.w3wb.com.",
+      "Origin": "christmassms.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmassongs.w3wb.com..txt",
+      "NameServer": "ns1.christmassongs.w3wb.com.",
+      "Origin": "christmassongs.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmastime.w3wb.com..txt",
+      "NameServer": "ns1.christmastime.w3wb.com.",
+      "Origin": "christmastime.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/christmaswords.w3wb.com..txt",
+      "NameServer": "ns1.christmaswords.w3wb.com.",
+      "Origin": "christmaswords.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/clientgiftideas.w3wb.com..txt",
+      "NameServer": "ns1.clientgiftideas.w3wb.com.",
+      "Origin": "clientgiftideas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/companiesgiftbasket.w3wb.com..txt",
+      "NameServer": "ns1.companiesgiftbasket.w3wb.com.",
+      "Origin": "companiesgiftbasket.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/contemporarybathroom.w3wb.com..txt",
+      "NameServer": "ns1.contemporarybathroom.w3wb.com.",
+      "Origin": "contemporarybathroom.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/coolgiftidea.w3wb.com..txt",
+      "NameServer": "ns1.coolgiftidea.w3wb.com.",
+      "Origin": "coolgiftidea.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/corporategiftcards.w3wb.com..txt",
+      "NameServer": "ns1.corporategiftcards.w3wb.com.",
+      "Origin": "corporategiftcards.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/customgiftbaskets.w3wb.com..txt",
+      "NameServer": "ns1.customgiftbaskets.w3wb.com.",
+      "Origin": "customgiftbaskets.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/downloadswimming.w3wb.com..txt",
+      "NameServer": "ns1.downloadswimming.w3wb.com.",
+      "Origin": "downloadswimming.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/driedfruitgiftbasket.w3wb.com..txt",
+      "NameServer": "ns1.driedfruitgiftbasket.w3wb.com.",
+      "Origin": "driedfruitgiftbasket.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/expensivepromdresses.w3wb.com..txt",
+      "NameServer": "ns1.expensivepromdresses.w3wb.com.",
+      "Origin": "expensivepromdresses.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/familygiftbaskets.w3wb.com..txt",
+      "NameServer": "ns1.familygiftbaskets.w3wb.com.",
+      "Origin": "familygiftbaskets.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/firstchristmas.w3wb.com..txt",
+      "NameServer": "ns1.firstchristmas.w3wb.com.",
+      "Origin": "firstchristmas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/forweightloss.w3wb.com..txt",
+      "NameServer": "ns1.forweightloss.w3wb.com.",
+      "Origin": "forweightloss.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/fourmodbathroom.w3wb.com..txt",
+      "NameServer": "ns1.fourmodbathroom.w3wb.com.",
+      "Origin": "fourmodbathroom.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/freerealestate.w3wb.com..txt",
+      "NameServer": "ns1.freerealestate.w3wb.com.",
+      "Origin": "freerealestate.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/freevalentine.w3wb.com..txt",
+      "NameServer": "ns1.freevalentine.w3wb.com.",
+      "Origin": "freevalentine.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/frontcrawltechnique.w3wb.com..txt",
+      "NameServer": "ns1.frontcrawltechnique.w3wb.com.",
+      "Origin": "frontcrawltechnique.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/gardencity.w3wb.com..txt",
+      "NameServer": "ns1.gardencity.w3wb.com.",
+      "Origin": "gardencity.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/gardencompost.w3wb.com..txt",
+      "NameServer": "ns1.gardencompost.w3wb.com.",
+      "Origin": "gardencompost.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/gardenfurniture.w3wb.com..txt",
+      "NameServer": "ns1.gardenfurniture.w3wb.com.",
+      "Origin": "gardenfurniture.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/gardenoflife.w3wb.com..txt",
+      "NameServer": "ns1.gardenoflife.w3wb.com.",
+      "Origin": "gardenoflife.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/getwellgiftbasket.w3wb.com..txt",
+      "NameServer": "ns1.getwellgiftbasket.w3wb.com.",
+      "Origin": "getwellgiftbasket.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/ghirardelligiftbaskets.w3wb.com..txt",
+      "NameServer": "ns1.ghirardelligiftbaskets.w3wb.com.",
+      "Origin": "ghirardelligiftbaskets.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/giftbasketseurope.w3wb.com..txt",
+      "NameServer": "ns1.giftbasketseurope.w3wb.com.",
+      "Origin": "giftbasketseurope.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/giftcardcarriers.w3wb.com..txt",
+      "NameServer": "ns1.giftcardcarriers.w3wb.com.",
+      "Origin": "giftcardcarriers.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/giftcardmanufacturers.w3wb.com..txt",
+      "NameServer": "ns1.giftcardmanufacturers.w3wb.com.",
+      "Origin": "giftcardmanufacturers.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/giftcardprogram.w3wb.com..txt",
+      "NameServer": "ns1.giftcardprogram.w3wb.com.",
+      "Origin": "giftcardprogram.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/giftcardsand.w3wb.com..txt",
+      "NameServer": "ns1.giftcardsand.w3wb.com.",
+      "Origin": "giftcardsand.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/giftcardstatistics.w3wb.com..txt",
+      "NameServer": "ns1.giftcardstatistics.w3wb.com.",
+      "Origin": "giftcardstatistics.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/greetingvalentinecards.w3wb.com..txt",
+      "NameServer": "ns1.greetingvalentinecards.w3wb.com.",
+      "Origin": "greetingvalentinecards.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/hairdyedirections.w3wb.com..txt",
+      "NameServer": "ns1.hairdyedirections.w3wb.com.",
+      "Origin": "hairdyedirections.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/halterpromdresses.w3wb.com..txt",
+      "NameServer": "ns1.halterpromdresses.w3wb.com.",
+      "Origin": "halterpromdresses.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/happyvalentines.w3wb.com..txt",
+      "NameServer": "ns1.happyvalentines.w3wb.com.",
+      "Origin": "happyvalentines.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/healthfoodgiftbaskets.w3wb.com..txt",
+      "NameServer": "ns1.healthfoodgiftbaskets.w3wb.com.",
+      "Origin": "healthfoodgiftbaskets.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/hoodiaweightlosspatch.w3wb.com..txt",
+      "NameServer": "ns1.hoodiaweightlosspatch.w3wb.com.",
+      "Origin": "hoodiaweightlosspatch.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/hotelgiftcards.w3wb.com..txt",
+      "NameServer": "ns1.hotelgiftcards.w3wb.com.",
+      "Origin": "hotelgiftcards.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/howtoswimfreestyle.w3wb.com..txt",
+      "NameServer": "ns1.howtoswimfreestyle.w3wb.com.",
+      "Origin": "howtoswimfreestyle.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/husbandgiftideas.w3wb.com..txt",
+      "NameServer": "ns1.husbandgiftideas.w3wb.com.",
+      "Origin": "husbandgiftideas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/inchristmas.w3wb.com..txt",
+      "NameServer": "ns1.inchristmas.w3wb.com.",
+      "Origin": "inchristmas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/indigorealestate.w3wb.com..txt",
+      "NameServer": "ns1.indigorealestate.w3wb.com.",
+      "Origin": "indigorealestate.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/inthebathroom.w3wb.com..txt",
+      "NameServer": "ns1.inthebathroom.w3wb.com.",
+      "Origin": "inthebathroom.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/isrealestate.w3wb.com..txt",
+      "NameServer": "ns1.isrealestate.w3wb.com.",
+      "Origin": "isrealestate.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/jessicamcclintockpromdresses.w3wb.com..txt",
+      "NameServer": "ns1.jessicamcclintockpromdresses.w3wb.com.",
+      "Origin": "jessicamcclintockpromdresses.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/laschristmas.w3wb.com..txt",
+      "NameServer": "ns1.laschristmas.w3wb.com.",
+      "Origin": "laschristmas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/learntoswim.w3wb.com..txt",
+      "NameServer": "ns1.learntoswim.w3wb.com.",
+      "Origin": "learntoswim.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/lonelyvalentine.w3wb.com..txt",
+      "NameServer": "ns1.lonelyvalentine.w3wb.com.",
+      "Origin": "lonelyvalentine.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/lossinweight.w3wb.com..txt",
+      "NameServer": "ns1.lossinweight.w3wb.com.",
+      "Origin": "lossinweight.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/makeachocolatecake.w3wb.com..txt",
+      "NameServer": "ns1.makeachocolatecake.w3wb.com.",
+      "Origin": "makeachocolatecake.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/mmschristmas.w3wb.com..txt",
+      "NameServer": "ns1.mmschristmas.w3wb.com.",
+      "Origin": "mmschristmas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/nvweightloss.w3wb.com..txt",
+      "NameServer": "ns1.nvweightloss.w3wb.com.",
+      "Origin": "nvweightloss.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/ofcellphones.w3wb.com..txt",
+      "NameServer": "ns1.ofcellphones.w3wb.com.",
+      "Origin": "ofcellphones.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/ofvalentine.w3wb.com..txt",
+      "NameServer": "ns1.ofvalentine.w3wb.com.",
+      "Origin": "ofvalentine.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/onrealestate.w3wb.com..txt",
+      "NameServer": "ns1.onrealestate.w3wb.com.",
+      "Origin": "onrealestate.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/phdrealestate.w3wb.com..txt",
+      "NameServer": "ns1.phdrealestate.w3wb.com.",
+      "Origin": "phdrealestate.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/physiologicweightloss.w3wb.com..txt",
+      "NameServer": "ns1.physiologicweightloss.w3wb.com.",
+      "Origin": "physiologicweightloss.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/prepaidvisagiftcards.w3wb.com..txt",
+      "NameServer": "ns1.prepaidvisagiftcards.w3wb.com.",
+      "Origin": "prepaidvisagiftcards.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/professionalrealestate.w3wb.com..txt",
+      "NameServer": "ns1.professionalrealestate.w3wb.com.",
+      "Origin": "professionalrealestate.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/promdressshop.w3wb.com..txt",
+      "NameServer": "ns1.promdressshop.w3wb.com.",
+      "Origin": "promdressshop.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/promdressstore.w3wb.com..txt",
+      "NameServer": "ns1.promdressstore.w3wb.com.",
+      "Origin": "promdressstore.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/promdresswebsites.w3wb.com..txt",
+      "NameServer": "ns1.promdresswebsites.w3wb.com.",
+      "Origin": "promdresswebsites.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/prompartydress.w3wb.com..txt",
+      "NameServer": "ns1.prompartydress.w3wb.com.",
+      "Origin": "prompartydress.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/realestateaccounting.w3wb.com..txt",
+      "NameServer": "ns1.realestateaccounting.w3wb.com.",
+      "Origin": "realestateaccounting.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/realestateblog.w3wb.com..txt",
+      "NameServer": "ns1.realestateblog.w3wb.com.",
+      "Origin": "realestateblog.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/realestatebroker.w3wb.com..txt",
+      "NameServer": "ns1.realestatebroker.w3wb.com.",
+      "Origin": "realestatebroker.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/realestatehong.w3wb.com..txt",
+      "NameServer": "ns1.realestatehong.w3wb.com.",
+      "Origin": "realestatehong.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/realestateinfo.w3wb.com..txt",
+      "NameServer": "ns1.realestateinfo.w3wb.com.",
+      "Origin": "realestateinfo.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/realestatemultiplelistingservice.w3wb.com..txt",
+      "NameServer": "ns1.realestatemultiplelistingservice.w3wb.com.",
+      "Origin": "realestatemultiplelistingservice.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/realestatemultiplelistingservicesystem.w3wb.com..txt",
+      "NameServer": "ns1.realestatemultiplelistingservicesystem.w3wb.com.",
+      "Origin": "realestatemultiplelistingservicesystem.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/realestatesociety.w3wb.com..txt",
+      "NameServer": "ns1.realestatesociety.w3wb.com.",
+      "Origin": "realestatesociety.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/retirementgiftbaskets.w3wb.com..txt",
+      "NameServer": "ns1.retirementgiftbaskets.w3wb.com.",
+      "Origin": "retirementgiftbaskets.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/seaagegroupswimming.w3wb.com..txt",
+      "NameServer": "ns1.seaagegroupswimming.w3wb.com.",
+      "Origin": "seaagegroupswimming.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/sellingantiquefurniture.w3wb.com..txt",
+      "NameServer": "ns1.sellingantiquefurniture.w3wb.com.",
+      "Origin": "sellingantiquefurniture.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/sgrealestate.w3wb.com..txt",
+      "NameServer": "ns1.sgrealestate.w3wb.com.",
+      "Origin": "sgrealestate.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/sportsgiftbaskets.w3wb.com..txt",
+      "NameServer": "ns1.sportsgiftbaskets.w3wb.com.",
+      "Origin": "sportsgiftbaskets.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/straplesspromdresses.w3wb.com..txt",
+      "NameServer": "ns1.straplesspromdresses.w3wb.com.",
+      "Origin": "straplesspromdresses.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/sweetchristmas.w3wb.com..txt",
+      "NameServer": "ns1.sweetchristmas.w3wb.com.",
+      "Origin": "sweetchristmas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/sweetvalentine.w3wb.com..txt",
+      "NameServer": "ns1.sweetvalentine.w3wb.com.",
+      "Origin": "sweetvalentine.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/swimbutterfly.w3wb.com..txt",
+      "NameServer": "ns1.swimbutterfly.w3wb.com.",
+      "Origin": "swimbutterfly.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/swimmingolympic.w3wb.com..txt",
+      "NameServer": "ns1.swimmingolympic.w3wb.com.",
+      "Origin": "swimmingolympic.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/swimmingschools.w3wb.com..txt",
+      "NameServer": "ns1.swimmingschools.w3wb.com.",
+      "Origin": "swimmingschools.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/swimmingtrainingequipment.w3wb.com..txt",
+      "NameServer": "ns1.swimmingtrainingequipment.w3wb.com.",
+      "Origin": "swimmingtrainingequipment.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/thaibathroom.w3wb.com..txt",
+      "NameServer": "ns1.thaibathroom.w3wb.com.",
+      "Origin": "thaibathroom.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/thechocolatecake.w3wb.com..txt",
+      "NameServer": "ns1.thechocolatecake.w3wb.com.",
+      "Origin": "thechocolatecake.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/thefirstchristmas.w3wb.com..txt",
+      "NameServer": "ns1.thefirstchristmas.w3wb.com.",
+      "Origin": "thefirstchristmas.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/uniquepromdresses.w3wb.com..txt",
+      "NameServer": "ns1.uniquepromdresses.w3wb.com.",
+      "Origin": "uniquepromdresses.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinecardsayings.w3wb.com..txt",
+      "NameServer": "ns1.valentinecardsayings.w3wb.com.",
+      "Origin": "valentinecardsayings.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinecardsfor.w3wb.com..txt",
+      "NameServer": "ns1.valentinecardsfor.w3wb.com.",
+      "Origin": "valentinecardsfor.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinecardsforkids.w3wb.com..txt",
+      "NameServer": "ns1.valentinecardsforkids.w3wb.com.",
+      "Origin": "valentinecardsforkids.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinecraft.w3wb.com..txt",
+      "NameServer": "ns1.valentinecraft.w3wb.com.",
+      "Origin": "valentinecraft.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinedecoration.w3wb.com..txt",
+      "NameServer": "ns1.valentinedecoration.w3wb.com.",
+      "Origin": "valentinedecoration.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinedecorations.w3wb.com..txt",
+      "NameServer": "ns1.valentinedecorations.w3wb.com.",
+      "Origin": "valentinedecorations.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinegames.w3wb.com..txt",
+      "NameServer": "ns1.valentinegames.w3wb.com.",
+      "Origin": "valentinegames.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinehistory.w3wb.com..txt",
+      "NameServer": "ns1.valentinehistory.w3wb.com.",
+      "Origin": "valentinehistory.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinemessages.w3wb.com..txt",
+      "NameServer": "ns1.valentinemessages.w3wb.com.",
+      "Origin": "valentinemessages.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinepresent.w3wb.com..txt",
+      "NameServer": "ns1.valentinepresent.w3wb.com.",
+      "Origin": "valentinepresent.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentines.w3wb.com..txt",
+      "NameServer": "ns1.valentines.w3wb.com.",
+      "Origin": "valentines.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinescream.w3wb.com..txt",
+      "NameServer": "ns1.valentinescream.w3wb.com.",
+      "Origin": "valentinescream.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinesdaycard.w3wb.com..txt",
+      "NameServer": "ns1.valentinesdaycard.w3wb.com.",
+      "Origin": "valentinesdaycard.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinesecards.w3wb.com..txt",
+      "NameServer": "ns1.valentinesecards.w3wb.com.",
+      "Origin": "valentinesecards.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinesgift.w3wb.com..txt",
+      "NameServer": "ns1.valentinesgift.w3wb.com.",
+      "Origin": "valentinesgift.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/valentinesheart.w3wb.com..txt",
+      "NameServer": "ns1.valentinesheart.w3wb.com.",
+      "Origin": "valentinesheart.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/w3wb.com..txt",
+      "NameServer": "ns1.w3wb.com.",
+      "Origin": "w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/weddingdressfor.w3wb.com..txt",
+      "NameServer": "ns1.weddingdressfor.w3wb.com.",
+      "Origin": "weddingdressfor.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/weddingdressjapan.w3wb.com..txt",
+      "NameServer": "ns1.weddingdressjapan.w3wb.com.",
+      "Origin": "weddingdressjapan.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/weddingdressshop.w3wb.com..txt",
+      "NameServer": "ns1.weddingdressshop.w3wb.com.",
+      "Origin": "weddingdressshop.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/weightlossdiet.w3wb.com..txt",
+      "NameServer": "ns1.weightlossdiet.w3wb.com.",
+      "Origin": "weightlossdiet.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/weightlossdiets.w3wb.com..txt",
+      "NameServer": "ns1.weightlossdiets.w3wb.com.",
+      "Origin": "weightlossdiets.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/weightlosshydroxycut.w3wb.com..txt",
+      "NameServer": "ns1.weightlosshydroxycut.w3wb.com.",
+      "Origin": "weightlosshydroxycut.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/weightlossinformation.w3wb.com..txt",
+      "NameServer": "ns1.weightlossinformation.w3wb.com.",
+      "Origin": "weightlossinformation.w3wb.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/w3wb.com/weightlossplan.w3wb.com..txt",
+      "NameServer": "ns1.weightlossplan.w3wb.com.",
+      "Origin": "weightlossplan.w3wb.com."
+    }
+  ]
+}

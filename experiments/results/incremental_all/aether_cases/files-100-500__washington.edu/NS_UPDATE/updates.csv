@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/washington.edu,aa.washington.edu..txt,NS_UPDATE,DEL,aa.washington.edu.,NS,challenger.aa.washington.edu.
+files-100-500/washington.edu,aa.washington.edu..txt,NS_UPDATE,ADD,aa.washington.edu.,NS,ns-inc.aa.washington.edu.

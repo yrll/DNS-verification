@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/vn.ua,09.vn.ua..txt,A_UPDATE,DEL,09.vn.ua.,A,78.47.182.129
+files-100-500/vn.ua,09.vn.ua..txt,A_UPDATE,ADD,09.vn.ua.,A,192.0.2.253

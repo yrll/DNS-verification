@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/voxcdn.com,1714.voxcdn.com..txt,A_UPDATE,DEL,1714.voxcdn.com.,A,107.6.92.97
+files-100-500/voxcdn.com,1714.voxcdn.com..txt,A_UPDATE,ADD,1714.voxcdn.com.,A,192.0.2.253

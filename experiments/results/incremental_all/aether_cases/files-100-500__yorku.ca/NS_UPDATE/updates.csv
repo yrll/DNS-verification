@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yorku.ca,abel.yorku.ca..txt,NS_UPDATE,DEL,abel.yorku.ca.,NS,dns11.ipns.yorku.ca.
+files-100-500/yorku.ca,abel.yorku.ca..txt,NS_UPDATE,ADD,abel.yorku.ca.,NS,ns-inc.abel.yorku.ca.

@@ -1,0 +1,18 @@
+; <<>> DiG 9.11.3-1ubuntu1.11-Ubuntu <<>> AXFR pku.com. @ns2.pku.edu.
+;; global options: +cmd
+
+@               			      14400 IN SOA	ns1.pku.com. james.pku.edu. 19122302 14400 3600 2419200 14400
+pku.com.			      14400 IN NS	ns1.pku.com.
+ns1.pku.com.			      14400 IN A	10.166.21.14
+
+www.pku.com.		      14400 IN NS	ns1.www.pku.com.
+ns1.www.pku.com.		      14400 IN A		10.166.21.15
+
+math.pku.com.		      14400 IN NS	ns1.math.pku.com.
+ns1.math.pku.com.		      14400 IN A		10.166.21.12
+
+hist.pku.com.		      14400 IN NS	ns1.hist.pku.com.
+ns1.hist.pku.com.		      14400 IN A		10.166.21.13
+
+pku.com.			      14400 IN MX	10 histtp.pku.edu.
+pku.com.			      14400 IN TXT	"v=spf1 a mx ~all"

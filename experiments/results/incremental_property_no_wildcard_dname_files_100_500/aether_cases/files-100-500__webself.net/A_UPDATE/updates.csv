@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/webself.net,aspnetdevelopment.webself.net..txt,A_UPDATE,DEL,aspnetdevelopment.webself.net.,A,208.111.94.121
+files-100-500/webself.net,aspnetdevelopment.webself.net..txt,A_UPDATE,ADD,aspnetdevelopment.webself.net.,A,192.0.2.253

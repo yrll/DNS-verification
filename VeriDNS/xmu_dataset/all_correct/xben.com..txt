@@ -1,0 +1,10 @@
+xben.com.				      14400 IN SOA	ns1.xben.com. 2018083000 14400 3600 2419200 14400
+
+xben.com.                    NS      ns1.xben.com.
+ns1.xben.com.                A       10.166.21.12
+
+child.xben.com.			      14400 IN NS	ns1.child.xben.com.
+ns1.child.xben.com.			      14400 IN A	10.166.21.13
+
+
+

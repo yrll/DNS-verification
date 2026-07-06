@@ -1,0 +1,43 @@
+## original lower memory size
+
+Number of rows where ratio < 1: 882633
+
+### Maximum Ratio 
+zone: mongenie.com
+memory size of Groot: 0.19213104248046875 
+memory size of Matsu: 0.0008029937744140625 
+memory Ratio: 239.2684085510689
+
+### Minimum Ratio ###
+zone: netfirms.com
+memory size of Groot: 1.4546661376953125 
+memory size of Matsu: 14.42717170715332 
+memory Ratio: 0.10082822657292254
+
+### Ratio Quantiles (90%, 95%, 99%, 99.9%):
+90%: 1.9776951672862453
+95%: 3.130434782608696
+99%: 3.215686274509804
+99.9%: 4.467532467532467
+
+## original upper memory size
+
+Number of rows where ratio < 1: 1354944
+
+### Maximum Ratio ###
+zone: mongenie.com
+memory size of Groot: 0.19213104248046875 
+memory size of Matsu: 0.0022125244140625 
+memory Ratio: 86.83793103448276
+
+### Minimum Ratio ###
+zone: netfirms.com
+memory size of Groot: 1.4546661376953125 
+memory size of Matsu: 15.326791763305664 
+memory Ratio: 0.09491002162487604
+
+### Ratio Quantiles (90%, 95%, 99%, 99.9%):
+90%: 0.6875725900116144
+95%: 0.8845208845208845
+99%: 0.9987515605493134
+99.9%: 1.240311419093672

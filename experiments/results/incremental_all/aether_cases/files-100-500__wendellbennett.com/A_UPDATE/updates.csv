@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wendellbennett.com,a-direct-consolidation-loan.wendellbennett.com..txt,A_UPDATE,DEL,a-direct-consolidation-loan.wendellbennett.com.,A,216.38.198.78
+files-100-500/wendellbennett.com,a-direct-consolidation-loan.wendellbennett.com..txt,A_UPDATE,ADD,a-direct-consolidation-loan.wendellbennett.com.,A,192.0.2.253

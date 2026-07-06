@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/virginia.edu,abcrc.virginia.edu..txt,A_UPDATE,DEL,abcrc.virginia.edu.,A,128.143.42.53
+files-100-500/virginia.edu,abcrc.virginia.edu..txt,A_UPDATE,ADD,abcrc.virginia.edu.,A,192.0.2.253

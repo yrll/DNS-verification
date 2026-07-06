@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/co.kr,00321.co.kr..txt,CNAME_UPDATE,DEL,www.00321.co.kr.,CNAME,00321.co.kr.
+top-10/co.kr,00321.co.kr..txt,CNAME_UPDATE,ADD,www.00321.co.kr.,CNAME,cname-inc.00321.co.kr.

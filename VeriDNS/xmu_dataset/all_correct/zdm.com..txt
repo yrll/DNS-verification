@@ -1,0 +1,10 @@
+zdm.com.				      14400 IN SOA	ns1.zdm.com. 2018083000 14400 3600 2419200 14400
+
+zdm.com.                    NS      ns1.zdm.com.
+ns1.zdm.com.                A       10.166.21.14
+
+wf.zdm.com.			      14400 IN NS	ns1.wf.zdm.com.
+ns1.wf.zdm.com.			      14400 IN A	10.166.21.15
+
+
+

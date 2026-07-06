@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/x10.mx,all4god.x10.mx..txt,CNAME_UPDATE,DEL,www.all4god.x10.mx.,CNAME,all4god.x10.mx.
+files-100-500/x10.mx,all4god.x10.mx..txt,CNAME_UPDATE,ADD,www.all4god.x10.mx.,CNAME,cname-inc.all4god.x10.mx.

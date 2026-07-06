@@ -1,0 +1,22 @@
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "nihon", "www"], rtype: A, rdata: "62.129.243.50" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "kursant", "www"], rtype: A, rdata: "85.128.187.68" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "wdi", "www"], rtype: A, rdata: "195.187.31.131" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "crk", "www"], rtype: A, rdata: "46.4.105.167" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "gitara", "mail"], rtype: A, rdata: "195.78.67.25" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "muaythai", "www"], rtype: A, rdata: "185.11.129.90" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "icemac", "www"], rtype: A, rdata: "62.129.243.50" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "dach", "www"], rtype: A, rdata: "77.55.24.208" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "wirtualny", "www"], rtype: A, rdata: "86.111.247.67" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "mkolbe", "www"], rtype: A, rdata: "193.218.152.62" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "bagazniki", "www"], rtype: A, rdata: "62.129.243.50" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "marbud", "www"], rtype: A, rdata: "188.165.197.226" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "pracownia-kuchni", "www"], rtype: A, rdata: "195.114.1.136" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "przystan", "www"], rtype: A, rdata: "144.76.87.46" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "azbest", "www"], rtype: MX, rdata: "10 azbest.wroclaw.pl" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "ekoterm", "www"], rtype: A, rdata: "93.157.100.34" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "pik", "www"], rtype: A, rdata: "5.9.136.252" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "tadeusz-garbulinski", "www"], rtype: A, rdata: "93.157.100.77" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "teatrlalek", "www"], rtype: A, rdata: "90.156.74.167" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "tppf", "www"], rtype: MX, rdata: "10 tppf.wroclaw.pl" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "dzkosz", "mx"], rtype: A, rdata: "85.128.252.96" }
+[2026-06-30T05:21:36Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "wroclaw", "jablonski"], rtype: NS, rdata: "dns12.linuxpl.com." }

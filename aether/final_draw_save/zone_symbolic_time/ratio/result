@@ -1,0 +1,33 @@
+Number of rows where ratio < 1: 570
+
+### Maximum Ratio ###
+zone: thedjfriend.com
+setime of Groot: 421.749349 
+setime of Matsu: 0.016 
+se time Ratio: 26359.3343125
+
+### Minimum Ratio ###
+zone: omtrdc.net
+setime of Groot: 11.322766999999999 
+setime of Matsu: 113433.299 
+se time Ratio: 9.98187225428399e-05
+
+### Maximum Difference ###
+zone: co.kr
+Difference: 4386157.640106999
+Symbolic Execution Time (Matsu): 4427508.771
+Property Checking Time (Groot): 41351.130892999994
+
+### Minimum Difference ###
+zone: chinacache.net
+Difference: 0.02820400000000234
+Symbolic Execution Time (Matsu): 50.312
+Property Checking Time (Groot): 50.283795999999995
+Saved the data with ratio < 1 to /home/matsu/final_v1.1/symbolic_and_checking/difference.csv
+
+Ratio Quantiles (90%, 95%, 99%, 99.9%):
+90%: 472.3309397435896 
+95%: 670.806789787722 
+99%: 1310.1201411981574 
+99.9%: 3574.570773125182 
+

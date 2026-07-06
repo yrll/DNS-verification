@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/xii.jp,125.xii.jp..txt,NS_UPDATE,DEL,125.xii.jp.,NS,ns1.dns.ne.jp.
+files-100-500/xii.jp,125.xii.jp..txt,NS_UPDATE,ADD,125.xii.jp.,NS,ns-inc.125.xii.jp.

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/zgora.pl,7liceum.zgora.pl..txt,A_UPDATE,DEL,7liceum.zgora.pl.,A,91.203.134.164
+files-100-500/zgora.pl,7liceum.zgora.pl..txt,A_UPDATE,ADD,7liceum.zgora.pl.,A,192.0.2.253

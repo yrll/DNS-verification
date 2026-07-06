@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/x0.com,0155.x0.com..txt,A_UPDATE,DEL,0155.x0.com.,A,59.106.13.23
+files-100-500/x0.com,0155.x0.com..txt,A_UPDATE,ADD,0155.x0.com.,A,192.0.2.253

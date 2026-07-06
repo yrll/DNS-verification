@@ -1,0 +1,1382 @@
+{
+  "TopNameServers": [
+    "ns1.warszawa.pl."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/12lo.warszawa.pl..txt",
+      "NameServer": "ns1.12lo.warszawa.pl.",
+      "Origin": "12lo.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/abaft.warszawa.pl..txt",
+      "NameServer": "ns1.abaft.warszawa.pl.",
+      "Origin": "abaft.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/abakus.warszawa.pl..txt",
+      "NameServer": "ns1.abakus.warszawa.pl.",
+      "Origin": "abakus.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/abalone.warszawa.pl..txt",
+      "NameServer": "ns1.abalone.warszawa.pl.",
+      "Origin": "abalone.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/abandons.warszawa.pl..txt",
+      "NameServer": "ns1.abandons.warszawa.pl.",
+      "Origin": "abandons.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/abates.warszawa.pl..txt",
+      "NameServer": "ns1.abates.warszawa.pl.",
+      "Origin": "abates.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/abattoirs.warszawa.pl..txt",
+      "NameServer": "ns1.abattoirs.warszawa.pl.",
+      "Origin": "abattoirs.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/admar.warszawa.pl..txt",
+      "NameServer": "ns1.admar.warszawa.pl.",
+      "Origin": "admar.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/agencjahostess.warszawa.pl..txt",
+      "NameServer": "ns1.agencjahostess.warszawa.pl.",
+      "Origin": "agencjahostess.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/aikido.warszawa.pl..txt",
+      "NameServer": "ns1.aikido.warszawa.pl.",
+      "Origin": "aikido.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/angielski-konwersacje.warszawa.pl..txt",
+      "NameServer": "ns1.angielski-konwersacje.warszawa.pl.",
+      "Origin": "angielski-konwersacje.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/angielski24.warszawa.pl..txt",
+      "NameServer": "ns1.angielski24.warszawa.pl.",
+      "Origin": "angielski24.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/aparatyfotograficzne.warszawa.pl..txt",
+      "NameServer": "ns1.aparatyfotograficzne.warszawa.pl.",
+      "Origin": "aparatyfotograficzne.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/apartments.warszawa.pl..txt",
+      "NameServer": "ns1.apartments.warszawa.pl.",
+      "Origin": "apartments.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/archidiecezja.warszawa.pl..txt",
+      "NameServer": "ns1.archidiecezja.warszawa.pl.",
+      "Origin": "archidiecezja.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/arka.warszawa.pl..txt",
+      "NameServer": "ns1.arka.warszawa.pl.",
+      "Origin": "arka.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/autoklima.warszawa.pl..txt",
+      "NameServer": "ns1.autoklima.warszawa.pl.",
+      "Origin": "autoklima.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/automatyka.warszawa.pl..txt",
+      "NameServer": "ns1.automatyka.warszawa.pl.",
+      "Origin": "automatyka.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/baseny.warszawa.pl..txt",
+      "NameServer": "ns1.baseny.warszawa.pl.",
+      "Origin": "baseny.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/baza-firm.warszawa.pl..txt",
+      "NameServer": "ns1.baza-firm.warszawa.pl.",
+      "Origin": "baza-firm.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/beatbox.warszawa.pl..txt",
+      "NameServer": "ns1.beatbox.warszawa.pl.",
+      "Origin": "beatbox.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/best.warszawa.pl..txt",
+      "NameServer": "ns1.best.warszawa.pl.",
+      "Origin": "best.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/biczak-lods.warszawa.pl..txt",
+      "NameServer": "ns1.biczak-lods.warszawa.pl.",
+      "Origin": "biczak-lods.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/big.warszawa.pl..txt",
+      "NameServer": "ns1.big.warszawa.pl.",
+      "Origin": "big.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/bip.um.warszawa.pl..txt",
+      "NameServer": "ns1.bip.um.warszawa.pl.",
+      "Origin": "bip.um.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/bip.warszawa.pl..txt",
+      "NameServer": "ns1.bip.warszawa.pl.",
+      "Origin": "bip.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/biznes.warszawa.pl..txt",
+      "NameServer": "ns1.biznes.warszawa.pl.",
+      "Origin": "biznes.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/blysk.warszawa.pl..txt",
+      "NameServer": "ns1.blysk.warszawa.pl.",
+      "Origin": "blysk.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/boken.warszawa.pl..txt",
+      "NameServer": "ns1.boken.warszawa.pl.",
+      "Origin": "boken.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/bokken.warszawa.pl..txt",
+      "NameServer": "ns1.bokken.warszawa.pl.",
+      "Origin": "bokken.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/budowlanysklep.warszawa.pl..txt",
+      "NameServer": "ns1.budowlanysklep.warszawa.pl.",
+      "Origin": "budowlanysklep.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/burd-mank.warszawa.pl..txt",
+      "NameServer": "ns1.burd-mank.warszawa.pl.",
+      "Origin": "burd-mank.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/capoeira.warszawa.pl..txt",
+      "NameServer": "ns1.capoeira.warszawa.pl.",
+      "Origin": "capoeira.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/cbt.warszawa.pl..txt",
+      "NameServer": "ns1.cbt.warszawa.pl.",
+      "Origin": "cbt.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/centralperk.warszawa.pl..txt",
+      "NameServer": "ns1.centralperk.warszawa.pl.",
+      "Origin": "centralperk.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/chiptuning.warszawa.pl..txt",
+      "NameServer": "ns1.chiptuning.warszawa.pl.",
+      "Origin": "chiptuning.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/cmk.warszawa.pl..txt",
+      "NameServer": "ns1.cmk.warszawa.pl.",
+      "Origin": "cmk.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/czedaf-monner.warszawa.pl..txt",
+      "NameServer": "ns1.czedaf-monner.warszawa.pl.",
+      "Origin": "czedaf-monner.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/czysto.warszawa.pl..txt",
+      "NameServer": "ns1.czysto.warszawa.pl.",
+      "Origin": "czysto.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/czyszczeniedywanow.warszawa.pl..txt",
+      "NameServer": "ns1.czyszczeniedywanow.warszawa.pl.",
+      "Origin": "czyszczeniedywanow.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/dach.warszawa.pl..txt",
+      "NameServer": "ns1.dach.warszawa.pl.",
+      "Origin": "dach.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/dachowka.warszawa.pl..txt",
+      "NameServer": "ns1.dachowka.warszawa.pl.",
+      "Origin": "dachowka.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/daszynski.warszawa.pl..txt",
+      "NameServer": "ns1.daszynski.warszawa.pl.",
+      "Origin": "daszynski.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/delta.warszawa.pl..txt",
+      "NameServer": "ns1.delta.warszawa.pl.",
+      "Origin": "delta.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/dns.warszawa.pl..txt",
+      "NameServer": "ns1.dns.warszawa.pl.",
+      "Origin": "dns.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/dobry-doradca-finansowy.warszawa.pl..txt",
+      "NameServer": "ns1.dobry-doradca-finansowy.warszawa.pl.",
+      "Origin": "dobry-doradca-finansowy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/dodaj.warszawa.pl..txt",
+      "NameServer": "ns1.dodaj.warszawa.pl.",
+      "Origin": "dodaj.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/domygotowe.warszawa.pl..txt",
+      "NameServer": "ns1.domygotowe.warszawa.pl.",
+      "Origin": "domygotowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/dpp.warszawa.pl..txt",
+      "NameServer": "ns1.dpp.warszawa.pl.",
+      "Origin": "dpp.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/dst.warszawa.pl..txt",
+      "NameServer": "ns1.dst.warszawa.pl.",
+      "Origin": "dst.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/dzieci.warszawa.pl..txt",
+      "NameServer": "ns1.dzieci.warszawa.pl.",
+      "Origin": "dzieci.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/e-ksiegarnia.warszawa.pl..txt",
+      "NameServer": "ns1.e-ksiegarnia.warszawa.pl.",
+      "Origin": "e-ksiegarnia.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/e-seosem.warszawa.pl..txt",
+      "NameServer": "ns1.e-seosem.warszawa.pl.",
+      "Origin": "e-seosem.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/ebec2013.best.warszawa.pl..txt",
+      "NameServer": "ns1.ebec2013.best.warszawa.pl.",
+      "Origin": "ebec2013.best.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/edukacja.warszawa.pl..txt",
+      "NameServer": "ns1.edukacja.warszawa.pl.",
+      "Origin": "edukacja.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/elbud.warszawa.pl..txt",
+      "NameServer": "ns1.elbud.warszawa.pl.",
+      "Origin": "elbud.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/fakty-sportowe.warszawa.pl..txt",
+      "NameServer": "ns1.fakty-sportowe.warszawa.pl.",
+      "Origin": "fakty-sportowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/fanatycy.warszawa.pl..txt",
+      "NameServer": "ns1.fanatycy.warszawa.pl.",
+      "Origin": "fanatycy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/faza.warszawa.pl..txt",
+      "NameServer": "ns1.faza.warszawa.pl.",
+      "Origin": "faza.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/fenix.warszawa.pl..txt",
+      "NameServer": "ns1.fenix.warszawa.pl.",
+      "Origin": "fenix.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/festival.warszawa.pl..txt",
+      "NameServer": "ns1.festival.warszawa.pl.",
+      "Origin": "festival.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/film.warszawa.pl..txt",
+      "NameServer": "ns1.film.warszawa.pl.",
+      "Origin": "film.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/firm.warszawa.pl..txt",
+      "NameServer": "ns1.firm.warszawa.pl.",
+      "Origin": "firm.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/firmasprzatajaca.warszawa.pl..txt",
+      "NameServer": "ns1.firmasprzatajaca.warszawa.pl.",
+      "Origin": "firmasprzatajaca.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/focus.warszawa.pl..txt",
+      "NameServer": "ns1.focus.warszawa.pl.",
+      "Origin": "focus.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/fotografia.warszawa.pl..txt",
+      "NameServer": "ns1.fotografia.warszawa.pl.",
+      "Origin": "fotografia.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/fotografiaslubna.warszawa.pl..txt",
+      "NameServer": "ns1.fotografiaslubna.warszawa.pl.",
+      "Origin": "fotografiaslubna.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/freshlook.warszawa.pl..txt",
+      "NameServer": "ns1.freshlook.warszawa.pl.",
+      "Origin": "freshlook.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/gimnazjum2.warszawa.pl..txt",
+      "NameServer": "ns1.gimnazjum2.warszawa.pl.",
+      "Origin": "gimnazjum2.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/grzejnik-lazienkowy.warszawa.pl..txt",
+      "NameServer": "ns1.grzejnik-lazienkowy.warszawa.pl.",
+      "Origin": "grzejnik-lazienkowy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/heka.warszawa.pl..txt",
+      "NameServer": "ns1.heka.warszawa.pl.",
+      "Origin": "heka.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/horien.warszawa.pl..txt",
+      "NameServer": "ns1.horien.warszawa.pl.",
+      "Origin": "horien.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/hunter.warszawa.pl..txt",
+      "NameServer": "ns1.hunter.warszawa.pl.",
+      "Origin": "hunter.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/informacja.warszawa.pl..txt",
+      "NameServer": "ns1.informacja.warszawa.pl.",
+      "Origin": "informacja.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/instalacje.warszawa.pl..txt",
+      "NameServer": "ns1.instalacje.warszawa.pl.",
+      "Origin": "instalacje.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/ipozycjonowanie.warszawa.pl..txt",
+      "NameServer": "ns1.ipozycjonowanie.warszawa.pl.",
+      "Origin": "ipozycjonowanie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/itany.warszawa.pl..txt",
+      "NameServer": "ns1.itany.warszawa.pl.",
+      "Origin": "itany.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/izolacja.warszawa.pl..txt",
+      "NameServer": "ns1.izolacja.warszawa.pl.",
+      "Origin": "izolacja.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/japonski.warszawa.pl..txt",
+      "NameServer": "ns1.japonski.warszawa.pl.",
+      "Origin": "japonski.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/johnson.warszawa.pl..txt",
+      "NameServer": "ns1.johnson.warszawa.pl.",
+      "Origin": "johnson.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kabiny-prysznicowe.warszawa.pl..txt",
+      "NameServer": "ns1.kabiny-prysznicowe.warszawa.pl.",
+      "Origin": "kabiny-prysznicowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kaczynski.warszawa.pl..txt",
+      "NameServer": "ns1.kaczynski.warszawa.pl.",
+      "Origin": "kaczynski.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kamery-przemyslowe.warszawa.pl..txt",
+      "NameServer": "ns1.kamery-przemyslowe.warszawa.pl.",
+      "Origin": "kamery-przemyslowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kapucyni.warszawa.pl..txt",
+      "NameServer": "ns1.kapucyni.warszawa.pl.",
+      "Origin": "kapucyni.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/klinikaurody.warszawa.pl..txt",
+      "NameServer": "ns1.klinikaurody.warszawa.pl.",
+      "Origin": "klinikaurody.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kolej.warszawa.pl..txt",
+      "NameServer": "ns1.kolej.warszawa.pl.",
+      "Origin": "kolej.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kolorowe.warszawa.pl..txt",
+      "NameServer": "ns1.kolorowe.warszawa.pl.",
+      "Origin": "kolorowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/komis-meblowy.warszawa.pl..txt",
+      "NameServer": "ns1.komis-meblowy.warszawa.pl.",
+      "Origin": "komis-meblowy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/komuna.warszawa.pl..txt",
+      "NameServer": "ns1.komuna.warszawa.pl.",
+      "Origin": "komuna.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/konstrukcjestalowe.warszawa.pl..txt",
+      "NameServer": "ns1.konstrukcjestalowe.warszawa.pl.",
+      "Origin": "konstrukcjestalowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/konsultacje.um.warszawa.pl..txt",
+      "NameServer": "ns1.konsultacje.um.warszawa.pl.",
+      "Origin": "konsultacje.um.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/koscioly.warszawa.pl..txt",
+      "NameServer": "ns1.koscioly.warszawa.pl.",
+      "Origin": "koscioly.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kotlynaekogroszek.warszawa.pl..txt",
+      "NameServer": "ns1.kotlynaekogroszek.warszawa.pl.",
+      "Origin": "kotlynaekogroszek.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kotlypid.warszawa.pl..txt",
+      "NameServer": "ns1.kotlypid.warszawa.pl.",
+      "Origin": "kotlypid.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kredytgotowkowy.warszawa.pl..txt",
+      "NameServer": "ns1.kredytgotowkowy.warszawa.pl.",
+      "Origin": "kredytgotowkowy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kropledooczu.warszawa.pl..txt",
+      "NameServer": "ns1.kropledooczu.warszawa.pl.",
+      "Origin": "kropledooczu.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kulturalna.warszawa.pl..txt",
+      "NameServer": "ns1.kulturalna.warszawa.pl.",
+      "Origin": "kulturalna.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kw.warszawa.pl..txt",
+      "NameServer": "ns1.kw.warszawa.pl.",
+      "Origin": "kw.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kwashialuronowy.warszawa.pl..txt",
+      "NameServer": "ns1.kwashialuronowy.warszawa.pl.",
+      "Origin": "kwashialuronowy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/kyokushin.warszawa.pl..txt",
+      "NameServer": "ns1.kyokushin.warszawa.pl.",
+      "Origin": "kyokushin.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/lepszejutro24.warszawa.pl..txt",
+      "NameServer": "ns1.lepszejutro24.warszawa.pl.",
+      "Origin": "lepszejutro24.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/liftingbezskalpela.warszawa.pl..txt",
+      "NameServer": "ns1.liftingbezskalpela.warszawa.pl.",
+      "Origin": "liftingbezskalpela.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/liftingtwarzy.warszawa.pl..txt",
+      "NameServer": "ns1.liftingtwarzy.warszawa.pl.",
+      "Origin": "liftingtwarzy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/logo.warszawa.pl..txt",
+      "NameServer": "ns1.logo.warszawa.pl.",
+      "Origin": "logo.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/lokalnie.warszawa.pl..txt",
+      "NameServer": "ns1.lokalnie.warszawa.pl.",
+      "Origin": "lokalnie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/lutoslawski.warszawa.pl..txt",
+      "NameServer": "ns1.lutoslawski.warszawa.pl.",
+      "Origin": "lutoslawski.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/magraf.warszawa.pl..txt",
+      "NameServer": "ns1.magraf.warszawa.pl.",
+      "Origin": "magraf.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/mail.seks.warszawa.pl..txt",
+      "NameServer": "ns1.mail.seks.warszawa.pl.",
+      "Origin": "mail.seks.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/masaz.warszawa.pl..txt",
+      "NameServer": "ns1.masaz.warszawa.pl.",
+      "Origin": "masaz.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/maszprawo.warszawa.pl..txt",
+      "NameServer": "ns1.maszprawo.warszawa.pl.",
+      "Origin": "maszprawo.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/mazda.warszawa.pl..txt",
+      "NameServer": "ns1.mazda.warszawa.pl.",
+      "Origin": "mazda.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/mb14.warszawa.pl..txt",
+      "NameServer": "ns1.mb14.warszawa.pl.",
+      "Origin": "mb14.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/meble-uzywane.warszawa.pl..txt",
+      "NameServer": "ns1.meble-uzywane.warszawa.pl.",
+      "Origin": "meble-uzywane.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/meblee-biurowee.warszawa.pl..txt",
+      "NameServer": "ns1.meblee-biurowee.warszawa.pl.",
+      "Origin": "meblee-biurowee.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/miasto-stoleczne.warszawa.pl..txt",
+      "NameServer": "ns1.miasto-stoleczne.warszawa.pl.",
+      "Origin": "miasto-stoleczne.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/miesieczne.warszawa.pl..txt",
+      "NameServer": "ns1.miesieczne.warszawa.pl.",
+      "Origin": "miesieczne.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/miss.warszawa.pl..txt",
+      "NameServer": "ns1.miss.warszawa.pl.",
+      "Origin": "miss.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/ml.warszawa.pl..txt",
+      "NameServer": "ns1.ml.warszawa.pl.",
+      "Origin": "ml.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/modaslubna.warszawa.pl..txt",
+      "NameServer": "ns1.modaslubna.warszawa.pl.",
+      "Origin": "modaslubna.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/moist.warszawa.pl..txt",
+      "NameServer": "ns1.moist.warszawa.pl.",
+      "Origin": "moist.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/mostpolnocny.warszawa.pl..txt",
+      "NameServer": "ns1.mostpolnocny.warszawa.pl.",
+      "Origin": "mostpolnocny.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/movie.warszawa.pl..txt",
+      "NameServer": "ns1.movie.warszawa.pl.",
+      "Origin": "movie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/mrm.warszawa.pl..txt",
+      "NameServer": "ns1.mrm.warszawa.pl.",
+      "Origin": "mrm.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/muzeum.warszawa.pl..txt",
+      "NameServer": "ns1.muzeum.warszawa.pl.",
+      "Origin": "muzeum.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/naprawa.warszawa.pl..txt",
+      "NameServer": "ns1.naprawa.warszawa.pl.",
+      "Origin": "naprawa.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/naprawaserwisagd.warszawa.pl..txt",
+      "NameServer": "ns1.naprawaserwisagd.warszawa.pl.",
+      "Origin": "naprawaserwisagd.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/nasza.warszawa.pl..txt",
+      "NameServer": "ns1.nasza.warszawa.pl.",
+      "Origin": "nasza.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/new.best.warszawa.pl..txt",
+      "NameServer": "ns1.new.best.warszawa.pl.",
+      "Origin": "new.best.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/nissan.warszawa.pl..txt",
+      "NameServer": "ns1.nissan.warszawa.pl.",
+      "Origin": "nissan.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/oasys.warszawa.pl..txt",
+      "NameServer": "ns1.oasys.warszawa.pl.",
+      "Origin": "oasys.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/obrazymalowane.warszawa.pl..txt",
+      "NameServer": "ns1.obrazymalowane.warszawa.pl.",
+      "Origin": "obrazymalowane.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/obrazynaszkle.warszawa.pl..txt",
+      "NameServer": "ns1.obrazynaszkle.warszawa.pl.",
+      "Origin": "obrazynaszkle.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/obrazyolejne.warszawa.pl..txt",
+      "NameServer": "ns1.obrazyolejne.warszawa.pl.",
+      "Origin": "obrazyolejne.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/odziezbhp.warszawa.pl..txt",
+      "NameServer": "ns1.odziezbhp.warszawa.pl.",
+      "Origin": "odziezbhp.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/offset.warszawa.pl..txt",
+      "NameServer": "ns1.offset.warszawa.pl.",
+      "Origin": "offset.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/ogloszenia4u.warszawa.pl..txt",
+      "NameServer": "ns1.ogloszenia4u.warszawa.pl.",
+      "Origin": "ogloszenia4u.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/ogloszeniadrobne.warszawa.pl..txt",
+      "NameServer": "ns1.ogloszeniadrobne.warszawa.pl.",
+      "Origin": "ogloszeniadrobne.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/opinie-o-szkolach.warszawa.pl..txt",
+      "NameServer": "ns1.opinie-o-szkolach.warszawa.pl.",
+      "Origin": "opinie-o-szkolach.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/optifree.warszawa.pl..txt",
+      "NameServer": "ns1.optifree.warszawa.pl.",
+      "Origin": "optifree.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/optiplex.warszawa.pl..txt",
+      "NameServer": "ns1.optiplex.warszawa.pl.",
+      "Origin": "optiplex.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/osir-wawer.warszawa.pl..txt",
+      "NameServer": "ns1.osir-wawer.warszawa.pl.",
+      "Origin": "osir-wawer.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/outlet-meblowy.warszawa.pl..txt",
+      "NameServer": "ns1.outlet-meblowy.warszawa.pl.",
+      "Origin": "outlet-meblowy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/ozonowanie-dezynfekcja.warszawa.pl..txt",
+      "NameServer": "ns1.ozonowanie-dezynfekcja.warszawa.pl.",
+      "Origin": "ozonowanie-dezynfekcja.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pikosik.warszawa.pl..txt",
+      "NameServer": "ns1.pikosik.warszawa.pl.",
+      "Origin": "pikosik.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pirb03.miasto-stoleczne.warszawa.pl..txt",
+      "NameServer": "ns1.pirb03.miasto-stoleczne.warszawa.pl.",
+      "Origin": "pirb03.miasto-stoleczne.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pizzerie.warszawa.pl..txt",
+      "NameServer": "ns1.pizzerie.warszawa.pl.",
+      "Origin": "pizzerie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pks.warszawa.pl..txt",
+      "NameServer": "ns1.pks.warszawa.pl.",
+      "Origin": "pks.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/plynydosoczewek.warszawa.pl..txt",
+      "NameServer": "ns1.plynydosoczewek.warszawa.pl.",
+      "Origin": "plynydosoczewek.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/plytywarstwowe.warszawa.pl..txt",
+      "NameServer": "ns1.plytywarstwowe.warszawa.pl.",
+      "Origin": "plytywarstwowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/polam.warszawa.pl..txt",
+      "NameServer": "ns1.polam.warszawa.pl.",
+      "Origin": "polam.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pomoc-drogowa.warszawa.pl..txt",
+      "NameServer": "ns1.pomoc-drogowa.warszawa.pl.",
+      "Origin": "pomoc-drogowa.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/posit.warszawa.pl..txt",
+      "NameServer": "ns1.posit.warszawa.pl.",
+      "Origin": "posit.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pozycjonowanie-stron24.warszawa.pl..txt",
+      "NameServer": "ns1.pozycjonowanie-stron24.warszawa.pl.",
+      "Origin": "pozycjonowanie-stron24.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pozycjonowaniestron-warszawa.warszawa.pl..txt",
+      "NameServer": "ns1.pozycjonowaniestron-warszawa.warszawa.pl.",
+      "Origin": "pozycjonowaniestron-warszawa.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pozycjonowaniestron24.warszawa.pl..txt",
+      "NameServer": "ns1.pozycjonowaniestron24.warszawa.pl.",
+      "Origin": "pozycjonowaniestron24.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pozycjonowanietop10.warszawa.pl..txt",
+      "NameServer": "ns1.pozycjonowanietop10.warszawa.pl.",
+      "Origin": "pozycjonowanietop10.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pozycjonowaniewawa.warszawa.pl..txt",
+      "NameServer": "ns1.pozycjonowaniewawa.warszawa.pl.",
+      "Origin": "pozycjonowaniewawa.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/prace-licencjackie.warszawa.pl..txt",
+      "NameServer": "ns1.prace-licencjackie.warszawa.pl.",
+      "Origin": "prace-licencjackie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/prace-magisterskie.warszawa.pl..txt",
+      "NameServer": "ns1.prace-magisterskie.warszawa.pl.",
+      "Origin": "prace-magisterskie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/praniedywanow.warszawa.pl..txt",
+      "NameServer": "ns1.praniedywanow.warszawa.pl.",
+      "Origin": "praniedywanow.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/promocje.warszawa.pl..txt",
+      "NameServer": "ns1.promocje.warszawa.pl.",
+      "Origin": "promocje.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/psy.warszawa.pl..txt",
+      "NameServer": "ns1.psy.warszawa.pl.",
+      "Origin": "psy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/psycho-terapeuta.warszawa.pl..txt",
+      "NameServer": "ns1.psycho-terapeuta.warszawa.pl.",
+      "Origin": "psycho-terapeuta.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/psycholog-online.warszawa.pl..txt",
+      "NameServer": "ns1.psycholog-online.warszawa.pl.",
+      "Origin": "psycholog-online.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/ptmk.warszawa.pl..txt",
+      "NameServer": "ns1.ptmk.warszawa.pl.",
+      "Origin": "ptmk.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/publicopinion.warszawa.pl..txt",
+      "NameServer": "ns1.publicopinion.warszawa.pl.",
+      "Origin": "publicopinion.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pulsdruk.warszawa.pl..txt",
+      "NameServer": "ns1.pulsdruk.warszawa.pl.",
+      "Origin": "pulsdruk.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/purevision.warszawa.pl..txt",
+      "NameServer": "ns1.purevision.warszawa.pl.",
+      "Origin": "purevision.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/pzo.warszawa.pl..txt",
+      "NameServer": "ns1.pzo.warszawa.pl.",
+      "Origin": "pzo.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/ramy.warszawa.pl..txt",
+      "NameServer": "ns1.ramy.warszawa.pl.",
+      "Origin": "ramy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/recykling.warszawa.pl..txt",
+      "NameServer": "ns1.recykling.warszawa.pl.",
+      "Origin": "recykling.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/rejestratory.warszawa.pl..txt",
+      "NameServer": "ns1.rejestratory.warszawa.pl.",
+      "Origin": "rejestratory.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/remonty-wnetrza.warszawa.pl..txt",
+      "NameServer": "ns1.remonty-wnetrza.warszawa.pl.",
+      "Origin": "remonty-wnetrza.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/renault-dacia.warszawa.pl..txt",
+      "NameServer": "ns1.renault-dacia.warszawa.pl.",
+      "Origin": "renault-dacia.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/renu.warszawa.pl..txt",
+      "NameServer": "ns1.renu.warszawa.pl.",
+      "Origin": "renu.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/rotunda.warszawa.pl..txt",
+      "NameServer": "ns1.rotunda.warszawa.pl.",
+      "Origin": "rotunda.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/rozancowa.warszawa.pl..txt",
+      "NameServer": "ns1.rozancowa.warszawa.pl.",
+      "Origin": "rozancowa.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/rozliczeniepit.warszawa.pl..txt",
+      "NameServer": "ns1.rozliczeniepit.warszawa.pl.",
+      "Origin": "rozliczeniepit.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/rzgw.warszawa.pl..txt",
+      "NameServer": "ns1.rzgw.warszawa.pl.",
+      "Origin": "rzgw.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/salon-pieknosci.warszawa.pl..txt",
+      "NameServer": "ns1.salon-pieknosci.warszawa.pl.",
+      "Origin": "salon-pieknosci.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/samochodowekosmetyki.warszawa.pl..txt",
+      "NameServer": "ns1.samochodowekosmetyki.warszawa.pl.",
+      "Origin": "samochodowekosmetyki.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/satelita.warszawa.pl..txt",
+      "NameServer": "ns1.satelita.warszawa.pl.",
+      "Origin": "satelita.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/schody-drewniane.warszawa.pl..txt",
+      "NameServer": "ns1.schody-drewniane.warszawa.pl.",
+      "Origin": "schody-drewniane.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/schody-mazowieckie.warszawa.pl..txt",
+      "NameServer": "ns1.schody-mazowieckie.warszawa.pl.",
+      "Origin": "schody-mazowieckie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/sco.warszawa.pl..txt",
+      "NameServer": "ns1.sco.warszawa.pl.",
+      "Origin": "sco.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/seks.warszawa.pl..txt",
+      "NameServer": "ns1.seks.warszawa.pl.",
+      "Origin": "seks.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/seosem.warszawa.pl..txt",
+      "NameServer": "ns1.seosem.warszawa.pl.",
+      "Origin": "seosem.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/seosem24.warszawa.pl..txt",
+      "NameServer": "ns1.seosem24.warszawa.pl.",
+      "Origin": "seosem24.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/seosemweb.warszawa.pl..txt",
+      "NameServer": "ns1.seosemweb.warszawa.pl.",
+      "Origin": "seosemweb.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/serafin.warszawa.pl..txt",
+      "NameServer": "ns1.serafin.warszawa.pl.",
+      "Origin": "serafin.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/serwerownia.warszawa.pl..txt",
+      "NameServer": "ns1.serwerownia.warszawa.pl.",
+      "Origin": "serwerownia.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/sex-telefon.warszawa.pl..txt",
+      "NameServer": "ns1.sex-telefon.warszawa.pl.",
+      "Origin": "sex-telefon.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/skm.warszawa.pl..txt",
+      "NameServer": "ns1.skm.warszawa.pl.",
+      "Origin": "skm.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/skupy.warszawa.pl..txt",
+      "NameServer": "ns1.skupy.warszawa.pl.",
+      "Origin": "skupy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/skuteczne-odchudzanie.warszawa.pl..txt",
+      "NameServer": "ns1.skuteczne-odchudzanie.warszawa.pl.",
+      "Origin": "skuteczne-odchudzanie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/soczewkipromocje.warszawa.pl..txt",
+      "NameServer": "ns1.soczewkipromocje.warszawa.pl.",
+      "Origin": "soczewkipromocje.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/soflens.warszawa.pl..txt",
+      "NameServer": "ns1.soflens.warszawa.pl.",
+      "Origin": "soflens.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/soldqua.warszawa.pl..txt",
+      "NameServer": "ns1.soldqua.warszawa.pl.",
+      "Origin": "soldqua.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/solidne-meblekuchenne.warszawa.pl..txt",
+      "NameServer": "ns1.solidne-meblekuchenne.warszawa.pl.",
+      "Origin": "solidne-meblekuchenne.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/solocareaqua.warszawa.pl..txt",
+      "NameServer": "ns1.solocareaqua.warszawa.pl.",
+      "Origin": "solocareaqua.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/sos.warszawa.pl..txt",
+      "NameServer": "ns1.sos.warszawa.pl.",
+      "Origin": "sos.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/sp23.warszawa.pl..txt",
+      "NameServer": "ns1.sp23.warszawa.pl.",
+      "Origin": "sp23.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/sp26.warszawa.pl..txt",
+      "NameServer": "ns1.sp26.warszawa.pl.",
+      "Origin": "sp26.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/spa-kosmetyka.warszawa.pl..txt",
+      "NameServer": "ns1.spa-kosmetyka.warszawa.pl.",
+      "Origin": "spa-kosmetyka.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/sportowa.warszawa.pl..txt",
+      "NameServer": "ns1.sportowa.warszawa.pl.",
+      "Origin": "sportowa.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/spp.warszawa.pl..txt",
+      "NameServer": "ns1.spp.warszawa.pl.",
+      "Origin": "spp.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/srodmiescie.warszawa.pl..txt",
+      "NameServer": "ns1.srodmiescie.warszawa.pl.",
+      "Origin": "srodmiescie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/stolarnia24.warszawa.pl..txt",
+      "NameServer": "ns1.stolarnia24.warszawa.pl.",
+      "Origin": "stolarnia24.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/stolicabiznesu.warszawa.pl..txt",
+      "NameServer": "ns1.stolicabiznesu.warszawa.pl.",
+      "Origin": "stolicabiznesu.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/swgrzegorz.warszawa.pl..txt",
+      "NameServer": "ns1.swgrzegorz.warszawa.pl.",
+      "Origin": "swgrzegorz.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/szkola.warszawa.pl..txt",
+      "NameServer": "ns1.szkola.warszawa.pl.",
+      "Origin": "szkola.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/tani-botox.warszawa.pl..txt",
+      "NameServer": "ns1.tani-botox.warszawa.pl.",
+      "Origin": "tani-botox.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/tani-hotel.warszawa.pl..txt",
+      "NameServer": "ns1.tani-hotel.warszawa.pl.",
+      "Origin": "tani-hotel.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/tani.warszawa.pl..txt",
+      "NameServer": "ns1.tani.warszawa.pl.",
+      "Origin": "tani.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/tania-depilacja-laserowa.warszawa.pl..txt",
+      "NameServer": "ns1.tania-depilacja-laserowa.warszawa.pl.",
+      "Origin": "tania-depilacja-laserowa.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/tania-depilacjalaserowa.warszawa.pl..txt",
+      "NameServer": "ns1.tania-depilacjalaserowa.warszawa.pl.",
+      "Origin": "tania-depilacjalaserowa.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/tanie-hotele.warszawa.pl..txt",
+      "NameServer": "ns1.tanie-hotele.warszawa.pl.",
+      "Origin": "tanie-hotele.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/tanio-hotel.warszawa.pl..txt",
+      "NameServer": "ns1.tanio-hotel.warszawa.pl.",
+      "Origin": "tanio-hotel.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/tanityton.warszawa.pl..txt",
+      "NameServer": "ns1.tanityton.warszawa.pl.",
+      "Origin": "tanityton.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/teatime.warszawa.pl..txt",
+      "NameServer": "ns1.teatime.warszawa.pl.",
+      "Origin": "teatime.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/technomusic.warszawa.pl..txt",
+      "NameServer": "ns1.technomusic.warszawa.pl.",
+      "Origin": "technomusic.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/telefonyseks.warszawa.pl..txt",
+      "NameServer": "ns1.telefonyseks.warszawa.pl.",
+      "Origin": "telefonyseks.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/test.rzgw.warszawa.pl..txt",
+      "NameServer": "ns1.test.rzgw.warszawa.pl.",
+      "Origin": "test.rzgw.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/tlumacz-przysiegly.warszawa.pl..txt",
+      "NameServer": "ns1.tlumacz-przysiegly.warszawa.pl.",
+      "Origin": "tlumacz-przysiegly.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/tlumaczenia.warszawa.pl..txt",
+      "NameServer": "ns1.tlumaczenia.warszawa.pl.",
+      "Origin": "tlumaczenia.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/toryczne.warszawa.pl..txt",
+      "NameServer": "ns1.toryczne.warszawa.pl.",
+      "Origin": "toryczne.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/towarzyskie.warszawa.pl..txt",
+      "NameServer": "ns1.towarzyskie.warszawa.pl.",
+      "Origin": "towarzyskie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/transport-kolowy.warszawa.pl..txt",
+      "NameServer": "ns1.transport-kolowy.warszawa.pl.",
+      "Origin": "transport-kolowy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/trueye.warszawa.pl..txt",
+      "NameServer": "ns1.trueye.warszawa.pl.",
+      "Origin": "trueye.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-antyki-meble.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-antyki-meble.warszawa.pl.",
+      "Origin": "twoje-antyki-meble.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-grzejniki.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-grzejniki.warszawa.pl.",
+      "Origin": "twoje-grzejniki.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-meble-do-restauracji.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-meble-do-restauracji.warszawa.pl.",
+      "Origin": "twoje-meble-do-restauracji.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-meble-gabinetowe.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-meble-gabinetowe.warszawa.pl.",
+      "Origin": "twoje-meble-gabinetowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-meble-hotelowe.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-meble-hotelowe.warszawa.pl.",
+      "Origin": "twoje-meble-hotelowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-meble-lazienkowe.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-meble-lazienkowe.warszawa.pl.",
+      "Origin": "twoje-meble-lazienkowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-meble-ogrodowe-waw.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-meble-ogrodowe-waw.warszawa.pl.",
+      "Origin": "twoje-meble-ogrodowe-waw.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-meble-rattanowe.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-meble-rattanowe.warszawa.pl.",
+      "Origin": "twoje-meble-rattanowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-oswietlenie.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-oswietlenie.warszawa.pl.",
+      "Origin": "twoje-oswietlenie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-stare-meble.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-stare-meble.warszawa.pl.",
+      "Origin": "twoje-stare-meble.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/twoje-wanny-z-hydromasazem.warszawa.pl..txt",
+      "NameServer": "ns1.twoje-wanny-z-hydromasazem.warszawa.pl.",
+      "Origin": "twoje-wanny-z-hydromasazem.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/um.warszawa.pl..txt",
+      "NameServer": "ns1.um.warszawa.pl.",
+      "Origin": "um.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/up.warszawa.pl..txt",
+      "NameServer": "ns1.up.warszawa.pl.",
+      "Origin": "up.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/upominkireklamowe.warszawa.pl..txt",
+      "NameServer": "ns1.upominkireklamowe.warszawa.pl.",
+      "Origin": "upominkireklamowe.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/ursus.warszawa.pl..txt",
+      "NameServer": "ns1.ursus.warszawa.pl.",
+      "Origin": "ursus.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/usuwaniecellulitu.warszawa.pl..txt",
+      "NameServer": "ns1.usuwaniecellulitu.warszawa.pl.",
+      "Origin": "usuwaniecellulitu.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/usuwanietatuazy.warszawa.pl..txt",
+      "NameServer": "ns1.usuwanietatuazy.warszawa.pl.",
+      "Origin": "usuwanietatuazy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/usuwaniezmarszczek.warszawa.pl..txt",
+      "NameServer": "ns1.usuwaniezmarszczek.warszawa.pl.",
+      "Origin": "usuwaniezmarszczek.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/uw.warszawa.pl..txt",
+      "NameServer": "ns1.uw.warszawa.pl.",
+      "Origin": "uw.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/vizjo.warszawa.pl..txt",
+      "NameServer": "ns1.vizjo.warszawa.pl.",
+      "Origin": "vizjo.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/wanny-z-hydromasazem.warszawa.pl..txt",
+      "NameServer": "ns1.wanny-z-hydromasazem.warszawa.pl.",
+      "Origin": "wanny-z-hydromasazem.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/warszawa-pozycjonowanie.warszawa.pl..txt",
+      "NameServer": "ns1.warszawa-pozycjonowanie.warszawa.pl.",
+      "Origin": "warszawa-pozycjonowanie.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/warszawa.pl..txt",
+      "NameServer": "ns1.warszawa.pl.",
+      "Origin": "warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/wawer.warszawa.pl..txt",
+      "NameServer": "ns1.wawer.warszawa.pl.",
+      "Origin": "wawer.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/whey.warszawa.pl..txt",
+      "NameServer": "ns1.whey.warszawa.pl.",
+      "Origin": "whey.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/whirlpools.warszawa.pl..txt",
+      "NameServer": "ns1.whirlpools.warszawa.pl.",
+      "Origin": "whirlpools.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/whirlwinds.warszawa.pl..txt",
+      "NameServer": "ns1.whirlwinds.warszawa.pl.",
+      "Origin": "whirlwinds.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/whiskers.warszawa.pl..txt",
+      "NameServer": "ns1.whiskers.warszawa.pl.",
+      "Origin": "whiskers.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/wiadomosci.warszawa.pl..txt",
+      "NameServer": "ns1.wiadomosci.warszawa.pl.",
+      "Origin": "wiadomosci.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/wios.warszawa.pl..txt",
+      "NameServer": "ns1.wios.warszawa.pl.",
+      "Origin": "wios.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/wirtualna.warszawa.pl..txt",
+      "NameServer": "ns1.wirtualna.warszawa.pl.",
+      "Origin": "wirtualna.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/wizy.warszawa.pl..txt",
+      "NameServer": "ns1.wizy.warszawa.pl.",
+      "Origin": "wizy.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/wom.warszawa.pl..txt",
+      "NameServer": "ns1.wom.warszawa.pl.",
+      "Origin": "wom.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/wsm.warszawa.pl..txt",
+      "NameServer": "ns1.wsm.warszawa.pl.",
+      "Origin": "wsm.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/www.warszawa.pl..txt",
+      "NameServer": "ns1.www.warszawa.pl.",
+      "Origin": "www.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/wynajemlimuzyn.warszawa.pl..txt",
+      "NameServer": "ns1.wynajemlimuzyn.warszawa.pl.",
+      "Origin": "wynajemlimuzyn.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/x.warszawa.pl..txt",
+      "NameServer": "ns1.x.warszawa.pl.",
+      "Origin": "x.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/z.warszawa.pl..txt",
+      "NameServer": "ns1.z.warszawa.pl.",
+      "Origin": "z.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/zabieginauda.warszawa.pl..txt",
+      "NameServer": "ns1.zabieginauda.warszawa.pl.",
+      "Origin": "zabieginauda.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/zabiegiodchudzajace.warszawa.pl..txt",
+      "NameServer": "ns1.zabiegiodchudzajace.warszawa.pl.",
+      "Origin": "zabiegiodchudzajace.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/zabiegiwyszczuplajace.warszawa.pl..txt",
+      "NameServer": "ns1.zabiegiwyszczuplajace.warszawa.pl.",
+      "Origin": "zabiegiwyszczuplajace.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/zasobyzewnetrzne.warszawa.pl..txt",
+      "NameServer": "ns1.zasobyzewnetrzne.warszawa.pl.",
+      "Origin": "zasobyzewnetrzne.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/zeiss.warszawa.pl..txt",
+      "NameServer": "ns1.zeiss.warszawa.pl.",
+      "Origin": "zeiss.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/zeroseven.warszawa.pl..txt",
+      "NameServer": "ns1.zeroseven.warszawa.pl.",
+      "Origin": "zeroseven.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/zol.warszawa.pl..txt",
+      "NameServer": "ns1.zol.warszawa.pl.",
+      "Origin": "zol.warszawa.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warszawa.pl/zpp.warszawa.pl..txt",
+      "NameServer": "ns1.zpp.warszawa.pl.",
+      "Origin": "zpp.warszawa.pl."
+    }
+  ]
+}

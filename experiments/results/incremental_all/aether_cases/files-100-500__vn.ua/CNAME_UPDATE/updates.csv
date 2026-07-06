@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/vn.ua,4x4.vn.ua..txt,CNAME_UPDATE,DEL,www.4x4.vn.ua.,CNAME,4x4.vn.ua.
+files-100-500/vn.ua,4x4.vn.ua..txt,CNAME_UPDATE,ADD,www.4x4.vn.ua.,CNAME,cname-inc.4x4.vn.ua.

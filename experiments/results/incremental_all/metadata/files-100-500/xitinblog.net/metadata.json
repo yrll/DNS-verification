@@ -1,0 +1,1352 @@
+{
+  "TopNameServers": [
+    "ns1.xitinblog.net."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/125equity.xitinblog.net..txt",
+      "NameServer": "ns1.125equity.xitinblog.net.",
+      "Origin": "125equity.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/abes.xitinblog.net..txt",
+      "NameServer": "ns1.abes.xitinblog.net.",
+      "Origin": "abes.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/about.xitinblog.net..txt",
+      "NameServer": "ns1.about.xitinblog.net.",
+      "Origin": "about.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/aimeraperire.xitinblog.net..txt",
+      "NameServer": "ns1.aimeraperire.xitinblog.net.",
+      "Origin": "aimeraperire.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ainapersonalblog.xitinblog.net..txt",
+      "NameServer": "ns1.ainapersonalblog.xitinblog.net.",
+      "Origin": "ainapersonalblog.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/alanne.xitinblog.net..txt",
+      "NameServer": "ns1.alanne.xitinblog.net.",
+      "Origin": "alanne.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/allstylesunglasses.xitinblog.net..txt",
+      "NameServer": "ns1.allstylesunglasses.xitinblog.net.",
+      "Origin": "allstylesunglasses.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/alvira.xitinblog.net..txt",
+      "NameServer": "ns1.alvira.xitinblog.net.",
+      "Origin": "alvira.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/annechick.xitinblog.net..txt",
+      "NameServer": "ns1.annechick.xitinblog.net.",
+      "Origin": "annechick.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/annekay.xitinblog.net..txt",
+      "NameServer": "ns1.annekay.xitinblog.net.",
+      "Origin": "annekay.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/annelexy.xitinblog.net..txt",
+      "NameServer": "ns1.annelexy.xitinblog.net.",
+      "Origin": "annelexy.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/annesly.xitinblog.net..txt",
+      "NameServer": "ns1.annesly.xitinblog.net.",
+      "Origin": "annesly.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/anthasblog.xitinblog.net..txt",
+      "NameServer": "ns1.anthasblog.xitinblog.net.",
+      "Origin": "anthasblog.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/anylinking.xitinblog.net..txt",
+      "NameServer": "ns1.anylinking.xitinblog.net.",
+      "Origin": "anylinking.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ashleyadams.xitinblog.net..txt",
+      "NameServer": "ns1.ashleyadams.xitinblog.net.",
+      "Origin": "ashleyadams.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ashleyicky.xitinblog.net..txt",
+      "NameServer": "ns1.ashleyicky.xitinblog.net.",
+      "Origin": "ashleyicky.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ashleyolsen.xitinblog.net..txt",
+      "NameServer": "ns1.ashleyolsen.xitinblog.net.",
+      "Origin": "ashleyolsen.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ashleytew.xitinblog.net..txt",
+      "NameServer": "ns1.ashleytew.xitinblog.net.",
+      "Origin": "ashleytew.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/automotivedatareviews.xitinblog.net..txt",
+      "NameServer": "ns1.automotivedatareviews.xitinblog.net.",
+      "Origin": "automotivedatareviews.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/automotivelubricants.xitinblog.net..txt",
+      "NameServer": "ns1.automotivelubricants.xitinblog.net.",
+      "Origin": "automotivelubricants.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/babycradle.xitinblog.net..txt",
+      "NameServer": "ns1.babycradle.xitinblog.net.",
+      "Origin": "babycradle.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/babyswing.xitinblog.net..txt",
+      "NameServer": "ns1.babyswing.xitinblog.net.",
+      "Origin": "babyswing.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bankhomeloan.xitinblog.net..txt",
+      "NameServer": "ns1.bankhomeloan.xitinblog.net.",
+      "Origin": "bankhomeloan.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/beaulalanne.xitinblog.net..txt",
+      "NameServer": "ns1.beaulalanne.xitinblog.net.",
+      "Origin": "beaulalanne.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/beermakingsupplies.xitinblog.net..txt",
+      "NameServer": "ns1.beermakingsupplies.xitinblog.net.",
+      "Origin": "beermakingsupplies.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bestbuybcbgmensshoes.xitinblog.net..txt",
+      "NameServer": "ns1.bestbuybcbgmensshoes.xitinblog.net.",
+      "Origin": "bestbuybcbgmensshoes.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bestbuycamerasystem.xitinblog.net..txt",
+      "NameServer": "ns1.bestbuycamerasystem.xitinblog.net.",
+      "Origin": "bestbuycamerasystem.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bestbuycrystalwinedecanterlowestprice.xitinblog.net..txt",
+      "NameServer": "ns1.bestbuycrystalwinedecanterlowestprice.xitinblog.net.",
+      "Origin": "bestbuycrystalwinedecanterlowestprice.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bestbuygarminnuvi670.xitinblog.net..txt",
+      "NameServer": "ns1.bestbuygarminnuvi670.xitinblog.net.",
+      "Origin": "bestbuygarminnuvi670.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bestbuyhdreadytv.xitinblog.net..txt",
+      "NameServer": "ns1.bestbuyhdreadytv.xitinblog.net.",
+      "Origin": "bestbuyhdreadytv.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bestbuylaptopnotebooks.xitinblog.net..txt",
+      "NameServer": "ns1.bestbuylaptopnotebooks.xitinblog.net.",
+      "Origin": "bestbuylaptopnotebooks.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bestbuylcdtvonsale.xitinblog.net..txt",
+      "NameServer": "ns1.bestbuylcdtvonsale.xitinblog.net.",
+      "Origin": "bestbuylcdtvonsale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bestbuywii.xitinblog.net..txt",
+      "NameServer": "ns1.bestbuywii.xitinblog.net.",
+      "Origin": "bestbuywii.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bestpricetoday.xitinblog.net..txt",
+      "NameServer": "ns1.bestpricetoday.xitinblog.net.",
+      "Origin": "bestpricetoday.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bethicky.xitinblog.net..txt",
+      "NameServer": "ns1.bethicky.xitinblog.net.",
+      "Origin": "bethicky.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bethpine.xitinblog.net..txt",
+      "NameServer": "ns1.bethpine.xitinblog.net.",
+      "Origin": "bethpine.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/billbartmann.xitinblog.net..txt",
+      "NameServer": "ns1.billbartmann.xitinblog.net.",
+      "Origin": "billbartmann.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/blackberry.xitinblog.net..txt",
+      "NameServer": "ns1.blackberry.xitinblog.net.",
+      "Origin": "blackberry.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/blogbyannett.xitinblog.net..txt",
+      "NameServer": "ns1.blogbyannett.xitinblog.net.",
+      "Origin": "blogbyannett.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/blogmarketing.xitinblog.net..txt",
+      "NameServer": "ns1.blogmarketing.xitinblog.net.",
+      "Origin": "blogmarketing.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bockern.xitinblog.net..txt",
+      "NameServer": "ns1.bockern.xitinblog.net.",
+      "Origin": "bockern.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bookstobuy.xitinblog.net..txt",
+      "NameServer": "ns1.bookstobuy.xitinblog.net.",
+      "Origin": "bookstobuy.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bootsformen.xitinblog.net..txt",
+      "NameServer": "ns1.bootsformen.xitinblog.net.",
+      "Origin": "bootsformen.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/breville800jexl.xitinblog.net..txt",
+      "NameServer": "ns1.breville800jexl.xitinblog.net.",
+      "Origin": "breville800jexl.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/brewrightnow.xitinblog.net..txt",
+      "NameServer": "ns1.brewrightnow.xitinblog.net.",
+      "Origin": "brewrightnow.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/brianlidgardz.xitinblog.net..txt",
+      "NameServer": "ns1.brianlidgardz.xitinblog.net.",
+      "Origin": "brianlidgardz.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/buddyoffootreview.xitinblog.net..txt",
+      "NameServer": "ns1.buddyoffootreview.xitinblog.net.",
+      "Origin": "buddyoffootreview.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/bulldog77771.xitinblog.net..txt",
+      "NameServer": "ns1.bulldog77771.xitinblog.net.",
+      "Origin": "bulldog77771.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/buyautomaticmenswatchescheap.xitinblog.net..txt",
+      "NameServer": "ns1.buyautomaticmenswatchescheap.xitinblog.net.",
+      "Origin": "buyautomaticmenswatchescheap.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/buycheapbuymakeup.xitinblog.net..txt",
+      "NameServer": "ns1.buycheapbuymakeup.xitinblog.net.",
+      "Origin": "buycheapbuymakeup.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/buyomegamenwatch.xitinblog.net..txt",
+      "NameServer": "ns1.buyomegamenwatch.xitinblog.net.",
+      "Origin": "buyomegamenwatch.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/buytoshibalaptop.xitinblog.net..txt",
+      "NameServer": "ns1.buytoshibalaptop.xitinblog.net.",
+      "Origin": "buytoshibalaptop.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/buywavybakewarecheap.xitinblog.net..txt",
+      "NameServer": "ns1.buywavybakewarecheap.xitinblog.net.",
+      "Origin": "buywavybakewarecheap.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/camcorderonsale.xitinblog.net..txt",
+      "NameServer": "ns1.camcorderonsale.xitinblog.net.",
+      "Origin": "camcorderonsale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/camerasale.xitinblog.net..txt",
+      "NameServer": "ns1.camerasale.xitinblog.net.",
+      "Origin": "camerasale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/canonpowershota630.xitinblog.net..txt",
+      "NameServer": "ns1.canonpowershota630.xitinblog.net.",
+      "Origin": "canonpowershota630.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/carhire.xitinblog.net..txt",
+      "NameServer": "ns1.carhire.xitinblog.net.",
+      "Origin": "carhire.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/casiomsg.xitinblog.net..txt",
+      "NameServer": "ns1.casiomsg.xitinblog.net.",
+      "Origin": "casiomsg.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/casiowatches.xitinblog.net..txt",
+      "NameServer": "ns1.casiowatches.xitinblog.net.",
+      "Origin": "casiowatches.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/cheriepelt.xitinblog.net..txt",
+      "NameServer": "ns1.cheriepelt.xitinblog.net.",
+      "Origin": "cheriepelt.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/christiepedraza.xitinblog.net..txt",
+      "NameServer": "ns1.christiepedraza.xitinblog.net.",
+      "Origin": "christiepedraza.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/clarasblog.xitinblog.net..txt",
+      "NameServer": "ns1.clarasblog.xitinblog.net.",
+      "Origin": "clarasblog.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/clifbarforsale.xitinblog.net..txt",
+      "NameServer": "ns1.clifbarforsale.xitinblog.net.",
+      "Origin": "clifbarforsale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/climbingshoes.xitinblog.net..txt",
+      "NameServer": "ns1.climbingshoes.xitinblog.net.",
+      "Origin": "climbingshoes.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/comparisonshopping.xitinblog.net..txt",
+      "NameServer": "ns1.comparisonshopping.xitinblog.net.",
+      "Origin": "comparisonshopping.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/computerperformancebenchmark.xitinblog.net..txt",
+      "NameServer": "ns1.computerperformancebenchmark.xitinblog.net.",
+      "Origin": "computerperformancebenchmark.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/correlationconfidence.xitinblog.net..txt",
+      "NameServer": "ns1.correlationconfidence.xitinblog.net.",
+      "Origin": "correlationconfidence.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/danielsite.xitinblog.net..txt",
+      "NameServer": "ns1.danielsite.xitinblog.net.",
+      "Origin": "danielsite.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/darleensweightlosssite.xitinblog.net..txt",
+      "NameServer": "ns1.darleensweightlosssite.xitinblog.net.",
+      "Origin": "darleensweightlosssite.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/dd4th.xitinblog.net..txt",
+      "NameServer": "ns1.dd4th.xitinblog.net.",
+      "Origin": "dd4th.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/dennislessard.xitinblog.net..txt",
+      "NameServer": "ns1.dennislessard.xitinblog.net.",
+      "Origin": "dennislessard.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/desklampreview.xitinblog.net..txt",
+      "NameServer": "ns1.desklampreview.xitinblog.net.",
+      "Origin": "desklampreview.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/digitalcamaraandcamcorders.xitinblog.net..txt",
+      "NameServer": "ns1.digitalcamaraandcamcorders.xitinblog.net.",
+      "Origin": "digitalcamaraandcamcorders.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/discount40hdlcdtvsony.xitinblog.net..txt",
+      "NameServer": "ns1.discount40hdlcdtvsony.xitinblog.net.",
+      "Origin": "discount40hdlcdtvsony.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/discountfryingpannonstickstainlesssteel.xitinblog.net..txt",
+      "NameServer": "ns1.discountfryingpannonstickstainlesssteel.xitinblog.net.",
+      "Origin": "discountfryingpannonstickstainlesssteel.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/discountlaptopsale.xitinblog.net..txt",
+      "NameServer": "ns1.discountlaptopsale.xitinblog.net.",
+      "Origin": "discountlaptopsale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/discountpopcornsonline.xitinblog.net..txt",
+      "NameServer": "ns1.discountpopcornsonline.xitinblog.net.",
+      "Origin": "discountpopcornsonline.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/discountscooter2buy.xitinblog.net..txt",
+      "NameServer": "ns1.discountscooter2buy.xitinblog.net.",
+      "Origin": "discountscooter2buy.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/dorischisholm.xitinblog.net..txt",
+      "NameServer": "ns1.dorischisholm.xitinblog.net.",
+      "Origin": "dorischisholm.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/dressshirts.xitinblog.net..txt",
+      "NameServer": "ns1.dressshirts.xitinblog.net.",
+      "Origin": "dressshirts.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/easyweightloss4x.xitinblog.net..txt",
+      "NameServer": "ns1.easyweightloss4x.xitinblog.net.",
+      "Origin": "easyweightloss4x.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/edhardyhandbags.xitinblog.net..txt",
+      "NameServer": "ns1.edhardyhandbags.xitinblog.net.",
+      "Origin": "edhardyhandbags.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/eloisebyler.xitinblog.net..txt",
+      "NameServer": "ns1.eloisebyler.xitinblog.net.",
+      "Origin": "eloisebyler.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ericaadamson.xitinblog.net..txt",
+      "NameServer": "ns1.ericaadamson.xitinblog.net.",
+      "Origin": "ericaadamson.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ericbluhmblog.xitinblog.net..txt",
+      "NameServer": "ns1.ericbluhmblog.xitinblog.net.",
+      "Origin": "ericbluhmblog.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ernestshortsayings.xitinblog.net..txt",
+      "NameServer": "ns1.ernestshortsayings.xitinblog.net.",
+      "Origin": "ernestshortsayings.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/fakepurses.xitinblog.net..txt",
+      "NameServer": "ns1.fakepurses.xitinblog.net.",
+      "Origin": "fakepurses.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/fionaadams.xitinblog.net..txt",
+      "NameServer": "ns1.fionaadams.xitinblog.net.",
+      "Origin": "fionaadams.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/fionalee.xitinblog.net..txt",
+      "NameServer": "ns1.fionalee.xitinblog.net.",
+      "Origin": "fionalee.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/fixvisualcruntimelibraryerror.xitinblog.net..txt",
+      "NameServer": "ns1.fixvisualcruntimelibraryerror.xitinblog.net.",
+      "Origin": "fixvisualcruntimelibraryerror.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/flatscreentvs.xitinblog.net..txt",
+      "NameServer": "ns1.flatscreentvs.xitinblog.net.",
+      "Origin": "flatscreentvs.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/flowerseeds.xitinblog.net..txt",
+      "NameServer": "ns1.flowerseeds.xitinblog.net.",
+      "Origin": "flowerseeds.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/footstool2sale.xitinblog.net..txt",
+      "NameServer": "ns1.footstool2sale.xitinblog.net.",
+      "Origin": "footstool2sale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/freeipod.xitinblog.net..txt",
+      "NameServer": "ns1.freeipod.xitinblog.net.",
+      "Origin": "freeipod.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/freestuff.xitinblog.net..txt",
+      "NameServer": "ns1.freestuff.xitinblog.net.",
+      "Origin": "freestuff.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/galadrial01.xitinblog.net..txt",
+      "NameServer": "ns1.galadrial01.xitinblog.net.",
+      "Origin": "galadrial01.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/garmentbag.xitinblog.net..txt",
+      "NameServer": "ns1.garmentbag.xitinblog.net.",
+      "Origin": "garmentbag.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/geee.xitinblog.net..txt",
+      "NameServer": "ns1.geee.xitinblog.net.",
+      "Origin": "geee.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/glew.xitinblog.net..txt",
+      "NameServer": "ns1.glew.xitinblog.net.",
+      "Origin": "glew.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/glossyphotopaper.xitinblog.net..txt",
+      "NameServer": "ns1.glossyphotopaper.xitinblog.net.",
+      "Origin": "glossyphotopaper.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/glycolicacidshop.xitinblog.net..txt",
+      "NameServer": "ns1.glycolicacidshop.xitinblog.net.",
+      "Origin": "glycolicacidshop.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/godsugusjerseys.xitinblog.net..txt",
+      "NameServer": "ns1.godsugusjerseys.xitinblog.net.",
+      "Origin": "godsugusjerseys.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/golfchannel.xitinblog.net..txt",
+      "NameServer": "ns1.golfchannel.xitinblog.net.",
+      "Origin": "golfchannel.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/goodpositivephrases.xitinblog.net..txt",
+      "NameServer": "ns1.goodpositivephrases.xitinblog.net.",
+      "Origin": "goodpositivephrases.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/gpsgreatdealonline.xitinblog.net..txt",
+      "NameServer": "ns1.gpsgreatdealonline.xitinblog.net.",
+      "Origin": "gpsgreatdealonline.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/gpsguides.xitinblog.net..txt",
+      "NameServer": "ns1.gpsguides.xitinblog.net.",
+      "Origin": "gpsguides.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/gpsonsale.xitinblog.net..txt",
+      "NameServer": "ns1.gpsonsale.xitinblog.net.",
+      "Origin": "gpsonsale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/gregatkin.xitinblog.net..txt",
+      "NameServer": "ns1.gregatkin.xitinblog.net.",
+      "Origin": "gregatkin.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/groceryandgourmets.xitinblog.net..txt",
+      "NameServer": "ns1.groceryandgourmets.xitinblog.net.",
+      "Origin": "groceryandgourmets.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/grocerysandgourmets.xitinblog.net..txt",
+      "NameServer": "ns1.grocerysandgourmets.xitinblog.net.",
+      "Origin": "grocerysandgourmets.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/gshock.xitinblog.net..txt",
+      "NameServer": "ns1.gshock.xitinblog.net.",
+      "Origin": "gshock.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/happylexy.xitinblog.net..txt",
+      "NameServer": "ns1.happylexy.xitinblog.net.",
+      "Origin": "happylexy.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/hattiebarns.xitinblog.net..txt",
+      "NameServer": "ns1.hattiebarns.xitinblog.net.",
+      "Origin": "hattiebarns.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/helenrickard.xitinblog.net..txt",
+      "NameServer": "ns1.helenrickard.xitinblog.net.",
+      "Origin": "helenrickard.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/helenrosemondblog.xitinblog.net..txt",
+      "NameServer": "ns1.helenrosemondblog.xitinblog.net.",
+      "Origin": "helenrosemondblog.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/homeandfamilyreview.xitinblog.net..txt",
+      "NameServer": "ns1.homeandfamilyreview.xitinblog.net.",
+      "Origin": "homeandfamilyreview.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/homeimprovement2sale.xitinblog.net..txt",
+      "NameServer": "ns1.homeimprovement2sale.xitinblog.net.",
+      "Origin": "homeimprovement2sale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/hometheaterdealsdiscount.xitinblog.net..txt",
+      "NameServer": "ns1.hometheaterdealsdiscount.xitinblog.net.",
+      "Origin": "hometheaterdealsdiscount.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/hometheateronsale.xitinblog.net..txt",
+      "NameServer": "ns1.hometheateronsale.xitinblog.net.",
+      "Origin": "hometheateronsale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/hometheatersaleguide.xitinblog.net..txt",
+      "NameServer": "ns1.hometheatersaleguide.xitinblog.net.",
+      "Origin": "hometheatersaleguide.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/hospitalrecords.xitinblog.net..txt",
+      "NameServer": "ns1.hospitalrecords.xitinblog.net.",
+      "Origin": "hospitalrecords.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/iblogpapa.xitinblog.net..txt",
+      "NameServer": "ns1.iblogpapa.xitinblog.net.",
+      "Origin": "iblogpapa.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/jamboreeinthehills.xitinblog.net..txt",
+      "NameServer": "ns1.jamboreeinthehills.xitinblog.net.",
+      "Origin": "jamboreeinthehills.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/jaqjane.xitinblog.net..txt",
+      "NameServer": "ns1.jaqjane.xitinblog.net.",
+      "Origin": "jaqjane.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/jaqsmith.xitinblog.net..txt",
+      "NameServer": "ns1.jaqsmith.xitinblog.net.",
+      "Origin": "jaqsmith.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/jerseys017.xitinblog.net..txt",
+      "NameServer": "ns1.jerseys017.xitinblog.net.",
+      "Origin": "jerseys017.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/jimmyburwell.xitinblog.net..txt",
+      "NameServer": "ns1.jimmyburwell.xitinblog.net.",
+      "Origin": "jimmyburwell.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/jordanshoesonsale.xitinblog.net..txt",
+      "NameServer": "ns1.jordanshoesonsale.xitinblog.net.",
+      "Origin": "jordanshoesonsale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/joshkassite.xitinblog.net..txt",
+      "NameServer": "ns1.joshkassite.xitinblog.net.",
+      "Origin": "joshkassite.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/juliamarlowe.xitinblog.net..txt",
+      "NameServer": "ns1.juliamarlowe.xitinblog.net.",
+      "Origin": "juliamarlowe.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/junecarson.xitinblog.net..txt",
+      "NameServer": "ns1.junecarson.xitinblog.net.",
+      "Origin": "junecarson.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/katehiggins.xitinblog.net..txt",
+      "NameServer": "ns1.katehiggins.xitinblog.net.",
+      "Origin": "katehiggins.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/kattan.xitinblog.net..txt",
+      "NameServer": "ns1.kattan.xitinblog.net.",
+      "Origin": "kattan.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/kimotto.xitinblog.net..txt",
+      "NameServer": "ns1.kimotto.xitinblog.net.",
+      "Origin": "kimotto.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/kitpaul.xitinblog.net..txt",
+      "NameServer": "ns1.kitpaul.xitinblog.net.",
+      "Origin": "kitpaul.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/klipschbookshelfspeakerreviews.xitinblog.net..txt",
+      "NameServer": "ns1.klipschbookshelfspeakerreviews.xitinblog.net.",
+      "Origin": "klipschbookshelfspeakerreviews.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/laptop4buy.xitinblog.net..txt",
+      "NameServer": "ns1.laptop4buy.xitinblog.net.",
+      "Origin": "laptop4buy.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/laptopnotebookforsale.xitinblog.net..txt",
+      "NameServer": "ns1.laptopnotebookforsale.xitinblog.net.",
+      "Origin": "laptopnotebookforsale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/laptopsandnotebook.xitinblog.net..txt",
+      "NameServer": "ns1.laptopsandnotebook.xitinblog.net.",
+      "Origin": "laptopsandnotebook.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/laurenotto.xitinblog.net..txt",
+      "NameServer": "ns1.laurenotto.xitinblog.net.",
+      "Origin": "laurenotto.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lauriesadler.xitinblog.net..txt",
+      "NameServer": "ns1.lauriesadler.xitinblog.net.",
+      "Origin": "lauriesadler.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ledtube.xitinblog.net..txt",
+      "NameServer": "ns1.ledtube.xitinblog.net.",
+      "Origin": "ledtube.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/leopoldsawesome.xitinblog.net..txt",
+      "NameServer": "ns1.leopoldsawesome.xitinblog.net.",
+      "Origin": "leopoldsawesome.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/leticianewlin.xitinblog.net..txt",
+      "NameServer": "ns1.leticianewlin.xitinblog.net.",
+      "Origin": "leticianewlin.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/level41.xitinblog.net..txt",
+      "NameServer": "ns1.level41.xitinblog.net.",
+      "Origin": "level41.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lindachick.xitinblog.net..txt",
+      "NameServer": "ns1.lindachick.xitinblog.net.",
+      "Origin": "lindachick.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lindakean.xitinblog.net..txt",
+      "NameServer": "ns1.lindakean.xitinblog.net.",
+      "Origin": "lindakean.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lindanorris.xitinblog.net..txt",
+      "NameServer": "ns1.lindanorris.xitinblog.net.",
+      "Origin": "lindanorris.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lindaotto.xitinblog.net..txt",
+      "NameServer": "ns1.lindaotto.xitinblog.net.",
+      "Origin": "lindaotto.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/liyanqing111.xitinblog.net..txt",
+      "NameServer": "ns1.liyanqing111.xitinblog.net.",
+      "Origin": "liyanqing111.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lorenepillsbury.xitinblog.net..txt",
+      "NameServer": "ns1.lorenepillsbury.xitinblog.net.",
+      "Origin": "lorenepillsbury.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lorettaquinones.xitinblog.net..txt",
+      "NameServer": "ns1.lorettaquinones.xitinblog.net.",
+      "Origin": "lorettaquinones.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lucilleboyles.xitinblog.net..txt",
+      "NameServer": "ns1.lucilleboyles.xitinblog.net.",
+      "Origin": "lucilleboyles.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/luxurywatchesguide.xitinblog.net..txt",
+      "NameServer": "ns1.luxurywatchesguide.xitinblog.net.",
+      "Origin": "luxurywatchesguide.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lynneicky.xitinblog.net..txt",
+      "NameServer": "ns1.lynneicky.xitinblog.net.",
+      "Origin": "lynneicky.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lynnelee.xitinblog.net..txt",
+      "NameServer": "ns1.lynnelee.xitinblog.net.",
+      "Origin": "lynnelee.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lynnemaz.xitinblog.net..txt",
+      "NameServer": "ns1.lynnemaz.xitinblog.net.",
+      "Origin": "lynnemaz.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lynneotto.xitinblog.net..txt",
+      "NameServer": "ns1.lynneotto.xitinblog.net.",
+      "Origin": "lynneotto.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/lynnesmith.xitinblog.net..txt",
+      "NameServer": "ns1.lynnesmith.xitinblog.net.",
+      "Origin": "lynnesmith.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/mableisham.xitinblog.net..txt",
+      "NameServer": "ns1.mableisham.xitinblog.net.",
+      "Origin": "mableisham.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/macchick.xitinblog.net..txt",
+      "NameServer": "ns1.macchick.xitinblog.net.",
+      "Origin": "macchick.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/macrobioticdietloseweight.xitinblog.net..txt",
+      "NameServer": "ns1.macrobioticdietloseweight.xitinblog.net.",
+      "Origin": "macrobioticdietloseweight.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/malissasblog.xitinblog.net..txt",
+      "NameServer": "ns1.malissasblog.xitinblog.net.",
+      "Origin": "malissasblog.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/marciadunford.xitinblog.net..txt",
+      "NameServer": "ns1.marciadunford.xitinblog.net.",
+      "Origin": "marciadunford.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/mariaadams.xitinblog.net..txt",
+      "NameServer": "ns1.mariaadams.xitinblog.net.",
+      "Origin": "mariaadams.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/mariahiggins.xitinblog.net..txt",
+      "NameServer": "ns1.mariahiggins.xitinblog.net.",
+      "Origin": "mariahiggins.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/mariajane.xitinblog.net..txt",
+      "NameServer": "ns1.mariajane.xitinblog.net.",
+      "Origin": "mariajane.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/mariaolsen.xitinblog.net..txt",
+      "NameServer": "ns1.mariaolsen.xitinblog.net.",
+      "Origin": "mariaolsen.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/mariasimons.xitinblog.net..txt",
+      "NameServer": "ns1.mariasimons.xitinblog.net.",
+      "Origin": "mariasimons.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/markfulton.xitinblog.net..txt",
+      "NameServer": "ns1.markfulton.xitinblog.net.",
+      "Origin": "markfulton.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/maryjane.xitinblog.net..txt",
+      "NameServer": "ns1.maryjane.xitinblog.net.",
+      "Origin": "maryjane.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/marykean.xitinblog.net..txt",
+      "NameServer": "ns1.marykean.xitinblog.net.",
+      "Origin": "marykean.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/marytan.xitinblog.net..txt",
+      "NameServer": "ns1.marytan.xitinblog.net.",
+      "Origin": "marytan.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/medicineonline.xitinblog.net..txt",
+      "NameServer": "ns1.medicineonline.xitinblog.net.",
+      "Origin": "medicineonline.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/menjacket.xitinblog.net..txt",
+      "NameServer": "ns1.menjacket.xitinblog.net.",
+      "Origin": "menjacket.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/minimacosblog.xitinblog.net..txt",
+      "NameServer": "ns1.minimacosblog.xitinblog.net.",
+      "Origin": "minimacosblog.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/missychick.xitinblog.net..txt",
+      "NameServer": "ns1.missychick.xitinblog.net.",
+      "Origin": "missychick.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/missyjane.xitinblog.net..txt",
+      "NameServer": "ns1.missyjane.xitinblog.net.",
+      "Origin": "missyjane.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/missykay.xitinblog.net..txt",
+      "NameServer": "ns1.missykay.xitinblog.net.",
+      "Origin": "missykay.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/missyolsen.xitinblog.net..txt",
+      "NameServer": "ns1.missyolsen.xitinblog.net.",
+      "Origin": "missyolsen.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/movingtomontana.xitinblog.net..txt",
+      "NameServer": "ns1.movingtomontana.xitinblog.net.",
+      "Origin": "movingtomontana.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/mrsbooks.xitinblog.net..txt",
+      "NameServer": "ns1.mrsbooks.xitinblog.net.",
+      "Origin": "mrsbooks.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/mtvmusic.xitinblog.net..txt",
+      "NameServer": "ns1.mtvmusic.xitinblog.net.",
+      "Origin": "mtvmusic.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/murielbechtel.xitinblog.net..txt",
+      "NameServer": "ns1.murielbechtel.xitinblog.net.",
+      "Origin": "murielbechtel.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/nadiachick.xitinblog.net..txt",
+      "NameServer": "ns1.nadiachick.xitinblog.net.",
+      "Origin": "nadiachick.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/nadiasimons.xitinblog.net..txt",
+      "NameServer": "ns1.nadiasimons.xitinblog.net.",
+      "Origin": "nadiasimons.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/nadiasmith.xitinblog.net..txt",
+      "NameServer": "ns1.nadiasmith.xitinblog.net.",
+      "Origin": "nadiasmith.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/netbookgoodtips.xitinblog.net..txt",
+      "NameServer": "ns1.netbookgoodtips.xitinblog.net.",
+      "Origin": "netbookgoodtips.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/netbookreviewsguide.xitinblog.net..txt",
+      "NameServer": "ns1.netbookreviewsguide.xitinblog.net.",
+      "Origin": "netbookreviewsguide.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/nflgametickets.xitinblog.net..txt",
+      "NameServer": "ns1.nflgametickets.xitinblog.net.",
+      "Origin": "nflgametickets.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/no1treadmillfitness.xitinblog.net..txt",
+      "NameServer": "ns1.no1treadmillfitness.xitinblog.net.",
+      "Origin": "no1treadmillfitness.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/nokia5310xpressmusicsoftware.xitinblog.net..txt",
+      "NameServer": "ns1.nokia5310xpressmusicsoftware.xitinblog.net.",
+      "Origin": "nokia5310xpressmusicsoftware.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/nokian971.xitinblog.net..txt",
+      "NameServer": "ns1.nokian971.xitinblog.net.",
+      "Origin": "nokian971.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/nokian972.xitinblog.net..txt",
+      "NameServer": "ns1.nokian972.xitinblog.net.",
+      "Origin": "nokian972.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/notebooks4s.xitinblog.net..txt",
+      "NameServer": "ns1.notebooks4s.xitinblog.net.",
+      "Origin": "notebooks4s.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/nottinghamblog.xitinblog.net..txt",
+      "NameServer": "ns1.nottinghamblog.xitinblog.net.",
+      "Origin": "nottinghamblog.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/oliviahotchkiss.xitinblog.net..txt",
+      "NameServer": "ns1.oliviahotchkiss.xitinblog.net.",
+      "Origin": "oliviahotchkiss.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/onlineinformationsession.xitinblog.net..txt",
+      "NameServer": "ns1.onlineinformationsession.xitinblog.net.",
+      "Origin": "onlineinformationsession.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/onsalescooters.xitinblog.net..txt",
+      "NameServer": "ns1.onsalescooters.xitinblog.net.",
+      "Origin": "onsalescooters.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/onsalescootersreviews.xitinblog.net..txt",
+      "NameServer": "ns1.onsalescootersreviews.xitinblog.net.",
+      "Origin": "onsalescootersreviews.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/pamurena.xitinblog.net..txt",
+      "NameServer": "ns1.pamurena.xitinblog.net.",
+      "Origin": "pamurena.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/pcchoosingguide.xitinblog.net..txt",
+      "NameServer": "ns1.pcchoosingguide.xitinblog.net.",
+      "Origin": "pcchoosingguide.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/personalnewsblog.xitinblog.net..txt",
+      "NameServer": "ns1.personalnewsblog.xitinblog.net.",
+      "Origin": "personalnewsblog.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/pixielexy.xitinblog.net..txt",
+      "NameServer": "ns1.pixielexy.xitinblog.net.",
+      "Origin": "pixielexy.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/pixiemaz.xitinblog.net..txt",
+      "NameServer": "ns1.pixiemaz.xitinblog.net.",
+      "Origin": "pixiemaz.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/pixieredman.xitinblog.net..txt",
+      "NameServer": "ns1.pixieredman.xitinblog.net.",
+      "Origin": "pixieredman.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/platinum.xitinblog.net..txt",
+      "NameServer": "ns1.platinum.xitinblog.net.",
+      "Origin": "platinum.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/postinginformationonline.xitinblog.net..txt",
+      "NameServer": "ns1.postinginformationonline.xitinblog.net.",
+      "Origin": "postinginformationonline.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/producerapmusic.xitinblog.net..txt",
+      "NameServer": "ns1.producerapmusic.xitinblog.net.",
+      "Origin": "producerapmusic.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/refrigeratorsonsale.xitinblog.net..txt",
+      "NameServer": "ns1.refrigeratorsonsale.xitinblog.net.",
+      "Origin": "refrigeratorsonsale.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/rickikirtland.xitinblog.net..txt",
+      "NameServer": "ns1.rickikirtland.xitinblog.net.",
+      "Origin": "rickikirtland.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/robertacondon.xitinblog.net..txt",
+      "NameServer": "ns1.robertacondon.xitinblog.net.",
+      "Origin": "robertacondon.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ronaldowen.xitinblog.net..txt",
+      "NameServer": "ns1.ronaldowen.xitinblog.net.",
+      "Origin": "ronaldowen.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/rubybenitez.xitinblog.net..txt",
+      "NameServer": "ns1.rubybenitez.xitinblog.net.",
+      "Origin": "rubybenitez.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/rustychick.xitinblog.net..txt",
+      "NameServer": "ns1.rustychick.xitinblog.net.",
+      "Origin": "rustychick.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/rustykay.xitinblog.net..txt",
+      "NameServer": "ns1.rustykay.xitinblog.net.",
+      "Origin": "rustykay.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ruthfine.xitinblog.net..txt",
+      "NameServer": "ns1.ruthfine.xitinblog.net.",
+      "Origin": "ruthfine.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/ruthiearechiga.xitinblog.net..txt",
+      "NameServer": "ns1.ruthiearechiga.xitinblog.net.",
+      "Origin": "ruthiearechiga.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/salelcdhdtvonline.xitinblog.net..txt",
+      "NameServer": "ns1.salelcdhdtvonline.xitinblog.net.",
+      "Origin": "salelcdhdtvonline.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/salelcdhdtvs.xitinblog.net..txt",
+      "NameServer": "ns1.salelcdhdtvs.xitinblog.net.",
+      "Origin": "salelcdhdtvs.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/salewebkinz.xitinblog.net..txt",
+      "NameServer": "ns1.salewebkinz.xitinblog.net.",
+      "Origin": "salewebkinz.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/salmon.xitinblog.net..txt",
+      "NameServer": "ns1.salmon.xitinblog.net.",
+      "Origin": "salmon.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/sandyjones.xitinblog.net..txt",
+      "NameServer": "ns1.sandyjones.xitinblog.net.",
+      "Origin": "sandyjones.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/sandypine.xitinblog.net..txt",
+      "NameServer": "ns1.sandypine.xitinblog.net.",
+      "Origin": "sandypine.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/sapphirependantguide.xitinblog.net..txt",
+      "NameServer": "ns1.sapphirependantguide.xitinblog.net.",
+      "Origin": "sapphirependantguide.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/sarahchoate.xitinblog.net..txt",
+      "NameServer": "ns1.sarahchoate.xitinblog.net.",
+      "Origin": "sarahchoate.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/sarahicky.xitinblog.net..txt",
+      "NameServer": "ns1.sarahicky.xitinblog.net.",
+      "Origin": "sarahicky.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/sarahlexy.xitinblog.net..txt",
+      "NameServer": "ns1.sarahlexy.xitinblog.net.",
+      "Origin": "sarahlexy.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/sarahnorris.xitinblog.net..txt",
+      "NameServer": "ns1.sarahnorris.xitinblog.net.",
+      "Origin": "sarahnorris.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/sarahsimons.xitinblog.net..txt",
+      "NameServer": "ns1.sarahsimons.xitinblog.net.",
+      "Origin": "sarahsimons.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/savedrilltools.xitinblog.net..txt",
+      "NameServer": "ns1.savedrilltools.xitinblog.net.",
+      "Origin": "savedrilltools.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/scootersales.xitinblog.net..txt",
+      "NameServer": "ns1.scootersales.xitinblog.net.",
+      "Origin": "scootersales.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/scsicardreviewguide.xitinblog.net..txt",
+      "NameServer": "ns1.scsicardreviewguide.xitinblog.net.",
+      "Origin": "scsicardreviewguide.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/shoesbestseller.xitinblog.net..txt",
+      "NameServer": "ns1.shoesbestseller.xitinblog.net.",
+      "Origin": "shoesbestseller.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/slcdhdtvsnow.xitinblog.net..txt",
+      "NameServer": "ns1.slcdhdtvsnow.xitinblog.net.",
+      "Origin": "slcdhdtvsnow.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/slowcomputerfacebook.xitinblog.net..txt",
+      "NameServer": "ns1.slowcomputerfacebook.xitinblog.net.",
+      "Origin": "slowcomputerfacebook.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/sortiesalsa.xitinblog.net..txt",
+      "NameServer": "ns1.sortiesalsa.xitinblog.net.",
+      "Origin": "sortiesalsa.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/stephenburns.xitinblog.net..txt",
+      "NameServer": "ns1.stephenburns.xitinblog.net.",
+      "Origin": "stephenburns.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/stoperrorrepair.xitinblog.net..txt",
+      "NameServer": "ns1.stoperrorrepair.xitinblog.net.",
+      "Origin": "stoperrorrepair.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/strawberryjello.xitinblog.net..txt",
+      "NameServer": "ns1.strawberryjello.xitinblog.net.",
+      "Origin": "strawberryjello.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/sugushappyjerseysgws.xitinblog.net..txt",
+      "NameServer": "ns1.sugushappyjerseysgws.xitinblog.net.",
+      "Origin": "sugushappyjerseysgws.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/tammaracroner.xitinblog.net..txt",
+      "NameServer": "ns1.tammaracroner.xitinblog.net.",
+      "Origin": "tammaracroner.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/tanaikean.xitinblog.net..txt",
+      "NameServer": "ns1.tanaikean.xitinblog.net.",
+      "Origin": "tanaikean.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/tanailexy.xitinblog.net..txt",
+      "NameServer": "ns1.tanailexy.xitinblog.net.",
+      "Origin": "tanailexy.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/tennisbracelet.xitinblog.net..txt",
+      "NameServer": "ns1.tennisbracelet.xitinblog.net.",
+      "Origin": "tennisbracelet.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/thereaderbookclub.xitinblog.net..txt",
+      "NameServer": "ns1.thereaderbookclub.xitinblog.net.",
+      "Origin": "thereaderbookclub.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/tomic.xitinblog.net..txt",
+      "NameServer": "ns1.tomic.xitinblog.net.",
+      "Origin": "tomic.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/toolkitbuyingguide.xitinblog.net..txt",
+      "NameServer": "ns1.toolkitbuyingguide.xitinblog.net.",
+      "Origin": "toolkitbuyingguide.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/toothwhiteningedinburgh.xitinblog.net..txt",
+      "NameServer": "ns1.toothwhiteningedinburgh.xitinblog.net.",
+      "Origin": "toothwhiteningedinburgh.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/topblog.xitinblog.net..txt",
+      "NameServer": "ns1.topblog.xitinblog.net.",
+      "Origin": "topblog.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/travelbag.xitinblog.net..txt",
+      "NameServer": "ns1.travelbag.xitinblog.net.",
+      "Origin": "travelbag.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/turntablereviewsguide.xitinblog.net..txt",
+      "NameServer": "ns1.turntablereviewsguide.xitinblog.net.",
+      "Origin": "turntablereviewsguide.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/tvandmovies.xitinblog.net..txt",
+      "NameServer": "ns1.tvandmovies.xitinblog.net.",
+      "Origin": "tvandmovies.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/updateclothing.xitinblog.net..txt",
+      "NameServer": "ns1.updateclothing.xitinblog.net.",
+      "Origin": "updateclothing.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/updateclothingonline.xitinblog.net..txt",
+      "NameServer": "ns1.updateclothingonline.xitinblog.net.",
+      "Origin": "updateclothingonline.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/voiletlee.xitinblog.net..txt",
+      "NameServer": "ns1.voiletlee.xitinblog.net.",
+      "Origin": "voiletlee.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/wandaicky.xitinblog.net..txt",
+      "NameServer": "ns1.wandaicky.xitinblog.net.",
+      "Origin": "wandaicky.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/wandajane.xitinblog.net..txt",
+      "NameServer": "ns1.wandajane.xitinblog.net.",
+      "Origin": "wandajane.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/watchesfinder.xitinblog.net..txt",
+      "NameServer": "ns1.watchesfinder.xitinblog.net.",
+      "Origin": "watchesfinder.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/watchesforsaleanddiscount.xitinblog.net..txt",
+      "NameServer": "ns1.watchesforsaleanddiscount.xitinblog.net.",
+      "Origin": "watchesforsaleanddiscount.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/watchesmee.xitinblog.net..txt",
+      "NameServer": "ns1.watchesmee.xitinblog.net.",
+      "Origin": "watchesmee.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/watchmovieonline.xitinblog.net..txt",
+      "NameServer": "ns1.watchmovieonline.xitinblog.net.",
+      "Origin": "watchmovieonline.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/watchonlinereviews.xitinblog.net..txt",
+      "NameServer": "ns1.watchonlinereviews.xitinblog.net.",
+      "Origin": "watchonlinereviews.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/wholesalescootersbike.xitinblog.net..txt",
+      "NameServer": "ns1.wholesalescootersbike.xitinblog.net.",
+      "Origin": "wholesalescootersbike.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/winnipegalliancefc1.xitinblog.net..txt",
+      "NameServer": "ns1.winnipegalliancefc1.xitinblog.net.",
+      "Origin": "winnipegalliancefc1.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/wirelessutility.xitinblog.net..txt",
+      "NameServer": "ns1.wirelessutility.xitinblog.net.",
+      "Origin": "wirelessutility.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/womenjacket.xitinblog.net..txt",
+      "NameServer": "ns1.womenjacket.xitinblog.net.",
+      "Origin": "womenjacket.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/www.xitinblog.net..txt",
+      "NameServer": "ns1.www.xitinblog.net.",
+      "Origin": "www.xitinblog.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/xitinblog.net/xitinblog.net..txt",
+      "NameServer": "ns1.xitinblog.net.",
+      "Origin": "xitinblog.net."
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/wisc.edu,333ecm.wisc.edu..txt,NS_UPDATE,DEL,333ecm.wisc.edu.,NS,adns1.doit.wisc.edu.
+files-500-1000/wisc.edu,333ecm.wisc.edu..txt,NS_UPDATE,ADD,333ecm.wisc.edu.,NS,ns-inc.333ecm.wisc.edu.

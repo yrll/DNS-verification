@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/vrn.ru,1c.vrn.ru..txt,A_UPDATE,DEL,1c.vrn.ru.,A,93.157.149.70
+files-100-500/vrn.ru,1c.vrn.ru..txt,A_UPDATE,ADD,1c.vrn.ru.,A,192.0.2.253

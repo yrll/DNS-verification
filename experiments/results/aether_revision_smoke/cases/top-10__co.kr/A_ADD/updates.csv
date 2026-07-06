@@ -1,0 +1,2 @@
+zone,file,scenario,op,domain,type,rdata
+top-10/co.kr,0.co.kr..txt,A_ADD,ADD,rev-a-add.0.co.kr.,A,192.0.2.10

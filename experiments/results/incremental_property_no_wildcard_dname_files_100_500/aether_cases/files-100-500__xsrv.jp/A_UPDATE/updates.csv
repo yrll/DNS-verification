@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/xsrv.jp,acs.xsrv.jp..txt,A_UPDATE,DEL,acs.xsrv.jp.,A,219.94.203.115
+files-100-500/xsrv.jp,acs.xsrv.jp..txt,A_UPDATE,ADD,acs.xsrv.jp.,A,192.0.2.253

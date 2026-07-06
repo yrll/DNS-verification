@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/za.net,17loader.za.net..txt,NS_UPDATE,DEL,17loader.za.net.,NS,ns1.dns-h.com.
+files-100-500/za.net,17loader.za.net..txt,NS_UPDATE,ADD,17loader.za.net.,NS,ns-inc.17loader.za.net.

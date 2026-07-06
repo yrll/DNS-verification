@@ -1,0 +1,2 @@
+zone,num_lec,io_time (ms),construction_time (ms),symbolic_time (ms),property_checking_time (ms),re_construction_time (ms),re_symbolic_time (ms),re_property_checking_time (ms),properties,initial_property_pass,initial_errors,incremental_property_pass,incremental_errors
+files-100-500/x0.com,2065,11.28,95.196,4.891,0.278,0.006,0.565,0.002,hops|rewrite blackholing|too long|zone loop|rewrites|delegation consistency|lame delegation,false,rewrite 1|rewrite 1|rewrite 1,true,

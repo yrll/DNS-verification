@@ -1,0 +1,17 @@
+### Maximum Ratio ###
+Constructing ActionTrie for zone: standards.net.cn.
+Groot: 0.134 
+Matsu: 0.007 
+cttime Ratio: 19.142857142857142
+
+### Minimum Ratio ###
+Constructing ActionTrie for zone: www.diariodevalencia.es.
+Groot: 0.016 
+Matsu: 0.682 
+cttime Ratio: 0.02346041055718475
+
+### Ratio Quantiles (90%, 95%, 99%, 99.9%):
+90%: 1.1666666666666665
+95%: 1.272727272727273
+99%: 1.7142857142857142
+99.9%: 3.125

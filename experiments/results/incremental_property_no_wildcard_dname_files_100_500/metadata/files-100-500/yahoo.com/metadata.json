@@ -1,0 +1,762 @@
+{
+  "TopNameServers": [
+    "ns1.yahoo.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/a1.b.yahoo.com..txt",
+      "NameServer": "ns1.a1.b.yahoo.com.",
+      "Origin": "a1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/a2.b.yahoo.com..txt",
+      "NameServer": "ns1.a2.b.yahoo.com.",
+      "Origin": "a2.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/a2s.yahoo.com..txt",
+      "NameServer": "ns1.a2s.yahoo.com.",
+      "Origin": "a2s.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ac2.yahoo.com..txt",
+      "NameServer": "ns1.ac2.yahoo.com.",
+      "Origin": "ac2.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ac4.yahoo.com..txt",
+      "NameServer": "ns1.ac4.yahoo.com.",
+      "Origin": "ac4.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/argus.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.argus.b1.b.corp.yahoo.com.",
+      "Origin": "argus.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/atl.yahoo.com..txt",
+      "NameServer": "ns1.atl.yahoo.com.",
+      "Origin": "atl.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/atlanta.corp.yahoo.com..txt",
+      "NameServer": "ns1.atlanta.corp.yahoo.com.",
+      "Origin": "atlanta.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/aue.yahoo.com..txt",
+      "NameServer": "ns1.aue.yahoo.com.",
+      "Origin": "aue.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ay1.b.yahoo.com..txt",
+      "NameServer": "ns1.ay1.b.yahoo.com.",
+      "Origin": "ay1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.b1.b.corp.yahoo.com.",
+      "Origin": "b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/backyard.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.backyard.b1.b.corp.yahoo.com.",
+      "Origin": "backyard.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/bagmane.corp.yahoo.com..txt",
+      "NameServer": "ns1.bagmane.corp.yahoo.com.",
+      "Origin": "bagmane.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/bangalore.corp.yahoo.com..txt",
+      "NameServer": "ns1.bangalore.corp.yahoo.com.",
+      "Origin": "bangalore.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/barcelona.corp.yahoo.com..txt",
+      "NameServer": "ns1.barcelona.corp.yahoo.com.",
+      "Origin": "barcelona.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/bcst.yahoo.com..txt",
+      "NameServer": "ns1.bcst.yahoo.com.",
+      "Origin": "bcst.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/berkeley.corp.yahoo.com..txt",
+      "NameServer": "ns1.berkeley.corp.yahoo.com.",
+      "Origin": "berkeley.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/bf1.yahoo.com..txt",
+      "NameServer": "ns1.bf1.yahoo.com.",
+      "Origin": "bf1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/bouncer.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.bouncer.b1.b.corp.yahoo.com.",
+      "Origin": "bouncer.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/bouncer.clog.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.bouncer.clog.b1.b.corp.yahoo.com.",
+      "Origin": "bouncer.clog.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/br1.yahoo.com..txt",
+      "NameServer": "ns1.br1.yahoo.com.",
+      "Origin": "br1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/burbank.corp.yahoo.com..txt",
+      "NameServer": "ns1.burbank.corp.yahoo.com.",
+      "Origin": "burbank.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/carlsbad.corp.yahoo.com..txt",
+      "NameServer": "ns1.carlsbad.corp.yahoo.com.",
+      "Origin": "carlsbad.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ccnet.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.ccnet.b1.b.corp.yahoo.com.",
+      "Origin": "ccnet.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ch1.yahoo.com..txt",
+      "NameServer": "ns1.ch1.yahoo.com.",
+      "Origin": "ch1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/cn.yahoo.com..txt",
+      "NameServer": "ns1.cn.yahoo.com.",
+      "Origin": "cn.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/cn2.yahoo.com..txt",
+      "NameServer": "ns1.cn2.yahoo.com.",
+      "Origin": "cn2.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/cnb.yahoo.com..txt",
+      "NameServer": "ns1.cnb.yahoo.com.",
+      "Origin": "cnb.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/cnh.yahoo.com..txt",
+      "NameServer": "ns1.cnh.yahoo.com.",
+      "Origin": "cnh.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/codereview.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.codereview.b1.b.corp.yahoo.com.",
+      "Origin": "codereview.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.ac4.yahoo.com..txt",
+      "NameServer": "ns1.corp.ac4.yahoo.com.",
+      "Origin": "corp.ac4.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.bf1.yahoo.com..txt",
+      "NameServer": "ns1.corp.bf1.yahoo.com.",
+      "Origin": "corp.bf1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.kr3.yahoo.com..txt",
+      "NameServer": "ns1.corp.kr3.yahoo.com.",
+      "Origin": "corp.kr3.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.mud.yahoo.com..txt",
+      "NameServer": "ns1.corp.mud.yahoo.com.",
+      "Origin": "corp.mud.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.scd.yahoo.com..txt",
+      "NameServer": "ns1.corp.scd.yahoo.com.",
+      "Origin": "corp.scd.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.sk1.yahoo.com..txt",
+      "NameServer": "ns1.corp.sk1.yahoo.com.",
+      "Origin": "corp.sk1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.sp1.yahoo.com..txt",
+      "NameServer": "ns1.corp.sp1.yahoo.com.",
+      "Origin": "corp.sp1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.sp2.yahoo.com..txt",
+      "NameServer": "ns1.corp.sp2.yahoo.com.",
+      "Origin": "corp.sp2.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.tw1.yahoo.com..txt",
+      "NameServer": "ns1.corp.tw1.yahoo.com.",
+      "Origin": "corp.tw1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.ukl.yahoo.com..txt",
+      "NameServer": "ns1.corp.ukl.yahoo.com.",
+      "Origin": "corp.ukl.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/corp.yahoo.com..txt",
+      "NameServer": "ns1.corp.yahoo.com.",
+      "Origin": "corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/dashboard.coke.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.dashboard.coke.b1.b.corp.yahoo.com.",
+      "Origin": "dashboard.coke.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/data.yahoo.com..txt",
+      "NameServer": "ns1.data.yahoo.com.",
+      "Origin": "data.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/dca.yahoo.com..txt",
+      "NameServer": "ns1.dca.yahoo.com.",
+      "Origin": "dca.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/devel.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.devel.b1.b.corp.yahoo.com.",
+      "Origin": "devel.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/dns.ops.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.dns.ops.b1.b.corp.yahoo.com.",
+      "Origin": "dns.ops.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/dxs.yahoo.com..txt",
+      "NameServer": "ns1.dxs.yahoo.com.",
+      "Origin": "dxs.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/edit.shine.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.edit.shine.b1.b.corp.yahoo.com.",
+      "Origin": "edit.shine.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/eglbp.corp.yahoo.com..txt",
+      "NameServer": "ns1.eglbp.corp.yahoo.com.",
+      "Origin": "eglbp.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/eportal.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.eportal.b1.b.corp.yahoo.com.",
+      "Origin": "eportal.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/europe.yahoo.com..txt",
+      "NameServer": "ns1.europe.yahoo.com.",
+      "Origin": "europe.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fin.yahoo.com..txt",
+      "NameServer": "ns1.fin.yahoo.com.",
+      "Origin": "fin.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy.b.yahoo.com..txt",
+      "NameServer": "ns1.fy.b.yahoo.com.",
+      "Origin": "fy.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy10.b.yahoo.com..txt",
+      "NameServer": "ns1.fy10.b.yahoo.com.",
+      "Origin": "fy10.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy11.b.yahoo.com..txt",
+      "NameServer": "ns1.fy11.b.yahoo.com.",
+      "Origin": "fy11.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy2.b.yahoo.com..txt",
+      "NameServer": "ns1.fy2.b.yahoo.com.",
+      "Origin": "fy2.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy3.b.yahoo.com..txt",
+      "NameServer": "ns1.fy3.b.yahoo.com.",
+      "Origin": "fy3.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy4.b.yahoo.com..txt",
+      "NameServer": "ns1.fy4.b.yahoo.com.",
+      "Origin": "fy4.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy5.b.yahoo.com..txt",
+      "NameServer": "ns1.fy5.b.yahoo.com.",
+      "Origin": "fy5.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy6.b.yahoo.com..txt",
+      "NameServer": "ns1.fy6.b.yahoo.com.",
+      "Origin": "fy6.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy7.b.yahoo.com..txt",
+      "NameServer": "ns1.fy7.b.yahoo.com.",
+      "Origin": "fy7.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy8.b.yahoo.com..txt",
+      "NameServer": "ns1.fy8.b.yahoo.com.",
+      "Origin": "fy8.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fy9.b.yahoo.com..txt",
+      "NameServer": "ns1.fy9.b.yahoo.com.",
+      "Origin": "fy9.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fyap.b.yahoo.com..txt",
+      "NameServer": "ns1.fyap.b.yahoo.com.",
+      "Origin": "fyap.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fyeu.b.yahoo.com..txt",
+      "NameServer": "ns1.fyeu.b.yahoo.com.",
+      "Origin": "fyeu.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/fyi1.b.yahoo.com..txt",
+      "NameServer": "ns1.fyi1.b.yahoo.com.",
+      "Origin": "fyi1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/g1.b.yahoo.com..txt",
+      "NameServer": "ns1.g1.b.yahoo.com.",
+      "Origin": "g1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/glb.cn.yahoo.com..txt",
+      "NameServer": "ns1.glb.cn.yahoo.com.",
+      "Origin": "glb.cn.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/gq1.yahoo.com..txt",
+      "NameServer": "ns1.gq1.yahoo.com.",
+      "Origin": "gq1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/greatamerica.corp.yahoo.com..txt",
+      "NameServer": "ns1.greatamerica.corp.yahoo.com.",
+      "Origin": "greatamerica.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/gy1.b.yahoo.com..txt",
+      "NameServer": "ns1.gy1.b.yahoo.com.",
+      "Origin": "gy1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/hillsboro.corp.yahoo.com..txt",
+      "NameServer": "ns1.hillsboro.corp.yahoo.com.",
+      "Origin": "hillsboro.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/hj.corp.yahoo.com..txt",
+      "NameServer": "ns1.hj.corp.yahoo.com.",
+      "Origin": "hj.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/hj.mud.yahoo.com..txt",
+      "NameServer": "ns1.hj.mud.yahoo.com.",
+      "Origin": "hj.mud.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/hj.scd.yahoo.com..txt",
+      "NameServer": "ns1.hj.scd.yahoo.com.",
+      "Origin": "hj.scd.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/hjny.corp.yahoo.com..txt",
+      "NameServer": "ns1.hjny.corp.yahoo.com.",
+      "Origin": "hjny.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/hk2.yahoo.com..txt",
+      "NameServer": "ns1.hk2.yahoo.com.",
+      "Origin": "hk2.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/hongkong.corp.yahoo.com..txt",
+      "NameServer": "ns1.hongkong.corp.yahoo.com.",
+      "Origin": "hongkong.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/in2.yahoo.com..txt",
+      "NameServer": "ns1.in2.yahoo.com.",
+      "Origin": "in2.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ina.yahoo.com..txt",
+      "NameServer": "ns1.ina.yahoo.com.",
+      "Origin": "ina.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ir2.yahoo.com..txt",
+      "NameServer": "ns1.ir2.yahoo.com.",
+      "Origin": "ir2.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ird.yahoo.com..txt",
+      "NameServer": "ns1.ird.yahoo.com.",
+      "Origin": "ird.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/jp2.yahoo.com..txt",
+      "NameServer": "ns1.jp2.yahoo.com.",
+      "Origin": "jp2.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/k3v.yahoo.com..txt",
+      "NameServer": "ns1.k3v.yahoo.com.",
+      "Origin": "k3v.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/kr1.yahoo.com..txt",
+      "NameServer": "ns1.kr1.yahoo.com.",
+      "Origin": "kr1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/kr3.yahoo.com..txt",
+      "NameServer": "ns1.kr3.yahoo.com.",
+      "Origin": "kr3.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/krn.yahoo.com..txt",
+      "NameServer": "ns1.krn.yahoo.com.",
+      "Origin": "krn.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/krs.yahoo.com..txt",
+      "NameServer": "ns1.krs.yahoo.com.",
+      "Origin": "krs.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/labs.corp.yahoo.com..txt",
+      "NameServer": "ns1.labs.corp.yahoo.com.",
+      "Origin": "labs.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/launch.yahoo.com..txt",
+      "NameServer": "ns1.launch.yahoo.com.",
+      "Origin": "launch.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/lga1.b.yahoo.com..txt",
+      "NameServer": "ns1.lga1.b.yahoo.com.",
+      "Origin": "lga1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/lgg1.b.yahoo.com..txt",
+      "NameServer": "ns1.lgg1.b.yahoo.com.",
+      "Origin": "lgg1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/lon.yahoo.com..txt",
+      "NameServer": "ns1.lon.yahoo.com.",
+      "Origin": "lon.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/london.corp.yahoo.com..txt",
+      "NameServer": "ns1.london.corp.yahoo.com.",
+      "Origin": "london.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/lorax.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.lorax.b1.b.corp.yahoo.com.",
+      "Origin": "lorax.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/mama.bkln.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.mama.bkln.b1.b.corp.yahoo.com.",
+      "Origin": "mama.bkln.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/marketinginfo.yahoo.com..txt",
+      "NameServer": "ns1.marketinginfo.yahoo.com.",
+      "Origin": "marketinginfo.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/miami.corp.yahoo.com..txt",
+      "NameServer": "ns1.miami.corp.yahoo.com.",
+      "Origin": "miami.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/msgr-tools.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.msgr-tools.b1.b.corp.yahoo.com.",
+      "Origin": "msgr-tools.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/mud.yahoo.com..txt",
+      "NameServer": "ns1.mud.yahoo.com.",
+      "Origin": "mud.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/munich.corp.yahoo.com..txt",
+      "NameServer": "ns1.munich.corp.yahoo.com.",
+      "Origin": "munich.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ne1.yahoo.com..txt",
+      "NameServer": "ns1.ne1.yahoo.com.",
+      "Origin": "ne1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/nodi.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.nodi.b1.b.corp.yahoo.com.",
+      "Origin": "nodi.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ny1.yahoo.com..txt",
+      "NameServer": "ns1.ny1.yahoo.com.",
+      "Origin": "ny1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/paydirect.yahoo.com..txt",
+      "NameServer": "ns1.paydirect.yahoo.com.",
+      "Origin": "paydirect.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/pool.ac4.yahoo.com..txt",
+      "NameServer": "ns1.pool.ac4.yahoo.com.",
+      "Origin": "pool.ac4.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/pool.corp.sp1.yahoo.com..txt",
+      "NameServer": "ns1.pool.corp.sp1.yahoo.com.",
+      "Origin": "pool.corp.sp1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/pool.sp1.yahoo.com..txt",
+      "NameServer": "ns1.pool.sp1.yahoo.com.",
+      "Origin": "pool.sp1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/pool.sp2.yahoo.com..txt",
+      "NameServer": "ns1.pool.sp2.yahoo.com.",
+      "Origin": "pool.sp2.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/premiumservices.yahoo.com..txt",
+      "NameServer": "ns1.premiumservices.yahoo.com.",
+      "Origin": "premiumservices.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/s1s.yahoo.com..txt",
+      "NameServer": "ns1.s1s.yahoo.com.",
+      "Origin": "s1s.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/s2e.yahoo.com..txt",
+      "NameServer": "ns1.s2e.yahoo.com.",
+      "Origin": "s2e.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/sandiego.corp.yahoo.com..txt",
+      "NameServer": "ns1.sandiego.corp.yahoo.com.",
+      "Origin": "sandiego.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/santamonica.corp.yahoo.com..txt",
+      "NameServer": "ns1.santamonica.corp.yahoo.com.",
+      "Origin": "santamonica.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/saopaulo.corp.yahoo.com..txt",
+      "NameServer": "ns1.saopaulo.corp.yahoo.com.",
+      "Origin": "saopaulo.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/search.by.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.search.by.b1.b.corp.yahoo.com.",
+      "Origin": "search.by.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/sg1-bycprd.corpapps.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.sg1-bycprd.corpapps.b1.b.corp.yahoo.com.",
+      "Origin": "sg1-bycprd.corpapps.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/sg1.yahoo.com..txt",
+      "NameServer": "ns1.sg1.yahoo.com.",
+      "Origin": "sg1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/sg3.yahoo.com..txt",
+      "NameServer": "ns1.sg3.yahoo.com.",
+      "Origin": "sg3.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/singapore.corp.yahoo.com..txt",
+      "NameServer": "ns1.singapore.corp.yahoo.com.",
+      "Origin": "singapore.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/site.yahoo.com..txt",
+      "NameServer": "ns1.site.yahoo.com.",
+      "Origin": "site.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/sk1.yahoo.com..txt",
+      "NameServer": "ns1.sk1.yahoo.com.",
+      "Origin": "sk1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/smca.yahoo.com..txt",
+      "NameServer": "ns1.smca.yahoo.com.",
+      "Origin": "smca.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/sp1.yahoo.com..txt",
+      "NameServer": "ns1.sp1.yahoo.com.",
+      "Origin": "sp1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/sp2.yahoo.com..txt",
+      "NameServer": "ns1.sp2.yahoo.com.",
+      "Origin": "sp2.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/spv.yahoo.com..txt",
+      "NameServer": "ns1.spv.yahoo.com.",
+      "Origin": "spv.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/store.yahoo.com..txt",
+      "NameServer": "ns1.store.yahoo.com.",
+      "Origin": "store.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/subversion.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.subversion.b1.b.corp.yahoo.com.",
+      "Origin": "subversion.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/syd.yahoo.com..txt",
+      "NameServer": "ns1.syd.yahoo.com.",
+      "Origin": "syd.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/sydney.corp.yahoo.com..txt",
+      "NameServer": "ns1.sydney.corp.yahoo.com.",
+      "Origin": "sydney.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/taipei.corp.yahoo.com..txt",
+      "NameServer": "ns1.taipei.corp.yahoo.com.",
+      "Origin": "taipei.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/tcv.yahoo.com..txt",
+      "NameServer": "ns1.tcv.yahoo.com.",
+      "Origin": "tcv.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/testmanager.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.testmanager.b1.b.corp.yahoo.com.",
+      "Origin": "testmanager.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/tp2.yahoo.com..txt",
+      "NameServer": "ns1.tp2.yahoo.com.",
+      "Origin": "tp2.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/tpc.yahoo.com..txt",
+      "NameServer": "ns1.tpc.yahoo.com.",
+      "Origin": "tpc.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/tpe.yahoo.com..txt",
+      "NameServer": "ns1.tpe.yahoo.com.",
+      "Origin": "tpe.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/tpv.yahoo.com..txt",
+      "NameServer": "ns1.tpv.yahoo.com.",
+      "Origin": "tpv.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/trondheim.corp.yahoo.com..txt",
+      "NameServer": "ns1.trondheim.corp.yahoo.com.",
+      "Origin": "trondheim.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/tw1.yahoo.com..txt",
+      "NameServer": "ns1.tw1.yahoo.com.",
+      "Origin": "tw1.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ubcity.corp.yahoo.com..txt",
+      "NameServer": "ns1.ubcity.corp.yahoo.com.",
+      "Origin": "ubcity.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ukl.yahoo.com..txt",
+      "NameServer": "ns1.ukl.yahoo.com.",
+      "Origin": "ukl.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/uls.yahoo.com..txt",
+      "NameServer": "ns1.uls.yahoo.com.",
+      "Origin": "uls.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/wa1.b.yahoo.com..txt",
+      "NameServer": "ns1.wa1.b.yahoo.com.",
+      "Origin": "wa1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/wg1.b.yahoo.com..txt",
+      "NameServer": "ns1.wg1.b.yahoo.com.",
+      "Origin": "wg1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/yahoo.com..txt",
+      "NameServer": "ns1.yahoo.com.",
+      "Origin": "yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/yoc.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.yoc.b1.b.corp.yahoo.com.",
+      "Origin": "yoc.b1.b.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ysm.yahoo.com..txt",
+      "NameServer": "ns1.ysm.yahoo.com.",
+      "Origin": "ysm.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/yst.corp.yahoo.com..txt",
+      "NameServer": "ns1.yst.corp.yahoo.com.",
+      "Origin": "yst.corp.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ysta1.b.yahoo.com..txt",
+      "NameServer": "ns1.ysta1.b.yahoo.com.",
+      "Origin": "ysta1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/ystg1.b.yahoo.com..txt",
+      "NameServer": "ns1.ystg1.b.yahoo.com.",
+      "Origin": "ystg1.b.yahoo.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yahoo.com/zippy.b1.b.corp.yahoo.com..txt",
+      "NameServer": "ns1.zippy.b1.b.corp.yahoo.com.",
+      "Origin": "zippy.b1.b.corp.yahoo.com."
+    }
+  ]
+}

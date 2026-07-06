@@ -1,0 +1,682 @@
+{
+  "TopNameServers": [
+    "ns1.wa.gov."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/agencymeddirectors.wa.gov..txt",
+      "NameServer": "ns1.agencymeddirectors.wa.gov.",
+      "Origin": "agencymeddirectors.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/agr.wa.gov..txt",
+      "NameServer": "ns1.agr.wa.gov.",
+      "Origin": "agr.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/arts.wa.gov..txt",
+      "NameServer": "ns1.arts.wa.gov.",
+      "Origin": "arts.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/atg.wa.gov..txt",
+      "NameServer": "ns1.atg.wa.gov.",
+      "Origin": "atg.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/bces.wa.gov..txt",
+      "NameServer": "ns1.bces.wa.gov.",
+      "Origin": "bces.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/bfhd.wa.gov..txt",
+      "NameServer": "ns1.bfhd.wa.gov.",
+      "Origin": "bfhd.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/biia.wa.gov..txt",
+      "NameServer": "ns1.biia.wa.gov.",
+      "Origin": "biia.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/biodiversity.wa.gov..txt",
+      "NameServer": "ns1.biodiversity.wa.gov.",
+      "Origin": "biodiversity.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/bvff.wa.gov..txt",
+      "NameServer": "ns1.bvff.wa.gov.",
+      "Origin": "bvff.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/caa.wa.gov..txt",
+      "NameServer": "ns1.caa.wa.gov.",
+      "Origin": "caa.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/cag.wa.gov..txt",
+      "NameServer": "ns1.cag.wa.gov.",
+      "Origin": "cag.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/capaa.wa.gov..txt",
+      "NameServer": "ns1.capaa.wa.gov.",
+      "Origin": "capaa.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/careerbridge.wa.gov..txt",
+      "NameServer": "ns1.careerbridge.wa.gov.",
+      "Origin": "careerbridge.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/careers.wa.gov..txt",
+      "NameServer": "ns1.careers.wa.gov.",
+      "Origin": "careers.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/ccf.wa.gov..txt",
+      "NameServer": "ns1.ccf.wa.gov.",
+      "Origin": "ccf.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/cdhd.wa.gov..txt",
+      "NameServer": "ns1.cdhd.wa.gov.",
+      "Origin": "cdhd.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/cfd.wa.gov..txt",
+      "NameServer": "ns1.cfd.wa.gov.",
+      "Origin": "cfd.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/cha.wa.gov..txt",
+      "NameServer": "ns1.cha.wa.gov.",
+      "Origin": "cha.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/citizencorps.wa.gov..txt",
+      "NameServer": "ns1.citizencorps.wa.gov.",
+      "Origin": "citizencorps.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/clark.wa.gov..txt",
+      "NameServer": "ns1.clark.wa.gov.",
+      "Origin": "clark.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/commerce.wa.gov..txt",
+      "NameServer": "ns1.commerce.wa.gov.",
+      "Origin": "commerce.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/connect.wa.gov..txt",
+      "NameServer": "ns1.connect.wa.gov.",
+      "Origin": "connect.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/courts.wa.gov..txt",
+      "NameServer": "ns1.courts.wa.gov.",
+      "Origin": "courts.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/cpaboard.wa.gov..txt",
+      "NameServer": "ns1.cpaboard.wa.gov.",
+      "Origin": "cpaboard.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/crab.wa.gov..txt",
+      "NameServer": "ns1.crab.wa.gov.",
+      "Origin": "crab.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/cted.wa.gov..txt",
+      "NameServer": "ns1.cted.wa.gov.",
+      "Origin": "cted.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dahp.wa.gov..txt",
+      "NameServer": "ns1.dahp.wa.gov.",
+      "Origin": "dahp.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/del.wa.gov..txt",
+      "NameServer": "ns1.del.wa.gov.",
+      "Origin": "del.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/des.wa.gov..txt",
+      "NameServer": "ns1.des.wa.gov.",
+      "Origin": "des.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dfi.wa.gov..txt",
+      "NameServer": "ns1.dfi.wa.gov.",
+      "Origin": "dfi.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dfw.wa.gov..txt",
+      "NameServer": "ns1.dfw.wa.gov.",
+      "Origin": "dfw.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/digitalarchives.wa.gov..txt",
+      "NameServer": "ns1.digitalarchives.wa.gov.",
+      "Origin": "digitalarchives.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dis.wa.gov..txt",
+      "NameServer": "ns1.dis.wa.gov.",
+      "Origin": "dis.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dnr.wa.gov..txt",
+      "NameServer": "ns1.dnr.wa.gov.",
+      "Origin": "dnr.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/doc.wa.gov..txt",
+      "NameServer": "ns1.doc.wa.gov.",
+      "Origin": "doc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/doc1.wa.gov..txt",
+      "NameServer": "ns1.doc1.wa.gov.",
+      "Origin": "doc1.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/doh.wa.gov..txt",
+      "NameServer": "ns1.doh.wa.gov.",
+      "Origin": "doh.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dol.wa.gov..txt",
+      "NameServer": "ns1.dol.wa.gov.",
+      "Origin": "dol.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dop.wa.gov..txt",
+      "NameServer": "ns1.dop.wa.gov.",
+      "Origin": "dop.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dor.wa.gov..txt",
+      "NameServer": "ns1.dor.wa.gov.",
+      "Origin": "dor.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/drs.wa.gov..txt",
+      "NameServer": "ns1.drs.wa.gov.",
+      "Origin": "drs.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dsb.wa.gov..txt",
+      "NameServer": "ns1.dsb.wa.gov.",
+      "Origin": "dsb.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dshs.wa.gov..txt",
+      "NameServer": "ns1.dshs.wa.gov.",
+      "Origin": "dshs.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/dva.wa.gov..txt",
+      "NameServer": "ns1.dva.wa.gov.",
+      "Origin": "dva.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/ecy.wa.gov..txt",
+      "NameServer": "ns1.ecy.wa.gov.",
+      "Origin": "ecy.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/efsec.wa.gov..txt",
+      "NameServer": "ns1.efsec.wa.gov.",
+      "Origin": "efsec.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/eho.wa.gov..txt",
+      "NameServer": "ns1.eho.wa.gov.",
+      "Origin": "eho.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/emd.wa.gov..txt",
+      "NameServer": "ns1.emd.wa.gov.",
+      "Origin": "emd.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/epermitting.wa.gov..txt",
+      "NameServer": "ns1.epermitting.wa.gov.",
+      "Origin": "epermitting.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/erfc.wa.gov..txt",
+      "NameServer": "ns1.erfc.wa.gov.",
+      "Origin": "erfc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/esd.wa.gov..txt",
+      "NameServer": "ns1.esd.wa.gov.",
+      "Origin": "esd.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/ethics.wa.gov..txt",
+      "NameServer": "ns1.ethics.wa.gov.",
+      "Origin": "ethics.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/fiscal.wa.gov..txt",
+      "NameServer": "ns1.fiscal.wa.gov.",
+      "Origin": "fiscal.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/ga.wa.gov..txt",
+      "NameServer": "ns1.ga.wa.gov.",
+      "Origin": "ga.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/get.wa.gov..txt",
+      "NameServer": "ns1.get.wa.gov.",
+      "Origin": "get.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/gmap.wa.gov..txt",
+      "NameServer": "ns1.gmap.wa.gov.",
+      "Origin": "gmap.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/gmhb.wa.gov..txt",
+      "NameServer": "ns1.gmhb.wa.gov.",
+      "Origin": "gmhb.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/goia.wa.gov..txt",
+      "NameServer": "ns1.goia.wa.gov.",
+      "Origin": "goia.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/gov.wa.gov..txt",
+      "NameServer": "ns1.gov.wa.gov.",
+      "Origin": "gov.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/governor.wa.gov..txt",
+      "NameServer": "ns1.governor.wa.gov.",
+      "Origin": "governor.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/hca.wa.gov..txt",
+      "NameServer": "ns1.hca.wa.gov.",
+      "Origin": "hca.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/hccc.wa.gov..txt",
+      "NameServer": "ns1.hccc.wa.gov.",
+      "Origin": "hccc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/healthequity.wa.gov..txt",
+      "NameServer": "ns1.healthequity.wa.gov.",
+      "Origin": "healthequity.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/hecb.wa.gov..txt",
+      "NameServer": "ns1.hecb.wa.gov.",
+      "Origin": "hecb.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/housedemocrats.wa.gov..txt",
+      "NameServer": "ns1.housedemocrats.wa.gov.",
+      "Origin": "housedemocrats.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/houserepublicans.wa.gov..txt",
+      "NameServer": "ns1.houserepublicans.wa.gov.",
+      "Origin": "houserepublicans.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/hum.wa.gov..txt",
+      "NameServer": "ns1.hum.wa.gov.",
+      "Origin": "hum.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/iac.wa.gov..txt",
+      "NameServer": "ns1.iac.wa.gov.",
+      "Origin": "iac.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/insurance.wa.gov..txt",
+      "NameServer": "ns1.insurance.wa.gov.",
+      "Origin": "insurance.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/invasivespecies.wa.gov..txt",
+      "NameServer": "ns1.invasivespecies.wa.gov.",
+      "Origin": "invasivespecies.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/isb.wa.gov..txt",
+      "NameServer": "ns1.isb.wa.gov.",
+      "Origin": "isb.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/leg.wa.gov..txt",
+      "NameServer": "ns1.leg.wa.gov.",
+      "Origin": "leg.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/leoff.wa.gov..txt",
+      "NameServer": "ns1.leoff.wa.gov.",
+      "Origin": "leoff.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/liq.wa.gov..txt",
+      "NameServer": "ns1.liq.wa.gov.",
+      "Origin": "liq.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/litter.wa.gov..txt",
+      "NameServer": "ns1.litter.wa.gov.",
+      "Origin": "litter.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/lni.wa.gov..txt",
+      "NameServer": "ns1.lni.wa.gov.",
+      "Origin": "lni.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/ltgov.wa.gov..txt",
+      "NameServer": "ns1.ltgov.wa.gov.",
+      "Origin": "ltgov.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/mil.wa.gov..txt",
+      "NameServer": "ns1.mil.wa.gov.",
+      "Origin": "mil.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/nwcb.wa.gov..txt",
+      "NameServer": "ns1.nwcb.wa.gov.",
+      "Origin": "nwcb.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/nwifc.wa.gov..txt",
+      "NameServer": "ns1.nwifc.wa.gov.",
+      "Origin": "nwifc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/ofm.wa.gov..txt",
+      "NameServer": "ns1.ofm.wa.gov.",
+      "Origin": "ofm.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/omwbe.wa.gov..txt",
+      "NameServer": "ns1.omwbe.wa.gov.",
+      "Origin": "omwbe.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/opd.wa.gov..txt",
+      "NameServer": "ns1.opd.wa.gov.",
+      "Origin": "opd.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/ora.wa.gov..txt",
+      "NameServer": "ns1.ora.wa.gov.",
+      "Origin": "ora.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/parks.wa.gov..txt",
+      "NameServer": "ns1.parks.wa.gov.",
+      "Origin": "parks.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/pdc.wa.gov..txt",
+      "NameServer": "ns1.pdc.wa.gov.",
+      "Origin": "pdc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/perc.wa.gov..txt",
+      "NameServer": "ns1.perc.wa.gov.",
+      "Origin": "perc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/performance.wa.gov..txt",
+      "NameServer": "ns1.performance.wa.gov.",
+      "Origin": "performance.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/pgn.cted.wa.gov..txt",
+      "NameServer": "ns1.pgn.cted.wa.gov.",
+      "Origin": "pgn.cted.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/psat.wa.gov..txt",
+      "NameServer": "ns1.psat.wa.gov.",
+      "Origin": "psat.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/psp.wa.gov..txt",
+      "NameServer": "ns1.psp.wa.gov.",
+      "Origin": "psp.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/rco.wa.gov..txt",
+      "NameServer": "ns1.rco.wa.gov.",
+      "Origin": "rco.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/recovery.wa.gov..txt",
+      "NameServer": "ns1.recovery.wa.gov.",
+      "Origin": "recovery.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/redistricting.wa.gov..txt",
+      "NameServer": "ns1.redistricting.wa.gov.",
+      "Origin": "redistricting.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/rtc.wa.gov..txt",
+      "NameServer": "ns1.rtc.wa.gov.",
+      "Origin": "rtc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/rx.wa.gov..txt",
+      "NameServer": "ns1.rx.wa.gov.",
+      "Origin": "rx.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/salaries.wa.gov..txt",
+      "NameServer": "ns1.salaries.wa.gov.",
+      "Origin": "salaries.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/sao.wa.gov..txt",
+      "NameServer": "ns1.sao.wa.gov.",
+      "Origin": "sao.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/sbcc.wa.gov..txt",
+      "NameServer": "ns1.sbcc.wa.gov.",
+      "Origin": "sbcc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/sbe.wa.gov..txt",
+      "NameServer": "ns1.sbe.wa.gov.",
+      "Origin": "sbe.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/scc.wa.gov..txt",
+      "NameServer": "ns1.scc.wa.gov.",
+      "Origin": "scc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/sdc.wa.gov..txt",
+      "NameServer": "ns1.sdc.wa.gov.",
+      "Origin": "sdc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/secstate.wa.gov..txt",
+      "NameServer": "ns1.secstate.wa.gov.",
+      "Origin": "secstate.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/senatedemocrats.wa.gov..txt",
+      "NameServer": "ns1.senatedemocrats.wa.gov.",
+      "Origin": "senatedemocrats.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/senaterepublicans.wa.gov..txt",
+      "NameServer": "ns1.senaterepublicans.wa.gov.",
+      "Origin": "senaterepublicans.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/sgc.wa.gov..txt",
+      "NameServer": "ns1.sgc.wa.gov.",
+      "Origin": "sgc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/sib.wa.gov..txt",
+      "NameServer": "ns1.sib.wa.gov.",
+      "Origin": "sib.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/siec.wa.gov..txt",
+      "NameServer": "ns1.siec.wa.gov.",
+      "Origin": "siec.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/snohomish.wa.gov..txt",
+      "NameServer": "ns1.snohomish.wa.gov.",
+      "Origin": "snohomish.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/sos.wa.gov..txt",
+      "NameServer": "ns1.sos.wa.gov.",
+      "Origin": "sos.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/srb.wa.gov..txt",
+      "NameServer": "ns1.srb.wa.gov.",
+      "Origin": "srb.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/statelib.wa.gov..txt",
+      "NameServer": "ns1.statelib.wa.gov.",
+      "Origin": "statelib.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/tib.wa.gov..txt",
+      "NameServer": "ns1.tib.wa.gov.",
+      "Origin": "tib.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/tourism.wa.gov..txt",
+      "NameServer": "ns1.tourism.wa.gov.",
+      "Origin": "tourism.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/tre.wa.gov..txt",
+      "NameServer": "ns1.tre.wa.gov.",
+      "Origin": "tre.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/utc.wa.gov..txt",
+      "NameServer": "ns1.utc.wa.gov.",
+      "Origin": "utc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/vote.wa.gov..txt",
+      "NameServer": "ns1.vote.wa.gov.",
+      "Origin": "vote.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wa.gov..txt",
+      "NameServer": "ns1.wa.gov.",
+      "Origin": "wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wadot.wa.gov..txt",
+      "NameServer": "ns1.wadot.wa.gov.",
+      "Origin": "wadot.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/washingtonlearns.wa.gov..txt",
+      "NameServer": "ns1.washingtonlearns.wa.gov.",
+      "Origin": "washingtonlearns.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wcrp.wa.gov..txt",
+      "NameServer": "ns1.wcrp.wa.gov.",
+      "Origin": "wcrp.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wdfw.wa.gov..txt",
+      "NameServer": "ns1.wdfw.wa.gov.",
+      "Origin": "wdfw.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wedc.wa.gov..txt",
+      "NameServer": "ns1.wedc.wa.gov.",
+      "Origin": "wedc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wsac.wa.gov..txt",
+      "NameServer": "ns1.wsac.wa.gov.",
+      "Origin": "wsac.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wsd.wa.gov..txt",
+      "NameServer": "ns1.wsd.wa.gov.",
+      "Origin": "wsd.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wsdot.wa.gov..txt",
+      "NameServer": "ns1.wsdot.wa.gov.",
+      "Origin": "wsdot.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wsgc.wa.gov..txt",
+      "NameServer": "ns1.wsgc.wa.gov.",
+      "Origin": "wsgc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wshs.wa.gov..txt",
+      "NameServer": "ns1.wshs.wa.gov.",
+      "Origin": "wshs.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wsipp.wa.gov..txt",
+      "NameServer": "ns1.wsipp.wa.gov.",
+      "Origin": "wsipp.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wsp.wa.gov..txt",
+      "NameServer": "ns1.wsp.wa.gov.",
+      "Origin": "wsp.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wssb.wa.gov..txt",
+      "NameServer": "ns1.wssb.wa.gov.",
+      "Origin": "wssb.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wstc.wa.gov..txt",
+      "NameServer": "ns1.wstc.wa.gov.",
+      "Origin": "wstc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wtb.wa.gov..txt",
+      "NameServer": "ns1.wtb.wa.gov.",
+      "Origin": "wtb.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wtsc.wa.gov..txt",
+      "NameServer": "ns1.wtsc.wa.gov.",
+      "Origin": "wtsc.wa.gov."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wa.gov/wutc.wa.gov..txt",
+      "NameServer": "ns1.wutc.wa.gov.",
+      "Origin": "wutc.wa.gov."
+    }
+  ]
+}

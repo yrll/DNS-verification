@@ -1,0 +1,1157 @@
+.
+.
+Latest updates: hps://dl.acm.org/doi/10.1145/3387514.3405871
+.
+.
+RESEARCH-ARTICLE
+GRooT: Proactive Verification of DNS Configurations
+SIVA KESAVA KAKARLA, University of California, Los Angeles, Los Angeles, CA, United
+States
+.
+RYAN BECKETT, Microso Research, Redmond, WA, United States
+.
+BEHNAZ ARZANI, Microso Research, Redmond, WA, United States
+.
+TODD MILLSTEIN
+.
+GEORGE VARGHESE, University of California, Los Angeles, Los Angeles, CA, United States
+.
+.
+.
+Open Access Support provided by:
+.
+University of California, Los Angeles
+.
+Microso Research
+.
+PDF Download
+3387514.3405871.pdf
+22 January 2026
+Total Citations: 19
+Total Downloads: 2818
+.
+.Published: 30 July 2020
+.
+.
+Citation in BibTeX format
+.
+.
+SIGCOMM '20: Annual conference of
+the ACM Special Interest Group on Data
+Communication on the applications,
+technologies, architectures, and protocols
+for computer communication
+August 10 - 14, 2020
+Virtual Event, USA
+.
+.
+Conference Sponsors:
+SIGCOMM
+SIGCOMM '20: Proceedings of the Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer
+communication (July 2020)
+hps://doi.org/10.1145/3387514.3405871
+ISBN: 9781450379557
+.
+
+GRoot: Proactive Verification of DNS Configurations
+Siva Kesava Reddy Kakarla
+UCLA
+sivakesava@cs.ucla.eduRyan Beckett
+Microsoft Research
+ryan.beckett@microsoft.comBehnaz Arzani
+Microsoft Research
+bearzani@microsoft.com
+Todd Millstein
+UCLA & Intentionet
+todd@cs.ucla.eduGeorge Varghese
+UCLA
+varghese@cs.ucla.edu
+ABSTRACT
+The Domain Name System (DNS) plays a vital role in today’s Inter-
+net but relies on complex distributed management of records. DNS
+misconfiguration related outages have rendered popular services
+like GitHub, HBO, LinkedIn, and Azure inaccessible for extended pe-
+riods. This paper introduces GRoot, the first verifier that performs
+static analysis of DNS configuration files, enabling proactive and
+exhaustive checking for common DNS bugs; by contrast, existing
+solutions are reactive andincomplete. GRoot uses a new, fast verifi-
+cation algorithm based on generating and enumerating DNS query
+equivalence classes. GRoot symbolically executes the set of queries
+in each equivalence class to efficiently find (or prove the absence
+of) any bugs such as rewrite loops. To prove the correctness of our
+approach, we develop a formal semantic model of DNS resolution.
+Applied to the configuration files from a campus network with
+over a hundred thousand records, GRoot revealed 109 bugs within
+seconds. When applied to internal zone files consisting of over 3.5
+million records from a large infrastructure service provider, GRoot
+revealed around 160k issues of blackholing, initiating a cleanup.
+Finally, on a synthetic dataset with over 65 million real records, we
+findGRoot can scale to networks with tens of millions of records.
+CCS CONCEPTS
+•Software and its engineering →Software maintenance tools ;•
+Networks→Application layer protocols ;Network management ;•
+Theory of computation →Logic and verification .
+KEYWORDS
+DNS, Verification, Static Analysis, Formal Methods
+ACM Reference Format:
+Siva Kesava Reddy Kakarla, Ryan Beckett, Behnaz Arzani, Todd Mill-
+stein, and George Varghese. 2020. GRoot: Proactive Verification of DNS
+Configurations. In Annual conference of the ACM Special Interest Group
+on Data Communication on the applications, technologies, architectures,
+and protocols for computer communication (SIGCOMM ’20), August 10–
+14, 2020, Virtual Event, NY, USA. ACM, New York, NY, USA, 19pages.
+https://doi.org/10.1145/3387514.3405871
+SIGCOMM ’20, August  10–14, 2020, Virtual Event, NY, USA
+© 2020 Copyright held by the owner/author(s).
+ACM ISBN 978-1-4503-7955-7/20/08.
+https://doi.org/10.1145/3387514.34058711 INTRODUCTION
+The Domain Name System (DNS) is one of the largest distributed
+systems in use on the Internet today. It implements the fundamental
+service of name resolution: allowing users to connect to online ser-
+vices through user-friendly domain names in place of IP addresses,
+and enabling new applications ranging from service discovery [ 9]
+to load balancing [ 6,23] to spam filtering [12, 13,30,31,44].
+To operate at global scale, DNS implements a hierarchical data-
+base managed by a distributed collection of organizations; each
+organization is responsible for maintaining a subset of the DNS
+infrastructure to provide name resolution for its portion of the DNS
+namespace (e.g., sigcomm.org ). Operators within organizations
+manage the DNS through configuration zone files, which specify
+how DNS should respond to different types of user queries (e.g.,
+whether to return an IP address, rewrite the user query, delegate
+the query to another domain, etc.). While some automation ex-
+ists — for example in master-slave replication of servers — many
+data records are manually configured, especially at the interfaces
+between ownership boundaries. For example, customers of CDNs
+such as Akamai must manually configure their DNS records to
+point to CDN locations [1].
+The scale and complexity of DNS makes its management difficult,
+and consequently, configuration errors that lead to performance
+or connectivity issues are widespread in practice [ 3,16,20,24,38,
+40,48,50]. To make matters worse, configuration errors in DNS
+are often highly disruptive due to its global presence and residual
+caching effects from resolvers. For example, a 2014 misconfiguration
+at GitHub resulted in a loss of access to open source repositories
+[16] (possibly impacting SIGCOMM authors that year), and a mis-
+configuration for the JavaScript Node Package Manager (NPM)
+caused users to lose access to the service world-wide [ 15]. In both
+cases the outages persisted for hours as a result of DNS resolvers
+caching the misconfigured response. Perhaps the most severe of
+these outages was one caused by a recent DNS misconfiguration at
+Microsoft [ 43] that resulted in a global outage impacting all Azure
+customers for 2 hours. The error was caused by a management pro-
+cess necessitated by a migration, which resulted in an inconsistency
+among zone file replicas.
+To prevent DNS-related outages, operators today rely on a mix of
+techniques such as monitoring [ 28,49], testing [ 10,22], linting [ 34]
+and manual review. While these approaches are often effective at
+identifying issues, most of them can only catch errors after they
+have already been introduced into a live system. For instance, so-
+lutions based on monitoring have this limitation and are further
+310This work is licensed under a Creative Commons Attribution International 4.0 License.
+
+SIGCOMM ’20, August 10–14, 2020, Virtual Event, NY, USA Siva Kesava Reddy Kakarla, Ryan Beckett, Behnaz Arzani, Todd Millstein, and George Varghese
+nameserver: a.gtld-servers .net.
+$ORIGIN com .
+mybankcard.com.IN NS ns1 .fnni.com. a
+mybankcard.com.IN NS ns2 .fnni.net. b
+ns1.fnni.com. IN A 216.205.207.204 c
+nameserver: ns1.fnni.com.
+$ORIGIN mybankcard .com.
+mybankcard.com.IN NS ns1 .fnni.com. d
+mybankcard.com.IN NS ns2 .fnni.net. e
+mybankcard.com.IN DNAME bankcard .com. f
+$ORIGIN bankcard .com.
+www.bankcard.com. IN AAAA 74d7::b94d:d07 g
+www.bankcard.com. IN A 204.58.233.75 h
+email.bankcard.com.IN A 66.161.21.26 i
+∗.bankcard.com. IN A 204.58.233.244 jnameserver: ns2.fnni.net.
+$ORIGIN mybankcard .com.
+mybankcard.com.IN NS ns1 .fnni.net. k
+mybankcard.com.IN NS ns2 .fnni.net. l
+mybankcard.com.IN DNAME bankcard .com. m
+$ORIGIN bankcard .com.
+www.bankcard.com. IN AAAA 74d7::b94d:d07 n
+www.bankcard.com. IN A 204.58.233.75 o
+email.bankcard.com.IN A 66.161.21.26 p
+∗.bankcard.com. IN CNAME www .bankcard.com.q
+Figure 1: Example zone files for three nameservers: a.gtld -servers.net,ns1.fnni.com, and ns2.fnni.net. The query
+⟨support.mybankcard .com,A⟩has two possible executions: one for records ⟨𝑎,𝑓,𝑗⟩and another for⟨𝑏,𝑚,𝑞,𝑜⟩.
+complicated by deployment factors such as caching, which can de-
+lay the identification of a problem, and geo-replication, which can
+alter the nameserver used to resolve a query based on the client’s
+geographic location. Further, none of these approaches can provide
+strong guarantees — the system may still have bugs even after
+successfully passing all of these checks.
+To address the problem of DNS misconfiguration, we present
+GRoot , which, to the best of our knowledge, is the first verification
+tool for DNS configurations. Given the DNS zone files of an organi-
+zation and a property Φof interest, GRoot will either verify that Φ
+holds for all possible DNS queries or provide a counterexample.
+While the number of possible DNS queries is huge, we observe
+that the number of distinct behaviors is much smaller and is a func-
+tion of the DNS configuration files. Based on this insight, GRoot
+first performs an analysis of the DNS configuration to partition
+all possible queries into equivalence classes (ECs) each of which
+captures a distinct behavior. The key property of this partition is
+that two queries in the same EC resolve to the same set of possible
+answers (in general a query can have multiple possible answers
+due to nondeterminism inherent in the DNS resolution process)
+in the given DNS configuration. GRoot then performs a symbolic
+execution of each EC to produce its set of answers and check the
+given property Φ. Although existing standards [ 36,37,41] spec-
+ify the behaviour of the DNS, these standards are informal and
+described in English. Therefore, as part of this work we present a
+mathematical formalization that allows for automatically verifying
+DNS configurations and detecting any misconfiguration. Our for-
+mal model of the existing DNS resolution standards is crucial for
+the efficient symbolic execution in GRoot .
+We applied GRoot to the configuration files we obtained from a
+large campus network which has over a hundred thousand records,
+GRoot revealed 109 new bugs and completed in under 10 seconds.
+GRoot identified bugs in the network ranging from delegationinconsistencies to lame delegations to rewrite loops and others.
+When applied to internal zone files consisting of over 3.5 million
+records from a large infrastructure service provider, GRoot revealed
+around 160k issues of blackholing, which initiated a cleanup of the
+zone files. Finally, on a synthetic dataset that we created from over
+65 million real DNS records [ 11] we found that GRoot can scale
+to networks with tens of millions of records spread across tens of
+thousands of zones.
+To summarize, we make the following contributions:
+•A formal model of the DNS. To the best of our knowledge,
+we present the first formal model of DNS that captures the
+semantics of both the authoritative and recursive systems.
+•A fast verification algorithm. Using our formal model of
+the DNS, we describe, and prove the correctness of, a fast
+algorithm to generate equivalence classes of DNS queries.
+These equivalence classes enable GRoot to efficiently, and
+exhaustively, check the correctness of DNS zone files.
+•Evaluation on production configuration files. We eval-
+uateGRoot using data from (1)configurations obtained from
+a large campus network, (2)configurations obtained from
+a large infrastructure service provider, and (3)a synthetic
+dataset built from over 65 million Internet records, showing
+thatGRoot is effective at finding bugs and verifying large
+configurations.
+Ethics. Our formal model and tool GRoot could be used to prevent
+potential attacks against DNS infrastructure (e.g., input queries that
+result in the most work possible being performed) as one can check
+if there is any input query that can lead to an attack. On the flip
+side, if an attacker has access to the tool and the organization’s
+zone files, they could also do the same. However, gaining access to
+an organization’s internal zone files is inherently difficult.
+311
+GRoot : Proactive Verification of DNS Configurations SIGCOMM ’20, August 10–14, 2020, Virtual Event, NY, USA
+Bug Description
+Delegation Inconsistency The parent and child zone files do not have the same set of NSandA(glue) records for delegation
+Lame Delegation A name server that is authoritative for a zone does not provide authoritative answers
+Missing Glue Records The zone file is missing required “glue” AorAAAA records for nameservers in NSrecords
+Non-Existent Domain for Service DNS returns the NXDOMAIN answer for a known service (e.g., sigcomm.org )
+Cyclic Zone Dependency Resolving a query for zone 𝑍1depends on𝑍2, which depends on 𝑍1
+Rewrite Loop There exists a query that is rewritten in a loop 𝑞1→𝑞2→𝑞3→...→𝑞1
+Query Exceeds Maximum Length There exists a query 𝑞1is that is eventually rewritten to 𝑞𝑛which exceeds the max label or domain length
+Answer Inconsistency Different executions in DNS result in different answers
+Zero Time To Live There exists a query which will return a resource record with the TTL set to 0, which prevents caching
+Rewrite Blackholing There exists a query 𝑞1that is eventually rewritten to 𝑞𝑛which does not exist and DNS returns NXDOMAIN
+Table 1: Sample subset of possible bugs. Several are taken from previous work [39] while we proposed the rest.
+2 BACKGROUND AND MOTIVATION
+Conceptually, DNS provides a mapping between “human-readable”
+domain names used to identify services and “machine-readable” IP
+addresses needed to locate those services. In this context, a domain
+name is a URL such as mybankcard.com . Domain names naturally
+form a partial order. For example, we say that mybankcard.com
+is the parent ofsupport.mybankcard.com , and accordingly
+support.mybankcard.com is achild ofmybankcard.com . We also
+consider support.mybankcard.com ,mybankcard.com , and comto
+beprefixes ofsupport.mybankcard.com (explained in §3). A DNS
+query contains a domain name, and a query is resolved by the DNS in
+order to produce say, a corresponding IP address. For example a DNS
+query for mybankcard.com may resolve to the IP 204.58.233.75 .
+Management of the DNS database is partitioned across mul-
+tiple nameservers , which are maintained by different organiza-
+tions and which are themselves referenced via domain names
+(e.g., ns1.fnni.com ). For example, owners of domains such as
+google.com ,microsoft.com , and netflix.com each manage their
+own DNS nameservers. A nameserver includes a collection of zones ,
+each of which contains DNS records that provide information for
+resolving a particular domain name and possibly some of its chil-
+dren. In its simplest form, this information is simply the IP address
+corresponding to the domain name. However, as our example below
+shows, a wide variety of other types of information exist as well,
+including: start of authority data ( SOA), text data ( TXT), mail ex-
+change server data ( MX), record aliases ( CNAME ), domain redirections
+(DNAME ), nameserver referrals ( NS), reverse IP-to-domain mappings
+(PTR), and many others [36, 41].
+When a user enters a URL (e.g., support.bankcard.com ) into
+a browser, a DNS query is sent to the ISP’s DNS resolver , which
+traverses the DNS database to resolve the query. It does so using a
+recursive process of querying nameservers, starting from a known
+root nameserver and continuing to other nameservers until the
+query is sent to a nameserver that has an authoritative answer for
+the query. We next illustrate this process with a small example and
+then use it to describe the challenges of proper DNS configuration.
+2.1 An example of DNS resolution
+To see how a DNS query gets resolved, consider the configuration
+zone files shown in Figure 1, which are based on real records we
+observed in practice (simplified and anonymized for presentation).
+There are five zone files spread across three different nameservers
+(a.gtld-servers.net ,ns1.fnni.com , and ns2.fnni.net ). Eachnameserver serves one or more zones (e.g., mybankcard.com and
+bankcard.com ), and is configured to hold a set of resource records
+in each zone. We depict each record with an accompanying label
+(e.g., a) and refer to those labels when discussing a record. Each
+record has a domain name “key” and a value, along with other
+information such as the record type. For instance, record ais for
+the domain name mybankcard.com and has type NS, which means
+the “value” refers to another nameserver ( ns1.fnni.com ).
+Suppose a user issues a DNS query for the IP address of the
+domain name support.mybankcard.com . The query is represented
+as the tuple⟨support.mybankcard .com,A⟩, where Arepresents the
+IPv4 record type. Assuming the answer is not already cached, the
+resolver will issue the query to a known default nameserver, for
+instance a.gtld-servers.net in this example. The nameserver
+is now responsible for answering this query, either by answering
+directly, or by referring the resolver to other nameservers.
+To do so, the nameserver will lookup the closest matching
+records for the query (roughly speaking the records with the longest
+matching prefix). For support.mybankcard.com , this will be the NS
+records with domain name mybankcard.com {a,b}. The name-
+server will respond with both records, which indicate the resolver
+should continue by asking another nameserver ( ns1.fnni.com
+orns2.fnni.net ). In this particular case, the nameserver will
+also include c(glue record) in its response, the IPv4 address to
+reach ns1.fnni.com , according to the wider definition of Bailiwick
+rule[21] (a.gtld-servers.net includes the IPv4 records for the
+referred nameserver even if under a sibling domain ( fnni.com )).
+After receiving a response from a.gtld-servers.net , the re-
+solver will then nondeterministically chose one of the two new
+nameservers to ask next. In practice, this decision is often influenced
+by heuristics such as the estimated RTT to the nameserver. Suppose
+the resolver chooses to query ns1.fnni.com next. The same query
+support.mybankcard .comis sent to the nameserver, which hosts
+two zones ( mybankcard.com andbankcard.com ). The nameserver
+will choose the closest matching zone ( mybankcard.com ) and then
+proceed as before. This time, the most relevant record is the DNAME
+record f. ADNAME record performs a query rewrite, in this case to
+redirect the user to bankcard.com . Specifically, fwill rewrite the
+query prefix mybankcard.com tobankcard.com , yielding the new
+query support.bankcard.com .
+The nameserver will now re-evaluate this new query since
+it has a configuration locally for the zone bankcard.com . This
+zone has IP records for the domains www.bankcard.com and
+312
+SIGCOMM ’20, August 10–14, 2020, Virtual Event, NY, USA Siva Kesava Reddy Kakarla, Ryan Beckett, Behnaz Arzani, Todd Millstein, and George Varghese
+(1)𝑑1≃𝑗𝑑2def=(0≤𝑗≤min(|𝑑1|,|𝑑2|))∧(∀𝑖.0<𝑖≤𝑗=⇒𝑑1[𝑖]=𝑑2[𝑖]) domain prefix match
+(2)max≃(𝑑1,𝑑2)def= max
+𝑗|𝑑1≃𝑗𝑑2	
+maximal prefix match
+(3)𝑑1≤𝑑2def=𝑑1≃|𝑑1|𝑑2 domain partial order
+(4)𝑑1∈∗𝑑2def=(|𝑑2|≤|𝑑1|)∧(𝑑1≃(|𝑑2|−1)𝑑2)∧𝑑1[|𝑑2|]≠∗=𝑑2[|𝑑2|] domain wildcard match
+(5)Wildcard(𝑟)def= dn(𝑟)[|dn(𝑟)|]=∗ is a wildcard record
+(6)Match(𝑟,𝑞)def= dn(𝑟)≤dn(𝑞)∨dn(𝑞)∈∗dn(𝑟) record matches query
+(7)Rank(𝑟,𝑞,𝑧)def=⟨I(Match(𝑟,𝑞)),I(ty(𝑟)=NS∧dn(𝑟)≠dn(𝑧)),max≃(dn(𝑟),dn(𝑞)),I(Wildcard(𝑟))⟩ resource record rank
+(8)𝑟1<𝑞,𝑧𝑟2def= Rank(𝑟1,𝑞,𝑧)◁Rank(𝑟2,𝑞,𝑧) resource record order
+Figure 2: Common DNS definitions, and notations.
+email.bankcard.com , but not for support.bankcard.com . As
+such, the query will match the wildcard record j. Wildcard records
+(with∗) match domain names with a shared prefix that are not
+matched by other records [ 36]. Thus, the nameserver will return
+an answer with IP address 204.58.233.244 .
+2.2 DNS configuration challenges
+Authoring and maintaining correct DNS configurations is challeng-
+ing for several reasons. First, the protocol is inherently nondeter-
+ministic. In the above example, if the resolver had chosen to send the
+query to the nameserver ns2.fnni.net instead of ns1.fnni.com ,
+then after several steps DNS would match the query with the wild-
+card record q. The CNAME record type (canonical name) performs a
+rewrite without preserving the query suffix, so the query becomes
+www.bankcard.com and finally matches record o, which provides
+the IP address 204.58.233.75 , differing from the result above.
+Second, as the example shows, the DNS protocol is intricate
+and subtle, involving multiple types of records and complex de-
+pendencies among these records due to behaviors such as query
+rewriting. Both CNAME andDNAME rewrites provide a level of indi-
+rection to allow efficient handling of change. For example, DNAME
+records can help when multiple subtrees of the DNS need to be the
+same. CNAME records are useful when users have to be redirected to
+the same information from different domains as in example.com
+andwww.example.com . Though DNAME records are a bit rare, CNAME
+records are pervasive, and CNAME chains are used extensively by
+CDNs to accelerate the efficiency of content delivery [18, 42, 45].
+Third, DNS is managed as a collection of distributed zone files,
+under the control of different organizations. Finally, all of these
+issues arise in the context of understanding a single DNS query, but
+operators must ensure that all possible queries behave as intended.
+For all of these reasons, it is no surprise that configuration
+changes and operator mistakes are at the heart of many large-scale
+DNS outages in the past [ 16,24,38,43,48,50]. Indeed, there are
+many ways in which DNS behavior can go wrong, in addition to
+nondeterministically returning different answers as shown above.
+For example, a configuration mistake might result in DNS returning
+NX(non-existent domain) for a popular service, which can result
+in a loss of connectivity, as was the case in the recent Azure out-
+age [ 43]. As another example, a query might get stuck in a rewrite
+loop. Table 1 summarizes several common kinds of DNS misconfig-
+urations. In §7 we demonstrate our tool GRoot ’s effectiveness in
+finding such errors in real-world DNS configurations.3 FORMAL MODEL OF DNS
+In order to exhaustively verify the behavior of the DNS, we must
+first formalize its behavior. In this section we provide a formal, math-
+ematical semantics for DNS, including both nameserver lookup and
+recursive resolution. A key technical challenge in formalizing this
+model was to accurately capture the behavior of DNS in the pres-
+ence of many complex features such as nondeterminism, wildcard
+records, referrals, different types of rewrites, and many other fea-
+tures, all of which interact in subtle ways. To our knowledge this
+is the first formal model of DNS, and as such we hope in future
+researchers can build on this model in order to precisely reason
+about the behavior of DNS.
+3.1 Definitions and Notations
+A domain name is a string identifier controlled by some administra-
+tive group that DNS associates with other underlying information,
+such as an IP address or mail record. We model a domain name as
+a sequence of zero or more strings, called labels. The domain name
+foo.com contains the labels foo,com, and an implicit empty label
+(𝜖) for the root domain. For clarity, we often write a domain name
+as a concatenated sequence of labels delimited by ◦and terminated
+by the special symbol 𝜖, which represents an empty string (e.g.,
+foo.com is written as foo◦com◦𝜖). The sequence with only the
+empty domain name ( 𝜖) is called the root domain. A full domain
+name may not exceed either 253 characters in its textual represen-
+tation, 127 labels in its length, or 63 characters for any individual
+label. Given a domain 𝑑=𝑙𝑘◦...◦𝑙0where𝑙0=𝜖, we write|𝑑|
+to denote the index of the last label 𝑘, and we use the indexing
+notation𝑑[𝑖]to select label 𝑙𝑖. We denote the set of valid domain
+names by the set: domain .
+Figure 2 shows a number of definitions that we use to define the
+behavior of DNS. Specifically, we use the notation 𝑑1≃𝑗𝑑2(1) to
+mean that domains 𝑑1and𝑑2share a common prefix of 𝑗labels (not
+counting𝜖). For example, foo◦com◦𝜖≃1com◦𝜖. To select the
+maximal𝑗such that𝑑1≃𝑗𝑑2, we write max≃(𝑑1,𝑑2)(2). We use
+the definition of≃𝑗to introduce a partial ordering among domain
+names (3) that orders them by longest match. In particular, 𝑑1≤𝑑2
+iff𝑑1is a prefix of 𝑑2(𝑑1≃|𝑑1|𝑑2). We also use the notation 𝑑1∈∗𝑑2
+to mean that 𝑑1matches the wildcard domain 𝑑2(4).
+Zones and resource records. A DNS zone 𝑧∈zone is a set of re-
+source records ( zone=P(record)). We use the symbol P(record)
+here to represent the powerset of resource records. A zone is well-
+formed if it contains exactly one SOA(Start of Authority) record
+listing the domain name of the zone along with other administrative
+313
+GRoot : Proactive Verification of DNS Configurations SIGCOMM ’20, August 10–14, 2020, Virtual Event, NY, USA
+Resource Record Set Lookup P(record)×query×zone→answer
+RRLookup(𝑅,𝑞,𝑧)= 
+ExactMatch(𝑅,𝑞,𝑧,𝑇) dn(𝑅)=dn(𝑞)
+WildcardMatch(𝑅,𝑞,𝑇)dn(𝑞)∈∗dn(𝑅)
+Rewrite(𝑅,𝑞) dn(𝑅)<dn(𝑞),DNAME∈𝑇
+Delegation(𝑅,𝑧) dn(𝑅)<dn(𝑞),DNAME ∉𝑇,NS∈𝑇,SOA∉𝑇
+⟨NX,∅⟩ otherwise
+where𝑇={ty(𝑟)|𝑟∈𝑅}
+ExactMatch(𝑅,𝑞,𝑧,𝑇)= 
+⟨Ans,T(𝑅,ty(𝑞))⟩ Authoritative(𝑇),ty(𝑞)∈𝑇
+⟨AnsQ,⟨𝑅,⟨ans(𝑟),ty(𝑞)⟩⟩⟩ Authoritative(𝑇),ty(𝑞)∉𝑇,CNAME∈𝑇, 𝑅={𝑟}
+Delegation(𝑅,𝑧) ¬ Authoritative(𝑇),NS∈𝑇
+⟨Ans,∅⟩ otherwise
+WildcardMatch(𝑅,𝑞,𝑇)= 
+⟨Ans,Syn(T(𝑅,ty(𝑞)),dn(𝑞))⟩ ty(𝑞)∈𝑇
+⟨AnsQ,⟨Syn(𝑅,dn(𝑞)),⟨ans(𝑟),ty(𝑞)⟩⟩⟩ ty(𝑞)∉𝑇,CNAME∈𝑇, 𝑅={𝑟}
+⟨Ans,∅⟩ otherwise
+T(𝑅, 𝑡)={𝑟∈𝑅|ty(𝑟)=𝑡}
+Rewrite(𝑅,𝑞)=⟨AnsQ,DProc(T(𝑅,DNAME),𝑞)⟩
+Authoritative(𝑇)=NS∉𝑇∨SOA∈𝑇
+Delegation(𝑅,𝑧)=⟨Ref,Glue(T(𝑅,NS),𝑧)⟩DProc({𝑟},𝑞)=⟨{𝑟}∪{⟨ dn(𝑞),CNAME,IN,ttl(𝑟),𝑑,1⟩},⟨𝑑,ty(𝑞)⟩⟩
+where𝑑=dn(𝑞)[dn(𝑟)↦→ ans(𝑟)]
+Glue(𝑅,𝑧)=𝑅∪{𝑟∈𝑧|∃𝑟′∈𝑅.ans(𝑟′)=dn(𝑟) ∧ ty(𝑟)∈{ A,AAAA}}
+Syn(𝑅,𝑑)=𝑅∪{⟨𝑑,𝑡,IN,𝜏,𝑎, 1⟩|∃𝑑′.⟨𝑑′, 𝑡,IN,𝜏,𝑎, 0⟩∈𝑅}
+Nameserver lookup for a query P(zone)×query→answer
+ServerLookup(𝑍,𝑞)=(ZoneLookup(𝑧,𝑞) N(𝑍,𝑞)={𝑧}
+⟨Refused,∅⟩ N( 𝑍,𝑞)=∅N(𝑍,𝑞)=max dn{𝑧∈𝑍|dn(𝑧)≤dn(𝑞)}
+ZoneLookup(𝑧,𝑞)=RRLookup({𝑟∈max<𝑞,𝑧𝑧},𝑞,𝑧)
+Figure 3: Authoritative DNS lookup semantics.
+information. Appendix A lists other conditions a well-formed zone
+has to satisfy. We write dn(𝑧)to mean the domain name for a zone
+𝑧, which is stored in this SOArecord.
+We model a resource record 𝑟∈record =⟨𝑑,𝑡,𝑐,𝜏,𝑎,𝑏⟩as a
+tuple with six components: (1)a domain name 𝑑∈domain ,(2)a
+record type 𝑡∈type={A,AAAA,MX,NS,DNAME,CNAME,SOA, ...}
+representing the kind of data the record holds (e.g., AAAA for an
+IPv6 address), (3)the record class 𝑐=INfor the internet, (4)the
+time-to-live value for the record 𝜏∈Nthat defines the number of
+seconds for which the record can be cached, (5)the answer𝑎∈Σ∗
+which gives the DNS result as a string, and finally (6)a boolean
+value𝑏that marks whether a record was synthesized from another.
+We write dn(𝑟)for the domain name of record 𝑟,ty(𝑟)for the
+type, class(𝑟)for the class, ttl(𝑟)for the TTL, ans(𝑟)for the record
+answer, and synth(𝑟)for whether the record was synthesized.
+DNS queries. A DNS query 𝑞=⟨𝑑, 𝑡⟩is a tuple containing a do-
+main name𝑑∈domain and a query type 𝑡∈type. A user that needs
+the IPv4 address might send a query ⟨www.mybankcard .com,A⟩to
+ask for it. As with resource records, we write dn(𝑞)to mean the
+domain name of query 𝑞, and ty(𝑞)to mean the query type.
+The remaining definitions (5) – (8) in Figure 2 are used to define
+the order in which DNS prioritizes resource records for a given
+query. Wildcard (5) determines if a record has a wildcard domain,
+andMatch (6) determines if a record is relevant for a given query
+(i.e., a potential match). The Rank (7) function for a record, query,
+and zone returns a tuple of integer values; the indicator function
+(I) returns 1 if the predicate is true and 0 otherwise. The Rank
+function then induces a strict partial order ( <𝑞,𝑧) on records (8)by comparing the resulting tuples lexicographically from left to
+right (◁). The ranking is over four values: (1)whether the record
+is a match for the query (note that there will always be at least
+one match, e.g., the SOA record for queries that are not refused by
+the server § 3.3), (2)if there is a zone cut (i.e., an NSrecord for a
+subdomain), (3)the length of the match between record and query,
+(4)and finally whether the record is a wildcard as a tiebreaker.
+DNS answers. We model a DNS answer 𝑎=⟨𝑥,𝑦⟩as a pair of a
+tag𝑥∈{Ans,AnsQ,Ref,NX,Refused,ServFail}indicating the
+type of answer (e.g., an answer Ans, a delegation Ref, a rewrite
+AnsQ , etc.), and data 𝑦, which is a set of resource records 𝑅holding
+pertinent information when 𝑥≠AnsQ and is a pair⟨𝑅, 𝑞′⟩of a set
+of records𝑅and a new query 𝑞′resulting from a rewrite operation
+when𝑥=AnsQ . The answer contains a setof resource records
+because multiple records might be relevant for a query (e.g., there
+might be multiple NSrecords for a domain).
+3.2 DNS Semantics
+Given these definitions, we now formally define how DNS resolves
+user queries. We model the DNS system as a 4-tuple, 𝐶=⟨𝑆,Θ,Γ,Ω⟩,
+called a configuration 𝐶, where:
+•𝑆is a set of nameservers (e.g., ns1.fnni.com ). We leave
+nameservers as opaque objects and associate them with other
+information through functions.
+•Θ⊆𝑆is a set of “root” nameservers for 𝑆.
+•Γ:𝑆→P( zone)is a function from a nameserver to the
+zones for which that nameserver is authoritative.
+314
+SIGCOMM ’20, August 10–14, 2020, Virtual Event, NY, USA Siva Kesava Reddy Kakarla, Ryan Beckett, Behnaz Arzani, Todd Millstein, and George Varghese
+DNS resolution query×config×N→P( answer)
+Resolve(𝑞,⟨𝑆,Θ,Γ,Ω⟩,𝑘)=Ð
+𝑠∈ΘResolve(𝑠,𝑞,⟨𝑆,Θ,Γ,Ω⟩,𝑘)
+Resolve(𝑠,𝑞,⟨𝑆,Θ,Γ,Ω⟩,𝑘)= 
+{⟨ServFail,∅⟩} 𝑠=⊥∨𝑘=0
+Resolve(𝑞′,⟨𝑆,Θ,Γ,Ω⟩,𝑘−1) 𝑠≠⊥,𝑘>0,𝑎=⟨AnsQ,⟨𝑅, 𝑞′⟩⟩,N(Γ(𝑠),𝑞′)=∅
+Resolve(𝑠,𝑞′,⟨𝑆,Θ,Γ,Ω⟩,𝑘−1) 𝑠≠⊥,𝑘>0,𝑎=⟨AnsQ,⟨𝑅, 𝑞′⟩⟩,N(Γ(𝑠),𝑞′)≠∅Ð
+𝑟∈T(𝑅,NS)Resolve(Ω(ans(𝑟)),𝑞,⟨𝑆,Θ,Γ,Ω⟩,𝑘−1)𝑠≠⊥,𝑘>0,𝑎=⟨Ref, 𝑅⟩
+{𝑎} otherwise
+where𝑎=ServerLookup(Γ(𝑠),𝑞)
+Figure 4: DNS Recursive resolution semantics.
+•Ω:𝐷→𝑆∪{⊥} is a function from a domain name to the
+nameserver identified by that name or ⊥if no corresponding
+nameserver exists.
+We define the semantics of DNS in two parts: first we define how
+a single authoritative nameserver processes a query locally, and
+then using this formulation, we define DNS resolution.
+3.3 Authoritative Nameserver semantics
+Given a set of zone files 𝑍and a query 𝑞, the definition of Server-
+Lookup at the bottom of Figure 3 defines the lookup performed at a
+nameserver for the query. The result of this lookup is a DNS answer.
+The first step is to find the zone 𝑧that has the longest matching
+prefix ( dn(𝑧)) with the domain in the query ( dn(𝑞)) — the function
+N. The notation 𝑚𝑎𝑥𝑑𝑛selects those zones with maximal domain
+names according to the domain name partial order, among those
+that are prefixes of the query domain name. For example, if a name-
+server has zones for comandgmail.com and the user’s query is for
+help.gmail.com , then the nameserver will choose the gmail.com
+zone to answer the query. If there is such a matching zone 𝑧, then
+ServerLookup calls ZoneLookup to get an answer by evaluating
+the query against the zone file. Otherwise, the nameserver refuses
+(Refused ) to perform the lookup operation as it could not find a
+relevant zone.
+ZoneLookup selects the appropriate resource records 𝑟for the
+zone𝑧by choosing the maximal elements with respect to the query
+(<𝑞,𝑧) as defined in equation (8) in Figure 2. The set of records
+passed to RRLookup will necessarily have the same domain name,
+i.e.,dn(𝑟1)=dn(𝑟2)for any𝑟1,𝑟2in the set. However their types
+may differ. Thus, for such a set 𝑅, we simply write dn(𝑅)to refer
+to the domain name for elements in this set.
+TheRRLookup function takes a set of resource records 𝑅and a
+query𝑞along with the zone 𝑧and produces an answer. The goal of
+RRLookup is to return either (1)an answer ( Ans), if the resource
+records𝑅are sufficient to answer the query 𝑞,(2)a referral ( Ref), if
+records𝑅cannot answer the query 𝑞but indicate who might have
+the answer, (3)an intermediate answer 𝑟′and a query 𝑞′(AnsQ ), if
+the resource records 𝑅establish that the query 𝑞would be modified
+to query𝑞′due to resource record 𝑟′, or(4)an error message ( NX),
+indicating that the domain does not exist.
+RRLookup implements the DNS resolution process given in RFC
+6672 §3.2 as server algorithm (SA) [ 41]. Note that we exclude SA
+steps 1 and 5 since the formal model does not capture dynamic
+elements like caches. Step 2 of SA is captured by Nstated earlier.
+When the records’ domain name exactly matches the query, theExactMatch function is applied (SA, steps 3A, 3B). Otherwise, if
+it is a wildcard domain that matches the query domain, the Wild-
+cardMatch case will apply (SA, step 3C). If the records contain a
+matching DNAME record, which is only possible when the other two
+cases do not apply, then the query will be modified according to
+theRewrite function (SA, step 3C). If no such record exists, DNS
+will delegate the query to another nameserver if it has an NSrecord
+(Delegation ) (SA, step 3B). Finally, if all else fails, the nameserver
+will return NXDOMAIN (non-existent domain, SA, step 3C).
+TheExact Match andWildcard Match cases are both broken
+down further into several cases. For the Exact Match case, if there
+is a authoritative record with the same type as the query, then the
+nameserver will simply return this record (SA, step 3A). Of all the
+records passed to RRLookup , a zone𝑧is authoritative of all the
+records except for NSrecords (zone cut) not accompanied by an SOA
+record. Otherwise, if there is a CNAME record (SA, step 3A), then the
+nameserver will perform a rewrite ( AnsQ ), returning the relevant
+records𝑅, as well as a new query domain given by ans(𝑞)with
+the same type ( ty(𝑞)). If there is no CNAME record, but there is a
+non-authoritative NSrecord, then the nameserver will perform a
+Delegation (SA, step 3B). Finally, if all else fails, it will simply
+return an answer with no information ( ∅).
+TheWildcard Match case is similar to the Exact Match case,
+except it will perform synthesis ( Syn) to generate a new set of
+records specializing the wildcards. For instance, a lookup for a query
+with domain email.com on a set with a single wildcard record
+*.com generates a (cachable) synthesized record for email.com .
+TheRewrite case for DNAME records returns AnsQ with records
+and a new, rewritten query. The new query is given by DProc ,
+which generates and adds a new synthesized CNAME record for the
+answer and substitutes the matching prefix of the query with the
+rewrite described in the record answer ( dn(𝑞)[dn(𝑟)↦→ ans(𝑟)]).
+The DNS adds these CNAME records to the answer to facilitate
+caching — future queries are rewritten based on the cached CNAME
+record (SA, step 3C). The Delegation case returns the NSrecords
+along with the necessary AandAAAA glue records (SA, step 6).
+3.4 Recursive Resolution Semantics
+Now that we have formally defined how a nameserver answers
+a query𝑞, we can use this definition to formalize the process of
+recursive resolution (Figure 4). We define two functions named
+Resolve that return a setof possible answers. The functions return
+setsof answers in order to capture the nondeterminism inherent in
+DNS. The first function takes a query 𝑞, a configuration⟨𝑆,Θ,Γ,Ω⟩,
+and a fuel parameter 𝑘, which is used to imitate the mechanism
+315
+GRoot : Proactive Verification of DNS Configurations SIGCOMM ’20, August 10–14, 2020, Virtual Event, NY, USA
+𝜖
+com
+bankcard
+www
+𝛼email
+𝛼∗
+𝛼𝛼mybankcard
+𝛼fnni
+ns1
+𝛼𝛼𝛼𝛼
+Figure 5: Label Graph used for equivalence class generation
+for the zone files from Figure 1. Note, only the domain name
+(𝑑) field of the records are used but not the answer ( 𝑎) field.
+The dotted red edge represents the DNAME redirection of f.
+used by DNS to ensure that resolution terminates. The function
+works by resolving the query 𝑞at each root nameserver 𝑠∈Θ,
+taking the union of their results.
+The second Resolve function performs resolution at a specific
+nameserver 𝑠. There are several cases based on the result of Server-
+Lookup . In the first case, if the resolver has already exceeded the
+execution bound 𝑘or the input is a⊥due to a nameserver lookup
+failure in Ωfrom a recursive call of Resolve , it returns ServFail
+with no records. Otherwise, if 𝑠returns a rewrite AnsQ , and does
+not have a local zone that can process the rewrite ( N(Γ(𝑠),𝑞′)=∅),
+then DNS resolves the new query 𝑞′starting over at the root. If there
+is a local zone at 𝑠, then it processes 𝑞′at𝑠. If𝑠returns a referral
+Ref, then the function unions the results from nondeterministically
+resolving the query at each nameserver identified in the returned
+NSrecords ( Ω(ans(𝑟))). Finally, if ServerLookup returns any other
+kind of answer, Resolve simply returns that answer ( {𝑎}).
+4 A FAST VERIFICATION ALGORITHM
+We leverage the model in §3 to present a fast verification algorithm
+based on the enumeration of query equivalence classes (ECs).
+4.1 Equivalence Class Generation
+The idea with our approach is that, instead of enumerating all pos-
+sible queries, we can construct a collection of equivalence classes of
+queries (sets of queries that will be resolved the same way by DNS).
+Intuitively, two DNS queries are in the same EC if the queries are
+resolved locally in the same way (and rewritten similarly) at every
+nameserver. We define this notion of equivalence more formally
+and prove that it is correct in § 5. The set of ECs our algorithm
+computes need not be, and indeed is not, always minimal.
+Other verification tools such as Veriflow [ 29] and Atomic Predi-
+cates [ 46,47] use a similar approach in the context of packet for-
+warding. However, Veriflow’s technique does not support query
+rewrites, which we require in the context of DNS. Atomic Predicates
+does support query rewrites but is overly general for our purposes
+and hence more expensive than necessary. For example, even in
+the absence of rewrites, using Atomic Predicates to compute ECs
+for DNS would require a quadratic number of predicate intersec-
+tions. In contrast, we leverage the hierarchical, tree-like structure
+of domain names to reduce this cost. Specifically, we show in §5
+that in the absence of DNAME rewrites, our approach computes the
+set of ECs in linear time.Label graph construction. As a first step to generate query ECs,
+our algorithm builds a label graph , which is the union of the do-
+main names of all the records that appear in any zone file at any
+nameserver. Consider again the running example from Figure 1: the
+corresponding label graph is shown in Figure 5. The label graph is
+rooted at𝜖and every domain name that appears as the key of some
+resource record in some zone file is represented in the graph as a
+path (sequence of labels) starting from the root. For instance, name-
+server ns1.fnni.com has a DNAME record for mybankcard.com , so
+mybankcard shows up as a node beneath the node for com.
+ForDNAME records, we also add the rewrite target for the record
+to the label graph, along with a dashed line between the source and
+target: because the answer for the mybankcard.com DNAME record
+isbankcard.com , a line appears from mybankcard tobankcard .
+Finally, for every node (label) in the graph, we add an 𝛼child,
+which represents an arbitrary sequence of labels 𝛼=𝑙𝑘◦...◦𝑙0
+such that𝑙0is unique from its siblings.
+Path enumeration. Every path through the label graph from the
+root corresponds to several equivalence classes, one for each query
+type. The algorithm begins by enumerating all paths starting from
+the root. Whenever it encounters 𝛼, it constrains it to exclude
+its siblings. For the example in Figure 1, we start to compute the
+following ECs, one for each type 𝑡∈type:
+(1)⟨𝜖, 𝑡⟩
+(2)⟨com◦𝜖, 𝑡⟩
+(3)⟨bankcard◦com◦𝜖, 𝑡⟩
+(4)⟨www◦bankcard◦com◦𝜖, 𝑡⟩
+(5)⟨𝛼◦www◦bankcard◦com◦𝜖, 𝑡⟩
+(6)⟨email◦bankcard◦com◦𝜖, 𝑡⟩
+(7)⟨𝛼◦email◦bankcard◦com◦𝜖, 𝑡⟩
+At this point, the algorithm encounters the wildcard ( ∗) label under
+bankcard . For the purposes of building the label graph, we simply
+treat wildcards as character labels (‘ ∗’), as such characters are valid
+and will experience an exact match with a wildcard record. We
+instead use the 𝛼labels to represent ECs for domains not explicitly
+mentioned in the zone files. At this point, the algorithm produces
+the ECs:
+(8)⟨∗◦bankcard◦com◦𝜖, 𝑡⟩
+(9)⟨𝛼◦∗◦bankcard◦com◦𝜖, 𝑡⟩
+(10)⟨𝛼◦bankcard◦com◦𝜖, 𝑡⟩𝛼[0]∉{www,email,∗}
+DNAME rewrites. The next paths traversed are those for
+mybankcard .com. Since mybankcard has a DNAME record, we con-
+tinue enumerating paths through the dashed edge. However, since
+we want to capture the input query before the transformation, we
+do not concatenate the target of the rewrite to the path. This results
+in a set of ECs that are analogous to those for bankcard.com .
+(11)⟨mybankcard ◦com◦𝜖, 𝑡⟩
+(12)⟨www◦mybankcard ◦com◦𝜖, 𝑡⟩
+(13)⟨𝛼◦www◦mybankcard ◦com◦𝜖, 𝑡⟩
+(14)⟨email◦mybankcard ◦com◦𝜖, 𝑡⟩
+(15)⟨𝛼◦email◦mybankcard ◦com◦𝜖, 𝑡⟩
+(16)⟨∗◦mybankcard ◦com◦𝜖, 𝑡⟩
+(17)⟨𝛼◦∗◦mybankcard ◦com◦𝜖, 𝑡⟩
+(18)⟨𝛼◦mybankcard ◦com◦𝜖, 𝑡⟩𝛼[0]∉{www,email,∗}
+316
+SIGCOMM ’20, August 10–14, 2020, Virtual Event, NY, USA Siva Kesava Reddy Kakarla, Ryan Beckett, Behnaz Arzani, Todd Millstein, and George Varghese
+The algorithm would similarly continue to explore paths for
+fnni.comand terminates with the EC, ⟨𝛼◦𝜖, 𝑡⟩,𝛼[0]∉{com}.
+DNAME loops. The label graph can have loops due to DNAME edges.
+The first type of loop has both solid and dotted edges; for example,
+this type of loop would exist if there were another DNAME edge
+from email tomybankcard . In such cases, the algorithm traverses
+the loop and continues to generate ECs until the domain name of
+the path exceeds the maximum length allowed by DNS. With our
+example loop, suppose the algorithm takes the DNAME edge from
+mybankcard node and reaches email . After generating the EC given
+by (14), it would take the dotted edge back to mybankcard and then
+the dotted edge back to bankcard . It then traverses the paths un-
+derneath bankcard but with the original query prefix before rewrit-
+ing, so it will generate ⟨www◦email◦mybankcard ◦com◦𝜖, 𝑡⟩,
+⟨𝛼◦www◦email◦mybankcard ◦com◦𝜖, 𝑡⟩, and so on.
+The second type of loop is entirely made up of dotted
+edges, for example if bankcard had a dotted edge back to
+mybankcard . This situation can arise if there is another zone file
+forbankcard◦com◦𝜖at a different nameserver with this DNAME
+record. This situation constitutes an infinite loop since the length
+of the path never increases a query enters the loop. To check for
+an infinite loop, each node in the label graph stores the path length
+when the algorithm enters the node and checks if the stored length
+is equal to the new path length before updating. As soon as the
+algorithm detects an infinite loop, it backtracks and continues.
+4.2 Symbolic Execution of ECs
+To determine the behavior of the equivalence classes, we symboli-
+cally execute each EC using our semantics from Figures 2 to 4. To
+symbolically execute an EC that starts with 𝛼, we observe that by
+construction 𝛼cannot match any of the records present at a given
+zone file except a wildcard. Therefore, we can leave 𝛼opaque dur-
+ing symbolic execution and simply use this knowledge to precisely
+determine the answers for such an EC. Our symbolic execution
+algorithm builds an interpretation graph for each EC, representing
+all nondeterministic execution traces that are possible in DNS for
+that EC. Each node in an interpretation graph represents a call to
+the second Resolve function and the node stores the nameserver
+𝑠identified by 𝑑, the query 𝑞, and the answer 𝑎returned by the
+ServerLookup function. An edge is drawn from one node to the
+other if the Resolve at the parent node returns a Refto the name-
+server of the child node.
+Symbolically executing an EC separately for each query type
+leads to an inefficient implementation; DNS supports dozens of
+record types, and there is substantial overlap in how they are treated
+during execution. Therefore, GRoot executes the ECs for all record
+types at once using a compact bitset representation for types, split-
+ting nodes when different types experience different behaviors
+according to Figures 3 and 4. The result is a single graph represent-
+ing multiple interpretation graphs.
+Figure 6 shows the result of symbolic execution for the running
+example for three equivalence classes, which are compactly repre-
+sented as:⟨𝛼◦mybankcard ◦com◦𝜖,{A,MX,TXT}⟩. We show just
+these three records types for simplicity. The execution starts at
+a.gtld-servers.net and then proceeds to either ns1.fnni.com
+orns2.fnni.com from NSreferrals. In either case, the execution
+has a DNAME rewrite before eventually splitting the record typesDelegation Inconsistency
+A parent node with the Reftag and a child node with the Ans
+tag do not have the same set of NSandArecords for delegation.
+Lame Delegation
+Interpretation graph has a node with the Refused tag.
+Missing Glue Records
+Node answer contains NSrecords but not the A(glue) records.
+Non-Existent Domain for Service
+Sink node return an answer with the NXtag.
+Cyclic Zone Dependency
+Interpretation graph contains a cycle
+Rewriting Loop
+Interpretation graph contains a cycle with at least one rewrite.
+Query Exceeds Maximum Length
+Query at some node exceeds the maximum label or total length.
+Answer Inconsistency
+Different sink nodes return different answers.
+Zero Time To Live
+Sink node returns an answer with TTL value set to 0.
+Rewrite Blackholing
+A path has a rewrite and ends at a node with NXtag.
+Table 2: Bug finding Implementation for Table 1.
+into two cases: one for {A}and another one for {MX,TXT}to capture
+the diverging behaviors. GRoot encodes the relevant set of types
+at each node using a fixed-size bitset, with one bit per type.
+4.3 Checking Properties
+The representation for ECs and their interpretation graphs facili-
+tates efficient checking for a wide variety of properties. We write
+property checkers as custom graph algorithms (§6) that process
+each of the interpretation graphs. A property that is true of all
+interpretation graphs holds for all possible executions of Resolve ,
+for all possible queries. Table 2 summarizes the implementation of
+checkers for the bugs listed in Table 1. Because the interpretation
+graph contains full information about the execution traces, it can
+also be used to enforce non-functional properties, for example re-
+lated to performance, such as a bound on the number of rewrites
+in any execution of Resolve .
+5 PROOF OF CORRECTNESS
+We prove our approach with GRoot is correct in two steps. First,
+we show that our equivalence class generation algorithm computes
+classes of queries that adhere to a restrictive notion of equivalence
+called strong equivalence . Next, we prove that strong equivalence
+implies equivalence for DNS resolution.
+A challenge for defining equivalence of DNS resolution is that
+queries that match all the same zone records can still end up
+with different answers due to record synthesis (Syn from Fig-
+ure 2), which generates specialized records for use in the cache.
+For example, two queries with domain names a.mybankcard.com
+and b.mybankcard.com may both match the wildcard record
+*.mybankcard.com , which will generate new records, one for a
+and one for bwith the exact query names. Since we do not model
+the effect of caching in this paper, we want to prove equivalence of
+DNS resolution up to such differences. To do so, we define a notion
+317
+GRoot : Proactive Verification of DNS Configurations SIGCOMM ’20, August 10–14, 2020, Virtual Event, NY, USA
+s:a◦gtld-servers ◦net◦𝜖
+q:⟨𝛼◦mybankcard◦com◦𝜖,{A,MX,TXT}⟩
+a:
+Ref,
+a,b,c	
+s:ns1◦fnni◦com◦𝜖
+q:⟨𝛼◦mybankcard◦com◦𝜖,{A,MX,TXT}⟩
+a:
+AnsQ,DProc 
+f	
+,⟨𝛼◦mybankcard◦com◦𝜖,{A,MX,TXT}⟩
+s:ns1◦fnni◦com◦𝜖
+q:⟨𝛼◦bankcard◦com◦𝜖,{A}⟩
+a:
+Ans,Syn 
+j	
+, 𝛼◦bankcard◦com◦𝜖s:ns1◦fnni◦com◦𝜖
+q:⟨𝛼◦bankcard◦com◦𝜖,{MX,TXT}⟩
+a:⟨Ans,∅⟩s:ns2◦fnni◦net◦𝜖
+q:⟨𝛼◦mybankcard◦com◦𝜖,{A,MX,TXT}⟩
+a:
+AnsQ,DProc 
+m	
+,⟨𝛼◦mybankcard◦com◦𝜖,{A,MX,TXT}⟩
+s:ns2◦fnni◦net◦𝜖
+q:⟨𝛼◦bankcard◦com◦𝜖,{A,MX,TXT}⟩
+a:⟨AnsQ,⟨Syn {q}, 𝛼◦bankcard◦com◦𝜖,
+⟨www◦bankcard◦com◦𝜖,{A,MX,TXT}⟩⟩⟩
+s:ns2◦fnni◦net◦𝜖
+q:⟨www◦bankcard◦com◦𝜖,{A}⟩
+a:
+Ans,
+o	s:ns2◦fnni◦net◦𝜖
+q:⟨www◦bankcard◦com◦𝜖,{MX,TXT}⟩
+a:⟨Ans,∅⟩
+Figure 6: The interpretation graph based on the zone files shown in Figure 1 for types {A,MX,TXT}for the equivalence classes
+given by the schematic query: ⟨𝛼◦mybankcard ◦com◦𝜖,{A,MX,TXT}⟩with𝛼[0]∉{www,email,∗}.
+of equivalence between answers that ignores synthesized records.
+In particular, we define a relation 𝑎1≈𝑎2to mean two answers are
+equivalent up to synthesized records. For brevity, we defer defining
+≈to the appendix.
+We now describe our strong equivalence relation. Strong equiva-
+lence views queries as equivalent if they are treated equivalently at
+each individual nameserver 𝑠, even if that nameserver can never be
+contacted with that particular query.
+Definition 5.1 (Strong equivalence) .For a given configuration
+𝐶=⟨𝑆,Θ,Γ,Ω⟩, the binary relation ∼𝐶on queries, which we
+call the strong equivalence relation, is the greatest relation such
+that𝑞1∼𝐶𝑞2implies that for all servers 𝑠∈𝑆, where𝑎𝑖=
+ServerLookup(Γ(𝑠),𝑞𝑖), we have (1)N(Γ(𝑠),𝑞1)=N(Γ(𝑠),𝑞2),
+(2)𝑎1≈𝑎2, and (3)for any rewrites 𝑞′
+1∈query(𝑎1)and
+𝑞′
+2∈query(𝑎2),𝑞′
+1∼𝐶𝑞′
+2.
+The next step in proving our approach is correct, is to show that
+the algorithm presented in §4.1 computes equivalence classes of
+queries satisfying the ∼𝐶relation.
+Theorem 5.1 (EC generation sound) .For a given configuration 𝐶=
+⟨𝑆,Θ,Γ,Ω⟩, if two queries 𝑞1and𝑞2are in the same EC computed
+by the algorithm, then 𝑞1∼𝐶𝑞2.
+Proof. Direct by case analysis of ServerLookup . Full proofs
+are included as extra material in the appendix. □
+Finally we prove that strong equivalence implies equivalence of
+DNS resolution.
+Theorem 5.2 (Soundness) .For all𝐶,𝑞1,𝑞2, and𝑘, if𝑞1∼𝐶𝑞2, then
+Resolve(𝑞1,𝐶,𝑘)≈Resolve(𝑞2,𝐶,𝑘).
+Proof. We start by proving a slightly stronger invariant:
+Resolve(𝑠,𝑞1,⟨𝑆,Θ,Γ,Ω⟩,𝑖)≈Resolve(𝑠,𝑞2,⟨𝑆,Θ,Γ,Ω⟩,𝑖)for all
+𝑠,𝑖, and show that it implies the result. The proof given in appendix
+proceeds by induction on the length of resolution step 𝑖.□
+In the appendix we also prove two other theorems about our
+technique. First we prove a completeness result.
+Theorem 5.3 (Completeness) .For a configuration 𝐶, each query 𝑞
+belongs to at least one computed equivalence class.Together, soundness and completeness imply that our technique
+indeed performs verification: all possible queries are represented
+by the ECs, and all queries within an EC have the same behavior.
+Second, we prove that, in the absence of DNAME rewrites, our
+algorithm will compute a linear number of ECs in linear time with
+respect to the number of zone records. Given that CNAME rewrites
+are comparatively much more common that DNAME s in practice
+(§7), this result implies that in many cases GRoot can verify DNS
+configurations very efficiently.
+Theorem 5.4 (Linear time) .In the absence of DNAME records, for
+a collection of zone files with 𝑛resource records, our algorithm
+computes𝑂(𝑛)equivalence classes in 𝑂(𝑛)time.
+Given that the total number of possible DNS queries isÍ253
+𝑖=038𝑖
+(for 38 valid characters), this theorem shows that GRoot can pro-
+vide a massive reduction in complexity.
+6 IMPLEMENTATION
+GRoot is implemented in over 4300 lines of C++ code and uses the
+Boost Graph Library [ 5] as well as custom zone file parsers. GRoot
+takes as input a directory containing a collection of zone files as
+well as an optional file specifying what properties to check. In the
+absence of this properties file, GRoot checks for a set of bugs that
+are considered always harmful (e.g., rewrite blackholing and loops).
+Users implement new static analyses in GRoot as simple C++
+functions that process an interpretation graph. To make this easier,
+we provide three separate checker APIs. The first lets the user
+process each node in the interpretation graph in isolation, which
+can be used for simple checks such as: “query X should never return
+NXDOMAIN ”. The second lets the user process each path through the
+graph in isolation, and the third provides the entire graph.
+Since each interpretation graph is checked separately by a prop-
+erty checker, the graphs can be checked in parallel. Our implemen-
+tation takes advantage of this and also pipelines EC generation
+with symbolic execution: as soon as an EC is generated, GRoot
+uses an idle worker thread to build the interpretation graph for that
+EC and checks the properties on the resulting graph.
+Since strings are used pervasively in GRoot to represent labels
+in the zone graphs, label graph, and interpretation graph, and since
+318
+SIGCOMM ’20, August 10–14, 2020, Virtual Event, NY, USA Siva Kesava Reddy Kakarla, Ryan Beckett, Behnaz Arzani, Todd Millstein, and George Varghese
+adding new records to each of these graphs involves multiple string
+comparisons, we opted to use a custom string interning strategy
+that replaces string labels with unique ids, for faster operations.
+GRoot is available as open source software1.
+7 EVALUATION
+To evaluate GRoot we aim to show (1)it can find bugs in real DNS
+configurations, and (2)it can scale to large sets of zone files. We
+describe our methodology and results next.
+7.1 Networks studied
+We evaluate GRoot on zone files from three networks:
+A university network. We ran GRoot on the DNS configura-
+tions obtained from a large campus network. The configurations
+for the network are managed in a decentralized fashion: the cam-
+pus IT service manages the DNS tree starting from the subdomain
+campus.edu2Thecampus.edu zone has four authoritative name-
+servers ( ns{1,2,3,4}.dns.campus.edu ), which are slaves of a hid-
+den master server. The Infoblox platform [ 25] is used to maintain
+the master server and keep the slaves up-to-date. The campus.edu
+zone file has delegations for 1850 subdomains and each department
+in the university is responsible for managing a subset of those sub-
+domains. Of these subdomains, 895 have secondaried their zones
+back to the four campus nameservers, which also provide authorita-
+tive answers for queries related to those subdomains. The remaining
+955 subdomains require delegation via NSrecords.
+We use the campus.edu zone file and the zone files of the 895
+subdomains that are secondaried by the campus nameservers for
+our experiments, since we are able to obtain these zone files through
+zone transfers. In total the campus.edu zone file has 8555 records
+and there are a total of 111,539 records across the remaining 895
+subdomains. Figure 7(a) shows the cumulative distribution of sub-
+domains to the number of resource records that they contain.
+An infrastructure service provider. We ran GRoot on 1241 in-
+ternal zone files of a large infrastructure service provider. All the
+zones were independent i.e., there isn’t a zone that is a subdomain
+of another zone in the dataset. All of the zone files are assumed to
+be taken from a single name server. The data set consists of around
+3.6 million resource records with the largest zone file accounting
+for 1.6 million records.
+DNS census data. This data set is publicly available [ 11]. It con-
+sists of around 2.6 billion resource records (157 GB) that were
+collected through live DNS queries in 2012-2013. These records
+are stored as CSV files — one file for each DNS record type
+(A,AAAA,CNAME,DNAME,MX,NS,SOA,TXT). These records are stored
+lexicographically: by hostname and time. For each hostname and
+each type, we picked the resource records corresponding to the
+latest timestamp. This leaves 1.05 billion resource records. We par-
+tition this set into zone files by using the SOArecords and the DNS
+namespace hierarchy.
+While creating the zones we also added NS records along with the
+necessary glue records to both parent and child so that there will not
+be any delegation inconsistencies or lame delegation. The dataset
+consists of 285 top-level domains (TLDs). For our experiments,
+1https://github.com/dns-groot/groot
+2The university name is anonymized as "campus."
+102104
+Number of resource records100101102103Cumulative frequency
+of subdomains(a)
+101103105
+Number of subzones101103105# of 2nd level domains (b)
+Figure 7: Dataset statistics. (a) Cumulative number of subdo-
+mains with a number of resource records in the campus net-
+work. (b) Number of 2nd-level domains with a given number
+of subzones for DNS census.
+we considered all the second-level domains (for example, co.uk. )
+that have at least one subdomain zone file under them. There are
+1,368,523 such domains totalling over 65 million resource records.
+The synthesized dataset and the software artifact are available on
+Zenodo [ 26]. Figure 7(b) shows the distribution of second-level
+domains to the number of subzones they contain.
+Features used. Table 3 shows a summary of the features used in
+the two datasets. For the campus network, there were 63 wildcard
+records and over 4000 CNAME records. However, the configurations
+did not make use of DNAME records. In contrast, the part of the
+DNS census dataset that we used included over 200 DNAME records
+and over 2 million CNAME records. However, it did not have any
+wildcards. This is likely due to the dataset being collected from live
+DNS queries, which are almost never directly for wildcard resources.
+The service provider dataset is dominated by the CNAME records as
+the provider employs CNAME chains frequently to map queries.
+7.2 Functionality Experiments
+7.2.1 University network. We use the data from the university net-
+work to evaluate whether GRoot can find bugs on a real network.
+We performed two different classes of checks using GRoot (sum-
+marized in Table 4) based on properties described in Table 1. For the
+properties in Table 1 but not in Table 4, GRoot was not applicable
+for this network (e.g., answer inconsistency due to master-slave
+replication). Properties shown below the dashed line showcase
+GRoot ’s ability to help operators explore and understand the be-
+havior of their DNS configurations. Violations of these properties
+are not necessarily bugs but are interesting behaviors that an oper-
+ator may be interested to examine. For example, we used GRoot
+to identify lookups that involve rewrites outside of the campus
+domain — most are (likely) intentional. Because GRoot is complete,
+it reported all possible ways in which such rewrites can occur.
+Property Violations. Violations of the first seven properties in
+Table 4 represent true misconfigurations and are common oper-
+ational and configuration errors described in RFC 1912 [ 3]. We
+contacted operators, and those that responded confirmed our find-
+ings (because DNS management is decentralized there are many
+administrators responsible for these domains and we did not hear
+back from all of them). We discuss some example violations here:
+GRoot flagged 49 domains of the form 𝛼.campus.edu that have
+adelegation inconsistency . These 49 domains are managed by 25
+different administrators. We emailed all of them (obtaining email
+319
+GRoot : Proactive Verification of DNS Configurations SIGCOMM ’20, August 10–14, 2020, Virtual Event, NY, USA
+Dataset SOA A NS CNAME DNAME MX TXT Wildcard Other
+Campus 895 97,951 9,209 4,259 0 1,978 363 63 883
+Service Provider 1,239 110,052 8,740 3,442,892 0 1,878 1,339 2,059 3,586
+Census 6,668,062 18,598,682 29,855,307 2,168,115 218 6,965,866 1,301,472 0 118,629
+Table 3: Summary of features used in the two datasets studied.
+Property Number of issues
+Delegation Consistency 49★
+No lame delegation 9★
+No rewrite loops 2★
+No missing glue records 1★
+No rewrite blackholing 48★
+No query exceeds maximum length 0★
+No zero TTL 0★
+No rewrite to outside domain 378†
+No resolution at an external NS 324†
+Number of rewrites ≤2 24†
+Table 4: Properties checked on the campus network and the
+number of cases GRoot reported. Cases in red ( ★) are bugs
+while orange(†) are warnings.
+addresses from the SOA records); seven emails bounced, and nine
+people responded, in all cases acknowledging the inconsistency
+as a misconfiguration. Some of the NSrecords in the campus.edu
+were incorrectly pointing to a web server instead of the zone’s
+authoritative name server. One operator commented: “we haven’t
+noticed this discrepancy because we almost never use DNS names
+for DNS servers, we use IPs. ” Another operator explained: “the short
+answer is negligence.”
+Some of these violations affect performance. Lame delegation
+affects the mean response time of DNS lookups: a lookup on some
+name servers will fail, meaning the resolver would then need to con-
+tact a different name server. The same is true of rewrite loops where
+we found CNAME records that were rewritten to the same record.
+In both cases of rewrite loops, the relevant admins confirmed the
+misconfigurations and removed the corresponding entries. Other
+forms of loops can also add to resolution latency. This was the case
+for the missing glue record bug where a resource record
+dept.campus.edu IN NS dc1 .dept.campus.edu
+existed but had no Arecord for dc1.dept.campus.edu . Resolving
+dc1.dept.campus.edu would lead the resolver to lookup the IP ad-
+dress, only to end up back at this record. GRoot flagged 48 domain
+names that were rewritten to a domain name not existing in the
+zone files, causing DNS to return NXDOMAIN. When asked, the op-
+erators replied, "they are CNAME entries that were missed during a
+prior retirement. These are entries that were orphaned accidentally
+when the source server was removed a few years back. Our tools
+do not auto clean up the CNAME aliases and this sometimes occurs.
+We do not actively black-hole server DNS entries."
+GRoot found out that there is no input query that can lead to
+the violation of the last two properties in this network.
+Configuration Understanding. The properties at the bottom of
+Table 4 demonstrate GRoot ’s utility for understanding and explor-
+ing configurations. For example, GRoot found 378 cases where
+the query is rewritten to a domain that is not a subdomain of
+100101102103104105106107
+Number of resource records10−310−210−1100101102103104Time (s)
+Figure 8: Total time to build label graph and check for prop-
+erties for the 1,368,523 second-level TLDs. The median time
+is taken when multiple domains have the same number of
+resource records.
+campus.edu .GRoot guarantees that these 378 are the only cases
+under campus.edu that can be rewritten to outside domains. Hence
+an admin can manually or automatically inspect the results to spot
+errors or ensure policy is respected, with the assurance that all
+possible scenarios are covered.
+In fact, the other two properties that we checked with GRoot
+identified actual misconfigurations. One check identified lookups
+that use a name server not under campus.edu . Most of these name-
+servers belong to AWS or Cloudfare and are likely intentional. But
+one name server was 𝛼.campus.edwhich looked suspicious; when
+asked the admin said: “Thanks for the information about the dele-
+gation. I’ve corrected the typo.”
+The other check identified 24 queries that are rewritten more
+than twice during lookup. This is unusual as the RFC [ 36] suggests
+CNAME should point at the primary name and not an alias. Long
+CNAME chains increase the query response time and can lead to
+loops. Further, certain resolvers do not follow a chain if the length
+increases beyond a threshold and instead return ServFail [7].
+7.2.2 Service Provider. We also performed checks based on the
+properties described in Table 1 on the zone files from the service
+provider. Since there are no parent-child zones in the data set, all
+the violations GRoot flagged were related to rewrite blackholing .
+GRoot flagged around 160k interpretation graphs out of 9.2 million
+as experiencing rewrite blackholing. Upon further investigation
+with the service provider, they informed us that nearly all the cases
+are due to incomplete decommissioning of host names that are no
+longer in use.
+7.3 Performance Experiments
+All experiments were run on an 8-core Intel i7 processor with
+32GB of RAM running Windows 10 using 8 threads. On the campus
+network data the total time to parse all of the zone files and build the
+label and zone graphs was 1.5 seconds. GRoot generated 212,113
+graphs and checked properties for the graphs in 7 seconds. The
+label graph used to generate equivalence classes had 105,030 nodes
+with 105,029 edges and the interpretation graphs generated had on
+320

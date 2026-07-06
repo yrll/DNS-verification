@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/org.br,15gemarj.org.br..txt,A_UPDATE,DEL,15gemarj.org.br.,A,189.38.90.14
+top-10/org.br,15gemarj.org.br..txt,A_UPDATE,ADD,15gemarj.org.br.,A,192.0.2.253

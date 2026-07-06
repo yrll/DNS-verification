@@ -1,0 +1,882 @@
+{
+  "TopNameServers": [
+    "ns1.yourprospex.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/aaronwroten.yourprospex.com..txt",
+      "NameServer": "ns1.aaronwroten.yourprospex.com.",
+      "Origin": "aaronwroten.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/acpal.yourprospex.com..txt",
+      "NameServer": "ns1.acpal.yourprospex.com.",
+      "Origin": "acpal.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/ajmarketing.yourprospex.com..txt",
+      "NameServer": "ns1.ajmarketing.yourprospex.com.",
+      "Origin": "ajmarketing.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/ajwebmarketing.yourprospex.com..txt",
+      "NameServer": "ns1.ajwebmarketing.yourprospex.com.",
+      "Origin": "ajwebmarketing.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/allwyn.yourprospex.com..txt",
+      "NameServer": "ns1.allwyn.yourprospex.com.",
+      "Origin": "allwyn.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/anthonymc.yourprospex.com..txt",
+      "NameServer": "ns1.anthonymc.yourprospex.com.",
+      "Origin": "anthonymc.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/anthonymcneil.yourprospex.com..txt",
+      "NameServer": "ns1.anthonymcneil.yourprospex.com.",
+      "Origin": "anthonymcneil.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/arielleverwey.yourprospex.com..txt",
+      "NameServer": "ns1.arielleverwey.yourprospex.com.",
+      "Origin": "arielleverwey.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/bank.yourprospex.com..txt",
+      "NameServer": "ns1.bank.yourprospex.com.",
+      "Origin": "bank.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/barrycanada.yourprospex.com..txt",
+      "NameServer": "ns1.barrycanada.yourprospex.com.",
+      "Origin": "barrycanada.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/bcanada.yourprospex.com..txt",
+      "NameServer": "ns1.bcanada.yourprospex.com.",
+      "Origin": "bcanada.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/beaudry.yourprospex.com..txt",
+      "NameServer": "ns1.beaudry.yourprospex.com.",
+      "Origin": "beaudry.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/bestdeal.yourprospex.com..txt",
+      "NameServer": "ns1.bestdeal.yourprospex.com.",
+      "Origin": "bestdeal.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/bettyframe.yourprospex.com..txt",
+      "NameServer": "ns1.bettyframe.yourprospex.com.",
+      "Origin": "bettyframe.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/biggdogg.yourprospex.com..txt",
+      "NameServer": "ns1.biggdogg.yourprospex.com.",
+      "Origin": "biggdogg.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/biz4you.yourprospex.com..txt",
+      "NameServer": "ns1.biz4you.yourprospex.com.",
+      "Origin": "biz4you.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/bizguru.yourprospex.com..txt",
+      "NameServer": "ns1.bizguru.yourprospex.com.",
+      "Origin": "bizguru.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/bobmo.yourprospex.com..txt",
+      "NameServer": "ns1.bobmo.yourprospex.com.",
+      "Origin": "bobmo.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/bobullman.yourprospex.com..txt",
+      "NameServer": "ns1.bobullman.yourprospex.com.",
+      "Origin": "bobullman.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/bryanlonglois.yourprospex.com..txt",
+      "NameServer": "ns1.bryanlonglois.yourprospex.com.",
+      "Origin": "bryanlonglois.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/building.yourprospex.com..txt",
+      "NameServer": "ns1.building.yourprospex.com.",
+      "Origin": "building.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/care.yourprospex.com..txt",
+      "NameServer": "ns1.care.yourprospex.com.",
+      "Origin": "care.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/ceolionel.yourprospex.com..txt",
+      "NameServer": "ns1.ceolionel.yourprospex.com.",
+      "Origin": "ceolionel.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/chainreaction.yourprospex.com..txt",
+      "NameServer": "ns1.chainreaction.yourprospex.com.",
+      "Origin": "chainreaction.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/chase717.yourprospex.com..txt",
+      "NameServer": "ns1.chase717.yourprospex.com.",
+      "Origin": "chase717.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/cnipt.yourprospex.com..txt",
+      "NameServer": "ns1.cnipt.yourprospex.com.",
+      "Origin": "cnipt.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/colmcmaher.yourprospex.com..txt",
+      "NameServer": "ns1.colmcmaher.yourprospex.com.",
+      "Origin": "colmcmaher.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/coulawrence.yourprospex.com..txt",
+      "NameServer": "ns1.coulawrence.yourprospex.com.",
+      "Origin": "coulawrence.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/createfreeleads.yourprospex.com..txt",
+      "NameServer": "ns1.createfreeleads.yourprospex.com.",
+      "Origin": "createfreeleads.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/danis.yourprospex.com..txt",
+      "NameServer": "ns1.danis.yourprospex.com.",
+      "Origin": "danis.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/dany1987r.yourprospex.com..txt",
+      "NameServer": "ns1.dany1987r.yourprospex.com.",
+      "Origin": "dany1987r.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/dbri.yourprospex.com..txt",
+      "NameServer": "ns1.dbri.yourprospex.com.",
+      "Origin": "dbri.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/debwill.yourprospex.com..txt",
+      "NameServer": "ns1.debwill.yourprospex.com.",
+      "Origin": "debwill.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/destinycoaching.yourprospex.com..txt",
+      "NameServer": "ns1.destinycoaching.yourprospex.com.",
+      "Origin": "destinycoaching.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/diane.yourprospex.com..txt",
+      "NameServer": "ns1.diane.yourprospex.com.",
+      "Origin": "diane.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/dionsmlm.yourprospex.com..txt",
+      "NameServer": "ns1.dionsmlm.yourprospex.com.",
+      "Origin": "dionsmlm.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/discover.yourprospex.com..txt",
+      "NameServer": "ns1.discover.yourprospex.com.",
+      "Origin": "discover.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/dogmorf.yourprospex.com..txt",
+      "NameServer": "ns1.dogmorf.yourprospex.com.",
+      "Origin": "dogmorf.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/dominickhussey.yourprospex.com..txt",
+      "NameServer": "ns1.dominickhussey.yourprospex.com.",
+      "Origin": "dominickhussey.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/double.yourprospex.com..txt",
+      "NameServer": "ns1.double.yourprospex.com.",
+      "Origin": "double.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/dragonson.yourprospex.com..txt",
+      "NameServer": "ns1.dragonson.yourprospex.com.",
+      "Origin": "dragonson.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/dreamlives.yourprospex.com..txt",
+      "NameServer": "ns1.dreamlives.yourprospex.com.",
+      "Origin": "dreamlives.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/drimaco.yourprospex.com..txt",
+      "NameServer": "ns1.drimaco.yourprospex.com.",
+      "Origin": "drimaco.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/easyearnmoney.yourprospex.com..txt",
+      "NameServer": "ns1.easyearnmoney.yourprospex.com.",
+      "Origin": "easyearnmoney.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/easyleads.yourprospex.com..txt",
+      "NameServer": "ns1.easyleads.yourprospex.com.",
+      "Origin": "easyleads.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/ebiecreek.yourprospex.com..txt",
+      "NameServer": "ns1.ebiecreek.yourprospex.com.",
+      "Origin": "ebiecreek.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/education.yourprospex.com..txt",
+      "NameServer": "ns1.education.yourprospex.com.",
+      "Origin": "education.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/elitemarketer.yourprospex.com..txt",
+      "NameServer": "ns1.elitemarketer.yourprospex.com.",
+      "Origin": "elitemarketer.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/enjoyworkathome.yourprospex.com..txt",
+      "NameServer": "ns1.enjoyworkathome.yourprospex.com.",
+      "Origin": "enjoyworkathome.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/enroll.yourprospex.com..txt",
+      "NameServer": "ns1.enroll.yourprospex.com.",
+      "Origin": "enroll.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/entrepreneur.yourprospex.com..txt",
+      "NameServer": "ns1.entrepreneur.yourprospex.com.",
+      "Origin": "entrepreneur.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/eprofit.yourprospex.com..txt",
+      "NameServer": "ns1.eprofit.yourprospex.com.",
+      "Origin": "eprofit.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/experience.yourprospex.com..txt",
+      "NameServer": "ns1.experience.yourprospex.com.",
+      "Origin": "experience.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/fastline.yourprospex.com..txt",
+      "NameServer": "ns1.fastline.yourprospex.com.",
+      "Origin": "fastline.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/fdiconnect.yourprospex.com..txt",
+      "NameServer": "ns1.fdiconnect.yourprospex.com.",
+      "Origin": "fdiconnect.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/fortune.yourprospex.com..txt",
+      "NameServer": "ns1.fortune.yourprospex.com.",
+      "Origin": "fortune.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/forwardnetworker.yourprospex.com..txt",
+      "NameServer": "ns1.forwardnetworker.yourprospex.com.",
+      "Origin": "forwardnetworker.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/freedommarketing.yourprospex.com..txt",
+      "NameServer": "ns1.freedommarketing.yourprospex.com.",
+      "Origin": "freedommarketing.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/galleon.yourprospex.com..txt",
+      "NameServer": "ns1.galleon.yourprospex.com.",
+      "Origin": "galleon.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/gelenburg.yourprospex.com..txt",
+      "NameServer": "ns1.gelenburg.yourprospex.com.",
+      "Origin": "gelenburg.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/getpay4myspace.yourprospex.com..txt",
+      "NameServer": "ns1.getpay4myspace.yourprospex.com.",
+      "Origin": "getpay4myspace.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/getthem.yourprospex.com..txt",
+      "NameServer": "ns1.getthem.yourprospex.com.",
+      "Origin": "getthem.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/gptjohn.yourprospex.com..txt",
+      "NameServer": "ns1.gptjohn.yourprospex.com.",
+      "Origin": "gptjohn.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/gr8life.yourprospex.com..txt",
+      "NameServer": "ns1.gr8life.yourprospex.com.",
+      "Origin": "gr8life.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/grow.yourprospex.com..txt",
+      "NameServer": "ns1.grow.yourprospex.com.",
+      "Origin": "grow.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/guide.yourprospex.com..txt",
+      "NameServer": "ns1.guide.yourprospex.com.",
+      "Origin": "guide.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/happypappy1958.yourprospex.com..txt",
+      "NameServer": "ns1.happypappy1958.yourprospex.com.",
+      "Origin": "happypappy1958.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/helios.yourprospex.com..txt",
+      "NameServer": "ns1.helios.yourprospex.com.",
+      "Origin": "helios.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/higheagles.yourprospex.com..txt",
+      "NameServer": "ns1.higheagles.yourprospex.com.",
+      "Origin": "higheagles.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/ians.yourprospex.com..txt",
+      "NameServer": "ns1.ians.yourprospex.com.",
+      "Origin": "ians.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/igorp.yourprospex.com..txt",
+      "NameServer": "ns1.igorp.yourprospex.com.",
+      "Origin": "igorp.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/igotvia.yourprospex.com..txt",
+      "NameServer": "ns1.igotvia.yourprospex.com.",
+      "Origin": "igotvia.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/inetin.yourprospex.com..txt",
+      "NameServer": "ns1.inetin.yourprospex.com.",
+      "Origin": "inetin.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/ivanm.yourprospex.com..txt",
+      "NameServer": "ns1.ivanm.yourprospex.com.",
+      "Origin": "ivanm.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/jackieschwark.yourprospex.com..txt",
+      "NameServer": "ns1.jackieschwark.yourprospex.com.",
+      "Origin": "jackieschwark.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/jamesrainey.yourprospex.com..txt",
+      "NameServer": "ns1.jamesrainey.yourprospex.com.",
+      "Origin": "jamesrainey.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/jeffp.yourprospex.com..txt",
+      "NameServer": "ns1.jeffp.yourprospex.com.",
+      "Origin": "jeffp.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/jessica.yourprospex.com..txt",
+      "NameServer": "ns1.jessica.yourprospex.com.",
+      "Origin": "jessica.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/joelp.yourprospex.com..txt",
+      "NameServer": "ns1.joelp.yourprospex.com.",
+      "Origin": "joelp.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/karenmcarlisle.yourprospex.com..txt",
+      "NameServer": "ns1.karenmcarlisle.yourprospex.com.",
+      "Origin": "karenmcarlisle.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/kevindumas.yourprospex.com..txt",
+      "NameServer": "ns1.kevindumas.yourprospex.com.",
+      "Origin": "kevindumas.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/kiki.yourprospex.com..txt",
+      "NameServer": "ns1.kiki.yourprospex.com.",
+      "Origin": "kiki.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/kmmr12.yourprospex.com..txt",
+      "NameServer": "ns1.kmmr12.yourprospex.com.",
+      "Origin": "kmmr12.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/ksgms2000.yourprospex.com..txt",
+      "NameServer": "ns1.ksgms2000.yourprospex.com.",
+      "Origin": "ksgms2000.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/ksinteractive.yourprospex.com..txt",
+      "NameServer": "ns1.ksinteractive.yourprospex.com.",
+      "Origin": "ksinteractive.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/ktarver.yourprospex.com..txt",
+      "NameServer": "ns1.ktarver.yourprospex.com.",
+      "Origin": "ktarver.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/laburrell.yourprospex.com..txt",
+      "NameServer": "ns1.laburrell.yourprospex.com.",
+      "Origin": "laburrell.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/laman.yourprospex.com..txt",
+      "NameServer": "ns1.laman.yourprospex.com.",
+      "Origin": "laman.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/larrylewisjr.yourprospex.com..txt",
+      "NameServer": "ns1.larrylewisjr.yourprospex.com.",
+      "Origin": "larrylewisjr.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/leos.yourprospex.com..txt",
+      "NameServer": "ns1.leos.yourprospex.com.",
+      "Origin": "leos.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/lifeisplentiful.yourprospex.com..txt",
+      "NameServer": "ns1.lifeisplentiful.yourprospex.com.",
+      "Origin": "lifeisplentiful.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/lifestylemlm.yourprospex.com..txt",
+      "NameServer": "ns1.lifestylemlm.yourprospex.com.",
+      "Origin": "lifestylemlm.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/lifetime.yourprospex.com..txt",
+      "NameServer": "ns1.lifetime.yourprospex.com.",
+      "Origin": "lifetime.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/lynettejlewis.yourprospex.com..txt",
+      "NameServer": "ns1.lynettejlewis.yourprospex.com.",
+      "Origin": "lynettejlewis.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/marketingcourse.yourprospex.com..txt",
+      "NameServer": "ns1.marketingcourse.yourprospex.com.",
+      "Origin": "marketingcourse.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/marketingsuccess.yourprospex.com..txt",
+      "NameServer": "ns1.marketingsuccess.yourprospex.com.",
+      "Origin": "marketingsuccess.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/markmortensen.yourprospex.com..txt",
+      "NameServer": "ns1.markmortensen.yourprospex.com.",
+      "Origin": "markmortensen.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/masood.yourprospex.com..txt",
+      "NameServer": "ns1.masood.yourprospex.com.",
+      "Origin": "masood.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/massattraction.yourprospex.com..txt",
+      "NameServer": "ns1.massattraction.yourprospex.com.",
+      "Origin": "massattraction.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/maxgxlenergy.yourprospex.com..txt",
+      "NameServer": "ns1.maxgxlenergy.yourprospex.com.",
+      "Origin": "maxgxlenergy.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/maxinternational.yourprospex.com..txt",
+      "NameServer": "ns1.maxinternational.yourprospex.com.",
+      "Origin": "maxinternational.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/maxpotenial.yourprospex.com..txt",
+      "NameServer": "ns1.maxpotenial.yourprospex.com.",
+      "Origin": "maxpotenial.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/mdsallee.yourprospex.com..txt",
+      "NameServer": "ns1.mdsallee.yourprospex.com.",
+      "Origin": "mdsallee.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/meigbe.yourprospex.com..txt",
+      "NameServer": "ns1.meigbe.yourprospex.com.",
+      "Origin": "meigbe.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/mentorer.yourprospex.com..txt",
+      "NameServer": "ns1.mentorer.yourprospex.com.",
+      "Origin": "mentorer.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/middletown.yourprospex.com..txt",
+      "NameServer": "ns1.middletown.yourprospex.com.",
+      "Origin": "middletown.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/mikehy.yourprospex.com..txt",
+      "NameServer": "ns1.mikehy.yourprospex.com.",
+      "Origin": "mikehy.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/mlc.yourprospex.com..txt",
+      "NameServer": "ns1.mlc.yourprospex.com.",
+      "Origin": "mlc.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/mlmpro.yourprospex.com..txt",
+      "NameServer": "ns1.mlmpro.yourprospex.com.",
+      "Origin": "mlmpro.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/mopeded.yourprospex.com..txt",
+      "NameServer": "ns1.mopeded.yourprospex.com.",
+      "Origin": "mopeded.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/morgan747.yourprospex.com..txt",
+      "NameServer": "ns1.morgan747.yourprospex.com.",
+      "Origin": "morgan747.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/muhyra.yourprospex.com..txt",
+      "NameServer": "ns1.muhyra.yourprospex.com.",
+      "Origin": "muhyra.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/nathaliepaisible.yourprospex.com..txt",
+      "NameServer": "ns1.nathaliepaisible.yourprospex.com.",
+      "Origin": "nathaliepaisible.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/nazpaz.yourprospex.com..txt",
+      "NameServer": "ns1.nazpaz.yourprospex.com.",
+      "Origin": "nazpaz.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/netbuc.yourprospex.com..txt",
+      "NameServer": "ns1.netbuc.yourprospex.com.",
+      "Origin": "netbuc.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/netdigit.yourprospex.com..txt",
+      "NameServer": "ns1.netdigit.yourprospex.com.",
+      "Origin": "netdigit.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/netmarkpro.yourprospex.com..txt",
+      "NameServer": "ns1.netmarkpro.yourprospex.com.",
+      "Origin": "netmarkpro.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/networkersfriend.yourprospex.com..txt",
+      "NameServer": "ns1.networkersfriend.yourprospex.com.",
+      "Origin": "networkersfriend.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/newlevelsof.yourprospex.com..txt",
+      "NameServer": "ns1.newlevelsof.yourprospex.com.",
+      "Origin": "newlevelsof.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/oursuccess.yourprospex.com..txt",
+      "NameServer": "ns1.oursuccess.yourprospex.com.",
+      "Origin": "oursuccess.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/overthetop.yourprospex.com..txt",
+      "NameServer": "ns1.overthetop.yourprospex.com.",
+      "Origin": "overthetop.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/patsefusjon.yourprospex.com..txt",
+      "NameServer": "ns1.patsefusjon.yourprospex.com.",
+      "Origin": "patsefusjon.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/payitforward.yourprospex.com..txt",
+      "NameServer": "ns1.payitforward.yourprospex.com.",
+      "Origin": "payitforward.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/phillipmaxwell.yourprospex.com..txt",
+      "NameServer": "ns1.phillipmaxwell.yourprospex.com.",
+      "Origin": "phillipmaxwell.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/portugalxocai.yourprospex.com..txt",
+      "NameServer": "ns1.portugalxocai.yourprospex.com.",
+      "Origin": "portugalxocai.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/proinviter.yourprospex.com..txt",
+      "NameServer": "ns1.proinviter.yourprospex.com.",
+      "Origin": "proinviter.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/qamaruzaman.yourprospex.com..txt",
+      "NameServer": "ns1.qamaruzaman.yourprospex.com.",
+      "Origin": "qamaruzaman.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/rbiz.yourprospex.com..txt",
+      "NameServer": "ns1.rbiz.yourprospex.com.",
+      "Origin": "rbiz.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/retirenation.yourprospex.com..txt",
+      "NameServer": "ns1.retirenation.yourprospex.com.",
+      "Origin": "retirenation.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/richoneil.yourprospex.com..txt",
+      "NameServer": "ns1.richoneil.yourprospex.com.",
+      "Origin": "richoneil.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/rickling.yourprospex.com..txt",
+      "NameServer": "ns1.rickling.yourprospex.com.",
+      "Origin": "rickling.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/robcoats.yourprospex.com..txt",
+      "NameServer": "ns1.robcoats.yourprospex.com.",
+      "Origin": "robcoats.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/ruste.yourprospex.com..txt",
+      "NameServer": "ns1.ruste.yourprospex.com.",
+      "Origin": "ruste.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/samwuan.yourprospex.com..txt",
+      "NameServer": "ns1.samwuan.yourprospex.com.",
+      "Origin": "samwuan.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/scott59.yourprospex.com..txt",
+      "NameServer": "ns1.scott59.yourprospex.com.",
+      "Origin": "scott59.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/sfswithmax.yourprospex.com..txt",
+      "NameServer": "ns1.sfswithmax.yourprospex.com.",
+      "Origin": "sfswithmax.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/shack.yourprospex.com..txt",
+      "NameServer": "ns1.shack.yourprospex.com.",
+      "Origin": "shack.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/shala.yourprospex.com..txt",
+      "NameServer": "ns1.shala.yourprospex.com.",
+      "Origin": "shala.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/shaneb.yourprospex.com..txt",
+      "NameServer": "ns1.shaneb.yourprospex.com.",
+      "Origin": "shaneb.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/socialriches.yourprospex.com..txt",
+      "NameServer": "ns1.socialriches.yourprospex.com.",
+      "Origin": "socialriches.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/starbar.yourprospex.com..txt",
+      "NameServer": "ns1.starbar.yourprospex.com.",
+      "Origin": "starbar.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/success.yourprospex.com..txt",
+      "NameServer": "ns1.success.yourprospex.com.",
+      "Origin": "success.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/successformula4u.yourprospex.com..txt",
+      "NameServer": "ns1.successformula4u.yourprospex.com.",
+      "Origin": "successformula4u.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/successplatform.yourprospex.com..txt",
+      "NameServer": "ns1.successplatform.yourprospex.com.",
+      "Origin": "successplatform.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/successwith.yourprospex.com..txt",
+      "NameServer": "ns1.successwith.yourprospex.com.",
+      "Origin": "successwith.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/successwithpaul.yourprospex.com..txt",
+      "NameServer": "ns1.successwithpaul.yourprospex.com.",
+      "Origin": "successwithpaul.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/sunshineprevails.yourprospex.com..txt",
+      "NameServer": "ns1.sunshineprevails.yourprospex.com.",
+      "Origin": "sunshineprevails.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/sweatequity.yourprospex.com..txt",
+      "NameServer": "ns1.sweatequity.yourprospex.com.",
+      "Origin": "sweatequity.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/taislimnewyou.yourprospex.com..txt",
+      "NameServer": "ns1.taislimnewyou.yourprospex.com.",
+      "Origin": "taislimnewyou.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/teamaslan.yourprospex.com..txt",
+      "NameServer": "ns1.teamaslan.yourprospex.com.",
+      "Origin": "teamaslan.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/teambuilders.yourprospex.com..txt",
+      "NameServer": "ns1.teambuilders.yourprospex.com.",
+      "Origin": "teambuilders.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/teamdean.yourprospex.com..txt",
+      "NameServer": "ns1.teamdean.yourprospex.com.",
+      "Origin": "teamdean.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/teamhamlin.yourprospex.com..txt",
+      "NameServer": "ns1.teamhamlin.yourprospex.com.",
+      "Origin": "teamhamlin.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/teamone.yourprospex.com..txt",
+      "NameServer": "ns1.teamone.yourprospex.com.",
+      "Origin": "teamone.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/teamsuccesswave.yourprospex.com..txt",
+      "NameServer": "ns1.teamsuccesswave.yourprospex.com.",
+      "Origin": "teamsuccesswave.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/terryroskovich.yourprospex.com..txt",
+      "NameServer": "ns1.terryroskovich.yourprospex.com.",
+      "Origin": "terryroskovich.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/themiracleherb.yourprospex.com..txt",
+      "NameServer": "ns1.themiracleherb.yourprospex.com.",
+      "Origin": "themiracleherb.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/tigerjoanna.yourprospex.com..txt",
+      "NameServer": "ns1.tigerjoanna.yourprospex.com.",
+      "Origin": "tigerjoanna.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/tomhattori.yourprospex.com..txt",
+      "NameServer": "ns1.tomhattori.yourprospex.com.",
+      "Origin": "tomhattori.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/tracyknox.yourprospex.com..txt",
+      "NameServer": "ns1.tracyknox.yourprospex.com.",
+      "Origin": "tracyknox.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/unique.yourprospex.com..txt",
+      "NameServer": "ns1.unique.yourprospex.com.",
+      "Origin": "unique.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/vanmasters.yourprospex.com..txt",
+      "NameServer": "ns1.vanmasters.yourprospex.com.",
+      "Origin": "vanmasters.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/waltray77.yourprospex.com..txt",
+      "NameServer": "ns1.waltray77.yourprospex.com.",
+      "Origin": "waltray77.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/wef1489.yourprospex.com..txt",
+      "NameServer": "ns1.wef1489.yourprospex.com.",
+      "Origin": "wef1489.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/winwin.yourprospex.com..txt",
+      "NameServer": "ns1.winwin.yourprospex.com.",
+      "Origin": "winwin.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/wolfeagle.yourprospex.com..txt",
+      "NameServer": "ns1.wolfeagle.yourprospex.com.",
+      "Origin": "wolfeagle.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/www.enroll.yourprospex.com..txt",
+      "NameServer": "ns1.www.enroll.yourprospex.com.",
+      "Origin": "www.enroll.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/www.ivanm.yourprospex.com..txt",
+      "NameServer": "ns1.www.ivanm.yourprospex.com.",
+      "Origin": "www.ivanm.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/www.lifetime.yourprospex.com..txt",
+      "NameServer": "ns1.www.lifetime.yourprospex.com.",
+      "Origin": "www.lifetime.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/www.shaneb.yourprospex.com..txt",
+      "NameServer": "ns1.www.shaneb.yourprospex.com.",
+      "Origin": "www.shaneb.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/www.yourprospex.com..txt",
+      "NameServer": "ns1.www.yourprospex.com.",
+      "Origin": "www.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/www2.yourprospex.com..txt",
+      "NameServer": "ns1.www2.yourprospex.com.",
+      "Origin": "www2.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/yantouk.yourprospex.com..txt",
+      "NameServer": "ns1.yantouk.yourprospex.com.",
+      "Origin": "yantouk.yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/yourprospex.com..txt",
+      "NameServer": "ns1.yourprospex.com.",
+      "Origin": "yourprospex.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourprospex.com/yrfuture.yourprospex.com..txt",
+      "NameServer": "ns1.yrfuture.yourprospex.com.",
+      "Origin": "yrfuture.yourprospex.com."
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/gov.cn,0437.gov.cn..txt,CNAME_UPDATE,DEL,yl.0437.gov.cn.,CNAME,www.0437.gov.cn.
+top-10/gov.cn,0437.gov.cn..txt,CNAME_UPDATE,ADD,yl.0437.gov.cn.,CNAME,cname-inc.0437.gov.cn.

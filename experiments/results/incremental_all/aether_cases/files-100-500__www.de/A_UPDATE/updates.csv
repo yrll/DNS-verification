@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/www.de,131840.kq.bpod.www.de..txt,A_UPDATE,DEL,131840.kq.bpod.www.de.,A,82.98.86.173
+files-100-500/www.de,131840.kq.bpod.www.de..txt,A_UPDATE,ADD,131840.kq.bpod.www.de.,A,192.0.2.253

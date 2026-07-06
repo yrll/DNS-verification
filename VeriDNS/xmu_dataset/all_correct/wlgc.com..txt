@@ -1,0 +1,10 @@
+wlgc.com.				      14400 IN SOA	ns1.wlgc.com. 2018083000 14400 3600 2419200 14400
+
+wlgc.com.                    NS      ns1.wlgc.com.
+ns1.wlgc.com.                A       10.166.21.13
+
+class.wlgc.com.			      14400 IN NS	ns1.class.wlgc.com.
+ns1.class.wlgc.com.			      14400 IN A	10.166.21.14
+
+
+

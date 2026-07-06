@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/website-start.de,s278642480.website-start.de..txt,NS_UPDATE,DEL,s278642480.website-start.de.,NS,ns1.website-start.de.
+files-100-500/website-start.de,s278642480.website-start.de..txt,NS_UPDATE,ADD,s278642480.website-start.de.,NS,ns-inc.s278642480.website-start.de.

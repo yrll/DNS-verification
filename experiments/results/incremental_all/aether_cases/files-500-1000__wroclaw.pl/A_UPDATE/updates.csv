@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/wroclaw.pl,2mserwis.wroclaw.pl..txt,A_UPDATE,DEL,2mserwis.wroclaw.pl.,A,213.133.101.7
+files-500-1000/wroclaw.pl,2mserwis.wroclaw.pl..txt,A_UPDATE,ADD,2mserwis.wroclaw.pl.,A,192.0.2.253

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.mx,01dcpromo.com.mx..txt,NS_UPDATE,DEL,01dcpromo.com.mx.,NS,ns203.websitewelcome.com.
+top-10/com.mx,01dcpromo.com.mx..txt,NS_UPDATE,ADD,01dcpromo.com.mx.,NS,ns-inc.01dcpromo.com.mx.

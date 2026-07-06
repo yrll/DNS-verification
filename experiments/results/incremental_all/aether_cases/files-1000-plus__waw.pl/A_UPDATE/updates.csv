@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-1000-plus/waw.pl,147break.waw.pl..txt,A_UPDATE,DEL,147break.waw.pl.,A,94.152.8.3
+files-1000-plus/waw.pl,147break.waw.pl..txt,A_UPDATE,ADD,147break.waw.pl.,A,192.0.2.253

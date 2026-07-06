@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/x0.com,a-z.x0.com..txt,CNAME_UPDATE,DEL,www.a-z.x0.com.,CNAME,a-z.x0.com.
+files-100-500/x0.com,a-z.x0.com..txt,CNAME_UPDATE,ADD,www.a-z.x0.com.,CNAME,cname-inc.a-z.x0.com.

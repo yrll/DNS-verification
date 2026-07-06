@@ -1,0 +1,562 @@
+{
+  "TopNameServers": [
+    "ns1.wayport.net."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/anchoak.wayport.net..txt",
+      "NameServer": "ns1.anchoak.wayport.net.",
+      "Origin": "anchoak.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/atl.wayport.net..txt",
+      "NameServer": "ns1.atl.wayport.net.",
+      "Origin": "atl.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/attrtl128654.wichdal.wayport.net..txt",
+      "NameServer": "ns1.attrtl128654.wichdal.wayport.net.",
+      "Origin": "attrtl128654.wichdal.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/aus.wayport.net..txt",
+      "NameServer": "ns1.aus.wayport.net.",
+      "Origin": "aus.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/aus0.tx.us.corp.wayport.net..txt",
+      "NameServer": "ns1.aus0.tx.us.corp.wayport.net.",
+      "Origin": "aus0.tx.us.corp.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/bn02032.chcgil.wayport.net..txt",
+      "NameServer": "ns1.bn02032.chcgil.wayport.net.",
+      "Origin": "bn02032.chcgil.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/bn02238.mcleava.wayport.net..txt",
+      "NameServer": "ns1.bn02238.mcleava.wayport.net.",
+      "Origin": "bn02238.mcleava.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/bn02560.phoenaz.wayport.net..txt",
+      "NameServer": "ns1.bn02560.phoenaz.wayport.net.",
+      "Origin": "bn02560.phoenaz.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/bn02784.anchoak.wayport.net..txt",
+      "NameServer": "ns1.bn02784.anchoak.wayport.net.",
+      "Origin": "bn02784.anchoak.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/bn02847.hstntx.wayport.net..txt",
+      "NameServer": "ns1.bn02847.hstntx.wayport.net.",
+      "Origin": "bn02847.hstntx.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/bn02992.plymopa.wayport.net..txt",
+      "NameServer": "ns1.bn02992.plymopa.wayport.net.",
+      "Origin": "bn02992.plymopa.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/bos.wayport.net..txt",
+      "NameServer": "ns1.bos.wayport.net.",
+      "Origin": "bos.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/carync.wayport.net..txt",
+      "NameServer": "ns1.carync.wayport.net.",
+      "Origin": "carync.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/chcgil.wayport.net..txt",
+      "NameServer": "ns1.chcgil.wayport.net.",
+      "Origin": "chcgil.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/chi.wayport.net..txt",
+      "NameServer": "ns1.chi.wayport.net.",
+      "Origin": "chi.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/chr.tor.wayport.net..txt",
+      "NameServer": "ns1.chr.tor.wayport.net.",
+      "Origin": "chr.tor.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/corp.aus.wayport.net..txt",
+      "NameServer": "ns1.corp.aus.wayport.net.",
+      "Origin": "corp.aus.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/corp.wayport.net..txt",
+      "NameServer": "ns1.corp.wayport.net.",
+      "Origin": "corp.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/dal.wayport.net..txt",
+      "NameServer": "ns1.dal.wayport.net.",
+      "Origin": "dal.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/dca.wayport.net..txt",
+      "NameServer": "ns1.dca.wayport.net.",
+      "Origin": "dca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/denveco.wayport.net..txt",
+      "NameServer": "ns1.denveco.wayport.net.",
+      "Origin": "denveco.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/dulleva.wayport.net..txt",
+      "NameServer": "ns1.dulleva.wayport.net.",
+      "Origin": "dulleva.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/elsegca.wayport.net..txt",
+      "NameServer": "ns1.elsegca.wayport.net.",
+      "Origin": "elsegca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/eng.aus.wayport.net..txt",
+      "NameServer": "ns1.eng.aus.wayport.net.",
+      "Origin": "eng.aus.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/gleneil.wayport.net..txt",
+      "NameServer": "ns1.gleneil.wayport.net.",
+      "Origin": "gleneil.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/granbtx.wayport.net..txt",
+      "NameServer": "ns1.granbtx.wayport.net.",
+      "Origin": "granbtx.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/grand.las.wayport.net..txt",
+      "NameServer": "ns1.grand.las.wayport.net.",
+      "Origin": "grand.las.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/hfwsf.sjc.wayport.net..txt",
+      "NameServer": "ns1.hfwsf.sjc.wayport.net.",
+      "Origin": "hfwsf.sjc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/hifo.dca.wayport.net..txt",
+      "NameServer": "ns1.hifo.dca.wayport.net.",
+      "Origin": "hifo.dca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/hou.wayport.net..txt",
+      "NameServer": "ns1.hou.wayport.net.",
+      "Origin": "hou.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/hph.nyc.wayport.net..txt",
+      "NameServer": "ns1.hph.nyc.wayport.net.",
+      "Origin": "hph.nyc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/hstntx.wayport.net..txt",
+      "NameServer": "ns1.hstntx.wayport.net.",
+      "Origin": "hstntx.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/inova1.dca.wayport.net..txt",
+      "NameServer": "ns1.inova1.dca.wayport.net.",
+      "Origin": "inova1.dca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/ipltin.wayport.net..txt",
+      "NameServer": "ns1.ipltin.wayport.net.",
+      "Origin": "ipltin.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/jacksfl.wayport.net..txt",
+      "NameServer": "ns1.jacksfl.wayport.net.",
+      "Origin": "jacksfl.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/joplimo.wayport.net..txt",
+      "NameServer": "ns1.joplimo.wayport.net.",
+      "Origin": "joplimo.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/kan.wayport.net..txt",
+      "NameServer": "ns1.kan.wayport.net.",
+      "Origin": "kan.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/las.wayport.net..txt",
+      "NameServer": "ns1.las.wayport.net.",
+      "Origin": "las.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/lax.wayport.net..txt",
+      "NameServer": "ns1.lax.wayport.net.",
+      "Origin": "lax.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/losanca.wayport.net..txt",
+      "NameServer": "ns1.losanca.wayport.net.",
+      "Origin": "losanca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/ltrkar.wayport.net..txt",
+      "NameServer": "ns1.ltrkar.wayport.net.",
+      "Origin": "ltrkar.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/madiswi.wayport.net..txt",
+      "NameServer": "ns1.madiswi.wayport.net.",
+      "Origin": "madiswi.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/maggperimg0162.atl.wayport.net..txt",
+      "NameServer": "ns1.maggperimg0162.atl.wayport.net.",
+      "Origin": "maggperimg0162.atl.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd01313.sjc.wayport.net..txt",
+      "NameServer": "ns1.mcd01313.sjc.wayport.net.",
+      "Origin": "mcd01313.sjc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd04025.nyc.wayport.net..txt",
+      "NameServer": "ns1.mcd04025.nyc.wayport.net.",
+      "Origin": "mcd04025.nyc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd04205.bos.wayport.net..txt",
+      "NameServer": "ns1.mcd04205.bos.wayport.net.",
+      "Origin": "mcd04205.bos.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd06669.chi.wayport.net..txt",
+      "NameServer": "ns1.mcd06669.chi.wayport.net.",
+      "Origin": "mcd06669.chi.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd06827.orl.wayport.net..txt",
+      "NameServer": "ns1.mcd06827.orl.wayport.net.",
+      "Origin": "mcd06827.orl.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd10868.aus.wayport.net..txt",
+      "NameServer": "ns1.mcd10868.aus.wayport.net.",
+      "Origin": "mcd10868.aus.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd11901.nyc.wayport.net..txt",
+      "NameServer": "ns1.mcd11901.nyc.wayport.net.",
+      "Origin": "mcd11901.nyc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd13297.dal.wayport.net..txt",
+      "NameServer": "ns1.mcd13297.dal.wayport.net.",
+      "Origin": "mcd13297.dal.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd13362.dca.wayport.net..txt",
+      "NameServer": "ns1.mcd13362.dca.wayport.net.",
+      "Origin": "mcd13362.dca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd15841.atl.wayport.net..txt",
+      "NameServer": "ns1.mcd15841.atl.wayport.net.",
+      "Origin": "mcd15841.atl.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd17214.kan.wayport.net..txt",
+      "NameServer": "ns1.mcd17214.kan.wayport.net.",
+      "Origin": "mcd17214.kan.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd24722.nyc.wayport.net..txt",
+      "NameServer": "ns1.mcd24722.nyc.wayport.net.",
+      "Origin": "mcd24722.nyc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd27391.lax.wayport.net..txt",
+      "NameServer": "ns1.mcd27391.lax.wayport.net.",
+      "Origin": "mcd27391.lax.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcd28413.dal.wayport.net..txt",
+      "NameServer": "ns1.mcd28413.dal.wayport.net.",
+      "Origin": "mcd28413.dal.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mcleava.wayport.net..txt",
+      "NameServer": "ns1.mcleava.wayport.net.",
+      "Origin": "mcleava.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/moorpca.wayport.net..txt",
+      "NameServer": "ns1.moorpca.wayport.net.",
+      "Origin": "moorpca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/muni-stl.stloumo.wayport.net..txt",
+      "NameServer": "ns1.muni-stl.stloumo.wayport.net.",
+      "Origin": "muni-stl.stloumo.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/mwp.atl.wayport.net..txt",
+      "NameServer": "ns1.mwp.atl.wayport.net.",
+      "Origin": "mwp.atl.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/newyony.wayport.net..txt",
+      "NameServer": "ns1.newyony.wayport.net.",
+      "Origin": "newyony.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/nmd.wayport.net..txt",
+      "NameServer": "ns1.nmd.wayport.net.",
+      "Origin": "nmd.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/nyc.wayport.net..txt",
+      "NameServer": "ns1.nyc.wayport.net.",
+      "Origin": "nyc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/orl.wayport.net..txt",
+      "NameServer": "ns1.orl.wayport.net.",
+      "Origin": "orl.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/philapa.wayport.net..txt",
+      "NameServer": "ns1.philapa.wayport.net.",
+      "Origin": "philapa.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/phillyiap.philapa.wayport.net..txt",
+      "NameServer": "ns1.phillyiap.philapa.wayport.net.",
+      "Origin": "phillyiap.philapa.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/phoenaz.wayport.net..txt",
+      "NameServer": "ns1.phoenaz.wayport.net.",
+      "Origin": "phoenaz.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/phx.wayport.net..txt",
+      "NameServer": "ns1.phx.wayport.net.",
+      "Origin": "phx.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/plymopa.wayport.net..txt",
+      "NameServer": "ns1.plymopa.wayport.net.",
+      "Origin": "plymopa.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/qa.wayport.net..txt",
+      "NameServer": "ns1.qa.wayport.net.",
+      "Origin": "qa.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sanfrca.wayport.net..txt",
+      "NameServer": "ns1.sanfrca.wayport.net.",
+      "Origin": "sanfrca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbc.wayport.net..txt",
+      "NameServer": "ns1.sbc.wayport.net.",
+      "Origin": "sbc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx00373.seattwa.wayport.net..txt",
+      "NameServer": "ns1.sbx00373.seattwa.wayport.net.",
+      "Origin": "sbx00373.seattwa.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx00611.sanfrca.wayport.net..txt",
+      "NameServer": "ns1.sbx00611.sanfrca.wayport.net.",
+      "Origin": "sbx00611.sanfrca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx00629.sanfrca.wayport.net..txt",
+      "NameServer": "ns1.sbx00629.sanfrca.wayport.net.",
+      "Origin": "sbx00629.sanfrca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx02572.madiswi.wayport.net..txt",
+      "NameServer": "ns1.sbx02572.madiswi.wayport.net.",
+      "Origin": "sbx02572.madiswi.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx05452.moorpca.wayport.net..txt",
+      "NameServer": "ns1.sbx05452.moorpca.wayport.net.",
+      "Origin": "sbx05452.moorpca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx05646.sanfrca.wayport.net..txt",
+      "NameServer": "ns1.sbx05646.sanfrca.wayport.net.",
+      "Origin": "sbx05646.sanfrca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx05905.scottca.wayport.net..txt",
+      "NameServer": "ns1.sbx05905.scottca.wayport.net.",
+      "Origin": "sbx05905.scottca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx06922.granbtx.wayport.net..txt",
+      "NameServer": "ns1.sbx06922.granbtx.wayport.net.",
+      "Origin": "sbx06922.granbtx.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx07430.warwiri.wayport.net..txt",
+      "NameServer": "ns1.sbx07430.warwiri.wayport.net.",
+      "Origin": "sbx07430.warwiri.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx08301.sunrifl.wayport.net..txt",
+      "NameServer": "ns1.sbx08301.sunrifl.wayport.net.",
+      "Origin": "sbx08301.sunrifl.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx08399.jacksfl.wayport.net..txt",
+      "NameServer": "ns1.sbx08399.jacksfl.wayport.net.",
+      "Origin": "sbx08399.jacksfl.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx08518.wilminc.wayport.net..txt",
+      "NameServer": "ns1.sbx08518.wilminc.wayport.net.",
+      "Origin": "sbx08518.wilminc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx08745.tucsoaz.wayport.net..txt",
+      "NameServer": "ns1.sbx08745.tucsoaz.wayport.net.",
+      "Origin": "sbx08745.tucsoaz.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx09467.newyony.wayport.net..txt",
+      "NameServer": "ns1.sbx09467.newyony.wayport.net.",
+      "Origin": "sbx09467.newyony.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx09538.terretx.wayport.net..txt",
+      "NameServer": "ns1.sbx09538.terretx.wayport.net.",
+      "Origin": "sbx09538.terretx.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx09911.gleneil.wayport.net..txt",
+      "NameServer": "ns1.sbx09911.gleneil.wayport.net.",
+      "Origin": "sbx09911.gleneil.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx10347.sanfrca.wayport.net..txt",
+      "NameServer": "ns1.sbx10347.sanfrca.wayport.net.",
+      "Origin": "sbx10347.sanfrca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx11954.elsegca.wayport.net..txt",
+      "NameServer": "ns1.sbx11954.elsegca.wayport.net.",
+      "Origin": "sbx11954.elsegca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx11991.losanca.wayport.net..txt",
+      "NameServer": "ns1.sbx11991.losanca.wayport.net.",
+      "Origin": "sbx11991.losanca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sbx13473.joplimo.wayport.net..txt",
+      "NameServer": "ns1.sbx13473.joplimo.wayport.net.",
+      "Origin": "sbx13473.joplimo.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/scottca.wayport.net..txt",
+      "NameServer": "ns1.scottca.wayport.net.",
+      "Origin": "scottca.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/seattwa.wayport.net..txt",
+      "NameServer": "ns1.seattwa.wayport.net.",
+      "Origin": "seattwa.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sjc.wayport.net..txt",
+      "NameServer": "ns1.sjc.wayport.net.",
+      "Origin": "sjc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/stloumo.wayport.net..txt",
+      "NameServer": "ns1.stloumo.wayport.net.",
+      "Origin": "stloumo.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/sunrifl.wayport.net..txt",
+      "NameServer": "ns1.sunrifl.wayport.net.",
+      "Origin": "sunrifl.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/terretx.wayport.net..txt",
+      "NameServer": "ns1.terretx.wayport.net.",
+      "Origin": "terretx.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/tor.wayport.net..txt",
+      "NameServer": "ns1.tor.wayport.net.",
+      "Origin": "tor.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/tst3.aus.wayport.net..txt",
+      "NameServer": "ns1.tst3.aus.wayport.net.",
+      "Origin": "tst3.aus.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/tucsoaz.wayport.net..txt",
+      "NameServer": "ns1.tucsoaz.wayport.net.",
+      "Origin": "tucsoaz.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/tx.us.corp.wayport.net..txt",
+      "NameServer": "ns1.tx.us.corp.wayport.net.",
+      "Origin": "tx.us.corp.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/us.corp.wayport.net..txt",
+      "NameServer": "ns1.us.corp.wayport.net.",
+      "Origin": "us.corp.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/warwiri.wayport.net..txt",
+      "NameServer": "ns1.warwiri.wayport.net.",
+      "Origin": "warwiri.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/washiad.dulleva.wayport.net..txt",
+      "NameServer": "ns1.washiad.dulleva.wayport.net.",
+      "Origin": "washiad.dulleva.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/wayport.net..txt",
+      "NameServer": "ns1.wayport.net.",
+      "Origin": "wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/wichdal.wayport.net..txt",
+      "NameServer": "ns1.wichdal.wayport.net.",
+      "Origin": "wichdal.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/wilminc.wayport.net..txt",
+      "NameServer": "ns1.wilminc.wayport.net.",
+      "Origin": "wilminc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/wstr.nyc.wayport.net..txt",
+      "NameServer": "ns1.wstr.nyc.wayport.net.",
+      "Origin": "wstr.nyc.wayport.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wayport.net/wvrs.phx.wayport.net..txt",
+      "NameServer": "ns1.wvrs.phx.wayport.net.",
+      "Origin": "wvrs.phx.wayport.net."
+    }
+  ]
+}

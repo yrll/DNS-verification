@@ -1,0 +1,5 @@
+[2026-06-30T05:21:13Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["com", "yahoo", "b", "fyap", "tw", "games", "w1"], rtype: A, rdata: "116.214.5.66" }
+[2026-06-30T05:21:13Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["com", "yahoo", "b", "g1", "tw", "bill", "cg"], rtype: A, rdata: "202.153.200.89" }
+[2026-06-30T05:21:13Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["com", "yahoo", "sp2", "member", "pool2-vm8"], rtype: MX, rdata: "0 ." }
+[2026-06-30T05:21:13Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["com", "yahoo", "sp1", "vip", "pipes", "m1"], rtype: MX, rdata: "0 ." }
+[2026-06-30T05:21:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["com", "yahoo", "ilist"], rtype: A, rdata: "216.145.54.177" }

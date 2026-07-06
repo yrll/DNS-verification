@@ -1,0 +1,12 @@
+wf.zdm.com.               			      43200 IN SOA	ns1.wf.zdm.com. 19122302 14400 3600 2419200 14400
+
+wf.zdm.com.                 NS      ns1.wf.zdm.com.
+ns1.wf.zdm.com.               A       10.166.21.15
+
+sore.wf.zdm.com.		    IN	NS ns1.sore.wf.zdm.com.
+sore.wf.zdm.com.		    IN	NS ns2.sore.wf.zdm.com.
+ns1.sore.wf.zdm.com.	    IN	A	10.166.10.12
+ns2.sore.wf.zdm.com.	    IN	A 	10.166.10.13
+
+
+

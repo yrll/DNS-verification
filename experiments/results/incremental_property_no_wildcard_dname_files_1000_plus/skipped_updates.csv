@@ -1,0 +1,3 @@
+group,dataset,dataset_id,scenario,status,skipped_reason
+files-1000-plus,wp-studio.net,files-1000-plus/wp-studio.net,CNAME_UPDATE,skipped,no CNAME record
+files-1000-plus,youaremighty.com,files-1000-plus/youaremighty.com,CNAME_UPDATE,skipped,no CNAME record

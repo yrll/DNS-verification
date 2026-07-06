@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/zhp.pl,1procent.zhp.pl..txt,A_UPDATE,DEL,1procent.zhp.pl.,A,89.161.251.118
+files-100-500/zhp.pl,1procent.zhp.pl..txt,A_UPDATE,ADD,1procent.zhp.pl.,A,192.0.2.253

@@ -1,0 +1,18 @@
+; <<>> DiG 9.11.3-1ubuntu1.11-Ubuntu <<>> AXFR whu.com. @ns2.whu.edu.
+;; global options: +cmd
+
+@               			      14400 IN SOA	ns1.whu.com. james.whu.edu. 19122302 14400 3600 2419200 14400
+whu.com.			      14400 IN NS	ns1.whu.com.
+ns1.whu.com.			      14400 IN A	10.166.21.13
+
+www.whu.com.		      14400 IN NS	ns1.www.whu.com.
+ns1.www.whu.com.		      14400 IN A		10.166.21.14
+
+pharm.whu.com.		      14400 IN NS	ns1.pharm.whu.com.
+ns1.pharm.whu.com.		      14400 IN A		10.166.21.15
+
+hyxt.whu.com.		      14400 IN NS	ns1.hyxt.whu.com.
+ns1.hyxt.whu.com.		      14400 IN A		10.166.21.12
+
+whu.com.			      14400 IN MX	10 hyxttp.whu.edu.
+whu.com.			      14400 IN TXT	"v=spf1 a mx ~all"

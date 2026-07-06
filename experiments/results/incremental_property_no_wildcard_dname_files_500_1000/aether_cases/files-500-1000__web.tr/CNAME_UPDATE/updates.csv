@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/web.tr,2k.web.tr..txt,CNAME_UPDATE,DEL,www.2k.web.tr.,CNAME,2k.web.tr.
+files-500-1000/web.tr,2k.web.tr..txt,CNAME_UPDATE,ADD,www.2k.web.tr.,CNAME,cname-inc.2k.web.tr.

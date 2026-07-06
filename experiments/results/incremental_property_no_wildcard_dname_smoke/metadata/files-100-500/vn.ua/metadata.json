@@ -1,0 +1,1267 @@
+{
+  "TopNameServers": [
+    "ns1.vn.ua."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/09.vn.ua..txt",
+      "NameServer": "ns1.09.vn.ua.",
+      "Origin": "09.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/4x4.vn.ua..txt",
+      "NameServer": "ns1.4x4.vn.ua.",
+      "Origin": "4x4.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/7k.vn.ua..txt",
+      "NameServer": "ns1.7k.vn.ua.",
+      "Origin": "7k.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/absolut.vn.ua..txt",
+      "NameServer": "ns1.absolut.vn.ua.",
+      "Origin": "absolut.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ae.vn.ua..txt",
+      "NameServer": "ns1.ae.vn.ua.",
+      "Origin": "ae.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/af.vn.ua..txt",
+      "NameServer": "ns1.af.vn.ua.",
+      "Origin": "af.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/aist.vn.ua..txt",
+      "NameServer": "ns1.aist.vn.ua.",
+      "Origin": "aist.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/alexfoto.vn.ua..txt",
+      "NameServer": "ns1.alexfoto.vn.ua.",
+      "Origin": "alexfoto.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/alpari.vn.ua..txt",
+      "NameServer": "ns1.alpari.vn.ua.",
+      "Origin": "alpari.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/alt-energy.vn.ua..txt",
+      "NameServer": "ns1.alt-energy.vn.ua.",
+      "Origin": "alt-energy.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/altair.vn.ua..txt",
+      "NameServer": "ns1.altair.vn.ua.",
+      "Origin": "altair.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/angrihon.vn.ua..txt",
+      "NameServer": "ns1.angrihon.vn.ua.",
+      "Origin": "angrihon.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/aps.vn.ua..txt",
+      "NameServer": "ns1.aps.vn.ua.",
+      "Origin": "aps.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/aqualux.vn.ua..txt",
+      "NameServer": "ns1.aqualux.vn.ua.",
+      "Origin": "aqualux.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/art-anatol.vn.ua..txt",
+      "NameServer": "ns1.art-anatol.vn.ua.",
+      "Origin": "art-anatol.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/astok.vn.ua..txt",
+      "NameServer": "ns1.astok.vn.ua.",
+      "Origin": "astok.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/at.vn.ua..txt",
+      "NameServer": "ns1.at.vn.ua.",
+      "Origin": "at.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/atk.vn.ua..txt",
+      "NameServer": "ns1.atk.vn.ua.",
+      "Origin": "atk.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/aukro.vn.ua..txt",
+      "NameServer": "ns1.aukro.vn.ua.",
+      "Origin": "aukro.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/autosland.vn.ua..txt",
+      "NameServer": "ns1.autosland.vn.ua.",
+      "Origin": "autosland.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/autostyle.vn.ua..txt",
+      "NameServer": "ns1.autostyle.vn.ua.",
+      "Origin": "autostyle.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/badm.vn.ua..txt",
+      "NameServer": "ns1.badm.vn.ua.",
+      "Origin": "badm.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/bangel.vn.ua..txt",
+      "NameServer": "ns1.bangel.vn.ua.",
+      "Origin": "bangel.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/baptist.vn.ua..txt",
+      "NameServer": "ns1.baptist.vn.ua.",
+      "Origin": "baptist.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/bashnya.vn.ua..txt",
+      "NameServer": "ns1.bashnya.vn.ua.",
+      "Origin": "bashnya.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/begliy.vn.ua..txt",
+      "NameServer": "ns1.begliy.vn.ua.",
+      "Origin": "begliy.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/besthosting.vn.ua..txt",
+      "NameServer": "ns1.besthosting.vn.ua.",
+      "Origin": "besthosting.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/biz.vn.ua..txt",
+      "NameServer": "ns1.biz.vn.ua.",
+      "Origin": "biz.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/biznes.vn.ua..txt",
+      "NameServer": "ns1.biznes.vn.ua.",
+      "Origin": "biznes.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/blog.vn.ua..txt",
+      "NameServer": "ns1.blog.vn.ua.",
+      "Origin": "blog.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/btr.vn.ua..txt",
+      "NameServer": "ns1.btr.vn.ua.",
+      "Origin": "btr.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/budmash.vn.ua..txt",
+      "NameServer": "ns1.budmash.vn.ua.",
+      "Origin": "budmash.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/buvr.vn.ua..txt",
+      "NameServer": "ns1.buvr.vn.ua.",
+      "Origin": "buvr.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/cci.vn.ua..txt",
+      "NameServer": "ns1.cci.vn.ua.",
+      "Origin": "cci.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/cerkva.vn.ua..txt",
+      "NameServer": "ns1.cerkva.vn.ua.",
+      "Origin": "cerkva.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/cinema.vn.ua..txt",
+      "NameServer": "ns1.cinema.vn.ua.",
+      "Origin": "cinema.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/clean.vn.ua..txt",
+      "NameServer": "ns1.clean.vn.ua.",
+      "Origin": "clean.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/cosmetics.vn.ua..txt",
+      "NameServer": "ns1.cosmetics.vn.ua.",
+      "Origin": "cosmetics.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/cpto1.vn.ua..txt",
+      "NameServer": "ns1.cpto1.vn.ua.",
+      "Origin": "cpto1.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/culture.vn.ua..txt",
+      "NameServer": "ns1.culture.vn.ua.",
+      "Origin": "culture.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/d4.vn.ua..txt",
+      "NameServer": "ns1.d4.vn.ua.",
+      "Origin": "d4.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/da.vn.ua..txt",
+      "NameServer": "ns1.da.vn.ua.",
+      "Origin": "da.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/dai.vn.ua..txt",
+      "NameServer": "ns1.dai.vn.ua.",
+      "Origin": "dai.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/dc.vn.ua..txt",
+      "NameServer": "ns1.dc.vn.ua.",
+      "Origin": "dc.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/dedmoroz.vn.ua..txt",
+      "NameServer": "ns1.dedmoroz.vn.ua.",
+      "Origin": "dedmoroz.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/depo.vn.ua..txt",
+      "NameServer": "ns1.depo.vn.ua.",
+      "Origin": "depo.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/dkf.vn.ua..txt",
+      "NameServer": "ns1.dkf.vn.ua.",
+      "Origin": "dkf.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/dog.vn.ua..txt",
+      "NameServer": "ns1.dog.vn.ua.",
+      "Origin": "dog.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/dosug.vn.ua..txt",
+      "NameServer": "ns1.dosug.vn.ua.",
+      "Origin": "dosug.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/dpmo-vpi.vn.ua..txt",
+      "NameServer": "ns1.dpmo-vpi.vn.ua.",
+      "Origin": "dpmo-vpi.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ds.vn.ua..txt",
+      "NameServer": "ns1.ds.vn.ua.",
+      "Origin": "ds.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/e.vn.ua..txt",
+      "NameServer": "ns1.e.vn.ua.",
+      "Origin": "e.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/edu.vn.ua..txt",
+      "NameServer": "ns1.edu.vn.ua.",
+      "Origin": "edu.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/emarket.vn.ua..txt",
+      "NameServer": "ns1.emarket.vn.ua.",
+      "Origin": "emarket.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/enet.vn.ua..txt",
+      "NameServer": "ns1.enet.vn.ua.",
+      "Origin": "enet.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/english.vn.ua..txt",
+      "NameServer": "ns1.english.vn.ua.",
+      "Origin": "english.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/epicentrk.vn.ua..txt",
+      "NameServer": "ns1.epicentrk.vn.ua.",
+      "Origin": "epicentrk.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/eroticland.vn.ua..txt",
+      "NameServer": "ns1.eroticland.vn.ua.",
+      "Origin": "eroticland.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/euroclub.vn.ua..txt",
+      "NameServer": "ns1.euroclub.vn.ua.",
+      "Origin": "euroclub.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/everest.vn.ua..txt",
+      "NameServer": "ns1.everest.vn.ua.",
+      "Origin": "everest.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/evrookna.vn.ua..txt",
+      "NameServer": "ns1.evrookna.vn.ua.",
+      "Origin": "evrookna.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/expo.vn.ua..txt",
+      "NameServer": "ns1.expo.vn.ua.",
+      "Origin": "expo.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/extime.vn.ua..txt",
+      "NameServer": "ns1.extime.vn.ua.",
+      "Origin": "extime.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/fashion.vn.ua..txt",
+      "NameServer": "ns1.fashion.vn.ua.",
+      "Origin": "fashion.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/fc.vn.ua..txt",
+      "NameServer": "ns1.fc.vn.ua.",
+      "Origin": "fc.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/fcniva.vn.ua..txt",
+      "NameServer": "ns1.fcniva.vn.ua.",
+      "Origin": "fcniva.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/fenix.vn.ua..txt",
+      "NameServer": "ns1.fenix.vn.ua.",
+      "Origin": "fenix.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/filarm.vn.ua..txt",
+      "NameServer": "ns1.filarm.vn.ua.",
+      "Origin": "filarm.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/filin.vn.ua..txt",
+      "NameServer": "ns1.filin.vn.ua.",
+      "Origin": "filin.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/fire.vn.ua..txt",
+      "NameServer": "ns1.fire.vn.ua.",
+      "Origin": "fire.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/fishing.vn.ua..txt",
+      "NameServer": "ns1.fishing.vn.ua.",
+      "Origin": "fishing.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/flint.vn.ua..txt",
+      "NameServer": "ns1.flint.vn.ua.",
+      "Origin": "flint.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/flower.vn.ua..txt",
+      "NameServer": "ns1.flower.vn.ua.",
+      "Origin": "flower.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/flowers.vn.ua..txt",
+      "NameServer": "ns1.flowers.vn.ua.",
+      "Origin": "flowers.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/fort.vn.ua..txt",
+      "NameServer": "ns1.fort.vn.ua.",
+      "Origin": "fort.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/forum.vn.ua..txt",
+      "NameServer": "ns1.forum.vn.ua.",
+      "Origin": "forum.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/fri.vn.ua..txt",
+      "NameServer": "ns1.fri.vn.ua.",
+      "Origin": "fri.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/gd.vn.ua..txt",
+      "NameServer": "ns1.gd.vn.ua.",
+      "Origin": "gd.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/goodmaster.at.vn.ua..txt",
+      "NameServer": "ns1.goodmaster.at.vn.ua.",
+      "Origin": "goodmaster.at.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/gosteviya.vn.ua..txt",
+      "NameServer": "ns1.gosteviya.vn.ua.",
+      "Origin": "gosteviya.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/gostunnuy-pan.vn.ua..txt",
+      "NameServer": "ns1.gostunnuy-pan.vn.ua.",
+      "Origin": "gostunnuy-pan.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/greentour.vn.ua..txt",
+      "NameServer": "ns1.greentour.vn.ua.",
+      "Origin": "greentour.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/gromada.vn.ua..txt",
+      "NameServer": "ns1.gromada.vn.ua.",
+      "Origin": "gromada.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/haysin.vn.ua..txt",
+      "NameServer": "ns1.haysin.vn.ua.",
+      "Origin": "haysin.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/history.vn.ua..txt",
+      "NameServer": "ns1.history.vn.ua.",
+      "Origin": "history.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/hmrayrada.vn.ua..txt",
+      "NameServer": "ns1.hmrayrada.vn.ua.",
+      "Origin": "hmrayrada.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ho.vn.ua..txt",
+      "NameServer": "ns1.ho.vn.ua.",
+      "Origin": "ho.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/hotel-savoy.vn.ua..txt",
+      "NameServer": "ns1.hotel-savoy.vn.ua.",
+      "Origin": "hotel-savoy.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/hsasha.vn.ua..txt",
+      "NameServer": "ns1.hsasha.vn.ua.",
+      "Origin": "hsasha.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/hudozhka.vn.ua..txt",
+      "NameServer": "ns1.hudozhka.vn.ua.",
+      "Origin": "hudozhka.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/hvs-41.vn.ua..txt",
+      "NameServer": "ns1.hvs-41.vn.ua.",
+      "Origin": "hvs-41.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ic.vn.ua..txt",
+      "NameServer": "ns1.ic.vn.ua.",
+      "Origin": "ic.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/image.vn.ua..txt",
+      "NameServer": "ns1.image.vn.ua.",
+      "Origin": "image.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/imex.vn.ua..txt",
+      "NameServer": "ns1.imex.vn.ua.",
+      "Origin": "imex.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/infinity.vn.ua..txt",
+      "NameServer": "ns1.infinity.vn.ua.",
+      "Origin": "infinity.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ip-atc.vn.ua..txt",
+      "NameServer": "ns1.ip-atc.vn.ua.",
+      "Origin": "ip-atc.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ip-connect.vn.ua..txt",
+      "NameServer": "ns1.ip-connect.vn.ua.",
+      "Origin": "ip-connect.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/irp.vn.ua..txt",
+      "NameServer": "ns1.irp.vn.ua.",
+      "Origin": "irp.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/jabber.vn.ua..txt",
+      "NameServer": "ns1.jabber.vn.ua.",
+      "Origin": "jabber.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/jazz.vn.ua..txt",
+      "NameServer": "ns1.jazz.vn.ua.",
+      "Origin": "jazz.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/job2.vn.ua..txt",
+      "NameServer": "ns1.job2.vn.ua.",
+      "Origin": "job2.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/juterra.vn.ua..txt",
+      "NameServer": "ns1.juterra.vn.ua.",
+      "Origin": "juterra.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/kalinovka.vn.ua..txt",
+      "NameServer": "ns1.kalinovka.vn.ua.",
+      "Origin": "kalinovka.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/kalnik-nash.vn.ua..txt",
+      "NameServer": "ns1.kalnik-nash.vn.ua.",
+      "Origin": "kalnik-nash.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/kalynivka.vn.ua..txt",
+      "NameServer": "ns1.kalynivka.vn.ua.",
+      "Origin": "kalynivka.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/karchercw.vn.ua..txt",
+      "NameServer": "ns1.karchercw.vn.ua.",
+      "Origin": "karchercw.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/karta.vn.ua..txt",
+      "NameServer": "ns1.karta.vn.ua.",
+      "Origin": "karta.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/katran.vn.ua..txt",
+      "NameServer": "ns1.katran.vn.ua.",
+      "Origin": "katran.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/katrin.vn.ua..txt",
+      "NameServer": "ns1.katrin.vn.ua.",
+      "Origin": "katrin.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/kazka.vn.ua..txt",
+      "NameServer": "ns1.kazka.vn.ua.",
+      "Origin": "kazka.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ki08.vn.ua..txt",
+      "NameServer": "ns1.ki08.vn.ua.",
+      "Origin": "ki08.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/klevoemesto.vn.ua..txt",
+      "NameServer": "ns1.klevoemesto.vn.ua.",
+      "Origin": "klevoemesto.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/konkurs.vn.ua..txt",
+      "NameServer": "ns1.konkurs.vn.ua.",
+      "Origin": "konkurs.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/krajany.vn.ua..txt",
+      "NameServer": "ns1.krajany.vn.ua.",
+      "Origin": "krajany.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/krasnagromash.vn.ua..txt",
+      "NameServer": "ns1.krasnagromash.vn.ua.",
+      "Origin": "krasnagromash.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/krest.vn.ua..txt",
+      "NameServer": "ns1.krest.vn.ua.",
+      "Origin": "krest.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/krishna.vn.ua..txt",
+      "NameServer": "ns1.krishna.vn.ua.",
+      "Origin": "krishna.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/krizhopil.vn.ua..txt",
+      "NameServer": "ns1.krizhopil.vn.ua.",
+      "Origin": "krizhopil.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ksm.vn.ua..txt",
+      "NameServer": "ns1.ksm.vn.ua.",
+      "Origin": "ksm.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/kvn.vn.ua..txt",
+      "NameServer": "ns1.kvn.vn.ua.",
+      "Origin": "kvn.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/kvs.vn.ua..txt",
+      "NameServer": "ns1.kvs.vn.ua.",
+      "Origin": "kvs.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/kyxap.vn.ua..txt",
+      "NameServer": "ns1.kyxap.vn.ua.",
+      "Origin": "kyxap.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/kzedu.vn.ua..txt",
+      "NameServer": "ns1.kzedu.vn.ua.",
+      "Origin": "kzedu.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ladyjin.vn.ua..txt",
+      "NameServer": "ns1.ladyjin.vn.ua.",
+      "Origin": "ladyjin.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/lana.vn.ua..txt",
+      "NameServer": "ns1.lana.vn.ua.",
+      "Origin": "lana.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/langestore.vn.ua..txt",
+      "NameServer": "ns1.langestore.vn.ua.",
+      "Origin": "langestore.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/law.vn.ua..txt",
+      "NameServer": "ns1.law.vn.ua.",
+      "Origin": "law.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/library.vn.ua..txt",
+      "NameServer": "ns1.library.vn.ua.",
+      "Origin": "library.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/lug.vn.ua..txt",
+      "NameServer": "ns1.lug.vn.ua.",
+      "Origin": "lug.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/lynxden.vn.ua..txt",
+      "NameServer": "ns1.lynxden.vn.ua.",
+      "Origin": "lynxden.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/mail.vn.ua..txt",
+      "NameServer": "ns1.mail.vn.ua.",
+      "Origin": "mail.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/malatko.vn.ua..txt",
+      "NameServer": "ns1.malatko.vn.ua.",
+      "Origin": "malatko.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/map.vn.ua..txt",
+      "NameServer": "ns1.map.vn.ua.",
+      "Origin": "map.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/metalloprokat.vn.ua..txt",
+      "NameServer": "ns1.metalloprokat.vn.ua.",
+      "Origin": "metalloprokat.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/metastudio.vn.ua..txt",
+      "NameServer": "ns1.metastudio.vn.ua.",
+      "Origin": "metastudio.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/miroslav.vn.ua..txt",
+      "NameServer": "ns1.miroslav.vn.ua.",
+      "Origin": "miroslav.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/misto.vn.ua..txt",
+      "NameServer": "ns1.misto.vn.ua.",
+      "Origin": "misto.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/monp.vn.ua..txt",
+      "NameServer": "ns1.monp.vn.ua.",
+      "Origin": "monp.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/msug.vn.ua..txt",
+      "NameServer": "ns1.msug.vn.ua.",
+      "Origin": "msug.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/museum.vn.ua..txt",
+      "NameServer": "ns1.museum.vn.ua.",
+      "Origin": "museum.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/muzey.vn.ua..txt",
+      "NameServer": "ns1.muzey.vn.ua.",
+      "Origin": "muzey.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/mybb.vn.ua..txt",
+      "NameServer": "ns1.mybb.vn.ua.",
+      "Origin": "mybb.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/nemyriv-avangard.vn.ua..txt",
+      "NameServer": "ns1.nemyriv-avangard.vn.ua.",
+      "Origin": "nemyriv-avangard.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/nemyriv.vn.ua..txt",
+      "NameServer": "ns1.nemyriv.vn.ua.",
+      "Origin": "nemyriv.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/nest.vn.ua..txt",
+      "NameServer": "ns1.nest.vn.ua.",
+      "Origin": "nest.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/network.vn.ua..txt",
+      "NameServer": "ns1.network.vn.ua.",
+      "Origin": "network.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/nic.vn.ua..txt",
+      "NameServer": "ns1.nic.vn.ua.",
+      "Origin": "nic.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/niva.vn.ua..txt",
+      "NameServer": "ns1.niva.vn.ua.",
+      "Origin": "niva.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/nonstop.vn.ua..txt",
+      "NameServer": "ns1.nonstop.vn.ua.",
+      "Origin": "nonstop.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ns1.ukrlit.vn.ua..txt",
+      "NameServer": "ns1.ns1.ukrlit.vn.ua.",
+      "Origin": "ns1.ukrlit.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ns2.ukrlit.vn.ua..txt",
+      "NameServer": "ns1.ns2.ukrlit.vn.ua.",
+      "Origin": "ns2.ukrlit.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/obriy.vn.ua..txt",
+      "NameServer": "ns1.obriy.vn.ua.",
+      "Origin": "obriy.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/oniona.vn.ua..txt",
+      "NameServer": "ns1.oniona.vn.ua.",
+      "Origin": "oniona.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/oris.vn.ua..txt",
+      "NameServer": "ns1.oris.vn.ua.",
+      "Origin": "oris.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ostarbeiter.vn.ua..txt",
+      "NameServer": "ns1.ostarbeiter.vn.ua.",
+      "Origin": "ostarbeiter.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/outpost.vn.ua..txt",
+      "NameServer": "ns1.outpost.vn.ua.",
+      "Origin": "outpost.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ovis.vn.ua..txt",
+      "NameServer": "ns1.ovis.vn.ua.",
+      "Origin": "ovis.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/palomnik.vn.ua..txt",
+      "NameServer": "ns1.palomnik.vn.ua.",
+      "Origin": "palomnik.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/pay.vn.ua..txt",
+      "NameServer": "ns1.pay.vn.ua.",
+      "Origin": "pay.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/payhelper.vn.ua..txt",
+      "NameServer": "ns1.payhelper.vn.ua.",
+      "Origin": "payhelper.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/pfuc.vn.ua..txt",
+      "NameServer": "ns1.pfuc.vn.ua.",
+      "Origin": "pfuc.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/photo-club.vn.ua..txt",
+      "NameServer": "ns1.photo-club.vn.ua.",
+      "Origin": "photo-club.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/planeta.vn.ua..txt",
+      "NameServer": "ns1.planeta.vn.ua.",
+      "Origin": "planeta.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/plast.vn.ua..txt",
+      "NameServer": "ns1.plast.vn.ua.",
+      "Origin": "plast.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/plastic-center.vn.ua..txt",
+      "NameServer": "ns1.plastic-center.vn.ua.",
+      "Origin": "plastic-center.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/plastifikator.vn.ua..txt",
+      "NameServer": "ns1.plastifikator.vn.ua.",
+      "Origin": "plastifikator.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/pluto.vn.ua..txt",
+      "NameServer": "ns1.pluto.vn.ua.",
+      "Origin": "pluto.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/pmg17.vn.ua..txt",
+      "NameServer": "ns1.pmg17.vn.ua.",
+      "Origin": "pmg17.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/poligon.vn.ua..txt",
+      "NameServer": "ns1.poligon.vn.ua.",
+      "Origin": "poligon.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/pornovideo.vn.ua..txt",
+      "NameServer": "ns1.pornovideo.vn.ua.",
+      "Origin": "pornovideo.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/powerlifting.vn.ua..txt",
+      "NameServer": "ns1.powerlifting.vn.ua.",
+      "Origin": "powerlifting.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ppi.vn.ua..txt",
+      "NameServer": "ns1.ppi.vn.ua.",
+      "Origin": "ppi.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/prestige.vn.ua..txt",
+      "NameServer": "ns1.prestige.vn.ua.",
+      "Origin": "prestige.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/psv.vn.ua..txt",
+      "NameServer": "ns1.psv.vn.ua.",
+      "Origin": "psv.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/puppets.vn.ua..txt",
+      "NameServer": "ns1.puppets.vn.ua.",
+      "Origin": "puppets.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/r-hard.vn.ua..txt",
+      "NameServer": "ns1.r-hard.vn.ua.",
+      "Origin": "r-hard.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/rada.vn.ua..txt",
+      "NameServer": "ns1.rada.vn.ua.",
+      "Origin": "rada.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/radioinform.vn.ua..txt",
+      "NameServer": "ns1.radioinform.vn.ua.",
+      "Origin": "radioinform.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/raduga.vn.ua..txt",
+      "NameServer": "ns1.raduga.vn.ua.",
+      "Origin": "raduga.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/rafinad.vn.ua..txt",
+      "NameServer": "ns1.rafinad.vn.ua.",
+      "Origin": "rafinad.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/reklama.vn.ua..txt",
+      "NameServer": "ns1.reklama.vn.ua.",
+      "Origin": "reklama.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/rem.vn.ua..txt",
+      "NameServer": "ns1.rem.vn.ua.",
+      "Origin": "rem.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/rock.vn.ua..txt",
+      "NameServer": "ns1.rock.vn.ua.",
+      "Origin": "rock.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/rofl.vn.ua..txt",
+      "NameServer": "ns1.rofl.vn.ua.",
+      "Origin": "rofl.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/rozhkov.vn.ua..txt",
+      "NameServer": "ns1.rozhkov.vn.ua.",
+      "Origin": "rozhkov.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/sanatory.vn.ua..txt",
+      "NameServer": "ns1.sanatory.vn.ua.",
+      "Origin": "sanatory.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/saturn.vn.ua..txt",
+      "NameServer": "ns1.saturn.vn.ua.",
+      "Origin": "saturn.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/sec.vn.ua..txt",
+      "NameServer": "ns1.sec.vn.ua.",
+      "Origin": "sec.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/semenenko.vn.ua..txt",
+      "NameServer": "ns1.semenenko.vn.ua.",
+      "Origin": "semenenko.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/silnaukraina.vn.ua..txt",
+      "NameServer": "ns1.silnaukraina.vn.ua.",
+      "Origin": "silnaukraina.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/sim.vn.ua..txt",
+      "NameServer": "ns1.sim.vn.ua.",
+      "Origin": "sim.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/skidka.vn.ua..txt",
+      "NameServer": "ns1.skidka.vn.ua.",
+      "Origin": "skidka.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/sklad.vn.ua..txt",
+      "NameServer": "ns1.sklad.vn.ua.",
+      "Origin": "sklad.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/skrepka.vn.ua..txt",
+      "NameServer": "ns1.skrepka.vn.ua.",
+      "Origin": "skrepka.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/smart.vn.ua..txt",
+      "NameServer": "ns1.smart.vn.ua.",
+      "Origin": "smart.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/smtp.vn.ua..txt",
+      "NameServer": "ns1.smtp.vn.ua.",
+      "Origin": "smtp.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/sn.vn.ua..txt",
+      "NameServer": "ns1.sn.vn.ua.",
+      "Origin": "sn.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/snak.vn.ua..txt",
+      "NameServer": "ns1.snak.vn.ua.",
+      "Origin": "snak.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/space.vn.ua..txt",
+      "NameServer": "ns1.space.vn.ua.",
+      "Origin": "space.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/spavka.vn.ua..txt",
+      "NameServer": "ns1.spavka.vn.ua.",
+      "Origin": "spavka.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/spo.vn.ua..txt",
+      "NameServer": "ns1.spo.vn.ua.",
+      "Origin": "spo.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/sss.vn.ua..txt",
+      "NameServer": "ns1.sss.vn.ua.",
+      "Origin": "sss.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/starnet.vn.ua..txt",
+      "NameServer": "ns1.starnet.vn.ua.",
+      "Origin": "starnet.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/status.vn.ua..txt",
+      "NameServer": "ns1.status.vn.ua.",
+      "Origin": "status.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/svet.vn.ua..txt",
+      "NameServer": "ns1.svet.vn.ua.",
+      "Origin": "svet.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/terramare.vn.ua..txt",
+      "NameServer": "ns1.terramare.vn.ua.",
+      "Origin": "terramare.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/tiflis.vn.ua..txt",
+      "NameServer": "ns1.tiflis.vn.ua.",
+      "Origin": "tiflis.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/tigipko.vn.ua..txt",
+      "NameServer": "ns1.tigipko.vn.ua.",
+      "Origin": "tigipko.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/time.vn.ua..txt",
+      "NameServer": "ns1.time.vn.ua.",
+      "Origin": "time.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/tk.vn.ua..txt",
+      "NameServer": "ns1.tk.vn.ua.",
+      "Origin": "tk.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/topservice.vn.ua..txt",
+      "NameServer": "ns1.topservice.vn.ua.",
+      "Origin": "topservice.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/torrents.vn.ua..txt",
+      "NameServer": "ns1.torrents.vn.ua.",
+      "Origin": "torrents.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/tq.vn.ua..txt",
+      "NameServer": "ns1.tq.vn.ua.",
+      "Origin": "tq.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/tuedu.vn.ua..txt",
+      "NameServer": "ns1.tuedu.vn.ua.",
+      "Origin": "tuedu.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/tulchlb.vn.ua..txt",
+      "NameServer": "ns1.tulchlb.vn.ua.",
+      "Origin": "tulchlb.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/tvd.vn.ua..txt",
+      "NameServer": "ns1.tvd.vn.ua.",
+      "Origin": "tvd.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/uchat.vn.ua..txt",
+      "NameServer": "ns1.uchat.vn.ua.",
+      "Origin": "uchat.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ukrlit.vn.ua..txt",
+      "NameServer": "ns1.ukrlit.vn.ua.",
+      "Origin": "ukrlit.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ukrmusic.vn.ua..txt",
+      "NameServer": "ns1.ukrmusic.vn.ua.",
+      "Origin": "ukrmusic.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/ultramarin.vn.ua..txt",
+      "NameServer": "ns1.ultramarin.vn.ua.",
+      "Origin": "ultramarin.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/umvs.vn.ua..txt",
+      "NameServer": "ns1.umvs.vn.ua.",
+      "Origin": "umvs.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/uslugi.vn.ua..txt",
+      "NameServer": "ns1.uslugi.vn.ua.",
+      "Origin": "uslugi.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/usz.vn.ua..txt",
+      "NameServer": "ns1.usz.vn.ua.",
+      "Origin": "usz.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/v-gallery.vn.ua..txt",
+      "NameServer": "ns1.v-gallery.vn.ua.",
+      "Origin": "v-gallery.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/valery.vn.ua..txt",
+      "NameServer": "ns1.valery.vn.ua.",
+      "Origin": "valery.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vcf.vn.ua..txt",
+      "NameServer": "ns1.vcf.vn.ua.",
+      "Origin": "vcf.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/velo.vn.ua..txt",
+      "NameServer": "ns1.velo.vn.ua.",
+      "Origin": "velo.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/velomoto.vn.ua..txt",
+      "NameServer": "ns1.velomoto.vn.ua.",
+      "Origin": "velomoto.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vhptu5.vn.ua..txt",
+      "NameServer": "ns1.vhptu5.vn.ua.",
+      "Origin": "vhptu5.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/viewpoint.vn.ua..txt",
+      "NameServer": "ns1.viewpoint.vn.ua.",
+      "Origin": "viewpoint.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vindrag.vn.ua..txt",
+      "NameServer": "ns1.vindrag.vn.ua.",
+      "Origin": "vindrag.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vinfishing.vn.ua..txt",
+      "NameServer": "ns1.vinfishing.vn.ua.",
+      "Origin": "vinfishing.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vinmed.vn.ua..txt",
+      "NameServer": "ns1.vinmed.vn.ua.",
+      "Origin": "vinmed.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vinnicya.vn.ua..txt",
+      "NameServer": "ns1.vinnicya.vn.ua.",
+      "Origin": "vinnicya.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vinspilka.vn.ua..txt",
+      "NameServer": "ns1.vinspilka.vn.ua.",
+      "Origin": "vinspilka.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vip-forex.vn.ua..txt",
+      "NameServer": "ns1.vip-forex.vn.ua.",
+      "Origin": "vip-forex.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vip.vn.ua..txt",
+      "NameServer": "ns1.vip.vn.ua.",
+      "Origin": "vip.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vmc.vn.ua..txt",
+      "NameServer": "ns1.vmc.vn.ua.",
+      "Origin": "vmc.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vmvpu.vn.ua..txt",
+      "NameServer": "ns1.vmvpu.vn.ua.",
+      "Origin": "vmvpu.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vn.ua..txt",
+      "NameServer": "ns1.vn.ua.",
+      "Origin": "vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vnarbitr.vn.ua..txt",
+      "NameServer": "ns1.vnarbitr.vn.ua.",
+      "Origin": "vnarbitr.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vnmu.vn.ua..txt",
+      "NameServer": "ns1.vnmu.vn.ua.",
+      "Origin": "vnmu.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/voipopp.vn.ua..txt",
+      "NameServer": "ns1.voipopp.vn.ua.",
+      "Origin": "voipopp.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vpi.vn.ua..txt",
+      "NameServer": "ns1.vpi.vn.ua.",
+      "Origin": "vpi.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vtc.vn.ua..txt",
+      "NameServer": "ns1.vtc.vn.ua.",
+      "Origin": "vtc.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vtec.vn.ua..txt",
+      "NameServer": "ns1.vtec.vn.ua.",
+      "Origin": "vtec.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/vtormet.vn.ua..txt",
+      "NameServer": "ns1.vtormet.vn.ua.",
+      "Origin": "vtormet.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/webhost.vn.ua..txt",
+      "NameServer": "ns1.webhost.vn.ua.",
+      "Origin": "webhost.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/webkafe.vn.ua..txt",
+      "NameServer": "ns1.webkafe.vn.ua.",
+      "Origin": "webkafe.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/zapchast.vn.ua..txt",
+      "NameServer": "ns1.zapchast.vn.ua.",
+      "Origin": "zapchast.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/zarezenko.vn.ua..txt",
+      "NameServer": "ns1.zarezenko.vn.ua.",
+      "Origin": "zarezenko.vn.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/vn.ua/zirka2.vn.ua..txt",
+      "NameServer": "ns1.zirka2.vn.ua.",
+      "Origin": "zirka2.vn.ua."
+    }
+  ]
+}

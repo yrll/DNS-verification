@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.cn,002.com.cn..txt,CNAME_UPDATE,DEL,www.002.com.cn.,CNAME,002.com.cn.
+top-10/com.cn,002.com.cn..txt,CNAME_UPDATE,ADD,www.002.com.cn.,CNAME,cname-inc.002.com.cn.

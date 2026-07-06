@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.cn,0-100.com.cn..txt,A_ADD,ADD,__aether_veridns_inc__.0-100.com.cn.,A,192.0.2.254

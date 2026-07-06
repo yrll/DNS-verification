@@ -1,0 +1,6 @@
+www.shu.com. 	14400	IN	SOA	ns1.www.shu.com. james.shu.edu. 19122302 14400 3600 2419200 14400
+www.shu.com.		    IN	NS ns1.www.shu.com.
+ns1.www.shu.com.	    IN	A	10.166.21.12
+
+www.shu.com.		    IN	A	6.6.6.6
+

@@ -1,0 +1,5 @@
+group,dataset,dataset_id,metadata,zone_file_count,rr_count,A,AAAA,NS,SOA,MX,TXT,CNAME,DNAME,PTR,wildcard,rewrite_rr,rewrite_density,delegation_rr,delegation_density,avg_rr_per_file,max_rr_per_file
+microbench,cname-wildcard,microbench/cname-wildcard,/home/rulan_yang/DNS-verification/aether/dnsverify/datasets/revision-microbench/cname-wildcard/metadata.json,1,5,2,0,1,1,0,0,1,0,0,1,2,0.4,2,0.4,5.0,5
+microbench,dname-subspace,microbench/dname-subspace,/home/rulan_yang/DNS-verification/aether/dnsverify/datasets/revision-microbench/dname-subspace/metadata.json,1,6,3,0,1,1,0,0,0,1,0,1,2,0.3333333333333333,2,0.3333333333333333,6.0,6
+microbench,cname-loop,microbench/cname-loop,/home/rulan_yang/DNS-verification/aether/dnsverify/datasets/revision-microbench/cname-loop/metadata.json,1,5,1,0,1,1,0,0,2,0,0,0,2,0.4,2,0.4,5.0,5
+microbench,delegation-glue,microbench/delegation-glue,/home/rulan_yang/DNS-verification/aether/dnsverify/datasets/revision-microbench/delegation-glue/metadata.json,1,5,2,0,2,1,0,0,0,0,0,0,0,0.0,3,0.6,5.0,5

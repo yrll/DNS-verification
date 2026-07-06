@@ -1,0 +1,6 @@
+sm.xmu.com.	14400	IN	SOA	ns1.sm.xmu.com. james.xmu.edu. 19122302 14400 3600 2419200 14400
+sm.xmu.com.		    IN	NS ns1.sm.xmu.com.
+ns1.sm.xmu.com.	    IN	A	10.166.21.15
+
+sm.xmu.com.		    IN	A	6.6.6.6
+

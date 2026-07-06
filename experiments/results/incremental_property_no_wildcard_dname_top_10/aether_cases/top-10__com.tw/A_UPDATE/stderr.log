@@ -1,0 +1,879 @@
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "123456789", "www"], rtype: A, rdata: "220.133.2.203" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ctfa", "www"], rtype: A, rdata: "61.67.218.107" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "104sense", "www"], rtype: A, rdata: "60.248.219.136" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "acd", "www"], rtype: A, rdata: "218.32.192.2" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "12530"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1326381451 3600 180 1209600 180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "csrone", "www"], rtype: A, rdata: "124.150.132.8" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "1993bc", "www"], rtype: A, rdata: "211.20.147.231" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "168big", "www"], rtype: A, rdata: "118.163.161.177" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nic", "www"], rtype: A, rdata: "124.150.132.63" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "8news", "www"], rtype: A, rdata: "210.65.11.73" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cityagogo", "www"], rtype: A, rdata: "61.222.244.162" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cyberlink", "www"], rtype: A, rdata: "65.19.143.89" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ezhobi", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "05168", "www"], rtype: A, rdata: "122.147.47.12" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tsan-hsin", "www"], rtype: A, rdata: "60.249.113.250" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "069276666", "www"], rtype: A, rdata: "210.65.1.231" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pariss", "www"], rtype: A, rdata: "210.68.85.50" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cyberpowersystems", "www"], rtype: A, rdata: "60.248.144.84" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dagi", "www"], rtype: A, rdata: "211.78.213.138" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "oldsichuan", "www"], rtype: A, rdata: "59.120.247.114" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "edot", "www"], rtype: A, rdata: "219.84.199.174" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ezla", "public"], rtype: A, rdata: "61.218.177.131" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "speedskating", "www"], rtype: A, rdata: "210.201.79.9" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "5up", "www"], rtype: MX, rdata: "10 vps1.hitohosting.com" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "haus", "www"], rtype: A, rdata: "202.133.247.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "best99", "www"], rtype: A, rdata: "203.69.85.88" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "20thboys", "www"], rtype: A, rdata: "60.248.219.136" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kipoint", "www"], rtype: A, rdata: "211.72.206.3" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "acgears", "www"], rtype: A, rdata: "205.178.189.131" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "coolpad", "www"], rtype: A, rdata: "210.59.180.241" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "0800200928", "www"], rtype: A, rdata: "223.27.34.71" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chojian", "www"], rtype: A, rdata: "210.201.170.74" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "coolpon", "dns2"], rtype: A, rdata: "218.211.189.142" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "datawise", "www"], rtype: A, rdata: "210.59.228.119" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "carlsberg-cottingham", "mail"], rtype: A, rdata: "59.125.174.202" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cityneon", "www"], rtype: A, rdata: "118.163.116.252" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "softech", "www"], rtype: A, rdata: "61.31.200.234" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "eduweb", "dns"], rtype: A, rdata: "59.120.43.88" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "shiny", "www"], rtype: A, rdata: "46.137.251.221" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ezprice", "www"], rtype: A, rdata: "61.67.131.198" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "citystar", "www"], rtype: A, rdata: "202.133.247.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dnd", "www"], rtype: A, rdata: "72.11.139.21" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "carnegie", "mail"], rtype: A, rdata: "202.39.131.130" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fruitshop", "www"], rtype: A, rdata: "60.249.54.222" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "skysis", "www"], rtype: A, rdata: "210.200.180.70" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dns", "www"], rtype: A, rdata: "69.50.216.38" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ctx", "www"], rtype: A, rdata: "124.150.134.91" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "avance", "www"], rtype: A, rdata: "59.120.35.94" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cocom", "www"], rtype: A, rdata: "61.67.196.130" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "caroline", "www"], rtype: A, rdata: "211.20.210.196" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cubez"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1350546294 3600 180 1209600 180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "eztable", "www"], rtype: A, rdata: "23.21.245.23" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sina", "books"], rtype: A, rdata: "210.17.38.17" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cocosea", "www"], rtype: MX, rdata: "30 mx.cocosea.com.tw" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "splendor-tp", "www"], rtype: A, rdata: "210.71.197.204" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "patmax", "www"], rtype: A, rdata: "210.64.125.37" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sofu", "www"], rtype: A, rdata: "122.147.47.58" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cycy", "www"], rtype: A, rdata: "61.221.83.226" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ctek", "www"], rtype: A, rdata: "61.61.140.191" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "codeigniter", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "coden", "www"], rtype: A, rdata: "64.22.138.6" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nike"], rtype: SOA, rdata: "dns2.realmedia.com.tw jerry.realmedia.com.tw 2012062201 86400 3600 604800 1400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nikebasketball"], rtype: SOA, rdata: "dns2.realmedia.com.tw jerry.realmedia.com.tw 2012062201 86400 3600 604800 1400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nikerunning"], rtype: SOA, rdata: "dns2.realmedia.com.tw jerry.realmedia.com.tw 2012062201 86400 3600 604800 1400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cucumber", "www"], rtype: A, rdata: "203.69.42.171" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "paulaschoice", "www"], rtype: A, rdata: "106.187.94.224" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "1000years"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1364324804 3600 180 1209600 180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "6paramitas"], rtype: SOA, rdata: "ns3.ivenue.com hostmaster.ivenue.com 2012122632 3600 1800 172800 7200" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bestfriend", "www"], rtype: A, rdata: "124.150.132.26" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "prosino", "www"], rtype: A, rdata: "210.61.79.157" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "carstuff", "www"], rtype: A, rdata: "98.143.155.18" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tsna", "www"], rtype: A, rdata: "60.199.230.31" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nin-jiom", "www"], rtype: A, rdata: "61.67.196.130" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "f-p", "www"], rtype: A, rdata: "61.31.234.18" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "archpage", "www"], rtype: A, rdata: "202.133.247.94" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "prosperity-fabric", "www"], rtype: A, rdata: "122.117.177.232" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "docubank", "www"], rtype: A, rdata: "61.56.69.185" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sinfon", "www"], rtype: A, rdata: "61.219.82.146" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "singcheng", "www"], rtype: A, rdata: "210.71.197.204" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "omnitronix", "www"], rtype: A, rdata: "60.249.71.93" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gobus", "www"], rtype: A, rdata: "210.242.73.198" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "54ad", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "are", "www"], rtype: A, rdata: "59.125.56.213" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "2be", "www"], rtype: A, rdata: "54.249.244.10" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dogbaby", "www"], rtype: A, rdata: "218.32.210.87" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cashin", "www"], rtype: A, rdata: "173.255.221.188" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "arena", "www"], rtype: A, rdata: "61.219.17.217" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "godgame", "www"], rtype: A, rdata: "112.121.80.180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ares", "dns"], rtype: A, rdata: "61.247.171.6" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cosimex", "www"], rtype: A, rdata: "70.39.144.27" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "springfood", "www"], rtype: A, rdata: "203.69.42.41" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "5657", "www"], rtype: A, rdata: "142.4.50.39" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ftv", "bbs"], rtype: A, rdata: "61.66.29.7" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dancesoul", "www"], rtype: A, rdata: "61.66.28.156" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "thebeautyhouse", "www"], rtype: A, rdata: "61.66.28.116" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "onemall", "www"], rtype: A, rdata: "74.81.90.114" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "solidtire", "www"], rtype: A, rdata: "61.66.123.86" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "104info", "www"], rtype: A, rdata: "202.8.15.245" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "argogroup", "www"], rtype: A, rdata: "183.237.208.3" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "avon", "www"], rtype: A, rdata: "134.65.5.181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "eggshell", "www"], rtype: A, rdata: "210.71.186.207" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "prowin", "www"], rtype: A, rdata: "210.242.73.196" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sinocell", "www"], rtype: A, rdata: "211.22.58.185" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "online", "www"], rtype: A, rdata: "210.200.66.80" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kmb", "www"], rtype: A, rdata: "219.87.139.162" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tai168", "www"], rtype: A, rdata: "60.249.137.8" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nkzone"], rtype: SOA, rdata: "sharepoint hostmaster 25 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kmdog"], rtype: SOA, rdata: "www.okweb.com.tw hostmaster.okweb.com.tw 14 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gogoenglish", "www"], rtype: A, rdata: "211.22.50.170" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "onlineservice", "autodiscover"], rtype: A, rdata: "202.39.41.42" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sinon", "www"], rtype: A, rdata: "61.30.172.15" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "awem"], rtype: SOA, rdata: "ns.awem.com.tw hostmaster.awem.com.tw 1379694012 16384 2048 1048576 2560" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fuchanghotel", "www"], rtype: A, rdata: "122.147.250.98" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "daba", "www"], rtype: A, rdata: "210.71.250.87" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fuchia", "www"], rtype: A, rdata: "60.199.166.66" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gogolook", "www"], rtype: A, rdata: "54.241.219.237" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sinopac", "dns1"], rtype: A, rdata: "211.76.153.15" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gogomusic", "www"], rtype: A, rdata: "202.153.163.201" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "awoo", "www"], rtype: A, rdata: "210.201.79.9" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "headsup", "www"], rtype: A, rdata: "59.125.40.97" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "costco", "taiwan-dta03"], rtype: A, rdata: "220.130.22.37" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "onplus"], rtype: SOA, rdata: "nt.yourslife.com.tw service.urs.com.tw 2008022500 1200 120 1209600 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "theil", "novell6"], rtype: A, rdata: "203.66.183.1" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cot", "www"], rtype: A, rdata: "210.242.73.196" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "greenpeace", "www"], rtype: A, rdata: "219.84.199.172" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "don-net", "www"], rtype: A, rdata: "203.69.103.105" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tti", "www"], rtype: A, rdata: "58.86.57.40" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cotekfin", "www"], rtype: A, rdata: "220.128.104.121" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "familycard", "www"], rtype: A, rdata: "60.199.166.43" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pcdvd", "forum"], rtype: A, rdata: "202.145.199.35" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gohappy", "udn"], rtype: A, rdata: "122.147.41.30" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ehoo", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "healthhouse", "www"], rtype: A, rdata: "211.22.161.184" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "knitting-machine", "www"], rtype: A, rdata: "203.69.42.87" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sinsen", "www"], rtype: A, rdata: "220.134.93.247" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "onwin", "www"], rtype: A, rdata: "202.154.202.17" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taichuan"], rtype: SOA, rdata: "nt.yourslife.com.tw service.urs.com.tw 2008022500 1200 120 1209600 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "coupon", "www"], rtype: A, rdata: "219.84.203.67" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ootoya"], rtype: SOA, rdata: "ns.ootoya.com.tw davidwu.drama.com.tw 1348868673 10800 3600 604800 10800" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "greness", "www"], rtype: A, rdata: "60.250.101.164" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "smartfish", "www"], rtype: A, rdata: "61.221.247.2" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "thewall", "www"], rtype: A, rdata: "75.119.192.227" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "369"], rtype: SOA, rdata: "hion-4.hion.local hostmaster.hion.local 3 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gold-typhoon", "www"], rtype: A, rdata: "203.69.69.24" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "etherwan", "www"], rtype: A, rdata: "210.61.184.59" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "thg", "www"], rtype: A, rdata: "211.20.179.120" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bhbc", "www"], rtype: A, rdata: "202.153.196.19" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chuteng", "www"], rtype: A, rdata: "198.55.121.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "healthyco", "www"], rtype: A, rdata: "203.69.42.77" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chuto", "www"], rtype: A, rdata: "61.219.43.234" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nokaoi", "www"], rtype: A, rdata: "210.64.125.43" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chwan-jhe", "www"], rtype: MX, rdata: "10 alt1.aspmx.l.google.com" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "openflower", "www"], rtype: A, rdata: "220.228.0.43" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chy", "www"], rtype: A, rdata: "60.199.166.40" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "songwin", "www"], rtype: A, rdata: "58.86.38.37" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sunion", "www"], rtype: A, rdata: "203.69.82.23" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "commerce", "www"], rtype: MX, rdata: "10 vmst5.trader.com.tw" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "think-different", "www"], rtype: A, rdata: "122.147.183.34" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ttv", "www"], rtype: A, rdata: "61.222.5.197" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fanlin"], rtype: SOA, rdata: "dns1.ec-168.com hostmaster.ec-168.com 3 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chyauke", "www"], rtype: A, rdata: "210.200.133.158" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sunix", "www"], rtype: A, rdata: "220.130.3.58" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "openpower", "www"], rtype: A, rdata: "59.124.211.168" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tty", "ive"], rtype: A, rdata: "202.153.197.147" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "eastisland", "www"], rtype: A, rdata: "210.65.1.231" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cpchen", "www"], rtype: A, rdata: "96.125.181.100" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "azi", "www"], rtype: A, rdata: "60.249.109.33" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sunkey", "www"], rtype: A, rdata: "61.67.246.99" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "siquar", "www"], rtype: A, rdata: "61.218.246.168" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "clickfate", "www"], rtype: A, rdata: "174.121.64.66" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "clickforce", "www"], rtype: A, rdata: "61.66.28.182" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fantail", "www"], rtype: A, rdata: "122.116.176.238" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dastool", "www"], rtype: A, rdata: "202.39.48.22" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "norisk", "www"], rtype: A, rdata: "112.104.188.157" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "etrack", "www"], rtype: A, rdata: "202.153.173.18" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "clicks", "www"], rtype: A, rdata: "121.50.150.21" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cbs-nba"], rtype: SOA, rdata: "cns1.net-chinese.com.tw abuse.digiage.com.tw 2013032007 28800 7200 691200 43200" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sishine", "dns"], rtype: A, rdata: "59.124.65.53" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "thma", "www"], rtype: A, rdata: "114.32.18.191" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ejustmake", "www"], rtype: A, rdata: "210.65.1.231" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "artec", "www"], rtype: A, rdata: "218.210.76.141" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "adhot"], rtype: SOA, rdata: "dns02.adhot.com hostmaster.adhot.com 88 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "goldenimage", "www"], rtype: A, rdata: "61.66.28.182" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pttv", "www"], rtype: A, rdata: "60.251.4.83" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sunmoonhotel", "www"], rtype: A, rdata: "60.249.31.229" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "goodtire", "www"], rtype: A, rdata: "118.163.98.121" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dotzing", "www"], rtype: A, rdata: "61.67.233.49" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "3dpapermodel", "www"], rtype: A, rdata: "199.59.243.106" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "compute", "dns"], rtype: A, rdata: "1.34.115.28" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "arthur", "www"], rtype: A, rdata: "210.200.133.166" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "computex"], rtype: SOA, rdata: "mail.computex.com.tw master.computex.com.tw 20080410 86400 1800 604800 1200" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "computextaipei", "www"], rtype: A, rdata: "210.241.128.64" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "artiedesign", "www"], rtype: A, rdata: "58.86.33.225" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bigbyte", "www"], rtype: A, rdata: "219.84.199.42" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "doublemint", "www"], rtype: A, rdata: "202.55.224.27" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bigcamera", "www"], rtype: A, rdata: "61.66.28.174" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "easydance", "www"], rtype: A, rdata: "124.150.132.45" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "soufun", "www"], rtype: A, rdata: "203.78.180.88" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "google", "www"], rtype: A, rdata: "74.125.239.55" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gspm", "www"], rtype: A, rdata: "114.32.193.223" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "babycenter"], rtype: SOA, rdata: "ns1.sitelutions.com digiman.doramail.com 16 28000 7200 604800 1" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ploutos", "mail"], rtype: A, rdata: "220.128.95.132" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fullon", "www"], rtype: A, rdata: "199.34.228.58" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sunnydata", "www"], rtype: A, rdata: "124.150.132.11" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cimage", "www"], rtype: A, rdata: "210.242.73.199" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gophone"], rtype: SOA, rdata: "ns1.w7dns.com hostmaster.domain.tld 2013040605 28800 7200 1209600 86400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "elate", "www"], rtype: A, rdata: "218.32.192.49" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fullsun", "www"], rtype: A, rdata: "59.120.20.167" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "adt", "mail"], rtype: A, rdata: "61.220.217.181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "thusbook", "www"], rtype: A, rdata: "106.187.47.165" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dellago", "www"], rtype: A, rdata: "192.254.189.214" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sounglung", "www"], rtype: A, rdata: "219.84.199.111" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "komi", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bigkay", "www"], rtype: A, rdata: "61.220.29.253" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "arts"], rtype: SOA, rdata: "dns02.adhot.com hostmaster.adhot.com 50 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "electrolux", "www"], rtype: A, rdata: "194.132.150.27" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tiancherng", "www"], rtype: A, rdata: "59.125.203.216" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "orchids", "www"], rtype: A, rdata: "218.32.192.17" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tutorbank", "www"], rtype: A, rdata: "202.133.244.2" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "snowmilk", "www"], rtype: A, rdata: "61.63.128.21" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "elephant", "www"], rtype: A, rdata: "58.86.43.22" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fashionmodel", "www"], rtype: A, rdata: "118.139.163.93" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gotobuy", "www"], rtype: A, rdata: "218.32.89.221" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "konzern", "www"], rtype: A, rdata: "59.127.78.99" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "stardom", "www"], rtype: A, rdata: "192.72.83.16" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "skiimf", "www"], rtype: A, rdata: "199.59.241.181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "skill", "www"], rtype: A, rdata: "114.34.67.141" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "excotaiwan", "www"], rtype: A, rdata: "210.241.128.64" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "abss", "www"], rtype: A, rdata: "72.20.52.216" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tv", "www"], rtype: A, rdata: "66.96.163.132" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "orenda", "www"], rtype: A, rdata: "203.78.180.225" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "connet", "www"], rtype: A, rdata: "59.124.114.52" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "herb", "www"], rtype: A, rdata: "60.251.85.70" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "e-ipro", "www"], rtype: A, rdata: "96.126.97.217" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "deng-shuenn", "www"], rtype: A, rdata: "50.16.196.85" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "elidot", "www"], rtype: A, rdata: "211.75.186.7" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gotop", "ns1"], rtype: A, rdata: "122.147.238.93" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "herbgarden", "www"], rtype: A, rdata: "61.63.24.10" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "creatop", "www"], rtype: A, rdata: "203.69.42.197" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taipei-translation", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tvbs", "discuss"], rtype: A, rdata: "61.66.230.65" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "crescent", "www"], rtype: A, rdata: "124.150.132.6" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taipeiampa", "www"], rtype: A, rdata: "210.241.128.64" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "skinnet", "www"], rtype: A, rdata: "210.242.73.193" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taipeicycle", "www"], rtype: A, rdata: "210.241.128.64" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gomy", "img"], rtype: A, rdata: "60.250.83.225" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "so-nice", "exchange"], rtype: A, rdata: "60.248.4.199" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dentist"], rtype: SOA, rdata: "mail.cpa.com.tw hostmaster.cpa.com.tw 11 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "governor", "www"], rtype: A, rdata: "208.89.138.21" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ew168", "www"], rtype: A, rdata: "202.168.204.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pushpower", "www"], rtype: A, rdata: "61.66.123.87" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bilocun", "www"], rtype: A, rdata: "61.67.196.130" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "accl", "webmail"], rtype: A, rdata: "122.116.13.210" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kosmos", "www"], rtype: A, rdata: "173.231.39.137" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cna", "gov"], rtype: A, rdata: "210.69.89.185" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ebara-tep", "www"], rtype: A, rdata: "210.61.87.70" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "origins", "www"], rtype: A, rdata: "121.254.144.180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cnavista", "www"], rtype: A, rdata: "61.220.180.66" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bing"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1308546055 3600 180 1209600 180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "funtainan", "www"], rtype: A, rdata: "59.125.213.91" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "baleno", "www"], rtype: A, rdata: "61.219.193.123" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "starworld", "mail"], rtype: A, rdata: "211.22.219.201" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ebn", "mail"], rtype: A, rdata: "211.75.85.188" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "e-muse", "mail"], rtype: A, rdata: "203.69.207.162" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taipeiplas", "www"], rtype: A, rdata: "210.241.128.64" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taipeipoplock", "www"], rtype: A, rdata: "202.153.206.157" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "aetw", "www"], rtype: A, rdata: "59.124.9.132" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "e-one", "www"], rtype: A, rdata: "60.249.238.194" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tw-icon", "www"], rtype: A, rdata: "61.66.28.7" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taipeitradeshows", "www"], rtype: A, rdata: "210.241.128.64" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ebridgecpas", "www"], rtype: A, rdata: "60.251.197.239" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bane", "www"], rtype: A, rdata: "61.66.28.29" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "socle-tech", "ns4"], rtype: A, rdata: "61.220.244.114" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gpsgps", "www"], rtype: A, rdata: "202.153.161.11" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tais", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gq", "www"], rtype: A, rdata: "202.168.201.177" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kreton", "webmail"], rtype: A, rdata: "61.220.103.39" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ataifuji", "mail"], rtype: A, rdata: "60.250.59.67" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gracegift", "www"], rtype: A, rdata: "203.78.180.235" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "perfecturway", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "digilens", "www"], rtype: A, rdata: "219.84.160.140" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hadalabo", "www"], rtype: A, rdata: "203.69.40.34" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sun-rise", "www"], rtype: A, rdata: "114.32.175.127" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "eca", "www"], rtype: NS, rdata: "ns1.72dns.com." }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "oticon"], rtype: SOA, rdata: "web.clinico.com.tw hostmaster.clinico.com.tw 10 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ecapsule", "www"], rtype: A, rdata: "202.3.175.200" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "twbeer", "www"], rtype: A, rdata: "211.79.113.6" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "suhaiphoto", "www"], rtype: A, rdata: "82.98.86.163" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "emeat", "mail"], rtype: A, rdata: "61.218.224.132" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bear-garden", "www"], rtype: A, rdata: "202.153.163.159" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sunsweet", "www"], rtype: A, rdata: "122.147.250.98" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hanlong", "www"], rtype: A, rdata: "203.69.42.65" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taispo", "www"], rtype: A, rdata: "210.241.128.64" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pestcontrol", "www"], rtype: A, rdata: "210.59.229.22" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "beardlin", "www"], rtype: MX, rdata: "10 vps1.hitohosting.com" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "biotherm", "www"], rtype: A, rdata: "122.147.82.139" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pet-love"], rtype: SOA, rdata: "rsdn1.octor.com dns.aptg.com.tw 1 10800 3600 604800 21600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ag", "www"], rtype: A, rdata: "59.126.44.204" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gull", "www"], rtype: A, rdata: "218.32.89.238" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sunbright", "www"], rtype: A, rdata: "210.242.160.91" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "timtos", "www"], rtype: A, rdata: "210.241.128.64" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "emico", "www"], rtype: A, rdata: "211.72.117.199" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "emimusic", "www"], rtype: A, rdata: "203.69.69.24" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "asian-food", "www"], rtype: A, rdata: "113.196.52.182" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "suntory", "smtp1"], rtype: A, rdata: "60.251.57.148" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sun-club", "www"], rtype: A, rdata: "61.67.246.21" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fuyishan", "www"], rtype: A, rdata: "124.150.129.135" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gun", "www"], rtype: A, rdata: "202.133.247.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "qidian", "www"], rtype: A, rdata: "60.199.208.250" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "haiya", "www"], rtype: A, rdata: "59.125.236.133" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "eyetv", "www"], rtype: A, rdata: "203.69.42.83" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "agecctv", "www"], rtype: A, rdata: "210.66.144.107" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bisheng", "www"], rtype: A, rdata: "59.124.80.130" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taiwan-cube", "www"], rtype: A, rdata: "198.55.121.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "suncomm", "www"], rtype: A, rdata: "69.36.191.51" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "outdoorwedding", "www"], rtype: A, rdata: "218.32.192.20" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bisouth", "www"], rtype: A, rdata: "211.72.204.229" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "emon", "www"], rtype: A, rdata: "118.163.3.240" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "photoez", "www"], rtype: A, rdata: "114.32.79.49" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nv", "www"], rtype: A, rdata: "122.147.44.89" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tios", "www"], rtype: A, rdata: "206.108.51.26" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "beautyhotels", "www"], rtype: A, rdata: "60.251.135.16" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "centralbook", "www"], rtype: A, rdata: "211.20.179.120" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ezanole", "www"], rtype: A, rdata: "66.147.244.216" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "entdoctor", "www"], rtype: A, rdata: "205.186.179.172" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ast", "dns1"], rtype: A, rdata: "60.250.194.25" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sunworld", "www"], rtype: A, rdata: "211.20.177.116" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "twhouses"], rtype: SOA, rdata: "lakers hostmaster 308 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "agoragdn", "www"], rtype: A, rdata: "59.120.43.125" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fm995", "www"], rtype: A, rdata: "210.242.73.199" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "century-pt", "www"], rtype: A, rdata: "210.242.73.197" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "stormpower", "www"], rtype: A, rdata: "124.150.132.8" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tit", "www"], rtype: A, rdata: "113.196.231.224" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taiwan123", "www"], rtype: A, rdata: "122.117.52.27" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "twinface", "www"], rtype: A, rdata: "61.66.28.138" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fei", "www"], rtype: A, rdata: "220.130.22.12" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pglamer", "mail"], rtype: A, rdata: "220.130.18.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "phyllis", "www"], rtype: A, rdata: "220.229.225.146" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "epowerhome", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taiwanbuying", "www"], rtype: A, rdata: "118.163.170.68" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "momentmusical", "www"], rtype: A, rdata: "59.120.142.157" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dubai-villa", "www"], rtype: A, rdata: "61.219.134.19" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "asus", "www"], rtype: A, rdata: "103.10.4.11" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "streetvoice", "www"], rtype: A, rdata: "61.67.192.66" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "beechenghiang", "www"], rtype: A, rdata: "69.89.22.131" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taiwancup", "www"], rtype: A, rdata: "211.72.206.3" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "happybuddha", "www"], rtype: A, rdata: "124.150.132.26" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "momokids", "www"], rtype: A, rdata: "124.29.137.28" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "p2", "www"], rtype: A, rdata: "59.120.85.17" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "attach", "www"], rtype: A, rdata: "220.228.0.13" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "twkongkee", "www"], rtype: A, rdata: "61.67.233.81" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "blingcandy", "www"], rtype: A, rdata: "61.63.52.73" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kting", "www"], rtype: A, rdata: "96.125.181.100" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "blk654", "www"], rtype: A, rdata: "202.133.247.93" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "malinandgoetz", "www"], rtype: A, rdata: "82.98.86.167" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "directcoffee", "www"], rtype: A, rdata: "202.168.204.22" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "energye", "mail"], rtype: A, rdata: "192.168.0.3" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "myswitzerland", "www"], rtype: A, rdata: "202.85.216.210" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ktop", "www"], rtype: A, rdata: "220.130.205.58" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "be2", "www"], rtype: A, rdata: "91.195.18.21" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "powerbrand", "www"], rtype: MX, rdata: "30 mx.powerbrand.com.tw" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taiwanhandtools", "www"], rtype: A, rdata: "202.168.201.22" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cesarclub", "www"], rtype: A, rdata: "203.69.42.81" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hibistar", "www"], rtype: A, rdata: "202.55.227.6" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "powercast", "www"], rtype: A, rdata: "211.20.177.120" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "stsrc", "www"], rtype: A, rdata: "208.109.238.116" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kuai-kuai"], rtype: SOA, rdata: "web hostmaster 11 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fokas", "www"], rtype: A, rdata: "219.84.160.181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taiwanhouse", "www"], rtype: A, rdata: "61.63.91.153" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mytown", "www"], rtype: A, rdata: "219.84.199.180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "blognews", "www"], rtype: A, rdata: "202.153.195.234" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "discoverycord", "www"], rtype: A, rdata: "114.35.47.225" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ecowin", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "g-world", "www"], rtype: A, rdata: "114.32.63.119" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pien", "www"], rtype: A, rdata: "202.133.247.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "obuy", "www"], rtype: A, rdata: "203.69.139.80" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pace", "www"], rtype: A, rdata: "54.243.62.226" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "aubrey", "www"], rtype: A, rdata: "61.67.196.170" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tkbox", "ocean"], rtype: A, rdata: "203.66.14.168" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fengmin", "www"], rtype: A, rdata: "122.117.192.189" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "moneyweekly", "www"], rtype: A, rdata: "122.147.232.88" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bossinfo", "dns"], rtype: A, rdata: "1.34.139.78" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "duofu", "www"], rtype: A, rdata: "61.67.196.130" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mongobeef", "www"], rtype: A, rdata: "211.78.215.228" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mth", "www"], rtype: A, rdata: "202.39.48.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pinhwan", "www"], rtype: A, rdata: "219.84.160.140" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "belief", "www"], rtype: A, rdata: "114.30.34.17" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "queenmao", "www"], rtype: A, rdata: "202.39.48.189" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "handyage", "www"], rtype: A, rdata: "184.168.192.6" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "digarts", "www"], rtype: A, rdata: "173.83.10.2" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pacificnews", "www"], rtype: A, rdata: "61.222.150.222" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "enforcer", "www"], rtype: A, rdata: "209.237.150.20" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mamigo", "www"], rtype: A, rdata: "210.209.11.12" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "feph", "www"], rtype: A, rdata: "211.78.163.147" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ecs", "www"], rtype: A, rdata: "210.209.15.114" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mtk", "i-b-c"], rtype: A, rdata: "210.61.82.84" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "greatnews", "www"], rtype: A, rdata: "1.34.144.81" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wealth", "monthly"], rtype: SOA, rdata: "ns1.wt500.com rainie.wealthgrp.com.tw 2011081802 10800 3600 604800 10800" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "packleader", "www"], rtype: A, rdata: "219.84.203.113" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fesagency", "www"], rtype: A, rdata: "113.196.231.224" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mtsc", "ex"], rtype: A, rdata: "61.222.117.36" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "myxango", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chaser", "www"], rtype: A, rdata: "202.133.244.170" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fet", "www"], rtype: A, rdata: "220.228.57.200" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "auntstella", "www"], rtype: A, rdata: "106.187.38.240" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "willis", "main"], rtype: A, rdata: "59.120.8.31" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "myzurich"], rtype: SOA, rdata: "edp-zurich.zurich.com.tw admin.zurich.com.tw 22 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "n-age"], rtype: SOA, rdata: "ns9.szhot.com admin.szhot.com 115 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "willpan", "www"], rtype: A, rdata: "211.78.82.169" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bemoral", "www"], rtype: A, rdata: "60.248.107.129" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "highlight", "www"], rtype: A, rdata: "61.218.209.218" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "manly", "www"], rtype: A, rdata: "210.202.83.45" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "powerone", "www"], rtype: A, rdata: "118.163.181.163" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tll-farm", "www"], rtype: A, rdata: "82.98.86.174" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chbfc", "www"], rtype: A, rdata: "118.163.181.163" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "quickmark", "diy"], rtype: A, rdata: "202.132.20.55" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "manpower", "www"], rtype: A, rdata: "192.72.83.104" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "twproperty"], rtype: SOA, rdata: "lakers hostmaster 161 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "octtel", "www"], rtype: A, rdata: "59.125.34.37" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ohsoft"], rtype: SOA, rdata: "websvr01 hostmaster 17 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "blueshop", "blog"], rtype: A, rdata: "124.155.178.107" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bluesign", "www"], rtype: A, rdata: "210.59.229.23" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "supersentai", "www"], rtype: A, rdata: "219.84.199.34" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mantra", "www"], rtype: A, rdata: "114.30.34.17" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yourmap", "www"], rtype: A, rdata: "173.212.56.179" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "palada", "www"], rtype: A, rdata: "60.250.29.102" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "morethanall", "www"], rtype: A, rdata: "60.248.160.207" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "food888"], rtype: SOA, rdata: "web-server hostmaster 199 60 60 60 1800" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cheapcheap", "www"], rtype: A, rdata: "182.50.155.32" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kunlex", "www"], rtype: A, rdata: "211.75.72.240" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hihotel", "www"], rtype: A, rdata: "210.58.99.55" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pirates", "www"], rtype: A, rdata: "61.63.52.68" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taki", "www"], rtype: A, rdata: "61.56.203.15" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tmg", "www"], rtype: A, rdata: "202.39.169.118" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "supertung", "www"], rtype: A, rdata: "198.55.121.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kunsheng", "www"], rtype: A, rdata: "64.78.164.140" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kuo-fong", "www"], rtype: A, rdata: "59.125.95.45" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "aio", "www"], rtype: A, rdata: "61.56.222.65" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nestle", "www"], rtype: A, rdata: "216.255.64.41" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dvworld"], rtype: SOA, rdata: "dvworld.com.tw spring.dvworld.com.tw 2950255817 3600 1800 1209600 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "primus", "www"], rtype: A, rdata: "219.84.199.180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "maobao", "www"], rtype: A, rdata: "210.61.12.221" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "prince-outdoor", "www"], rtype: A, rdata: "60.250.27.7" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "inox-tek", "www"], rtype: A, rdata: "202.39.245.6" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bobbibrowncosmetics", "www"], rtype: A, rdata: "203.69.40.33" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "youth-hope", "www"], rtype: NS, rdata: "ns1.bdm.microsoftonline.com." }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ycan"], rtype: SOA, rdata: "email admin 9 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "foodtaipei", "www"], rtype: A, rdata: "210.241.128.64" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "champward", "www"], rtype: A, rdata: "220.130.211.136" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "namcobandaipartners", "www"], rtype: A, rdata: "218.185.76.187" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "taiyiaeh", "www"], rtype: A, rdata: "124.9.0.98" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "inreal", "www"], rtype: A, rdata: "202.39.48.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "racingnet", "www"], rtype: A, rdata: "59.124.174.108" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gcard", "www"], rtype: A, rdata: "60.251.176.150" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "airball", "www"], rtype: A, rdata: "61.221.247.2" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tamio", "www"], rtype: A, rdata: "114.34.127.185" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "swtex", "www"], rtype: A, rdata: "60.249.87.193" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bravohome", "www"], rtype: A, rdata: "210.59.146.235" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hinet", "www"], rtype: A, rdata: "184.173.195.207" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mapower", "www"], rtype: A, rdata: "60.251.253.35" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "fotosearch", "www"], rtype: A, rdata: "205.196.136.94" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "greenknight", "www"], rtype: A, rdata: "202.39.48.189" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chahwa", "www"], rtype: A, rdata: "124.150.130.196" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "surftech", "www"], rtype: A, rdata: "61.221.28.197" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "printecht", "www"], rtype: A, rdata: "219.84.199.36" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yinchi", "www"], rtype: A, rdata: "211.23.24.251" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "figureskating", "www"], rtype: A, rdata: "210.201.79.9" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "breeze", "mail"], rtype: A, rdata: "210.242.50.247" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "four-season", "www"], rtype: A, rdata: "60.249.111.249" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hion"], rtype: SOA, rdata: "hion-4.hion.local hostmaster.hion.local 62 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "breezemarket", "www"], rtype: A, rdata: "61.221.200.69" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "raga", "www"], rtype: A, rdata: "220.130.196.92" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "winfultex", "www"], rtype: A, rdata: "202.39.60.56" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rai-stat", "www"], rtype: A, rdata: "211.72.204.168" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "insulator", "www"], rtype: A, rdata: "210.65.1.231" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sushishop", "www"], rtype: A, rdata: "211.20.105.156" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yiowchie", "www"], rtype: A, rdata: "203.66.87.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tonyuan", "www"], rtype: A, rdata: "60.250.108.80" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ysal", "www"], rtype: A, rdata: "218.32.192.11" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rain-maker", "www"], rtype: A, rdata: "210.64.205.102" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "pro-insurance", "www"], rtype: A, rdata: "82.98.86.172" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "techbang", "bbking"], rtype: A, rdata: "60.199.208.210" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bridge", "www"], rtype: A, rdata: "122.147.182.162" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "toolweb", "www"], rtype: A, rdata: "202.39.48.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "procamera", "www"], rtype: A, rdata: "59.126.210.13" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chiconydcd", "www"], rtype: A, rdata: "210.65.152.11" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gifthouse", "www"], rtype: A, rdata: "218.32.192.53" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "techmation", "www"], rtype: A, rdata: "202.39.244.145" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "markettaiwan", "www"], rtype: A, rdata: "208.91.243.43" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rakuten", "www"], rtype: A, rdata: "203.190.59.170" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "giftstart", "www"], rtype: A, rdata: "192.72.83.247" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "todaycolor", "www"], rtype: A, rdata: "60.249.136.151" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gdb", "mail"], rtype: A, rdata: "219.85.80.241" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "brighteyes", "www"], rtype: A, rdata: "108.171.214.203" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hoyaresort", "www"], rtype: A, rdata: "220.229.238.226" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cheng-ming", "www"], rtype: A, rdata: "219.84.199.36" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "marshal-hotel", "www"], rtype: A, rdata: "220.229.238.226" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kyfood", "www"], rtype: A, rdata: "202.133.244.14" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ysred", "www"], rtype: A, rdata: "123.51.219.48" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "techpaper", "www"], rtype: A, rdata: "210.64.215.155" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hoyin", "www"], rtype: A, rdata: "204.227.160.169" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chenghome", "www"], rtype: A, rdata: "202.39.245.2" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hoyoyo", "www"], rtype: A, rdata: "175.45.9.234" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "primoclub", "www"], rtype: A, rdata: "118.139.186.1" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sweet-quilter", "www"], rtype: A, rdata: "61.66.28.141" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "interland", "www"], rtype: A, rdata: "210.64.125.34" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "prodorapid", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chiefwell", "www"], rtype: A, rdata: "124.150.132.26" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ge-light", "dcconnector"], rtype: A, rdata: "59.120.142.94" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chien-ching", "www"], rtype: A, rdata: "74.220.215.94" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yuyu", "www"], rtype: A, rdata: "61.67.246.226" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "firdi", "www"], rtype: A, rdata: "60.248.154.175" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "masaki", "owa"], rtype: A, rdata: "61.219.188.88" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chienkung", "www"], rtype: A, rdata: "122.116.170.165" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yvette", "mail"], rtype: A, rdata: "202.39.131.130" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nars", "www"], rtype: A, rdata: "61.61.140.152" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yenchen", "www"], rtype: A, rdata: "210.64.125.40" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "franzcollection", "www"], rtype: A, rdata: "118.163.67.16" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "books", "addons"], rtype: A, rdata: "113.196.250.30" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "boost", "www"], rtype: A, rdata: "122.116.175.40" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yzz", "www"], rtype: MX, rdata: "30 mx.yzz.com.tw" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gateman", "www"], rtype: A, rdata: "219.84.199.20" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "progymco", "www"], rtype: A, rdata: "113.196.231.224" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mr-pot399", "www"], rtype: A, rdata: "82.98.86.167" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "brotherhotel", "www"], rtype: A, rdata: "220.229.238.226" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "myfone", "www"], rtype: A, rdata: "124.29.137.56" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "networkmagazine"], rtype: SOA, rdata: "dave.ns.cloudflare.com dns.cloudflare.com 2013062509 10000 2400 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "brothers", "www"], rtype: A, rdata: "202.168.194.170" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "brownie", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "brsnike"], rtype: SOA, rdata: "dns2.realmedia.com.tw jerry.realmedia.com.tw 2012062201 86400 3600 604800 1400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ymy", "www"], rtype: A, rdata: "174.122.149.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "labau", "www"], rtype: A, rdata: "67.22.141.100" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gingertech", "www"], rtype: A, rdata: "114.34.13.194" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wintrend", "www"], rtype: A, rdata: "61.31.198.30" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "border", "www"], rtype: A, rdata: "210.64.215.151" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "akishima", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mybbq", "www"], rtype: A, rdata: "202.3.187.28" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tcinf", "www"], rtype: A, rdata: "192.168.10.2" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "intron", "www"], rtype: A, rdata: "60.250.93.188" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "new-arora", "www"], rtype: A, rdata: "210.200.218.199" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "u-mall"], rtype: SOA, rdata: "ns.u-mall.com.tw hostmaster.u-mall.com.tw 1380738012 16384 2048 1048576 2560" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gb-tech", "www"], rtype: A, rdata: "202.153.161.35" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "syscon", "www"], rtype: A, rdata: "199.59.243.106" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "u-manga", "www"], rtype: A, rdata: "219.84.199.130" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "uv100", "www"], rtype: A, rdata: "210.200.144.14" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "myhouse"], rtype: SOA, rdata: "dns02.adhot.com hostmaster.adhot.com 27 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rcnews", "www"], rtype: A, rdata: "210.61.65.137" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "testnews", "www"], rtype: A, rdata: "61.67.196.130" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "topmarketing", "mail"], rtype: A, rdata: "59.124.173.3" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "prolions", "www"], rtype: A, rdata: "60.248.219.136" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "invincible", "www"], rtype: A, rdata: "66.147.244.98" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yuan", "www"], rtype: A, rdata: "61.220.207.86" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mycard520", "mx2"], rtype: A, rdata: "203.69.47.68" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tcbus", "www"], rtype: A, rdata: "203.69.42.24" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "joden", "www"], rtype: A, rdata: "205.209.144.59" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yonyu", "roh"], rtype: A, rdata: "122.146.216.236" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yes777"], rtype: SOA, rdata: "gtm.yes777.com.tw hostmaster.gtm.yes777.com.tw 2012011938 10800 3600 604800 86400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "allcopy", "www"], rtype: A, rdata: "61.221.31.37" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "matchbank", "www"], rtype: A, rdata: "211.72.253.113" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "msd", "www"], rtype: A, rdata: "155.91.16.177" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rtv", "www"], rtype: A, rdata: "124.150.134.111" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tektronix", "www"], rtype: A, rdata: "217.19.248.132" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "readyflowers", "www"], rtype: A, rdata: "116.212.201.11" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nch", "www"], rtype: A, rdata: "61.31.212.11" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kanewell", "www"], rtype: A, rdata: "59.120.254.211" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hsienang", "www"], rtype: A, rdata: "198.55.121.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "zerone", "www"], rtype: A, rdata: "61.67.210.226" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kangaroo", "www"], rtype: A, rdata: "211.72.206.19" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "zeroplus", "mail"], rtype: A, rdata: "60.251.6.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mymotel", "www"], rtype: A, rdata: "202.133.244.139" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "zespri-plus", "www"], rtype: A, rdata: "203.67.83.185" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "realise", "www"], rtype: A, rdata: "202.39.55.175" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nciku"], rtype: SOA, rdata: "nciku.com.tw root.nciku.com.tw 2007031689 600 300 1800 1800" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "uas5888", "www"], rtype: A, rdata: "202.39.48.185" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rueychyuan"], rtype: SOA, rdata: "ns1.rueychyuan.com.tw ns-admin.rueychyuan.com.tw 2009073169 21600 3600 1209600 300" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ncth", "www"], rtype: A, rdata: "210.61.79.124" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "trade-max", "www"], rtype: A, rdata: "210.61.79.107" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ncy-motor", "www"], rtype: A, rdata: "124.150.132.31" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yesmall", "www"], rtype: A, rdata: "60.251.65.49" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kangyu", "www"], rtype: A, rdata: "114.33.176.120" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lakeviewbnb", "www"], rtype: A, rdata: "211.72.198.22" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rebarnet", "www"], rtype: A, rdata: "210.200.219.150" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "topscrew", "www"], rtype: A, rdata: "61.61.140.189" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "juee", "www"], rtype: A, rdata: "211.75.173.110" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lala3"], rtype: SOA, rdata: "dns.ltc.tw hostmaster.ltc.tw 4 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nec", "www"], rtype: A, rdata: "203.223.72.17" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tfk", "www"], rtype: A, rdata: "122.147.132.131" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yudaltd", "www"], rtype: A, rdata: "59.125.143.80" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tradezoo", "www"], rtype: A, rdata: "210.59.229.11" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "young-mind", "www"], rtype: A, rdata: "211.72.198.6" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "getinc", "www"], rtype: A, rdata: "220.128.254.20" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tg-cm", "www"], rtype: A, rdata: "59.125.95.46" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "zigar", "www"], rtype: A, rdata: "59.127.96.39" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "maxbeauty888", "www"], rtype: A, rdata: "210.68.122.166" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ruri", "www"], rtype: A, rdata: "54.248.93.112" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "joki", "www"], rtype: A, rdata: "203.66.14.168" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "junejan", "www"], rtype: A, rdata: "216.239.32.21" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ten-der", "www"], rtype: A, rdata: "124.150.132.8" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yida", "www"], rtype: A, rdata: "210.65.1.231" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "justlink", "www"], rtype: A, rdata: "211.72.206.49" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chianyao", "ns1"], rtype: A, rdata: "114.33.184.185" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "see", "www"], rtype: A, rdata: "203.66.45.68" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "iptone", "www"], rtype: A, rdata: "124.219.52.33" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "redhouse", "www"], rtype: A, rdata: "211.72.198.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "seedesign", "www"], rtype: A, rdata: "50.115.173.43" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gfnet", "www"], rtype: A, rdata: "59.120.161.77" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "anla", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "trident", "www"], rtype: A, rdata: "60.250.40.42" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "teaching", "www"], rtype: A, rdata: "122.147.44.120" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "landisresort", "www"], rtype: A, rdata: "219.84.199.45" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "katec", "www"], rtype: A, rdata: "124.150.134.112" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "buylamp", "www"], rtype: A, rdata: "208.89.138.21" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wdful", "www"], rtype: A, rdata: "184.172.137.99" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "newvision168", "www"], rtype: A, rdata: "202.133.233.238" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "redwall", "www"], rtype: A, rdata: "118.163.170.11" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wolawola", "www"], rtype: A, rdata: "203.69.42.191" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "joshua", "www"], rtype: A, rdata: "60.199.166.47" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "laojansow", "www"], rtype: A, rdata: "202.133.244.2" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "htcpa", "www"], rtype: A, rdata: "118.163.117.114" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "triocean", "www"], rtype: A, rdata: "174.132.121.10" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "veco", "www"], rtype: A, rdata: "69.168.84.206" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "s26mama", "www"], rtype: A, rdata: "139.175.68.135" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "scepter-souvenirs", "www"], rtype: A, rdata: "61.66.123.87" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tripadvisor", "www"], rtype: A, rdata: "199.102.234.31" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jylishu", "www"], rtype: A, rdata: "220.135.97.161" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "zonghe", "www"], rtype: A, rdata: "118.163.60.127" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nexnet", "www"], rtype: MX, rdata: "10 vps1.hitohosting.com" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "teamsoftex", "www"], rtype: A, rdata: "118.99.177.17" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "iamone", "www"], rtype: A, rdata: "116.251.205.146" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "weat", "www"], rtype: A, rdata: "206.108.48.188" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "globalviewcatv", "www"], rtype: A, rdata: "124.29.137.132" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hoho"], rtype: SOA, rdata: "s011.ehoho.com hostmaster.ehoho.com 45 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bwstore", "www"], rtype: A, rdata: "61.67.196.130" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lichen", "www"], rtype: A, rdata: "211.22.15.58" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yumei", "mail"], rtype: A, rdata: "69.197.18.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "keyweb", "www"], rtype: A, rdata: "60.244.103.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gmd-tire", "www"], rtype: A, rdata: "219.84.203.113" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "relativehumanity", "www"], rtype: A, rdata: "208.110.110.27" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mayctn", "mail"], rtype: A, rdata: "211.75.115.137" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chinglai", "www"], rtype: A, rdata: "210.64.125.37" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ueu", "www"], rtype: A, rdata: "61.66.28.29" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "safeguard", "www"], rtype: A, rdata: "60.248.249.52" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nextvod", "www"], rtype: A, rdata: "14.136.202.242" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "safepack", "mail"], rtype: A, rdata: "210.241.235.134" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mayfull", "www"], rtype: A, rdata: "202.3.175.200" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yun-hsien", "www"], rtype: A, rdata: "203.69.42.76" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "triwin", "www"], rtype: A, rdata: "61.66.123.85" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hua215"], rtype: SOA, rdata: "dns admin 18 21600 3600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kfic", "www"], rtype: A, rdata: "210.202.39.225" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ngm", "www"], rtype: A, rdata: "61.31.198.70" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lanshan", "www"], rtype: A, rdata: "60.249.54.210" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "satgo", "www"], rtype: A, rdata: "61.66.28.27" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "antic", "www"], rtype: A, rdata: "59.126.44.204" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "trueten", "www"], rtype: A, rdata: "64.78.164.140" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "citroen", "www"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10001 1801 604801 181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lauderevent", "www"], rtype: A, rdata: "210.64.214.133" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "amtac", "www"], rtype: A, rdata: "202.39.48.189" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "web66", "img"], rtype: A, rdata: "113.196.231.80" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cyleralu", "remote"], rtype: SOA, rdata: "ns21.twnic.net.tw snw.twnic.net.tw 20000101 7200 1800 86400 900" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ibor", "www"], rtype: A, rdata: "218.32.192.7" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lanyangnet", "www"], rtype: A, rdata: "211.72.204.156" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hongyi", "mail"], rtype: A, rdata: "211.21.63.90" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "holiday", "dns"], rtype: A, rdata: "203.74.166.33" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lautianlu", "www"], rtype: A, rdata: "203.160.250.236" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jasmine", "www"], rtype: A, rdata: "219.84.203.62" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "comicplay", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2013070601 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "life", "www"], rtype: A, rdata: "108.162.203.95" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "coopnet", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2012123001 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "zyxel", "www"], rtype: A, rdata: "220.128.160.36" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "c-y", "www"], rtype: A, rdata: "123.204.41.214" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "saintpaul", "www"], rtype: A, rdata: "142.4.50.44" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jiadi", "www"], rtype: A, rdata: "59.125.119.158" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dekaron", "www"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "uholiday"], rtype: SOA, rdata: "ns.uholiday.com.tw hostmaster.uholiday.com.tw 1380706813 16384 2048 1048576 2560" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sakunet", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "senli", "www"], rtype: A, rdata: "61.61.140.189" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "saya", "www"], rtype: A, rdata: "202.133.247.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lifehub", "www"], rtype: A, rdata: "211.72.206.49" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mcdonalds", "www"], rtype: A, rdata: "124.219.16.151" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "dvdinfo", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2012041701 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "senshido", "www"], rtype: A, rdata: "203.160.250.67" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "easyps", "www"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10001 1801 604801 181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mesamusic", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cablemax", "www"], rtype: A, rdata: "202.39.48.189" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jsprint", "www"], rtype: A, rdata: "220.128.223.230" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "iifun", "www"], rtype: A, rdata: "61.64.54.78" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "uip", "mail"], rtype: A, rdata: "59.120.193.30" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rentokil", "www"], rtype: A, rdata: "203.142.17.230" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "enjoycard", "www"], rtype: SOA, rdata: "ns1.sedoparking.com hostmaster.sedo.de 2007021501 86400 10800 604800 86400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jaya", "www"], rtype: A, rdata: "211.78.215.228" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jaycee"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10001 1801 604801 181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "in-touch-spa", "www"], rtype: A, rdata: "202.39.48.190" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "shanfeng", "www"], rtype: A, rdata: "208.89.138.21" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cablesoft", "www"], rtype: A, rdata: "202.153.194.42" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ice", "mail"], rtype: A, rdata: "114.35.195.25" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "screwdriver", "www"], rtype: A, rdata: "114.33.27.175" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mailasp", "vhost"], rtype: SOA, rdata: "dns.openfind.com.tw online_se.mail2000.com.tw 1320662623 10800 3600 604800 10800" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sandisk", "www"], rtype: A, rdata: "174.143.99.42" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jazzimage", "www"], rtype: A, rdata: "61.63.4.205" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "scupio", "www"], rtype: A, rdata: "114.30.36.184" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "worldscreen", "www"], rtype: A, rdata: "122.147.182.149" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lifetravel", "www"], rtype: A, rdata: "219.84.199.42" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "webstore", "www"], rtype: A, rdata: "211.72.198.3" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "apod", "www"], rtype: A, rdata: "184.169.167.201" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "khotel", "www"], rtype: A, rdata: "122.147.250.98" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "chiuhua", "www"], rtype: A, rdata: "220.135.49.83" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "shanggu", "www"], rtype: A, rdata: "61.61.140.189" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "floral", "www"], rtype: SOA, rdata: "ns1.sedoparking.com hostmaster.sedo.de 2007021501 86400 10800 604800 86400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "incolor", "www"], rtype: A, rdata: "124.150.132.38" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "istock", "www"], rtype: A, rdata: "61.67.7.45" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "seochat", "www"], rtype: A, rdata: "61.56.203.73" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "istore", "www"], rtype: A, rdata: "124.150.134.51" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ukl", "www"], rtype: A, rdata: "61.67.196.208" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hopegolf", "www"], rtype: A, rdata: "219.84.199.37" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "richplay"], rtype: SOA, rdata: "rsdn1.octor.com dn.aptg.com.tw 2013093008 14400 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "shangri-la", "www"], rtype: A, rdata: "211.78.163.147" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cafe2000", "www"], rtype: A, rdata: "61.222.92.38" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sdo", "l"], rtype: A, rdata: "37.247.55.42" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lcd-components", "www"], rtype: A, rdata: "59.125.95.46" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "isuzu", "www"], rtype: A, rdata: "50.22.90.91" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "uldr", "www"], rtype: A, rdata: "61.218.181.52" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jcase", "mail"], rtype: A, rdata: "124.219.36.210" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "homeshops", "www"], rtype: A, rdata: "211.72.204.163" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kid-wood", "www"], rtype: A, rdata: "61.221.55.58" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wowbox", "www"], rtype: A, rdata: "220.135.247.135" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "inforcom", "www"], rtype: A, rdata: "60.250.135.91" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "homestay", "www"], rtype: A, rdata: "60.249.81.223" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jcgo", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "shantismotel", "www"], rtype: A, rdata: "60.199.166.33" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "victorsport", "www"], rtype: A, rdata: "50.87.171.194" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wpalltec", "www"], rtype: A, rdata: "59.124.85.12" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "gveducation", "www"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10001 1801 604801 181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "voodoodoll", "www"], rtype: A, rdata: "202.133.246.12" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rffpcc", "rfbmr"], rtype: A, rdata: "61.30.149.250" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lightraybio", "www"], rtype: A, rdata: "202.39.48.185" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "shaq", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "seafortune", "www"], rtype: A, rdata: "122.147.183.43" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "appleofmyeye", "www"], rtype: A, rdata: "202.182.225.33" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "horng", "www"], rtype: A, rdata: "60.248.132.6" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rghknives", "www"], rtype: A, rdata: "211.72.204.138" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "unifive", "www"], rtype: A, rdata: "49.212.64.202" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "infotouch", "www"], rtype: A, rdata: "202.133.253.29" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "info-rich", "www"], rtype: A, rdata: "203.69.103.61" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "inaruwan", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2012040901 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ipod", "www"], rtype: SOA, rdata: "ns1.dsredirection.com hostmaster.oversee.net 2010100804 16384 2048 1048576 25670" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "cardu", "www"], rtype: A, rdata: "61.63.17.3" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jaycee", "www"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10001 1801 604801 181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jayclub", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2013040401 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "honchan", "www"], rtype: A, rdata: "61.218.231.239" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hot168"], rtype: SOA, rdata: "dns02.adhot.com hostmaster.adhot.com 60 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "itemplast", "www"], rtype: A, rdata: "210.64.125.43" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kentec-twn", "www"], rtype: A, rdata: "59.124.34.254" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hotfrog", "www"], rtype: A, rdata: "98.129.43.58" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jiinshen", "www"], rtype: A, rdata: "59.125.82.43" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rimowa", "www"], rtype: A, rdata: "66.35.48.47" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "icute", "www"], rtype: A, rdata: "211.72.204.158" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hottop", "www"], rtype: A, rdata: "202.39.48.180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kgt", "www"], rtype: SOA, rdata: "ns1.fastpark.net HOSTMASTER.fastpark.net 2010012000 10800 1800 604800 10800" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kindheart", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2012042001 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "une", "www"], rtype: A, rdata: "61.219.190.168" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wef", "www"], rtype: A, rdata: "218.32.192.20" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kilocake", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kernel", "webmail"], rtype: A, rdata: "219.87.168.121" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "houhu", "www"], rtype: A, rdata: "211.72.206.19" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wston", "www"], rtype: A, rdata: "210.59.229.29" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "unimage", "www"], rtype: A, rdata: "203.69.196.163" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sherwood", "www"], rtype: A, rdata: "220.229.238.226" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "unimall", "www"], rtype: A, rdata: "61.57.227.59" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wenhsiung", "www"], rtype: A, rdata: "60.249.202.83" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kimiu", "www"], rtype: A, rdata: "114.30.34.57" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "shi-li", "www"], rtype: A, rdata: "202.133.244.149" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "leonpkg", "www"], rtype: A, rdata: "220.128.151.114" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "waiter", "www"], rtype: A, rdata: "211.22.161.182" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "medical-bed", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "makotobank", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2012042201 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sge", "www"], rtype: A, rdata: "202.39.48.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "midasuser", "www"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10001 1801 604801 181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "miramargarden", "www"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10001 1801 604801 181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "walkersnet", "www"], rtype: A, rdata: "61.63.36.215" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lilly", "www"], rtype: A, rdata: "40.255.166.35" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "shelf", "www"], rtype: A, rdata: "61.63.3.40" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lerbolario", "www"], rtype: A, rdata: "60.199.166.49" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kimy", "www"], rtype: A, rdata: "210.64.24.68" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "idervon", "www"], rtype: A, rdata: "61.66.123.101" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wallpaper", "www"], rtype: A, rdata: "203.69.42.87" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wes", "www"], rtype: A, rdata: "114.33.87.219" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "nationalgeographic", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2012041201 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wanderlust", "www"], rtype: A, rdata: "61.219.59.92" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "vvtech", "www"], rtype: A, rdata: "74.125.93.121" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hwa-nan", "www"], rtype: A, rdata: "60.248.164.133" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hwa-sheng", "www"], rtype: A, rdata: "108.175.152.89" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lwma", "dns"], rtype: A, rdata: "220.130.2.226" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wy", "www"], rtype: A, rdata: "64.14.68.87" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "proshare", "www"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jfg", "www"], rtype: A, rdata: "60.248.1.10" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "shengtian", "www"], rtype: A, rdata: "202.133.247.90" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sailmold", "www"], rtype: SOA, rdata: "www.sailmold.com.tw admin.www.sailmold.com.tw 1338015465 10800 3600 604800 38400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "merak", "www"], rtype: A, rdata: "60.248.90.182" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "linhow", "www"], rtype: A, rdata: "74.220.219.109" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "megaport", "www"], rtype: A, rdata: "27.0.1.214" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "linden", "www"], rtype: A, rdata: "118.163.179.160" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "shinkong-being", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2012022201 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "magicpixel", "www"], rtype: A, rdata: "59.124.177.211" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "micronet", "dns"], rtype: A, rdata: "60.251.118.198" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wetrust", "www"], rtype: A, rdata: "118.163.195.183" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lfo", "www"], rtype: A, rdata: "113.196.231.10" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "sportsnt", "www"], rtype: SOA, rdata: "ns21.twnic.net.tw snw.twnic.net.tw 20000101 7200 1800 86400 900" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "uotek", "www"], rtype: A, rdata: "203.69.69.173" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ifs", "www"], rtype: A, rdata: "72.52.4.90" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "long-yun", "www"], rtype: A, rdata: "174.121.151.188" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "if-finance", "www"], rtype: A, rdata: "211.20.11.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lml", "www"], rtype: A, rdata: "173.83.10.2" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "tatianna", "ww1"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2013080901 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "m-kaliu", "www"], rtype: A, rdata: "124.150.132.62" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "linktek", "ns01"], rtype: A, rdata: "211.22.74.220" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ifei"], rtype: SOA, rdata: "f1g1ns1.dnspod.net freednsadmin.dnspod.com 1355664350 3600 180 1209600 180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "ltj", "vpn"], rtype: A, rdata: "220.128.143.184" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "kingcard", "www"], rtype: A, rdata: "60.251.52.223" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rock-publishing", "www"], rtype: A, rdata: "192.72.83.96" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lukanglbs", "www"], rtype: A, rdata: "210.61.165.205" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "101dr", "mail"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10001 1801 604801 181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "vlife", "www"], rtype: A, rdata: "220.128.104.98" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "logic-audio", "www"], rtype: A, rdata: "113.196.231.120" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mail", "www"], rtype: A, rdata: "210.200.66.80" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "li-xin", "www"], rtype: A, rdata: "210.209.15.105" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wheysound", "eip"], rtype: A, rdata: "203.69.130.8" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "whirlpool", "www"], rtype: A, rdata: "192.72.83.19" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "white-house", "www"], rtype: A, rdata: "211.72.206.19" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "love5200", "www"], rtype: A, rdata: "60.249.244.121" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lohascoffee", "www"], rtype: A, rdata: "69.43.161.178" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "i-tutor"], rtype: SOA, rdata: "ns1.sitelutions.com liber.iproom.com 12 28000 7200 604800 1" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "luck", "www"], rtype: A, rdata: "219.84.199.176" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "roumeihotel", "www"], rtype: A, rdata: "60.251.135.16" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "vof", "www"], rtype: A, rdata: "192.72.83.33" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "aftcgh", "www"], rtype: SOA, rdata: "ns1.parkingcrew.net hostmaster.parkingcrew.com 13472344 28800 7200 604800 86400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "vogue", "styleblog"], rtype: A, rdata: "202.168.201.169" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "loverhoney", "www"], rtype: A, rdata: "219.84.174.92" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "waterpark", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2013071301 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lon", "www"], rtype: A, rdata: "124.150.132.26" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "i-tea", "www"], rtype: A, rdata: "124.155.178.109" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wfdn", "www"], rtype: SOA, rdata: "ns1.sedoparking.com hostmaster.sedo.de 2007021501 86400 10800 604800 86400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lunaplaza", "www"], rtype: A, rdata: "219.84.199.205" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mingcycle", "www"], rtype: A, rdata: "61.67.219.184" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "i-tel", "www"], rtype: A, rdata: "60.248.160.208" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yaba", "www"], rtype: A, rdata: "210.66.144.107" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "wyeth", "www"], rtype: SOA, rdata: "ns.tzo.com admin.tzolkin.com 2008111421 10800 3600 604800 180" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "miworld", "www"], rtype: A, rdata: "60.199.176.185" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "jiuh-huey", "www"], rtype: A, rdata: "60.251.103.238" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mims", "www"], rtype: A, rdata: "203.120.130.125" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lungku", "www"], rtype: A, rdata: "202.39.245.2" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bonny", "www"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10001 1801 604801 181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "hyweb", "www"], rtype: A, rdata: "211.20.93.5" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yahhoo", "www"], rtype: SOA, rdata: "ns1.sedoparking.com hostmaster.sedo.de 2007021501 86400 10800 604800 86400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yanzi", "www"], rtype: SOA, rdata: "ns1.above.com hostmaster.trellian.com 2012123001 10800 3600 604800 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mindcare", "www"], rtype: A, rdata: "60.249.31.229" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "bookteller", "www"], rtype: SOA, rdata: "dns1.name-services.com info.name-services.com 2002050701 10001 1801 604801 181" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lse", "www"], rtype: A, rdata: "122.147.149.136" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mlbus", "www"], rtype: A, rdata: "124.150.134.107" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "miyahara", "www"], rtype: A, rdata: "211.72.198.6" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yansyuan", "www"], rtype: A, rdata: "113.196.231.224" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yahhoo"], rtype: SOA, rdata: "ns1.sedoparking.com hostmaster.sedo.de 2007021501 86400 10800 604800 86400" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "maenam", "www"], rtype: A, rdata: "122.147.176.109" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mizuno", "www"], rtype: A, rdata: "139.175.68.166" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "maintrendgallery", "www"], rtype: A, rdata: "202.153.163.28" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yaosao", "www"], rtype: A, rdata: "114.34.165.19" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yanyu", "www"], rtype: A, rdata: "122.146.67.12" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rpeople", "www"], rtype: A, rdata: "211.79.113.4" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "lupicia", "www"], rtype: A, rdata: "210.200.144.14" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "liufa", "www"], rtype: A, rdata: "59.124.142.226" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "yahool", "www"], rtype: A, rdata: "66.40.65.237" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "use", "www"], rtype: A, rdata: "203.216.217.95" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "major", "www"], rtype: A, rdata: "61.220.23.117" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "modoo", "www"], rtype: A, rdata: "210.59.229.20" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "moebius", "ftp"], rtype: A, rdata: "114.35.30.18" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mo2"], rtype: SOA, rdata: "moulin hostmaster 51 900 600 86400 3600" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mmot", "www"], rtype: A, rdata: "61.67.128.182" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "rt-bakery", "mail"], rtype: A, rdata: "61.218.111.72" }
+[2026-07-03T07:29:14Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "mmmpc", "www"], rtype: A, rdata: "118.163.79.145" }
+[2026-07-03T07:29:16Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["tw", "com", "buloso"], rtype: NS, rdata: "ns.buloso.com.tw." }

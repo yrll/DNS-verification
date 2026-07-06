@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yale.edu,alumni.yale.edu..txt,CNAME_UPDATE,DEL,hollywood.alumni.yale.edu.,CNAME,alumni.yale.edu.
+files-100-500/yale.edu,alumni.yale.edu..txt,CNAME_UPDATE,ADD,hollywood.alumni.yale.edu.,CNAME,cname-inc.alumni.yale.edu.

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.np,062civil.com.np..txt,NS_UPDATE,DEL,062civil.com.np.,NS,ns1.awardspace.com.
+top-10/com.np,062civil.com.np..txt,NS_UPDATE,ADD,062civil.com.np.,NS,ns-inc.062civil.com.np.

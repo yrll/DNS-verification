@@ -1,0 +1,2 @@
+zone,num_lec,io_time (ms),construction_time (ms),symbolic_time (ms),property_checking_time (ms),re_construction_time (ms),re_symbolic_time (ms),re_property_checking_time (ms),properties,initial_property_pass,initial_errors,incremental_property_pass,incremental_errors
+files-500-1000/web.tr,3653,60.732,268.725,0.006,0.001,0.114,0.002,0.001,rewrites|rewrite blackholing|zone loop|lame delegation|hops|too long|delegation consistency,true,,true,

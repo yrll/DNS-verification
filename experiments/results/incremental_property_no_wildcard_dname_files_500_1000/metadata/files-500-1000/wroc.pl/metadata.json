@@ -1,0 +1,2757 @@
+{
+  "TopNameServers": [
+    "ns1.wroc.pl."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/2012.wroc.pl..txt",
+      "NameServer": "ns1.2012.wroc.pl.",
+      "Origin": "2012.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/aasoc.pwr.wroc.pl..txt",
+      "NameServer": "ns1.aasoc.pwr.wroc.pl.",
+      "Origin": "aasoc.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/accord.wroc.pl..txt",
+      "NameServer": "ns1.accord.wroc.pl.",
+      "Origin": "accord.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/action.wroc.pl..txt",
+      "NameServer": "ns1.action.wroc.pl.",
+      "Origin": "action.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/adm.uni.wroc.pl..txt",
+      "NameServer": "ns1.adm.uni.wroc.pl.",
+      "Origin": "adm.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/adv.wroc.pl..txt",
+      "NameServer": "ns1.adv.wroc.pl.",
+      "Origin": "adv.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/advice.wroc.pl..txt",
+      "NameServer": "ns1.advice.wroc.pl.",
+      "Origin": "advice.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ae.wroc.pl..txt",
+      "NameServer": "ns1.ae.wroc.pl.",
+      "Origin": "ae.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/aeroklub.wroc.pl..txt",
+      "NameServer": "ns1.aeroklub.wroc.pl.",
+      "Origin": "aeroklub.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/aiesec.pwr.wroc.pl..txt",
+      "NameServer": "ns1.aiesec.pwr.wroc.pl.",
+      "Origin": "aiesec.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/aki-projekt.wroc.pl..txt",
+      "NameServer": "ns1.aki-projekt.wroc.pl.",
+      "Origin": "aki-projekt.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/akron.wroc.pl..txt",
+      "NameServer": "ns1.akron.wroc.pl.",
+      "Origin": "akron.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/alcon.wroc.pl..txt",
+      "NameServer": "ns1.alcon.wroc.pl.",
+      "Origin": "alcon.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/alma.wroc.pl..txt",
+      "NameServer": "ns1.alma.wroc.pl.",
+      "Origin": "alma.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/am.wroc.pl..txt",
+      "NameServer": "ns1.am.wroc.pl.",
+      "Origin": "am.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/amazonka.wroc.pl..txt",
+      "NameServer": "ns1.amazonka.wroc.pl.",
+      "Origin": "amazonka.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ambit.wroc.pl..txt",
+      "NameServer": "ns1.ambit.wroc.pl.",
+      "Origin": "ambit.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/amigo.wroc.pl..txt",
+      "NameServer": "ns1.amigo.wroc.pl.",
+      "Origin": "amigo.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/amuz.wroc.pl..txt",
+      "NameServer": "ns1.amuz.wroc.pl.",
+      "Origin": "amuz.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/amw.wroc.pl..txt",
+      "NameServer": "ns1.amw.wroc.pl.",
+      "Origin": "amw.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/anet.wroc.pl..txt",
+      "NameServer": "ns1.anet.wroc.pl.",
+      "Origin": "anet.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/antro.pan.wroc.pl..txt",
+      "NameServer": "ns1.antro.pan.wroc.pl.",
+      "Origin": "antro.pan.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/antropo.uni.wroc.pl..txt",
+      "NameServer": "ns1.antropo.uni.wroc.pl.",
+      "Origin": "antropo.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ap.wroc.pl..txt",
+      "NameServer": "ns1.ap.wroc.pl.",
+      "Origin": "ap.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/aqua.ar.wroc.pl..txt",
+      "NameServer": "ns1.aqua.ar.wroc.pl.",
+      "Origin": "aqua.ar.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/aqua.up.wroc.pl..txt",
+      "NameServer": "ns1.aqua.up.wroc.pl.",
+      "Origin": "aqua.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/aquapark.wroc.pl..txt",
+      "NameServer": "ns1.aquapark.wroc.pl.",
+      "Origin": "aquapark.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ar.wroc.pl..txt",
+      "NameServer": "ns1.ar.wroc.pl.",
+      "Origin": "ar.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/arch.pan.wroc.pl..txt",
+      "NameServer": "ns1.arch.pan.wroc.pl.",
+      "Origin": "arch.pan.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/arch.pwr.wroc.pl..txt",
+      "NameServer": "ns1.arch.pwr.wroc.pl.",
+      "Origin": "arch.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/archeo.uni.wroc.pl..txt",
+      "NameServer": "ns1.archeo.uni.wroc.pl.",
+      "Origin": "archeo.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/archidiecezja.wroc.pl..txt",
+      "NameServer": "ns1.archidiecezja.wroc.pl.",
+      "Origin": "archidiecezja.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/arena.wroc.pl..txt",
+      "NameServer": "ns1.arena.wroc.pl.",
+      "Origin": "arena.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/arka.wroc.pl..txt",
+      "NameServer": "ns1.arka.wroc.pl.",
+      "Origin": "arka.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/arkus.wroc.pl..txt",
+      "NameServer": "ns1.arkus.wroc.pl.",
+      "Origin": "arkus.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/armalux.wroc.pl..txt",
+      "NameServer": "ns1.armalux.wroc.pl.",
+      "Origin": "armalux.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/aroma.wroc.pl..txt",
+      "NameServer": "ns1.aroma.wroc.pl.",
+      "Origin": "aroma.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/art-ski.wroc.pl..txt",
+      "NameServer": "ns1.art-ski.wroc.pl.",
+      "Origin": "art-ski.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/asi.pwr.wroc.pl..txt",
+      "NameServer": "ns1.asi.pwr.wroc.pl.",
+      "Origin": "asi.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/asp.wroc.pl..txt",
+      "NameServer": "ns1.asp.wroc.pl.",
+      "Origin": "asp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/aspd.pwr.wroc.pl..txt",
+      "NameServer": "ns1.aspd.pwr.wroc.pl.",
+      "Origin": "aspd.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/assa.wroc.pl..txt",
+      "NameServer": "ns1.assa.wroc.pl.",
+      "Origin": "assa.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/astra.wroc.pl..txt",
+      "NameServer": "ns1.astra.wroc.pl.",
+      "Origin": "astra.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/astro.uni.wroc.pl..txt",
+      "NameServer": "ns1.astro.uni.wroc.pl.",
+      "Origin": "astro.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/astrum.wroc.pl..txt",
+      "NameServer": "ns1.astrum.wroc.pl.",
+      "Origin": "astrum.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/aszk.wroc.pl..txt",
+      "NameServer": "ns1.aszk.wroc.pl.",
+      "Origin": "aszk.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/at-u.wroc.pl..txt",
+      "NameServer": "ns1.at-u.wroc.pl.",
+      "Origin": "at-u.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/audyty.wroc.pl..txt",
+      "NameServer": "ns1.audyty.wroc.pl.",
+      "Origin": "audyty.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/auto-serwis.wroc.pl..txt",
+      "NameServer": "ns1.auto-serwis.wroc.pl.",
+      "Origin": "auto-serwis.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/autoelektronik.wroc.pl..txt",
+      "NameServer": "ns1.autoelektronik.wroc.pl.",
+      "Origin": "autoelektronik.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/autoklinika.wroc.pl..txt",
+      "NameServer": "ns1.autoklinika.wroc.pl.",
+      "Origin": "autoklinika.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/awf.wroc.pl..txt",
+      "NameServer": "ns1.awf.wroc.pl.",
+      "Origin": "awf.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/azs.pwr.wroc.pl..txt",
+      "NameServer": "ns1.azs.pwr.wroc.pl.",
+      "Origin": "azs.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/azs.wroc.pl..txt",
+      "NameServer": "ns1.azs.wroc.pl.",
+      "Origin": "azs.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/bergier.wroc.pl..txt",
+      "NameServer": "ns1.bergier.wroc.pl.",
+      "Origin": "bergier.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/bg.ae.wroc.pl..txt",
+      "NameServer": "ns1.bg.ae.wroc.pl.",
+      "Origin": "bg.ae.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/bg.am.wroc.pl..txt",
+      "NameServer": "ns1.bg.am.wroc.pl.",
+      "Origin": "bg.am.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/bg.pwr.wroc.pl..txt",
+      "NameServer": "ns1.bg.pwr.wroc.pl.",
+      "Origin": "bg.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/bg.ue.wroc.pl..txt",
+      "NameServer": "ns1.bg.ue.wroc.pl.",
+      "Origin": "bg.ue.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/biblioteka.wroc.pl..txt",
+      "NameServer": "ns1.biblioteka.wroc.pl.",
+      "Origin": "biblioteka.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/bihz.up.wroc.pl..txt",
+      "NameServer": "ns1.bihz.up.wroc.pl.",
+      "Origin": "bihz.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/bingo.wroc.pl..txt",
+      "NameServer": "ns1.bingo.wroc.pl.",
+      "Origin": "bingo.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/biol.uni.wroc.pl..txt",
+      "NameServer": "ns1.biol.uni.wroc.pl.",
+      "Origin": "biol.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/biotech.uni.wroc.pl..txt",
+      "NameServer": "ns1.biotech.uni.wroc.pl.",
+      "Origin": "biotech.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/biprogeo.wroc.pl..txt",
+      "NameServer": "ns1.biprogeo.wroc.pl.",
+      "Origin": "biprogeo.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/biskupin.wroc.pl..txt",
+      "NameServer": "ns1.biskupin.wroc.pl.",
+      "Origin": "biskupin.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/biuro.wroc.pl..txt",
+      "NameServer": "ns1.biuro.wroc.pl.",
+      "Origin": "biuro.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/biuroserwis.wroc.pl..txt",
+      "NameServer": "ns1.biuroserwis.wroc.pl.",
+      "Origin": "biuroserwis.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/blue.wroc.pl..txt",
+      "NameServer": "ns1.blue.wroc.pl.",
+      "Origin": "blue.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/bratalbert.wroc.pl..txt",
+      "NameServer": "ns1.bratalbert.wroc.pl.",
+      "Origin": "bratalbert.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/browar.wroc.pl..txt",
+      "NameServer": "ns1.browar.wroc.pl.",
+      "Origin": "browar.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/bu.uni.wroc.pl..txt",
+      "NameServer": "ns1.bu.uni.wroc.pl.",
+      "Origin": "bu.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/budexpo.wroc.pl..txt",
+      "NameServer": "ns1.budexpo.wroc.pl.",
+      "Origin": "budexpo.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/budopol.wroc.pl..txt",
+      "NameServer": "ns1.budopol.wroc.pl.",
+      "Origin": "budopol.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/bwa.wroc.pl..txt",
+      "NameServer": "ns1.bwa.wroc.pl.",
+      "Origin": "bwa.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/cadlab.ar.wroc.pl..txt",
+      "NameServer": "ns1.cadlab.ar.wroc.pl.",
+      "Origin": "cadlab.ar.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/careers.uni.wroc.pl..txt",
+      "NameServer": "ns1.careers.uni.wroc.pl.",
+      "Origin": "careers.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/casting.wroc.pl..txt",
+      "NameServer": "ns1.casting.wroc.pl.",
+      "Origin": "casting.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/cbk.pan.wroc.pl..txt",
+      "NameServer": "ns1.cbk.pan.wroc.pl.",
+      "Origin": "cbk.pan.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/cd-magazine.uni.wroc.pl..txt",
+      "NameServer": "ns1.cd-magazine.uni.wroc.pl.",
+      "Origin": "cd-magazine.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/cdn.wroc.pl..txt",
+      "NameServer": "ns1.cdn.wroc.pl.",
+      "Origin": "cdn.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/cefarm.wroc.pl..txt",
+      "NameServer": "ns1.cefarm.wroc.pl.",
+      "Origin": "cefarm.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/cen.uni.wroc.pl..txt",
+      "NameServer": "ns1.cen.uni.wroc.pl.",
+      "Origin": "cen.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/centrum.wroc.pl..txt",
+      "NameServer": "ns1.centrum.wroc.pl.",
+      "Origin": "centrum.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ch.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ch.pwr.wroc.pl.",
+      "Origin": "ch.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/chem.uni.wroc.pl..txt",
+      "NameServer": "ns1.chem.uni.wroc.pl.",
+      "Origin": "chem.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ci.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ci.pwr.wroc.pl.",
+      "Origin": "ci.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ckno.up.wroc.pl..txt",
+      "NameServer": "ns1.ckno.up.wroc.pl.",
+      "Origin": "ckno.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/cku.pwr.wroc.pl..txt",
+      "NameServer": "ns1.cku.pwr.wroc.pl.",
+      "Origin": "cku.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/cku.wroc.pl..txt",
+      "NameServer": "ns1.cku.wroc.pl.",
+      "Origin": "cku.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/clubbing.wroc.pl..txt",
+      "NameServer": "ns1.clubbing.wroc.pl.",
+      "Origin": "clubbing.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/coijak.pwr.wroc.pl..txt",
+      "NameServer": "ns1.coijak.pwr.wroc.pl.",
+      "Origin": "coijak.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/compact.wroc.pl..txt",
+      "NameServer": "ns1.compact.wroc.pl.",
+      "Origin": "compact.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/consensus.wroc.pl..txt",
+      "NameServer": "ns1.consensus.wroc.pl.",
+      "Origin": "consensus.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/creator.wroc.pl..txt",
+      "NameServer": "ns1.creator.wroc.pl.",
+      "Origin": "creator.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/csk.up.wroc.pl..txt",
+      "NameServer": "ns1.csk.up.wroc.pl.",
+      "Origin": "csk.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/csl04.ii.uni.wroc.pl..txt",
+      "NameServer": "ns1.csl04.ii.uni.wroc.pl.",
+      "Origin": "csl04.ii.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ctl.wroc.pl..txt",
+      "NameServer": "ns1.ctl.wroc.pl.",
+      "Origin": "ctl.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/cuprum.wroc.pl..txt",
+      "NameServer": "ns1.cuprum.wroc.pl.",
+      "Origin": "cuprum.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/cybernet.wroc.pl..txt",
+      "NameServer": "ns1.cybernet.wroc.pl.",
+      "Origin": "cybernet.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/czkw.wroc.pl..txt",
+      "NameServer": "ns1.czkw.wroc.pl.",
+      "Origin": "czkw.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dawid.uni.wroc.pl..txt",
+      "NameServer": "ns1.dawid.uni.wroc.pl.",
+      "Origin": "dawid.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dbc.wroc.pl..txt",
+      "NameServer": "ns1.dbc.wroc.pl.",
+      "Origin": "dbc.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dbp.wroc.pl..txt",
+      "NameServer": "ns1.dbp.wroc.pl.",
+      "Origin": "dbp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dcchp.wroc.pl..txt",
+      "NameServer": "ns1.dcchp.wroc.pl.",
+      "Origin": "dcchp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dcsr.wroc.pl..txt",
+      "NameServer": "ns1.dcsr.wroc.pl.",
+      "Origin": "dcsr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dctk.wroc.pl..txt",
+      "NameServer": "ns1.dctk.wroc.pl.",
+      "Origin": "dctk.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dczt.wroc.pl..txt",
+      "NameServer": "ns1.dczt.wroc.pl.",
+      "Origin": "dczt.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ddm.wroc.pl..txt",
+      "NameServer": "ns1.ddm.wroc.pl.",
+      "Origin": "ddm.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dig.wroc.pl..txt",
+      "NameServer": "ns1.dig.wroc.pl.",
+      "Origin": "dig.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dilnet.wroc.pl..txt",
+      "NameServer": "ns1.dilnet.wroc.pl.",
+      "Origin": "dilnet.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dint.wroc.pl..txt",
+      "NameServer": "ns1.dint.wroc.pl.",
+      "Origin": "dint.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dit.wroc.pl..txt",
+      "NameServer": "ns1.dit.wroc.pl.",
+      "Origin": "dit.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dk.uni.wroc.pl..txt",
+      "NameServer": "ns1.dk.uni.wroc.pl.",
+      "Origin": "dk.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dmw.wroc.pl..txt",
+      "NameServer": "ns1.dmw.wroc.pl.",
+      "Origin": "dmw.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/doipip.wroc.pl..txt",
+      "NameServer": "ns1.doipip.wroc.pl.",
+      "Origin": "doipip.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dolnyslask.wroc.pl..txt",
+      "NameServer": "ns1.dolnyslask.wroc.pl.",
+      "Origin": "dolnyslask.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/domaukcyjny.wroc.pl..txt",
+      "NameServer": "ns1.domaukcyjny.wroc.pl.",
+      "Origin": "domaukcyjny.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/domino.wroc.pl..txt",
+      "NameServer": "ns1.domino.wroc.pl.",
+      "Origin": "domino.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/domus.wroc.pl..txt",
+      "NameServer": "ns1.domus.wroc.pl.",
+      "Origin": "domus.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/donjuan.teatrpolski.wroc.pl..txt",
+      "NameServer": "ns1.donjuan.teatrpolski.wroc.pl.",
+      "Origin": "donjuan.teatrpolski.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dops.wroc.pl..txt",
+      "NameServer": "ns1.dops.wroc.pl.",
+      "Origin": "dops.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ds.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ds.pwr.wroc.pl.",
+      "Origin": "ds.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dsdik.wroc.pl..txt",
+      "NameServer": "ns1.dsdik.wroc.pl.",
+      "Origin": "dsdik.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dswe.wroc.pl..txt",
+      "NameServer": "ns1.dswe.wroc.pl.",
+      "Origin": "dswe.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dzdz.wroc.pl..txt",
+      "NameServer": "ns1.dzdz.wroc.pl.",
+      "Origin": "dzdz.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dziennikarstwo.uni.wroc.pl..txt",
+      "NameServer": "ns1.dziennikarstwo.uni.wroc.pl.",
+      "Origin": "dziennikarstwo.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/dzmiuw.wroc.pl..txt",
+      "NameServer": "ns1.dzmiuw.wroc.pl.",
+      "Origin": "dzmiuw.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/e-bankkadr.wpp.wroc.pl..txt",
+      "NameServer": "ns1.e-bankkadr.wpp.wroc.pl.",
+      "Origin": "e-bankkadr.wpp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/edu.wroc.pl..txt",
+      "NameServer": "ns1.edu.wroc.pl.",
+      "Origin": "edu.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/edukacja.wroc.pl..txt",
+      "NameServer": "ns1.edukacja.wroc.pl.",
+      "Origin": "edukacja.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/eduroam.wroc.pl..txt",
+      "NameServer": "ns1.eduroam.wroc.pl.",
+      "Origin": "eduroam.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/eka.pwr.wroc.pl..txt",
+      "NameServer": "ns1.eka.pwr.wroc.pl.",
+      "Origin": "eka.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/eko.wroc.pl..txt",
+      "NameServer": "ns1.eko.wroc.pl.",
+      "Origin": "eko.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/el.iis.pwr.wroc.pl..txt",
+      "NameServer": "ns1.el.iis.pwr.wroc.pl.",
+      "Origin": "el.iis.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/elbrus.wroc.pl..txt",
+      "NameServer": "ns1.elbrus.wroc.pl.",
+      "Origin": "elbrus.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/eltur.wroc.pl..txt",
+      "NameServer": "ns1.eltur.wroc.pl.",
+      "Origin": "eltur.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/emc.wroc.pl..txt",
+      "NameServer": "ns1.emc.wroc.pl.",
+      "Origin": "emc.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/eny.pwr.wroc.pl..txt",
+      "NameServer": "ns1.eny.pwr.wroc.pl.",
+      "Origin": "eny.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/esn.wroc.pl..txt",
+      "NameServer": "ns1.esn.wroc.pl.",
+      "Origin": "esn.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/estetica.wroc.pl..txt",
+      "NameServer": "ns1.estetica.wroc.pl.",
+      "Origin": "estetica.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/europart.wroc.pl..txt",
+      "NameServer": "ns1.europart.wroc.pl.",
+      "Origin": "europart.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/expert.wroc.pl..txt",
+      "NameServer": "ns1.expert.wroc.pl.",
+      "Origin": "expert.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/feniks.wroc.pl..txt",
+      "NameServer": "ns1.feniks.wroc.pl.",
+      "Origin": "feniks.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/festiwal.wroc.pl..txt",
+      "NameServer": "ns1.festiwal.wroc.pl.",
+      "Origin": "festiwal.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/filozofia.uni.wroc.pl..txt",
+      "NameServer": "ns1.filozofia.uni.wroc.pl.",
+      "Origin": "filozofia.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/firlej.wroc.pl..txt",
+      "NameServer": "ns1.firlej.wroc.pl.",
+      "Origin": "firlej.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/florian.wroc.pl..txt",
+      "NameServer": "ns1.florian.wroc.pl.",
+      "Origin": "florian.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/foresight.wroc.pl..txt",
+      "NameServer": "ns1.foresight.wroc.pl.",
+      "Origin": "foresight.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/format.wroc.pl..txt",
+      "NameServer": "ns1.format.wroc.pl.",
+      "Origin": "format.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/fos.wroc.pl..txt",
+      "NameServer": "ns1.fos.wroc.pl.",
+      "Origin": "fos.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gazeta.wroc.pl..txt",
+      "NameServer": "ns1.gazeta.wroc.pl.",
+      "Origin": "gazeta.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gim16.wroc.pl..txt",
+      "NameServer": "ns1.gim16.wroc.pl.",
+      "Origin": "gim16.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gim19.wroc.pl..txt",
+      "NameServer": "ns1.gim19.wroc.pl.",
+      "Origin": "gim19.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gim1polkowice.wroc.pl..txt",
+      "NameServer": "ns1.gim1polkowice.wroc.pl.",
+      "Origin": "gim1polkowice.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gim21.wroc.pl..txt",
+      "NameServer": "ns1.gim21.wroc.pl.",
+      "Origin": "gim21.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gim29.wroc.pl..txt",
+      "NameServer": "ns1.gim29.wroc.pl.",
+      "Origin": "gim29.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gimnazjum10.wroc.pl..txt",
+      "NameServer": "ns1.gimnazjum10.wroc.pl.",
+      "Origin": "gimnazjum10.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gimnazjum2.wroc.pl..txt",
+      "NameServer": "ns1.gimnazjum2.wroc.pl.",
+      "Origin": "gimnazjum2.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gimnazjum25.wroc.pl..txt",
+      "NameServer": "ns1.gimnazjum25.wroc.pl.",
+      "Origin": "gimnazjum25.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gimnazjum27.wroc.pl..txt",
+      "NameServer": "ns1.gimnazjum27.wroc.pl.",
+      "Origin": "gimnazjum27.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gis.wroc.pl..txt",
+      "NameServer": "ns1.gis.wroc.pl.",
+      "Origin": "gis.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gislab.ar.wroc.pl..txt",
+      "NameServer": "ns1.gislab.ar.wroc.pl.",
+      "Origin": "gislab.ar.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gislab.up.wroc.pl..txt",
+      "NameServer": "ns1.gislab.up.wroc.pl.",
+      "Origin": "gislab.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gmn37.wroc.pl..txt",
+      "NameServer": "ns1.gmn37.wroc.pl.",
+      "Origin": "gmn37.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/grupa-net.pwr.wroc.pl..txt",
+      "NameServer": "ns1.grupa-net.pwr.wroc.pl.",
+      "Origin": "grupa-net.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/gs.uni.wroc.pl..txt",
+      "NameServer": "ns1.gs.uni.wroc.pl.",
+      "Origin": "gs.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ha.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ha.pwr.wroc.pl.",
+      "Origin": "ha.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/halaludowa.wroc.pl..txt",
+      "NameServer": "ns1.halaludowa.wroc.pl.",
+      "Origin": "halaludowa.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/happy-dog.wroc.pl..txt",
+      "NameServer": "ns1.happy-dog.wroc.pl.",
+      "Origin": "happy-dog.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/hiperbaria.wroc.pl..txt",
+      "NameServer": "ns1.hiperbaria.wroc.pl.",
+      "Origin": "hiperbaria.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/hist.uni.wroc.pl..txt",
+      "NameServer": "ns1.hist.uni.wroc.pl.",
+      "Origin": "hist.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/hospicjum.wroc.pl..txt",
+      "NameServer": "ns1.hospicjum.wroc.pl.",
+      "Origin": "hospicjum.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iaeste.pwr.wroc.pl..txt",
+      "NameServer": "ns1.iaeste.pwr.wroc.pl.",
+      "Origin": "iaeste.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iase.wroc.pl..txt",
+      "NameServer": "ns1.iase.wroc.pl.",
+      "Origin": "iase.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ib.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ib.pwr.wroc.pl.",
+      "Origin": "ib.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ibi.uni.wroc.pl..txt",
+      "NameServer": "ns1.ibi.uni.wroc.pl.",
+      "Origin": "ibi.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ibip.wroc.pl..txt",
+      "NameServer": "ns1.ibip.wroc.pl.",
+      "Origin": "ibip.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ibmb.uni.wroc.pl..txt",
+      "NameServer": "ns1.ibmb.uni.wroc.pl.",
+      "Origin": "ibmb.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/icec-icmc.wroc.pl..txt",
+      "NameServer": "ns1.icec-icmc.wroc.pl.",
+      "Origin": "icec-icmc.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/icek.wroc.pl..txt",
+      "NameServer": "ns1.icek.wroc.pl.",
+      "Origin": "icek.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ict-cluster.wroc.pl..txt",
+      "NameServer": "ns1.ict-cluster.wroc.pl.",
+      "Origin": "ict-cluster.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ict.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ict.pwr.wroc.pl.",
+      "Origin": "ict.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ie.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ie.pwr.wroc.pl.",
+      "Origin": "ie.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iel.wroc.pl..txt",
+      "NameServer": "ns1.iel.wroc.pl.",
+      "Origin": "iel.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/if.pwr.wroc.pl..txt",
+      "NameServer": "ns1.if.pwr.wroc.pl.",
+      "Origin": "if.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ifa.uni.wroc.pl..txt",
+      "NameServer": "ns1.ifa.uni.wroc.pl.",
+      "Origin": "ifa.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ifd.uni.wroc.pl..txt",
+      "NameServer": "ns1.ifd.uni.wroc.pl.",
+      "Origin": "ifd.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ifg.uni.wroc.pl..txt",
+      "NameServer": "ns1.ifg.uni.wroc.pl.",
+      "Origin": "ifg.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ifkika.uni.wroc.pl..txt",
+      "NameServer": "ns1.ifkika.uni.wroc.pl.",
+      "Origin": "ifkika.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ifp.uni.wroc.pl..txt",
+      "NameServer": "ns1.ifp.uni.wroc.pl.",
+      "Origin": "ifp.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ift.uni.wroc.pl..txt",
+      "NameServer": "ns1.ift.uni.wroc.pl.",
+      "Origin": "ift.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ig.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ig.pwr.wroc.pl.",
+      "Origin": "ig.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/igig.up.wroc.pl..txt",
+      "NameServer": "ns1.igig.up.wroc.pl.",
+      "Origin": "igig.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/igo.wroc.pl..txt",
+      "NameServer": "ns1.igo.wroc.pl.",
+      "Origin": "igo.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ii.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ii.pwr.wroc.pl.",
+      "Origin": "ii.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ii.uni.wroc.pl..txt",
+      "NameServer": "ns1.ii.uni.wroc.pl.",
+      "Origin": "ii.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iiar.pwr.wroc.pl..txt",
+      "NameServer": "ns1.iiar.pwr.wroc.pl.",
+      "Origin": "iiar.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iil.pwr.wroc.pl..txt",
+      "NameServer": "ns1.iil.pwr.wroc.pl.",
+      "Origin": "iil.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iios.pwr.wroc.pl..txt",
+      "NameServer": "ns1.iios.pwr.wroc.pl.",
+      "Origin": "iios.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iis.ar.wroc.pl..txt",
+      "NameServer": "ns1.iis.ar.wroc.pl.",
+      "Origin": "iis.ar.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iis.pwr.wroc.pl..txt",
+      "NameServer": "ns1.iis.pwr.wroc.pl.",
+      "Origin": "iis.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iit.pwr.wroc.pl..txt",
+      "NameServer": "ns1.iit.pwr.wroc.pl.",
+      "Origin": "iit.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iitd.pan.wroc.pl..txt",
+      "NameServer": "ns1.iitd.pan.wroc.pl.",
+      "Origin": "iitd.pan.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ikem.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ikem.pwr.wroc.pl.",
+      "Origin": "ikem.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/il.wroc.pl..txt",
+      "NameServer": "ns1.il.wroc.pl.",
+      "Origin": "il.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/im.pwr.wroc.pl..txt",
+      "NameServer": "ns1.im.pwr.wroc.pl.",
+      "Origin": "im.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ima.wroc.pl..txt",
+      "NameServer": "ns1.ima.wroc.pl.",
+      "Origin": "ima.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/immt.pwr.wroc.pl..txt",
+      "NameServer": "ns1.immt.pwr.wroc.pl.",
+      "Origin": "immt.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/imne.pwr.wroc.pl..txt",
+      "NameServer": "ns1.imne.pwr.wroc.pl.",
+      "Origin": "imne.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/imperial.wroc.pl..txt",
+      "NameServer": "ns1.imperial.wroc.pl.",
+      "Origin": "imperial.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/impresja.wroc.pl..txt",
+      "NameServer": "ns1.impresja.wroc.pl.",
+      "Origin": "impresja.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/inco.wroc.pl..txt",
+      "NameServer": "ns1.inco.wroc.pl.",
+      "Origin": "inco.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/informatyka.wroc.pl..txt",
+      "NameServer": "ns1.informatyka.wroc.pl.",
+      "Origin": "informatyka.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/infotel.wroc.pl..txt",
+      "NameServer": "ns1.infotel.wroc.pl.",
+      "Origin": "infotel.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ing.uni.wroc.pl..txt",
+      "NameServer": "ns1.ing.uni.wroc.pl.",
+      "Origin": "ing.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/instalex.wroc.pl..txt",
+      "NameServer": "ns1.instalex.wroc.pl.",
+      "Origin": "instalex.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/int.pan.wroc.pl..txt",
+      "NameServer": "ns1.int.pan.wroc.pl.",
+      "Origin": "int.pan.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/inw.wroc.pl..txt",
+      "NameServer": "ns1.inw.wroc.pl.",
+      "Origin": "inw.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iok.ksm.wroc.pl..txt",
+      "NameServer": "ns1.iok.ksm.wroc.pl.",
+      "Origin": "iok.ksm.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ioz.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ioz.pwr.wroc.pl.",
+      "Origin": "ioz.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ipee.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ipee.pwr.wroc.pl.",
+      "Origin": "ipee.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/irga.wroc.pl..txt",
+      "NameServer": "ns1.irga.wroc.pl.",
+      "Origin": "irga.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/is.wroc.pl..txt",
+      "NameServer": "ns1.is.wroc.pl.",
+      "Origin": "is.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/iskra.wroc.pl..txt",
+      "NameServer": "ns1.iskra.wroc.pl.",
+      "Origin": "iskra.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ism.uni.wroc.pl..txt",
+      "NameServer": "ns1.ism.uni.wroc.pl.",
+      "Origin": "ism.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ita.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ita.pwr.wroc.pl.",
+      "Origin": "ita.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/itcmp.pwr.wroc.pl..txt",
+      "NameServer": "ns1.itcmp.pwr.wroc.pl.",
+      "Origin": "itcmp.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ite.pwr.wroc.pl..txt",
+      "NameServer": "ns1.ite.pwr.wroc.pl.",
+      "Origin": "ite.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/itma.pwr.wroc.pl..txt",
+      "NameServer": "ns1.itma.pwr.wroc.pl.",
+      "Origin": "itma.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/itn.pwr.wroc.pl..txt",
+      "NameServer": "ns1.itn.pwr.wroc.pl.",
+      "Origin": "itn.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/jabber.wroc.pl..txt",
+      "NameServer": "ns1.jabber.wroc.pl.",
+      "Origin": "jabber.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/jkazs.wroc.pl..txt",
+      "NameServer": "ns1.jkazs.wroc.pl.",
+      "Origin": "jkazs.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/joanna.wroc.pl..txt",
+      "NameServer": "ns1.joanna.wroc.pl.",
+      "Origin": "joanna.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/jotbe.wroc.pl..txt",
+      "NameServer": "ns1.jotbe.wroc.pl.",
+      "Origin": "jotbe.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/jurczenko.wroc.pl..txt",
+      "NameServer": "ns1.jurczenko.wroc.pl.",
+      "Origin": "jurczenko.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kaleidoskop.uni.wroc.pl..txt",
+      "NameServer": "ns1.kaleidoskop.uni.wroc.pl.",
+      "Origin": "kaleidoskop.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kancelaria.wroc.pl..txt",
+      "NameServer": "ns1.kancelaria.wroc.pl.",
+      "Origin": "kancelaria.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kantor.wroc.pl..txt",
+      "NameServer": "ns1.kantor.wroc.pl.",
+      "Origin": "kantor.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/karate.wroc.pl..txt",
+      "NameServer": "ns1.karate.wroc.pl.",
+      "Origin": "karate.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kataster.wroc.pl..txt",
+      "NameServer": "ns1.kataster.wroc.pl.",
+      "Origin": "kataster.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kfn.uni.wroc.pl..txt",
+      "NameServer": "ns1.kfn.uni.wroc.pl.",
+      "Origin": "kfn.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kim.wroc.pl..txt",
+      "NameServer": "ns1.kim.wroc.pl.",
+      "Origin": "kim.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kkrrit.wroc.pl..txt",
+      "NameServer": "ns1.kkrrit.wroc.pl.",
+      "Origin": "kkrrit.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/klm.wroc.pl..txt",
+      "NameServer": "ns1.klm.wroc.pl.",
+      "Origin": "klm.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kmeif.pwr.wroc.pl..txt",
+      "NameServer": "ns1.kmeif.pwr.wroc.pl.",
+      "Origin": "kmeif.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/knakiewicz.wroc.pl..txt",
+      "NameServer": "ns1.knakiewicz.wroc.pl.",
+      "Origin": "knakiewicz.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kolosbp.wroc.pl..txt",
+      "NameServer": "ns1.kolosbp.wroc.pl.",
+      "Origin": "kolosbp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kometa.wroc.pl..txt",
+      "NameServer": "ns1.kometa.wroc.pl.",
+      "Origin": "kometa.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/komornik.wroc.pl..txt",
+      "NameServer": "ns1.komornik.wroc.pl.",
+      "Origin": "komornik.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kosmo.wroc.pl..txt",
+      "NameServer": "ns1.kosmo.wroc.pl.",
+      "Origin": "kosmo.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kozdra.wroc.pl..txt",
+      "NameServer": "ns1.kozdra.wroc.pl.",
+      "Origin": "kozdra.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/krajobraz.wroc.pl..txt",
+      "NameServer": "ns1.krajobraz.wroc.pl.",
+      "Origin": "krajobraz.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ksm.wroc.pl..txt",
+      "NameServer": "ns1.ksm.wroc.pl.",
+      "Origin": "ksm.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kssk.pwr.wroc.pl..txt",
+      "NameServer": "ns1.kssk.pwr.wroc.pl.",
+      "Origin": "kssk.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/kwpsp.wroc.pl..txt",
+      "NameServer": "ns1.kwpsp.wroc.pl.",
+      "Origin": "kwpsp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lanet.wroc.pl..txt",
+      "NameServer": "ns1.lanet.wroc.pl.",
+      "Origin": "lanet.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/laser.wroc.pl..txt",
+      "NameServer": "ns1.laser.wroc.pl.",
+      "Origin": "laser.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lech-pol.wroc.pl..txt",
+      "NameServer": "ns1.lech-pol.wroc.pl.",
+      "Origin": "lech-pol.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lemon.wroc.pl..txt",
+      "NameServer": "ns1.lemon.wroc.pl.",
+      "Origin": "lemon.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/leszekrojek.wroc.pl..txt",
+      "NameServer": "ns1.leszekrojek.wroc.pl.",
+      "Origin": "leszekrojek.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lingwistyka.uni.wroc.pl..txt",
+      "NameServer": "ns1.lingwistyka.uni.wroc.pl.",
+      "Origin": "lingwistyka.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo1.wroc.pl..txt",
+      "NameServer": "ns1.lo1.wroc.pl.",
+      "Origin": "lo1.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo10.wroc.pl..txt",
+      "NameServer": "ns1.lo10.wroc.pl.",
+      "Origin": "lo10.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo11.wroc.pl..txt",
+      "NameServer": "ns1.lo11.wroc.pl.",
+      "Origin": "lo11.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo12.wroc.pl..txt",
+      "NameServer": "ns1.lo12.wroc.pl.",
+      "Origin": "lo12.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo13.wroc.pl..txt",
+      "NameServer": "ns1.lo13.wroc.pl.",
+      "Origin": "lo13.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo14.wroc.pl..txt",
+      "NameServer": "ns1.lo14.wroc.pl.",
+      "Origin": "lo14.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo18.wroc.pl..txt",
+      "NameServer": "ns1.lo18.wroc.pl.",
+      "Origin": "lo18.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo2.wroc.pl..txt",
+      "NameServer": "ns1.lo2.wroc.pl.",
+      "Origin": "lo2.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo2dladoroslych.wroc.pl..txt",
+      "NameServer": "ns1.lo2dladoroslych.wroc.pl.",
+      "Origin": "lo2dladoroslych.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo3.wroc.pl..txt",
+      "NameServer": "ns1.lo3.wroc.pl.",
+      "Origin": "lo3.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo4.wroc.pl..txt",
+      "NameServer": "ns1.lo4.wroc.pl.",
+      "Origin": "lo4.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo5.wroc.pl..txt",
+      "NameServer": "ns1.lo5.wroc.pl.",
+      "Origin": "lo5.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo6.wroc.pl..txt",
+      "NameServer": "ns1.lo6.wroc.pl.",
+      "Origin": "lo6.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo7.wroc.pl..txt",
+      "NameServer": "ns1.lo7.wroc.pl.",
+      "Origin": "lo7.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo8.wroc.pl..txt",
+      "NameServer": "ns1.lo8.wroc.pl.",
+      "Origin": "lo8.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/lo9.wroc.pl..txt",
+      "NameServer": "ns1.lo9.wroc.pl.",
+      "Origin": "lo9.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/logistyka.pwr.wroc.pl..txt",
+      "NameServer": "ns1.logistyka.pwr.wroc.pl.",
+      "Origin": "logistyka.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/luteranie.wroc.pl..txt",
+      "NameServer": "ns1.luteranie.wroc.pl.",
+      "Origin": "luteranie.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/m3.wroc.pl..txt",
+      "NameServer": "ns1.m3.wroc.pl.",
+      "Origin": "m3.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ma.wroc.pl..txt",
+      "NameServer": "ns1.ma.wroc.pl.",
+      "Origin": "ma.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/magi.wroc.pl..txt",
+      "NameServer": "ns1.magi.wroc.pl.",
+      "Origin": "magi.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/magnapolonia.wroc.pl..txt",
+      "NameServer": "ns1.magnapolonia.wroc.pl.",
+      "Origin": "magnapolonia.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/makrobiotyka.wroc.pl..txt",
+      "NameServer": "ns1.makrobiotyka.wroc.pl.",
+      "Origin": "makrobiotyka.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/malczyce.wroc.pl..txt",
+      "NameServer": "ns1.malczyce.wroc.pl.",
+      "Origin": "malczyce.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mam-18-lat.wroc.pl..txt",
+      "NameServer": "ns1.mam-18-lat.wroc.pl.",
+      "Origin": "mam-18-lat.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/margo.wroc.pl..txt",
+      "NameServer": "ns1.margo.wroc.pl.",
+      "Origin": "margo.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/matematyka.wroc.pl..txt",
+      "NameServer": "ns1.matematyka.wroc.pl.",
+      "Origin": "matematyka.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/materialsscience.pwr.wroc.pl..txt",
+      "NameServer": "ns1.materialsscience.pwr.wroc.pl.",
+      "Origin": "materialsscience.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/math.uni.wroc.pl..txt",
+      "NameServer": "ns1.math.uni.wroc.pl.",
+      "Origin": "math.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mborn-scholar.wroc.pl..txt",
+      "NameServer": "ns1.mborn-scholar.wroc.pl.",
+      "Origin": "mborn-scholar.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mbs.wroc.pl..txt",
+      "NameServer": "ns1.mbs.wroc.pl.",
+      "Origin": "mbs.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mcs.wroc.pl..txt",
+      "NameServer": "ns1.mcs.wroc.pl.",
+      "Origin": "mcs.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mdksrodmiescie.wroc.pl..txt",
+      "NameServer": "ns1.mdksrodmiescie.wroc.pl.",
+      "Origin": "mdksrodmiescie.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/medicus.wroc.pl..txt",
+      "NameServer": "ns1.medicus.wroc.pl.",
+      "Origin": "medicus.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/medix.wroc.pl..txt",
+      "NameServer": "ns1.medix.wroc.pl.",
+      "Origin": "medix.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/medycyna.wroc.pl..txt",
+      "NameServer": "ns1.medycyna.wroc.pl.",
+      "Origin": "medycyna.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/medycynafizykalna.wroc.pl..txt",
+      "NameServer": "ns1.medycynafizykalna.wroc.pl.",
+      "Origin": "medycynafizykalna.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/medycynaratunkowa.wroc.pl..txt",
+      "NameServer": "ns1.medycynaratunkowa.wroc.pl.",
+      "Origin": "medycynaratunkowa.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/metalzbyt.wroc.pl..txt",
+      "NameServer": "ns1.metalzbyt.wroc.pl.",
+      "Origin": "metalzbyt.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/meteo.uni.wroc.pl..txt",
+      "NameServer": "ns1.meteo.uni.wroc.pl.",
+      "Origin": "meteo.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/miasto-dialogu.wroc.pl..txt",
+      "NameServer": "ns1.miasto-dialogu.wroc.pl.",
+      "Origin": "miasto-dialogu.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/michalczyk.wroc.pl..txt",
+      "NameServer": "ns1.michalczyk.wroc.pl.",
+      "Origin": "michalczyk.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/microb.uni.wroc.pl..txt",
+      "NameServer": "ns1.microb.uni.wroc.pl.",
+      "Origin": "microb.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mikrozet.wroc.pl..txt",
+      "NameServer": "ns1.mikrozet.wroc.pl.",
+      "Origin": "mikrozet.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mirex.wroc.pl..txt",
+      "NameServer": "ns1.mirex.wroc.pl.",
+      "Origin": "mirex.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ml.pan.wroc.pl..txt",
+      "NameServer": "ns1.ml.pan.wroc.pl.",
+      "Origin": "ml.pan.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mlspmint.pan.wroc.pl..txt",
+      "NameServer": "ns1.mlspmint.pan.wroc.pl.",
+      "Origin": "mlspmint.pan.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mmm.wroc.pl..txt",
+      "NameServer": "ns1.mmm.wroc.pl.",
+      "Origin": "mmm.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/moderator.wroc.pl..txt",
+      "NameServer": "ns1.moderator.wroc.pl.",
+      "Origin": "moderator.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mpk.wroc.pl..txt",
+      "NameServer": "ns1.mpk.wroc.pl.",
+      "Origin": "mpk.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/mpwik.wroc.pl..txt",
+      "NameServer": "ns1.mpwik.wroc.pl.",
+      "Origin": "mpwik.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/msc.wroc.pl..txt",
+      "NameServer": "ns1.msc.wroc.pl.",
+      "Origin": "msc.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/muzykologia.uni.wroc.pl..txt",
+      "NameServer": "ns1.muzykologia.uni.wroc.pl.",
+      "Origin": "muzykologia.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/navicentrum.wroc.pl..txt",
+      "NameServer": "ns1.navicentrum.wroc.pl.",
+      "Origin": "navicentrum.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/netcom.wroc.pl..txt",
+      "NameServer": "ns1.netcom.wroc.pl.",
+      "Origin": "netcom.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/nic-tak-samo.uni.wroc.pl..txt",
+      "NameServer": "ns1.nic-tak-samo.uni.wroc.pl.",
+      "Origin": "nic-tak-samo.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/nkjo.wroc.pl..txt",
+      "NameServer": "ns1.nkjo.wroc.pl.",
+      "Origin": "nkjo.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/noma.wroc.pl..txt",
+      "NameServer": "ns1.noma.wroc.pl.",
+      "Origin": "noma.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/notebooki.wroc.pl..txt",
+      "NameServer": "ns1.notebooki.wroc.pl.",
+      "Origin": "notebooki.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/nts.uni.wroc.pl..txt",
+      "NameServer": "ns1.nts.uni.wroc.pl.",
+      "Origin": "nts.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/nurkowanie.wroc.pl..txt",
+      "NameServer": "ns1.nurkowanie.wroc.pl.",
+      "Origin": "nurkowanie.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/nw.pwr.wroc.pl..txt",
+      "NameServer": "ns1.nw.pwr.wroc.pl.",
+      "Origin": "nw.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/nzs.wroc.pl..txt",
+      "NameServer": "ns1.nzs.wroc.pl.",
+      "Origin": "nzs.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/odra-film.wroc.pl..txt",
+      "NameServer": "ns1.odra-film.wroc.pl.",
+      "Origin": "odra-film.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/oesterreichinstitut.wroc.pl..txt",
+      "NameServer": "ns1.oesterreichinstitut.wroc.pl.",
+      "Origin": "oesterreichinstitut.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ogloszenia.wroc.pl..txt",
+      "NameServer": "ns1.ogloszenia.wroc.pl.",
+      "Origin": "ogloszenia.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ogrody.wroc.pl..txt",
+      "NameServer": "ns1.ogrody.wroc.pl.",
+      "Origin": "ogrody.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ok.ae.wroc.pl..txt",
+      "NameServer": "ns1.ok.ae.wroc.pl.",
+      "Origin": "ok.ae.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ok.wroc.pl..txt",
+      "NameServer": "ns1.ok.wroc.pl.",
+      "Origin": "ok.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/oke.wroc.pl..txt",
+      "NameServer": "ns1.oke.wroc.pl.",
+      "Origin": "oke.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/okna.wroc.pl..txt",
+      "NameServer": "ns1.okna.wroc.pl.",
+      "Origin": "okna.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/olesnica.wroc.pl..txt",
+      "NameServer": "ns1.olesnica.wroc.pl.",
+      "Origin": "olesnica.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ora.wroc.pl..txt",
+      "NameServer": "ns1.ora.wroc.pl.",
+      "Origin": "ora.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/org.up.wroc.pl..txt",
+      "NameServer": "ns1.org.up.wroc.pl.",
+      "Origin": "org.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/orion.wroc.pl..txt",
+      "NameServer": "ns1.orion.wroc.pl.",
+      "Origin": "orion.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/osiedla.wroc.pl..txt",
+      "NameServer": "ns1.osiedla.wroc.pl.",
+      "Origin": "osiedla.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/osk.am.wroc.pl..txt",
+      "NameServer": "ns1.osk.am.wroc.pl.",
+      "Origin": "osk.am.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/oss.wroc.pl..txt",
+      "NameServer": "ns1.oss.wroc.pl.",
+      "Origin": "oss.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/oswiata.wroc.pl..txt",
+      "NameServer": "ns1.oswiata.wroc.pl.",
+      "Origin": "oswiata.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/paintball.wroc.pl..txt",
+      "NameServer": "ns1.paintball.wroc.pl.",
+      "Origin": "paintball.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pan.wroc.pl..txt",
+      "NameServer": "ns1.pan.wroc.pl.",
+      "Origin": "pan.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pantomima.wroc.pl..txt",
+      "NameServer": "ns1.pantomima.wroc.pl.",
+      "Origin": "pantomima.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/parkwodny.wroc.pl..txt",
+      "NameServer": "ns1.parkwodny.wroc.pl.",
+      "Origin": "parkwodny.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/perfect.wroc.pl..txt",
+      "NameServer": "ns1.perfect.wroc.pl.",
+      "Origin": "perfect.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pfczarnecki.wroc.pl..txt",
+      "NameServer": "ns1.pfczarnecki.wroc.pl.",
+      "Origin": "pfczarnecki.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pi.math.uni.wroc.pl..txt",
+      "NameServer": "ns1.pi.math.uni.wroc.pl.",
+      "Origin": "pi.math.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pid.wroc.pl..txt",
+      "NameServer": "ns1.pid.wroc.pl.",
+      "Origin": "pid.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/piecbud.wroc.pl..txt",
+      "NameServer": "ns1.piecbud.wroc.pl.",
+      "Origin": "piecbud.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pitow.wroc.pl..txt",
+      "NameServer": "ns1.pitow.wroc.pl.",
+      "Origin": "pitow.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pkp.wroc.pl..txt",
+      "NameServer": "ns1.pkp.wroc.pl.",
+      "Origin": "pkp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/polger.wroc.pl..txt",
+      "NameServer": "ns1.polger.wroc.pl.",
+      "Origin": "polger.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/polgerreklama.wroc.pl..txt",
+      "NameServer": "ns1.polgerreklama.wroc.pl.",
+      "Origin": "polgerreklama.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/polifarb.wroc.pl..txt",
+      "NameServer": "ns1.polifarb.wroc.pl.",
+      "Origin": "polifarb.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/politologia.wroc.pl..txt",
+      "NameServer": "ns1.politologia.wroc.pl.",
+      "Origin": "politologia.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/polmos.wroc.pl..txt",
+      "NameServer": "ns1.polmos.wroc.pl.",
+      "Origin": "polmos.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/polmotors.wroc.pl..txt",
+      "NameServer": "ns1.polmotors.wroc.pl.",
+      "Origin": "polmotors.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/polserwis.wroc.pl..txt",
+      "NameServer": "ns1.polserwis.wroc.pl.",
+      "Origin": "polserwis.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/poradnia-jezykowa.uni.wroc.pl..txt",
+      "NameServer": "ns1.poradnia-jezykowa.uni.wroc.pl.",
+      "Origin": "poradnia-jezykowa.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/powerman.wroc.pl..txt",
+      "NameServer": "ns1.powerman.wroc.pl.",
+      "Origin": "powerman.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/prawnik.wroc.pl..txt",
+      "NameServer": "ns1.prawnik.wroc.pl.",
+      "Origin": "prawnik.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/prawo.uni.wroc.pl..txt",
+      "NameServer": "ns1.prawo.uni.wroc.pl.",
+      "Origin": "prawo.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/print.wroc.pl..txt",
+      "NameServer": "ns1.print.wroc.pl.",
+      "Origin": "print.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/probit.wroc.pl..txt",
+      "NameServer": "ns1.probit.wroc.pl.",
+      "Origin": "probit.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/prominet.wroc.pl..txt",
+      "NameServer": "ns1.prominet.wroc.pl.",
+      "Origin": "prominet.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/promocja.uni.wroc.pl..txt",
+      "NameServer": "ns1.promocja.uni.wroc.pl.",
+      "Origin": "promocja.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/promont.wroc.pl..txt",
+      "NameServer": "ns1.promont.wroc.pl.",
+      "Origin": "promont.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/przedszkole-salezjanki.wroc.pl..txt",
+      "NameServer": "ns1.przedszkole-salezjanki.wroc.pl.",
+      "Origin": "przedszkole-salezjanki.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/przedszkole1.wroc.pl..txt",
+      "NameServer": "ns1.przedszkole1.wroc.pl.",
+      "Origin": "przedszkole1.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/przedszkole18.wroc.pl..txt",
+      "NameServer": "ns1.przedszkole18.wroc.pl.",
+      "Origin": "przedszkole18.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/przedszkole2.wroc.pl..txt",
+      "NameServer": "ns1.przedszkole2.wroc.pl.",
+      "Origin": "przedszkole2.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/przedszkole4.wroc.pl..txt",
+      "NameServer": "ns1.przedszkole4.wroc.pl.",
+      "Origin": "przedszkole4.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/przedszkole50.wroc.pl..txt",
+      "NameServer": "ns1.przedszkole50.wroc.pl.",
+      "Origin": "przedszkole50.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/przedszkole71.wroc.pl..txt",
+      "NameServer": "ns1.przedszkole71.wroc.pl.",
+      "Origin": "przedszkole71.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/przedszkole92.wroc.pl..txt",
+      "NameServer": "ns1.przedszkole92.wroc.pl.",
+      "Origin": "przedszkole92.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/przeprowadzki.wroc.pl..txt",
+      "NameServer": "ns1.przeprowadzki.wroc.pl.",
+      "Origin": "przeprowadzki.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/przystan.wroc.pl..txt",
+      "NameServer": "ns1.przystan.wroc.pl.",
+      "Origin": "przystan.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/psi.wroc.pl..txt",
+      "NameServer": "ns1.psi.wroc.pl.",
+      "Origin": "psi.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/psycholog.wroc.pl..txt",
+      "NameServer": "ns1.psycholog.wroc.pl.",
+      "Origin": "psycholog.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/psychologia.uni.wroc.pl..txt",
+      "NameServer": "ns1.psychologia.uni.wroc.pl.",
+      "Origin": "psychologia.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pti.wroc.pl..txt",
+      "NameServer": "ns1.pti.wroc.pl.",
+      "Origin": "pti.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pu.uni.wroc.pl..txt",
+      "NameServer": "ns1.pu.uni.wroc.pl.",
+      "Origin": "pu.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pwr-old.wroc.pl..txt",
+      "NameServer": "ns1.pwr-old.wroc.pl.",
+      "Origin": "pwr-old.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pwr.wroc.pl..txt",
+      "NameServer": "ns1.pwr.wroc.pl.",
+      "Origin": "pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pwrnet.pwr.wroc.pl..txt",
+      "NameServer": "ns1.pwrnet.pwr.wroc.pl.",
+      "Origin": "pwrnet.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pwst.wroc.pl..txt",
+      "NameServer": "ns1.pwst.wroc.pl.",
+      "Origin": "pwst.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pwt.wroc.pl..txt",
+      "NameServer": "ns1.pwt.wroc.pl.",
+      "Origin": "pwt.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/pzs-krzyzowice.wroc.pl..txt",
+      "NameServer": "ns1.pzs-krzyzowice.wroc.pl.",
+      "Origin": "pzs-krzyzowice.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/rada.osiedla.wroc.pl..txt",
+      "NameServer": "ns1.rada.osiedla.wroc.pl.",
+      "Origin": "rada.osiedla.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/radcaprawny.wroc.pl..txt",
+      "NameServer": "ns1.radcaprawny.wroc.pl.",
+      "Origin": "radcaprawny.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/radiorodzina.wroc.pl..txt",
+      "NameServer": "ns1.radiorodzina.wroc.pl.",
+      "Origin": "radiorodzina.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/recykling.pwr.wroc.pl..txt",
+      "NameServer": "ns1.recykling.pwr.wroc.pl.",
+      "Origin": "recykling.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/recykling.uni.wroc.pl..txt",
+      "NameServer": "ns1.recykling.uni.wroc.pl.",
+      "Origin": "recykling.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/refleks.wroc.pl..txt",
+      "NameServer": "ns1.refleks.wroc.pl.",
+      "Origin": "refleks.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/rekreacja.wroc.pl..txt",
+      "NameServer": "ns1.rekreacja.wroc.pl.",
+      "Origin": "rekreacja.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/rekrutacja.up.wroc.pl..txt",
+      "NameServer": "ns1.rekrutacja.up.wroc.pl.",
+      "Origin": "rekrutacja.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/rob.wroc.pl..txt",
+      "NameServer": "ns1.rob.wroc.pl.",
+      "Origin": "rob.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/rol.up.wroc.pl..txt",
+      "NameServer": "ns1.rol.up.wroc.pl.",
+      "Origin": "rol.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/rowery.uni.wroc.pl..txt",
+      "NameServer": "ns1.rowery.uni.wroc.pl.",
+      "Origin": "rowery.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/rozanka.wroc.pl..txt",
+      "NameServer": "ns1.rozanka.wroc.pl.",
+      "Origin": "rozanka.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/rrsi.wroc.pl..txt",
+      "NameServer": "ns1.rrsi.wroc.pl.",
+      "Origin": "rrsi.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/rzgw.wroc.pl..txt",
+      "NameServer": "ns1.rzgw.wroc.pl.",
+      "Origin": "rzgw.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/saba.wroc.pl..txt",
+      "NameServer": "ns1.saba.wroc.pl.",
+      "Origin": "saba.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sagan-bis.wroc.pl..txt",
+      "NameServer": "ns1.sagan-bis.wroc.pl.",
+      "Origin": "sagan-bis.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/samorzad.pwr.wroc.pl..txt",
+      "NameServer": "ns1.samorzad.pwr.wroc.pl.",
+      "Origin": "samorzad.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/samorzad.wszif.wroc.pl..txt",
+      "NameServer": "ns1.samorzad.wszif.wroc.pl.",
+      "Origin": "samorzad.wszif.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/savoy.wroc.pl..txt",
+      "NameServer": "ns1.savoy.wroc.pl.",
+      "Origin": "savoy.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/scw.wroc.pl..txt",
+      "NameServer": "ns1.scw.wroc.pl.",
+      "Origin": "scw.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/serwis.wroc.pl..txt",
+      "NameServer": "ns1.serwis.wroc.pl.",
+      "Origin": "serwis.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sf.pwr.wroc.pl..txt",
+      "NameServer": "ns1.sf.pwr.wroc.pl.",
+      "Origin": "sf.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sgw.wroc.pl..txt",
+      "NameServer": "ns1.sgw.wroc.pl.",
+      "Origin": "sgw.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sigmat.wroc.pl..txt",
+      "NameServer": "ns1.sigmat.wroc.pl.",
+      "Origin": "sigmat.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sjao.uni.wroc.pl..txt",
+      "NameServer": "ns1.sjao.uni.wroc.pl.",
+      "Origin": "sjao.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sjo.pwr.wroc.pl..txt",
+      "NameServer": "ns1.sjo.pwr.wroc.pl.",
+      "Origin": "sjo.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/skorpion.wroc.pl..txt",
+      "NameServer": "ns1.skorpion.wroc.pl.",
+      "Origin": "skorpion.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/smorfland.uni.wroc.pl..txt",
+      "NameServer": "ns1.smorfland.uni.wroc.pl.",
+      "Origin": "smorfland.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/socjologia.uni.wroc.pl..txt",
+      "NameServer": "ns1.socjologia.uni.wroc.pl.",
+      "Origin": "socjologia.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/softcom.wroc.pl..txt",
+      "NameServer": "ns1.softcom.wroc.pl.",
+      "Origin": "softcom.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/solidarnosc.wroc.pl..txt",
+      "NameServer": "ns1.solidarnosc.wroc.pl.",
+      "Origin": "solidarnosc.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/solver.wroc.pl..txt",
+      "NameServer": "ns1.solver.wroc.pl.",
+      "Origin": "solver.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp113.wroc.pl..txt",
+      "NameServer": "ns1.sp113.wroc.pl.",
+      "Origin": "sp113.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp118.wroc.pl..txt",
+      "NameServer": "ns1.sp118.wroc.pl.",
+      "Origin": "sp118.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp12.wroc.pl..txt",
+      "NameServer": "ns1.sp12.wroc.pl.",
+      "Origin": "sp12.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp18.wroc.pl..txt",
+      "NameServer": "ns1.sp18.wroc.pl.",
+      "Origin": "sp18.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp20.wroc.pl..txt",
+      "NameServer": "ns1.sp20.wroc.pl.",
+      "Origin": "sp20.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp3.wroc.pl..txt",
+      "NameServer": "ns1.sp3.wroc.pl.",
+      "Origin": "sp3.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp71.wroc.pl..txt",
+      "NameServer": "ns1.sp71.wroc.pl.",
+      "Origin": "sp71.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp80.wroc.pl..txt",
+      "NameServer": "ns1.sp80.wroc.pl.",
+      "Origin": "sp80.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp85.wroc.pl..txt",
+      "NameServer": "ns1.sp85.wroc.pl.",
+      "Origin": "sp85.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp97.wroc.pl..txt",
+      "NameServer": "ns1.sp97.wroc.pl.",
+      "Origin": "sp97.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sp98.wroc.pl..txt",
+      "NameServer": "ns1.sp98.wroc.pl.",
+      "Origin": "sp98.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/spa.wroc.pl..txt",
+      "NameServer": "ns1.spa.wroc.pl.",
+      "Origin": "spa.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/spartan.wroc.pl..txt",
+      "NameServer": "ns1.spartan.wroc.pl.",
+      "Origin": "spartan.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/spectrum.wroc.pl..txt",
+      "NameServer": "ns1.spectrum.wroc.pl.",
+      "Origin": "spectrum.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/spin.wroc.pl..txt",
+      "NameServer": "ns1.spin.wroc.pl.",
+      "Origin": "spin.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/spolecznosc.wroc.pl..txt",
+      "NameServer": "ns1.spolecznosc.wroc.pl.",
+      "Origin": "spolecznosc.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sprzatanie.wroc.pl..txt",
+      "NameServer": "ns1.sprzatanie.wroc.pl.",
+      "Origin": "sprzatanie.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/steel.wroc.pl..txt",
+      "NameServer": "ns1.steel.wroc.pl.",
+      "Origin": "steel.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/stk.wroc.pl..txt",
+      "NameServer": "ns1.stk.wroc.pl.",
+      "Origin": "stk.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/stom.am.wroc.pl..txt",
+      "NameServer": "ns1.stom.am.wroc.pl.",
+      "Origin": "stom.am.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/stomatolog.wroc.pl..txt",
+      "NameServer": "ns1.stomatolog.wroc.pl.",
+      "Origin": "stomatolog.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/stomatologia.wroc.pl..txt",
+      "NameServer": "ns1.stomatologia.wroc.pl.",
+      "Origin": "stomatologia.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/strazpol.wroc.pl..txt",
+      "NameServer": "ns1.strazpol.wroc.pl.",
+      "Origin": "strazpol.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/student.ii.uni.wroc.pl..txt",
+      "NameServer": "ns1.student.ii.uni.wroc.pl.",
+      "Origin": "student.ii.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/student.up.wroc.pl..txt",
+      "NameServer": "ns1.student.up.wroc.pl.",
+      "Origin": "student.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/studio-srebro.wroc.pl..txt",
+      "NameServer": "ns1.studio-srebro.wroc.pl.",
+      "Origin": "studio-srebro.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/supon.wroc.pl..txt",
+      "NameServer": "ns1.supon.wroc.pl.",
+      "Origin": "supon.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/swf.pwr.wroc.pl..txt",
+      "NameServer": "ns1.swf.pwr.wroc.pl.",
+      "Origin": "swf.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/sybiracy.wroc.pl..txt",
+      "NameServer": "ns1.sybiracy.wroc.pl.",
+      "Origin": "sybiracy.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/szpital.wroc.pl..txt",
+      "NameServer": "ns1.szpital.wroc.pl.",
+      "Origin": "szpital.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/t15.ds.pwr.wroc.pl..txt",
+      "NameServer": "ns1.t15.ds.pwr.wroc.pl.",
+      "Origin": "t15.ds.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/t16.ds.pwr.wroc.pl..txt",
+      "NameServer": "ns1.t16.ds.pwr.wroc.pl.",
+      "Origin": "t16.ds.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/t17.ds.pwr.wroc.pl..txt",
+      "NameServer": "ns1.t17.ds.pwr.wroc.pl.",
+      "Origin": "t17.ds.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/t19.ds.pwr.wroc.pl..txt",
+      "NameServer": "ns1.t19.ds.pwr.wroc.pl.",
+      "Origin": "t19.ds.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/t2.ds.pwr.wroc.pl..txt",
+      "NameServer": "ns1.t2.ds.pwr.wroc.pl.",
+      "Origin": "t2.ds.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/t3.ds.pwr.wroc.pl..txt",
+      "NameServer": "ns1.t3.ds.pwr.wroc.pl.",
+      "Origin": "t3.ds.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/targi.wroc.pl..txt",
+      "NameServer": "ns1.targi.wroc.pl.",
+      "Origin": "targi.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/taxi-ryszard.wroc.pl..txt",
+      "NameServer": "ns1.taxi-ryszard.wroc.pl.",
+      "Origin": "taxi-ryszard.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/tchp.wroc.pl..txt",
+      "NameServer": "ns1.tchp.wroc.pl.",
+      "Origin": "tchp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/teatrpolski.wroc.pl..txt",
+      "NameServer": "ns1.teatrpolski.wroc.pl.",
+      "Origin": "teatrpolski.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/telsat.wroc.pl..txt",
+      "NameServer": "ns1.telsat.wroc.pl.",
+      "Origin": "telsat.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/tempo.wroc.pl..txt",
+      "NameServer": "ns1.tempo.wroc.pl.",
+      "Origin": "tempo.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/terapia.wroc.pl..txt",
+      "NameServer": "ns1.terapia.wroc.pl.",
+      "Origin": "terapia.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/tur.uni.wroc.pl..txt",
+      "NameServer": "ns1.tur.uni.wroc.pl.",
+      "Origin": "tur.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/tvk.wroc.pl..txt",
+      "NameServer": "ns1.tvk.wroc.pl.",
+      "Origin": "tvk.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/tvs-styk.pwr.wroc.pl..txt",
+      "NameServer": "ns1.tvs-styk.pwr.wroc.pl.",
+      "Origin": "tvs-styk.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/tws.wroc.pl..txt",
+      "NameServer": "ns1.tws.wroc.pl.",
+      "Origin": "tws.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/uczelnie.wroc.pl..txt",
+      "NameServer": "ns1.uczelnie.wroc.pl.",
+      "Origin": "uczelnie.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ue.wroc.pl..txt",
+      "NameServer": "ns1.ue.wroc.pl.",
+      "Origin": "ue.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/um.wroc.pl..txt",
+      "NameServer": "ns1.um.wroc.pl.",
+      "Origin": "um.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/umed.wroc.pl..txt",
+      "NameServer": "ns1.umed.wroc.pl.",
+      "Origin": "umed.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/uni.wroc.pl..txt",
+      "NameServer": "ns1.uni.wroc.pl.",
+      "Origin": "uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/unikat.wroc.pl..txt",
+      "NameServer": "ns1.unikat.wroc.pl.",
+      "Origin": "unikat.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/unitech.wroc.pl..txt",
+      "NameServer": "ns1.unitech.wroc.pl.",
+      "Origin": "unitech.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/up.wroc.pl..txt",
+      "NameServer": "ns1.up.wroc.pl.",
+      "Origin": "up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/us-krzyki.wroc.pl..txt",
+      "NameServer": "ns1.us-krzyki.wroc.pl.",
+      "Origin": "us-krzyki.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/us-strzelin.wroc.pl..txt",
+      "NameServer": "ns1.us-strzelin.wroc.pl.",
+      "Origin": "us-strzelin.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/usk.wroc.pl..txt",
+      "NameServer": "ns1.usk.wroc.pl.",
+      "Origin": "usk.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/uwid.wroc.pl..txt",
+      "NameServer": "ns1.uwid.wroc.pl.",
+      "Origin": "uwid.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/uwoj.wroc.pl..txt",
+      "NameServer": "ns1.uwoj.wroc.pl.",
+      "Origin": "uwoj.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wask.wroc.pl..txt",
+      "NameServer": "ns1.wask.wroc.pl.",
+      "Origin": "wask.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wawrzyny.wroc.pl..txt",
+      "NameServer": "ns1.wawrzyny.wroc.pl.",
+      "Origin": "wawrzyny.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wbm.wroc.pl..txt",
+      "NameServer": "ns1.wbm.wroc.pl.",
+      "Origin": "wbm.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wbp.wroc.pl..txt",
+      "NameServer": "ns1.wbp.wroc.pl.",
+      "Origin": "wbp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wbu.wroc.pl..txt",
+      "NameServer": "ns1.wbu.wroc.pl.",
+      "Origin": "wbu.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wbz.uni.wroc.pl..txt",
+      "NameServer": "ns1.wbz.uni.wroc.pl.",
+      "Origin": "wbz.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wca.wroc.pl..txt",
+      "NameServer": "ns1.wca.wroc.pl.",
+      "Origin": "wca.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wcss.wroc.pl..txt",
+      "NameServer": "ns1.wcss.wroc.pl.",
+      "Origin": "wcss.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wctt.wroc.pl..txt",
+      "NameServer": "ns1.wctt.wroc.pl.",
+      "Origin": "wctt.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wd.wroc.pl..txt",
+      "NameServer": "ns1.wd.wroc.pl.",
+      "Origin": "wd.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wd.wszif.wroc.pl..txt",
+      "NameServer": "ns1.wd.wszif.wroc.pl.",
+      "Origin": "wd.wszif.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/weba.wroc.pl..txt",
+      "NameServer": "ns1.weba.wroc.pl.",
+      "Origin": "weba.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wemif.pwr.wroc.pl..txt",
+      "NameServer": "ns1.wemif.pwr.wroc.pl.",
+      "Origin": "wemif.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wet.up.wroc.pl..txt",
+      "NameServer": "ns1.wet.up.wroc.pl.",
+      "Origin": "wet.up.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wfa.uni.wroc.pl..txt",
+      "NameServer": "ns1.wfa.uni.wroc.pl.",
+      "Origin": "wfa.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wi.wroc.pl..txt",
+      "NameServer": "ns1.wi.wroc.pl.",
+      "Origin": "wi.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wifi.pwr.wroc.pl..txt",
+      "NameServer": "ns1.wifi.pwr.wroc.pl.",
+      "Origin": "wifi.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wig.wroc.pl..txt",
+      "NameServer": "ns1.wig.wroc.pl.",
+      "Origin": "wig.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/willeprzypotokowej.wroc.pl..txt",
+      "NameServer": "ns1.willeprzypotokowej.wroc.pl.",
+      "Origin": "willeprzypotokowej.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/witi.wroc.pl..txt",
+      "NameServer": "ns1.witi.wroc.pl.",
+      "Origin": "witi.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wiz.pwr.wroc.pl..txt",
+      "NameServer": "ns1.wiz.pwr.wroc.pl.",
+      "Origin": "wiz.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wizaz.wroc.pl..txt",
+      "NameServer": "ns1.wizaz.wroc.pl.",
+      "Origin": "wizaz.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wm.wroc.pl..txt",
+      "NameServer": "ns1.wm.wroc.pl.",
+      "Origin": "wm.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wmech.pwr.wroc.pl..txt",
+      "NameServer": "ns1.wmech.pwr.wroc.pl.",
+      "Origin": "wmech.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wmi.uni.wroc.pl..txt",
+      "NameServer": "ns1.wmi.uni.wroc.pl.",
+      "Origin": "wmi.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wnhip.uni.wroc.pl..txt",
+      "NameServer": "ns1.wnhip.uni.wroc.pl.",
+      "Origin": "wnhip.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wolnosci7.wroc.pl..txt",
+      "NameServer": "ns1.wolnosci7.wroc.pl.",
+      "Origin": "wolnosci7.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/womp.wroc.pl..txt",
+      "NameServer": "ns1.womp.wroc.pl.",
+      "Origin": "womp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wpaie.uni.wroc.pl..txt",
+      "NameServer": "ns1.wpaie.uni.wroc.pl.",
+      "Origin": "wpaie.uni.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wpb.wroc.pl..txt",
+      "NameServer": "ns1.wpb.wroc.pl.",
+      "Origin": "wpb.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wpp.wroc.pl..txt",
+      "NameServer": "ns1.wpp.wroc.pl.",
+      "Origin": "wpp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wppt.pwr.wroc.pl..txt",
+      "NameServer": "ns1.wppt.pwr.wroc.pl.",
+      "Origin": "wppt.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wroc.pl..txt",
+      "NameServer": "ns1.wroc.pl.",
+      "Origin": "wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wsaikido.wroc.pl..txt",
+      "NameServer": "ns1.wsaikido.wroc.pl.",
+      "Origin": "wsaikido.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wsf.wroc.pl..txt",
+      "NameServer": "ns1.wsf.wroc.pl.",
+      "Origin": "wsf.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wsiz.wroc.pl..txt",
+      "NameServer": "ns1.wsiz.wroc.pl.",
+      "Origin": "wsiz.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wso.wroc.pl..txt",
+      "NameServer": "ns1.wso.wroc.pl.",
+      "Origin": "wso.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wson.wroc.pl..txt",
+      "NameServer": "ns1.wson.wroc.pl.",
+      "Origin": "wson.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wsse.wroc.pl..txt",
+      "NameServer": "ns1.wsse.wroc.pl.",
+      "Origin": "wsse.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wssk.wroc.pl..txt",
+      "NameServer": "ns1.wssk.wroc.pl.",
+      "Origin": "wssk.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wszib.wroc.pl..txt",
+      "NameServer": "ns1.wszib.wroc.pl.",
+      "Origin": "wszib.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wszif.wroc.pl..txt",
+      "NameServer": "ns1.wszif.wroc.pl.",
+      "Origin": "wszif.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wtn.wroc.pl..txt",
+      "NameServer": "ns1.wtn.wroc.pl.",
+      "Origin": "wtn.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wujek.wroc.pl..txt",
+      "NameServer": "ns1.wujek.wroc.pl.",
+      "Origin": "wujek.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wykladziny.wroc.pl..txt",
+      "NameServer": "ns1.wykladziny.wroc.pl.",
+      "Origin": "wykladziny.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/wzsoz.wroc.pl..txt",
+      "NameServer": "ns1.wzsoz.wroc.pl.",
+      "Origin": "wzsoz.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/xenocomp.wroc.pl..txt",
+      "NameServer": "ns1.xenocomp.wroc.pl.",
+      "Origin": "xenocomp.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/xserwis.wroc.pl..txt",
+      "NameServer": "ns1.xserwis.wroc.pl.",
+      "Origin": "xserwis.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/ymaa.wroc.pl..txt",
+      "NameServer": "ns1.ymaa.wroc.pl.",
+      "Origin": "ymaa.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zalbix.wroc.pl..txt",
+      "NameServer": "ns1.zalbix.wroc.pl.",
+      "Origin": "zalbix.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zck.wroc.pl..txt",
+      "NameServer": "ns1.zck.wroc.pl.",
+      "Origin": "zck.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zdik.wroc.pl..txt",
+      "NameServer": "ns1.zdik.wroc.pl.",
+      "Origin": "zdik.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zdium.wroc.pl..txt",
+      "NameServer": "ns1.zdium.wroc.pl.",
+      "Origin": "zdium.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zespol.wroc.pl..txt",
+      "NameServer": "ns1.zespol.wroc.pl.",
+      "Origin": "zespol.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zeto.wroc.pl..txt",
+      "NameServer": "ns1.zeto.wroc.pl.",
+      "Origin": "zeto.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zewsa.wroc.pl..txt",
+      "NameServer": "ns1.zewsa.wroc.pl.",
+      "Origin": "zewsa.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zgkikm.wroc.pl..txt",
+      "NameServer": "ns1.zgkikm.wroc.pl.",
+      "Origin": "zgkikm.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zielonakraina.wroc.pl..txt",
+      "NameServer": "ns1.zielonakraina.wroc.pl.",
+      "Origin": "zielonakraina.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zim.wroc.pl..txt",
+      "NameServer": "ns1.zim.wroc.pl.",
+      "Origin": "zim.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zkamr.ikem.pwr.wroc.pl..txt",
+      "NameServer": "ns1.zkamr.ikem.pwr.wroc.pl.",
+      "Origin": "zkamr.ikem.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zlist.pwr.wroc.pl..txt",
+      "NameServer": "ns1.zlist.pwr.wroc.pl.",
+      "Origin": "zlist.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zozolawa.wroc.pl..txt",
+      "NameServer": "ns1.zozolawa.wroc.pl.",
+      "Origin": "zozolawa.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zs1.wroc.pl..txt",
+      "NameServer": "ns1.zs1.wroc.pl.",
+      "Origin": "zs1.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zs18.wroc.pl..txt",
+      "NameServer": "ns1.zs18.wroc.pl.",
+      "Origin": "zs18.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zs4.wroc.pl..txt",
+      "NameServer": "ns1.zs4.wroc.pl.",
+      "Origin": "zs4.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zse.wroc.pl..txt",
+      "NameServer": "ns1.zse.wroc.pl.",
+      "Origin": "zse.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zsi.pwr.wroc.pl..txt",
+      "NameServer": "ns1.zsi.pwr.wroc.pl.",
+      "Origin": "zsi.pwr.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zsp10.wroc.pl..txt",
+      "NameServer": "ns1.zsp10.wroc.pl.",
+      "Origin": "zsp10.wroc.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-500-1000/wroc.pl/zzm.wroc.pl..txt",
+      "NameServer": "ns1.zzm.wroc.pl.",
+      "Origin": "zzm.wroc.pl."
+    }
+  ]
+}

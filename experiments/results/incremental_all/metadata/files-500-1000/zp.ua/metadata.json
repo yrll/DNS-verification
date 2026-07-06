@@ -1,0 +1,3227 @@
+{
+  "TopNameServers": [
+    "ns1.zp.ua."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/09.zp.ua..txt",
+      "NameServer": "ns1.09.zp.ua.",
+      "Origin": "09.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/101.zp.ua..txt",
+      "NameServer": "ns1.101.zp.ua.",
+      "Origin": "101.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/16x.zp.ua..txt",
+      "NameServer": "ns1.16x.zp.ua.",
+      "Origin": "16x.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/24online.zp.ua..txt",
+      "NameServer": "ns1.24online.zp.ua.",
+      "Origin": "24online.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/abc.zp.ua..txt",
+      "NameServer": "ns1.abc.zp.ua.",
+      "Origin": "abc.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/accc.zp.ua..txt",
+      "NameServer": "ns1.accc.zp.ua.",
+      "Origin": "accc.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/adels.zp.ua..txt",
+      "NameServer": "ns1.adels.zp.ua.",
+      "Origin": "adels.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/aem.zp.ua..txt",
+      "NameServer": "ns1.aem.zp.ua.",
+      "Origin": "aem.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/aero.zp.ua..txt",
+      "NameServer": "ns1.aero.zp.ua.",
+      "Origin": "aero.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/afgan.zp.ua..txt",
+      "NameServer": "ns1.afgan.zp.ua.",
+      "Origin": "afgan.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/afisha.zp.ua..txt",
+      "NameServer": "ns1.afisha.zp.ua.",
+      "Origin": "afisha.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/airsoft.zp.ua..txt",
+      "NameServer": "ns1.airsoft.zp.ua.",
+      "Origin": "airsoft.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ako.zp.ua..txt",
+      "NameServer": "ns1.ako.zp.ua.",
+      "Origin": "ako.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/aktiv.zp.ua..txt",
+      "NameServer": "ns1.aktiv.zp.ua.",
+      "Origin": "aktiv.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/akvilon.zp.ua..txt",
+      "NameServer": "ns1.akvilon.zp.ua.",
+      "Origin": "akvilon.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/album.zp.ua..txt",
+      "NameServer": "ns1.album.zp.ua.",
+      "Origin": "album.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/alex.zp.ua..txt",
+      "NameServer": "ns1.alex.zp.ua.",
+      "Origin": "alex.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/alextv.zp.ua..txt",
+      "NameServer": "ns1.alextv.zp.ua.",
+      "Origin": "alextv.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/all.zp.ua..txt",
+      "NameServer": "ns1.all.zp.ua.",
+      "Origin": "all.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/alliance.zp.ua..txt",
+      "NameServer": "ns1.alliance.zp.ua.",
+      "Origin": "alliance.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/allo.zp.ua..txt",
+      "NameServer": "ns1.allo.zp.ua.",
+      "Origin": "allo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/almaz.zp.ua..txt",
+      "NameServer": "ns1.almaz.zp.ua.",
+      "Origin": "almaz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/alvi.zp.ua..txt",
+      "NameServer": "ns1.alvi.zp.ua.",
+      "Origin": "alvi.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/andrey.zp.ua..txt",
+      "NameServer": "ns1.andrey.zp.ua.",
+      "Origin": "andrey.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/arta.zp.ua..txt",
+      "NameServer": "ns1.arta.zp.ua.",
+      "Origin": "arta.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/artefact.zp.ua..txt",
+      "NameServer": "ns1.artefact.zp.ua.",
+      "Origin": "artefact.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/artgallery.zp.ua..txt",
+      "NameServer": "ns1.artgallery.zp.ua.",
+      "Origin": "artgallery.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/articles.zp.ua..txt",
+      "NameServer": "ns1.articles.zp.ua.",
+      "Origin": "articles.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/assistas.zp.ua..txt",
+      "NameServer": "ns1.assistas.zp.ua.",
+      "Origin": "assistas.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/atlet.zp.ua..txt",
+      "NameServer": "ns1.atlet.zp.ua.",
+      "Origin": "atlet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/atv.zp.ua..txt",
+      "NameServer": "ns1.atv.zp.ua.",
+      "Origin": "atv.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/audit.zp.ua..txt",
+      "NameServer": "ns1.audit.zp.ua.",
+      "Origin": "audit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/aukro.zp.ua..txt",
+      "NameServer": "ns1.aukro.zp.ua.",
+      "Origin": "aukro.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/autobazar.zp.ua..txt",
+      "NameServer": "ns1.autobazar.zp.ua.",
+      "Origin": "autobazar.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/autoclub.zp.ua..txt",
+      "NameServer": "ns1.autoclub.zp.ua.",
+      "Origin": "autoclub.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/autolux.zp.ua..txt",
+      "NameServer": "ns1.autolux.zp.ua.",
+      "Origin": "autolux.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/autopilot.zp.ua..txt",
+      "NameServer": "ns1.autopilot.zp.ua.",
+      "Origin": "autopilot.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/avia.zp.ua..txt",
+      "NameServer": "ns1.avia.zp.ua.",
+      "Origin": "avia.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/avto-mir.zp.ua..txt",
+      "NameServer": "ns1.avto-mir.zp.ua.",
+      "Origin": "avto-mir.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/avtoshkola.zp.ua..txt",
+      "NameServer": "ns1.avtoshkola.zp.ua.",
+      "Origin": "avtoshkola.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/azovinform.zp.ua..txt",
+      "NameServer": "ns1.azovinform.zp.ua.",
+      "Origin": "azovinform.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/baburka.zp.ua..txt",
+      "NameServer": "ns1.baburka.zp.ua.",
+      "Origin": "baburka.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ban.zp.ua..txt",
+      "NameServer": "ns1.ban.zp.ua.",
+      "Origin": "ban.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/banana.zp.ua..txt",
+      "NameServer": "ns1.banana.zp.ua.",
+      "Origin": "banana.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/barcelona.zp.ua..txt",
+      "NameServer": "ns1.barcelona.zp.ua.",
+      "Origin": "barcelona.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/bcs.zp.ua..txt",
+      "NameServer": "ns1.bcs.zp.ua.",
+      "Origin": "bcs.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/bctdatu.zp.ua..txt",
+      "NameServer": "ns1.bctdatu.zp.ua.",
+      "Origin": "bctdatu.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/be.zp.ua..txt",
+      "NameServer": "ns1.be.zp.ua.",
+      "Origin": "be.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/berdanka.zp.ua..txt",
+      "NameServer": "ns1.berdanka.zp.ua.",
+      "Origin": "berdanka.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/beseda.zp.ua..txt",
+      "NameServer": "ns1.beseda.zp.ua.",
+      "Origin": "beseda.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/bez-problem.zp.ua..txt",
+      "NameServer": "ns1.bez-problem.zp.ua.",
+      "Origin": "bez-problem.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/big.zp.ua..txt",
+      "NameServer": "ns1.big.zp.ua.",
+      "Origin": "big.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/biscom.zp.ua..txt",
+      "NameServer": "ns1.biscom.zp.ua.",
+      "Origin": "biscom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/bkm.zp.ua..txt",
+      "NameServer": "ns1.bkm.zp.ua.",
+      "Origin": "bkm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/blin.zp.ua..txt",
+      "NameServer": "ns1.blin.zp.ua.",
+      "Origin": "blin.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/boom.zp.ua..txt",
+      "NameServer": "ns1.boom.zp.ua.",
+      "Origin": "boom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/botsad.zp.ua..txt",
+      "NameServer": "ns1.botsad.zp.ua.",
+      "Origin": "botsad.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/box.zp.ua..txt",
+      "NameServer": "ns1.box.zp.ua.",
+      "Origin": "box.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/brd.zp.ua..txt",
+      "NameServer": "ns1.brd.zp.ua.",
+      "Origin": "brd.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/briket.zp.ua..txt",
+      "NameServer": "ns1.briket.zp.ua.",
+      "Origin": "briket.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/bugg.zp.ua..txt",
+      "NameServer": "ns1.bugg.zp.ua.",
+      "Origin": "bugg.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/bumaga.zp.ua..txt",
+      "NameServer": "ns1.bumaga.zp.ua.",
+      "Origin": "bumaga.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/business.zp.ua..txt",
+      "NameServer": "ns1.business.zp.ua.",
+      "Origin": "business.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/byut.zp.ua..txt",
+      "NameServer": "ns1.byut.zp.ua.",
+      "Origin": "byut.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/cap.zp.ua..txt",
+      "NameServer": "ns1.cap.zp.ua.",
+      "Origin": "cap.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/capital.zp.ua..txt",
+      "NameServer": "ns1.capital.zp.ua.",
+      "Origin": "capital.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/capoeira.zp.ua..txt",
+      "NameServer": "ns1.capoeira.zp.ua.",
+      "Origin": "capoeira.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/card.zp.ua..txt",
+      "NameServer": "ns1.card.zp.ua.",
+      "Origin": "card.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/cazino.zp.ua..txt",
+      "NameServer": "ns1.cazino.zp.ua.",
+      "Origin": "cazino.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/cccp.zp.ua..txt",
+      "NameServer": "ns1.cccp.zp.ua.",
+      "Origin": "cccp.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/cci.zp.ua..txt",
+      "NameServer": "ns1.cci.zp.ua.",
+      "Origin": "cci.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/chak.zp.ua..txt",
+      "NameServer": "ns1.chak.zp.ua.",
+      "Origin": "chak.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/channel.zp.ua..txt",
+      "NameServer": "ns1.channel.zp.ua.",
+      "Origin": "channel.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/chatik.zp.ua..txt",
+      "NameServer": "ns1.chatik.zp.ua.",
+      "Origin": "chatik.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/chatinet.zp.ua..txt",
+      "NameServer": "ns1.chatinet.zp.ua.",
+      "Origin": "chatinet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/chernigovka.zp.ua..txt",
+      "NameServer": "ns1.chernigovka.zp.ua.",
+      "Origin": "chernigovka.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/chgk.zp.ua..txt",
+      "NameServer": "ns1.chgk.zp.ua.",
+      "Origin": "chgk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ciit.zp.ua..txt",
+      "NameServer": "ns1.ciit.zp.ua.",
+      "Origin": "ciit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/citrus.zp.ua..txt",
+      "NameServer": "ns1.citrus.zp.ua.",
+      "Origin": "citrus.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/city.zp.ua..txt",
+      "NameServer": "ns1.city.zp.ua.",
+      "Origin": "city.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/citynet.zp.ua..txt",
+      "NameServer": "ns1.citynet.zp.ua.",
+      "Origin": "citynet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/classic.zp.ua..txt",
+      "NameServer": "ns1.classic.zp.ua.",
+      "Origin": "classic.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/cmir.zp.ua..txt",
+      "NameServer": "ns1.cmir.zp.ua.",
+      "Origin": "cmir.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/cn.zp.ua..txt",
+      "NameServer": "ns1.cn.zp.ua.",
+      "Origin": "cn.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/coffee.zp.ua..txt",
+      "NameServer": "ns1.coffee.zp.ua.",
+      "Origin": "coffee.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/coke.zp.ua..txt",
+      "NameServer": "ns1.coke.zp.ua.",
+      "Origin": "coke.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/com.zp.ua..txt",
+      "NameServer": "ns1.com.zp.ua.",
+      "Origin": "com.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/commit.zp.ua..txt",
+      "NameServer": "ns1.commit.zp.ua.",
+      "Origin": "commit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/comp.zp.ua..txt",
+      "NameServer": "ns1.comp.zp.ua.",
+      "Origin": "comp.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/company.zp.ua..txt",
+      "NameServer": "ns1.company.zp.ua.",
+      "Origin": "company.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/compexpert.zp.ua..txt",
+      "NameServer": "ns1.compexpert.zp.ua.",
+      "Origin": "compexpert.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/complex.zp.ua..txt",
+      "NameServer": "ns1.complex.zp.ua.",
+      "Origin": "complex.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/compline.zp.ua..txt",
+      "NameServer": "ns1.compline.zp.ua.",
+      "Origin": "compline.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/cto.zp.ua..txt",
+      "NameServer": "ns1.cto.zp.ua.",
+      "Origin": "cto.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/da.zp.ua..txt",
+      "NameServer": "ns1.da.zp.ua.",
+      "Origin": "da.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dai.zp.ua..txt",
+      "NameServer": "ns1.dai.zp.ua.",
+      "Origin": "dai.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/day-lapu-drug.zp.ua..txt",
+      "NameServer": "ns1.day-lapu-drug.zp.ua.",
+      "Origin": "day-lapu-drug.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/day.zp.ua..txt",
+      "NameServer": "ns1.day.zp.ua.",
+      "Origin": "day.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dekadanse.zp.ua..txt",
+      "NameServer": "ns1.dekadanse.zp.ua.",
+      "Origin": "dekadanse.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/delta.zp.ua..txt",
+      "NameServer": "ns1.delta.zp.ua.",
+      "Origin": "delta.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/demo.zp.ua..txt",
+      "NameServer": "ns1.demo.zp.ua.",
+      "Origin": "demo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/detali.zp.ua..txt",
+      "NameServer": "ns1.detali.zp.ua.",
+      "Origin": "detali.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/deti.zp.ua..txt",
+      "NameServer": "ns1.deti.zp.ua.",
+      "Origin": "deti.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/digital.zp.ua..txt",
+      "NameServer": "ns1.digital.zp.ua.",
+      "Origin": "digital.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dikoepole.zp.ua..txt",
+      "NameServer": "ns1.dikoepole.zp.ua.",
+      "Origin": "dikoepole.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dimona.zp.ua..txt",
+      "NameServer": "ns1.dimona.zp.ua.",
+      "Origin": "dimona.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/discovery.zp.ua..txt",
+      "NameServer": "ns1.discovery.zp.ua.",
+      "Origin": "discovery.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/divan.zp.ua..txt",
+      "NameServer": "ns1.divan.zp.ua.",
+      "Origin": "divan.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/djachenko.zp.ua..txt",
+      "NameServer": "ns1.djachenko.zp.ua.",
+      "Origin": "djachenko.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dk.zp.ua..txt",
+      "NameServer": "ns1.dk.zp.ua.",
+      "Origin": "dk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dnop.zp.ua..txt",
+      "NameServer": "ns1.dnop.zp.ua.",
+      "Origin": "dnop.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/domain.zp.ua..txt",
+      "NameServer": "ns1.domain.zp.ua.",
+      "Origin": "domain.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/domen.com.zp.ua..txt",
+      "NameServer": "ns1.domen.com.zp.ua.",
+      "Origin": "domen.com.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/donor.zp.ua..txt",
+      "NameServer": "ns1.donor.zp.ua.",
+      "Origin": "donor.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dosie.zp.ua..txt",
+      "NameServer": "ns1.dosie.zp.ua.",
+      "Origin": "dosie.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dovzhenko.zp.ua..txt",
+      "NameServer": "ns1.dovzhenko.zp.ua.",
+      "Origin": "dovzhenko.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dozvil.zp.ua..txt",
+      "NameServer": "ns1.dozvil.zp.ua.",
+      "Origin": "dozvil.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dr.zp.ua..txt",
+      "NameServer": "ns1.dr.zp.ua.",
+      "Origin": "dr.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/drivers.zp.ua..txt",
+      "NameServer": "ns1.drivers.zp.ua.",
+      "Origin": "drivers.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dumka.zp.ua..txt",
+      "NameServer": "ns1.dumka.zp.ua.",
+      "Origin": "dumka.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dxi.zp.ua..txt",
+      "NameServer": "ns1.dxi.zp.ua.",
+      "Origin": "dxi.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dynamite.zp.ua..txt",
+      "NameServer": "ns1.dynamite.zp.ua.",
+      "Origin": "dynamite.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/dzzzr.zp.ua..txt",
+      "NameServer": "ns1.dzzzr.zp.ua.",
+      "Origin": "dzzzr.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/e.zp.ua..txt",
+      "NameServer": "ns1.e.zp.ua.",
+      "Origin": "e.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/econom.zp.ua..txt",
+      "NameServer": "ns1.econom.zp.ua.",
+      "Origin": "econom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/education.zp.ua..txt",
+      "NameServer": "ns1.education.zp.ua.",
+      "Origin": "education.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/eidos.zp.ua..txt",
+      "NameServer": "ns1.eidos.zp.ua.",
+      "Origin": "eidos.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ekklesia.zp.ua..txt",
+      "NameServer": "ns1.ekklesia.zp.ua.",
+      "Origin": "ekklesia.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ekomissionka.zp.ua..txt",
+      "NameServer": "ns1.ekomissionka.zp.ua.",
+      "Origin": "ekomissionka.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/eldorado.zp.ua..txt",
+      "NameServer": "ns1.eldorado.zp.ua.",
+      "Origin": "eldorado.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/electra.zp.ua..txt",
+      "NameServer": "ns1.electra.zp.ua.",
+      "Origin": "electra.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/electro.zp.ua..txt",
+      "NameServer": "ns1.electro.zp.ua.",
+      "Origin": "electro.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/electrotechnika.zp.ua..txt",
+      "NameServer": "ns1.electrotechnika.zp.ua.",
+      "Origin": "electrotechnika.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/eliz.zp.ua..txt",
+      "NameServer": "ns1.eliz.zp.ua.",
+      "Origin": "eliz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/elmax.zp.ua..txt",
+      "NameServer": "ns1.elmax.zp.ua.",
+      "Origin": "elmax.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/elta.zp.ua..txt",
+      "NameServer": "ns1.elta.zp.ua.",
+      "Origin": "elta.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/email.zp.ua..txt",
+      "NameServer": "ns1.email.zp.ua.",
+      "Origin": "email.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/emarket.zp.ua..txt",
+      "NameServer": "ns1.emarket.zp.ua.",
+      "Origin": "emarket.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/emra.zp.ua..txt",
+      "NameServer": "ns1.emra.zp.ua.",
+      "Origin": "emra.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/en-osvita.zp.ua..txt",
+      "NameServer": "ns1.en-osvita.zp.ua.",
+      "Origin": "en-osvita.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/en.zp.ua..txt",
+      "NameServer": "ns1.en.zp.ua.",
+      "Origin": "en.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/energomash.zp.ua..txt",
+      "NameServer": "ns1.energomash.zp.ua.",
+      "Origin": "energomash.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/energopribor.zp.ua..txt",
+      "NameServer": "ns1.energopribor.zp.ua.",
+      "Origin": "energopribor.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/enter.zp.ua..txt",
+      "NameServer": "ns1.enter.zp.ua.",
+      "Origin": "enter.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/eos.zp.ua..txt",
+      "NameServer": "ns1.eos.zp.ua.",
+      "Origin": "eos.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/erc.zp.ua..txt",
+      "NameServer": "ns1.erc.zp.ua.",
+      "Origin": "erc.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/est.zp.ua..txt",
+      "NameServer": "ns1.est.zp.ua.",
+      "Origin": "est.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/etc.zp.ua..txt",
+      "NameServer": "ns1.etc.zp.ua.",
+      "Origin": "etc.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/etna.zp.ua..txt",
+      "NameServer": "ns1.etna.zp.ua.",
+      "Origin": "etna.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/etp.zp.ua..txt",
+      "NameServer": "ns1.etp.zp.ua.",
+      "Origin": "etp.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/expo.zp.ua..txt",
+      "NameServer": "ns1.expo.zp.ua.",
+      "Origin": "expo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/faeton.zp.ua..txt",
+      "NameServer": "ns1.faeton.zp.ua.",
+      "Origin": "faeton.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/fcmetallurg.zp.ua..txt",
+      "NameServer": "ns1.fcmetallurg.zp.ua.",
+      "Origin": "fcmetallurg.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/fdm.zp.ua..txt",
+      "NameServer": "ns1.fdm.zp.ua.",
+      "Origin": "fdm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ferro.zp.ua..txt",
+      "NameServer": "ns1.ferro.zp.ua.",
+      "Origin": "ferro.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/filarmonic.zp.ua..txt",
+      "NameServer": "ns1.filarmonic.zp.ua.",
+      "Origin": "filarmonic.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/files.zp.ua..txt",
+      "NameServer": "ns1.files.zp.ua.",
+      "Origin": "files.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/fire.zp.ua..txt",
+      "NameServer": "ns1.fire.zp.ua.",
+      "Origin": "fire.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/firm.zp.ua..txt",
+      "NameServer": "ns1.firm.zp.ua.",
+      "Origin": "firm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/fishing.zp.ua..txt",
+      "NameServer": "ns1.fishing.zp.ua.",
+      "Origin": "fishing.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/flagman.zp.ua..txt",
+      "NameServer": "ns1.flagman.zp.ua.",
+      "Origin": "flagman.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/flight.zp.ua..txt",
+      "NameServer": "ns1.flight.zp.ua.",
+      "Origin": "flight.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/fm.zp.ua..txt",
+      "NameServer": "ns1.fm.zp.ua.",
+      "Origin": "fm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/fond-school23.zp.ua..txt",
+      "NameServer": "ns1.fond-school23.zp.ua.",
+      "Origin": "fond-school23.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/football.zp.ua..txt",
+      "NameServer": "ns1.football.zp.ua.",
+      "Origin": "football.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/fotki.zp.ua..txt",
+      "NameServer": "ns1.fotki.zp.ua.",
+      "Origin": "fotki.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/fotoclub.zp.ua..txt",
+      "NameServer": "ns1.fotoclub.zp.ua.",
+      "Origin": "fotoclub.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/fregat.zp.ua..txt",
+      "NameServer": "ns1.fregat.zp.ua.",
+      "Origin": "fregat.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/frontzmin.zp.ua..txt",
+      "NameServer": "ns1.frontzmin.zp.ua.",
+      "Origin": "frontzmin.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/fse.zp.ua..txt",
+      "NameServer": "ns1.fse.zp.ua.",
+      "Origin": "fse.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/furyz.zp.ua..txt",
+      "NameServer": "ns1.furyz.zp.ua.",
+      "Origin": "furyz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/futsal.zp.ua..txt",
+      "NameServer": "ns1.futsal.zp.ua.",
+      "Origin": "futsal.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/future.zp.ua..txt",
+      "NameServer": "ns1.future.zp.ua.",
+      "Origin": "future.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/g-net.zp.ua..txt",
+      "NameServer": "ns1.g-net.zp.ua.",
+      "Origin": "g-net.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gagarin.zp.ua..txt",
+      "NameServer": "ns1.gagarin.zp.ua.",
+      "Origin": "gagarin.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/galp.zp.ua..txt",
+      "NameServer": "ns1.galp.zp.ua.",
+      "Origin": "galp.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/games.zp.ua..txt",
+      "NameServer": "ns1.games.zp.ua.",
+      "Origin": "games.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gamma.zp.ua..txt",
+      "NameServer": "ns1.gamma.zp.ua.",
+      "Origin": "gamma.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gaydar.zp.ua..txt",
+      "NameServer": "ns1.gaydar.zp.ua.",
+      "Origin": "gaydar.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gefest.zp.ua..txt",
+      "NameServer": "ns1.gefest.zp.ua.",
+      "Origin": "gefest.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gerkon.zp.ua..txt",
+      "NameServer": "ns1.gerkon.zp.ua.",
+      "Origin": "gerkon.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/germes.zp.ua..txt",
+      "NameServer": "ns1.germes.zp.ua.",
+      "Origin": "germes.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gfu.zp.ua..txt",
+      "NameServer": "ns1.gfu.zp.ua.",
+      "Origin": "gfu.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gigabit.zp.ua..txt",
+      "NameServer": "ns1.gigabit.zp.ua.",
+      "Origin": "gigabit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gis.zp.ua..txt",
+      "NameServer": "ns1.gis.zp.ua.",
+      "Origin": "gis.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/global.zp.ua..txt",
+      "NameServer": "ns1.global.zp.ua.",
+      "Origin": "global.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/globalnet.zp.ua..txt",
+      "NameServer": "ns1.globalnet.zp.ua.",
+      "Origin": "globalnet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gloryon.zp.ua..txt",
+      "NameServer": "ns1.gloryon.zp.ua.",
+      "Origin": "gloryon.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/go.zp.ua..txt",
+      "NameServer": "ns1.go.zp.ua.",
+      "Origin": "go.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/goldfish.zp.ua..txt",
+      "NameServer": "ns1.goldfish.zp.ua.",
+      "Origin": "goldfish.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/goldpages.zp.ua..txt",
+      "NameServer": "ns1.goldpages.zp.ua.",
+      "Origin": "goldpages.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/golf.zp.ua..txt",
+      "NameServer": "ns1.golf.zp.ua.",
+      "Origin": "golf.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/golos.zp.ua..txt",
+      "NameServer": "ns1.golos.zp.ua.",
+      "Origin": "golos.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gorodok.zp.ua..txt",
+      "NameServer": "ns1.gorodok.zp.ua.",
+      "Origin": "gorodok.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gospodar.zp.ua..txt",
+      "NameServer": "ns1.gospodar.zp.ua.",
+      "Origin": "gospodar.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gothic.zp.ua..txt",
+      "NameServer": "ns1.gothic.zp.ua.",
+      "Origin": "gothic.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gp.zp.ua..txt",
+      "NameServer": "ns1.gp.zp.ua.",
+      "Origin": "gp.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gravirovka.zp.ua..txt",
+      "NameServer": "ns1.gravirovka.zp.ua.",
+      "Origin": "gravirovka.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gromada.zp.ua..txt",
+      "NameServer": "ns1.gromada.zp.ua.",
+      "Origin": "gromada.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gruzoperevozki.zp.ua..txt",
+      "NameServer": "ns1.gruzoperevozki.zp.ua.",
+      "Origin": "gruzoperevozki.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/guitar.zp.ua..txt",
+      "NameServer": "ns1.guitar.zp.ua.",
+      "Origin": "guitar.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/gym31.zp.ua..txt",
+      "NameServer": "ns1.gym31.zp.ua.",
+      "Origin": "gym31.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/hamster.zp.ua..txt",
+      "NameServer": "ns1.hamster.zp.ua.",
+      "Origin": "hamster.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/handball.zp.ua..txt",
+      "NameServer": "ns1.handball.zp.ua.",
+      "Origin": "handball.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/hardware.zp.ua..txt",
+      "NameServer": "ns1.hardware.zp.ua.",
+      "Origin": "hardware.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/hdtv.zp.ua..txt",
+      "NameServer": "ns1.hdtv.zp.ua.",
+      "Origin": "hdtv.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/heelys.zp.ua..txt",
+      "NameServer": "ns1.heelys.zp.ua.",
+      "Origin": "heelys.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/help.zp.ua..txt",
+      "NameServer": "ns1.help.zp.ua.",
+      "Origin": "help.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/hesed.zp.ua..txt",
+      "NameServer": "ns1.hesed.zp.ua.",
+      "Origin": "hesed.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/hip-hop.zp.ua..txt",
+      "NameServer": "ns1.hip-hop.zp.ua.",
+      "Origin": "hip-hop.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/homenet.zp.ua..txt",
+      "NameServer": "ns1.homenet.zp.ua.",
+      "Origin": "homenet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/hortica.zp.ua..txt",
+      "NameServer": "ns1.hortica.zp.ua.",
+      "Origin": "hortica.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/host.zp.ua..txt",
+      "NameServer": "ns1.host.zp.ua.",
+      "Origin": "host.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/hoster.zp.ua..txt",
+      "NameServer": "ns1.hoster.zp.ua.",
+      "Origin": "hoster.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/hram-km.zp.ua..txt",
+      "NameServer": "ns1.hram-km.zp.ua.",
+      "Origin": "hram-km.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/hram.zp.ua..txt",
+      "NameServer": "ns1.hram.zp.ua.",
+      "Origin": "hram.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/hydroeco.zp.ua..txt",
+      "NameServer": "ns1.hydroeco.zp.ua.",
+      "Origin": "hydroeco.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/idabk.zp.ua..txt",
+      "NameServer": "ns1.idabk.zp.ua.",
+      "Origin": "idabk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ideal.zp.ua..txt",
+      "NameServer": "ns1.ideal.zp.ua.",
+      "Origin": "ideal.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/im.zp.ua..txt",
+      "NameServer": "ns1.im.zp.ua.",
+      "Origin": "im.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/imania.zp.ua..txt",
+      "NameServer": "ns1.imania.zp.ua.",
+      "Origin": "imania.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/imarketing.zp.ua..txt",
+      "NameServer": "ns1.imarketing.zp.ua.",
+      "Origin": "imarketing.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/imho.zp.ua..txt",
+      "NameServer": "ns1.imho.zp.ua.",
+      "Origin": "imho.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/imk.zp.ua..txt",
+      "NameServer": "ns1.imk.zp.ua.",
+      "Origin": "imk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/imt.zp.ua..txt",
+      "NameServer": "ns1.imt.zp.ua.",
+      "Origin": "imt.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/info-room.zp.ua..txt",
+      "NameServer": "ns1.info-room.zp.ua.",
+      "Origin": "info-room.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/infocom.zp.ua..txt",
+      "NameServer": "ns1.infocom.zp.ua.",
+      "Origin": "infocom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/innkom.zp.ua..txt",
+      "NameServer": "ns1.innkom.zp.ua.",
+      "Origin": "innkom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/inter-com.zp.ua..txt",
+      "NameServer": "ns1.inter-com.zp.ua.",
+      "Origin": "inter-com.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/inter.zp.ua..txt",
+      "NameServer": "ns1.inter.zp.ua.",
+      "Origin": "inter.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/intercars.zp.ua..txt",
+      "NameServer": "ns1.intercars.zp.ua.",
+      "Origin": "intercars.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/internet.zp.ua..txt",
+      "NameServer": "ns1.internet.zp.ua.",
+      "Origin": "internet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/interpol.zp.ua..txt",
+      "NameServer": "ns1.interpol.zp.ua.",
+      "Origin": "interpol.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/intway.zp.ua..txt",
+      "NameServer": "ns1.intway.zp.ua.",
+      "Origin": "intway.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/inwek.zp.ua..txt",
+      "NameServer": "ns1.inwek.zp.ua.",
+      "Origin": "inwek.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/iosuaan.zp.ua..txt",
+      "NameServer": "ns1.iosuaan.zp.ua.",
+      "Origin": "iosuaan.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ip-vesna.zp.ua..txt",
+      "NameServer": "ns1.ip-vesna.zp.ua.",
+      "Origin": "ip-vesna.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/irp.zp.ua..txt",
+      "NameServer": "ns1.irp.zp.ua.",
+      "Origin": "irp.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/is.zp.ua..txt",
+      "NameServer": "ns1.is.zp.ua.",
+      "Origin": "is.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/iskra.zp.ua..txt",
+      "NameServer": "ns1.iskra.zp.ua.",
+      "Origin": "iskra.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ispvit.zp.ua..txt",
+      "NameServer": "ns1.ispvit.zp.ua.",
+      "Origin": "ispvit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/istok.zp.ua..txt",
+      "NameServer": "ns1.istok.zp.ua.",
+      "Origin": "istok.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/itplanet.zp.ua..txt",
+      "NameServer": "ns1.itplanet.zp.ua.",
+      "Origin": "itplanet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/itservice.zp.ua..txt",
+      "NameServer": "ns1.itservice.zp.ua.",
+      "Origin": "itservice.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/jabber.zp.ua..txt",
+      "NameServer": "ns1.jabber.zp.ua.",
+      "Origin": "jabber.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/job.zp.ua..txt",
+      "NameServer": "ns1.job.zp.ua.",
+      "Origin": "job.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/jr.zp.ua..txt",
+      "NameServer": "ns1.jr.zp.ua.",
+      "Origin": "jr.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ju-jutsu.zp.ua..txt",
+      "NameServer": "ns1.ju-jutsu.zp.ua.",
+      "Origin": "ju-jutsu.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kalayda.zp.ua..txt",
+      "NameServer": "ns1.kalayda.zp.ua.",
+      "Origin": "kalayda.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kamrada.zp.ua..txt",
+      "NameServer": "ns1.kamrada.zp.ua.",
+      "Origin": "kamrada.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kartashov.zp.ua..txt",
+      "NameServer": "ns1.kartashov.zp.ua.",
+      "Origin": "kartashov.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kbv.zp.ua..txt",
+      "NameServer": "ns1.kbv.zp.ua.",
+      "Origin": "kbv.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kdugg.zp.ua..txt",
+      "NameServer": "ns1.kdugg.zp.ua.",
+      "Origin": "kdugg.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kichkas.zp.ua..txt",
+      "NameServer": "ns1.kichkas.zp.ua.",
+      "Origin": "kichkas.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kip.zp.ua..txt",
+      "NameServer": "ns1.kip.zp.ua.",
+      "Origin": "kip.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kiss.zp.ua..txt",
+      "NameServer": "ns1.kiss.zp.ua.",
+      "Origin": "kiss.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kits.zp.ua..txt",
+      "NameServer": "ns1.kits.zp.ua.",
+      "Origin": "kits.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/klad.zp.ua..txt",
+      "NameServer": "ns1.klad.zp.ua.",
+      "Origin": "klad.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/klinikazgmu.zp.ua..txt",
+      "NameServer": "ns1.klinikazgmu.zp.ua.",
+      "Origin": "klinikazgmu.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kolorit.zp.ua..txt",
+      "NameServer": "ns1.kolorit.zp.ua.",
+      "Origin": "kolorit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kompot.zp.ua..txt",
+      "NameServer": "ns1.kompot.zp.ua.",
+      "Origin": "kompot.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/korner.zp.ua..txt",
+      "NameServer": "ns1.korner.zp.ua.",
+      "Origin": "korner.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kozak.zp.ua..txt",
+      "NameServer": "ns1.kozak.zp.ua.",
+      "Origin": "kozak.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kpf.zp.ua..txt",
+      "NameServer": "ns1.kpf.zp.ua.",
+      "Origin": "kpf.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/krai.zp.ua..txt",
+      "NameServer": "ns1.krai.zp.ua.",
+      "Origin": "krai.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kran.zp.ua..txt",
+      "NameServer": "ns1.kran.zp.ua.",
+      "Origin": "kran.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kray.zp.ua..txt",
+      "NameServer": "ns1.kray.zp.ua.",
+      "Origin": "kray.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/krishna.zp.ua..txt",
+      "NameServer": "ns1.krishna.zp.ua.",
+      "Origin": "krishna.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/krok-gt.zp.ua..txt",
+      "NameServer": "ns1.krok-gt.zp.ua.",
+      "Origin": "krok-gt.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kronos.zp.ua..txt",
+      "NameServer": "ns1.kronos.zp.ua.",
+      "Origin": "kronos.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/krovlya.zp.ua..txt",
+      "NameServer": "ns1.krovlya.zp.ua.",
+      "Origin": "krovlya.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kson.zp.ua..txt",
+      "NameServer": "ns1.kson.zp.ua.",
+      "Origin": "kson.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kto.zp.ua..txt",
+      "NameServer": "ns1.kto.zp.ua.",
+      "Origin": "kto.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kultura.zp.ua..txt",
+      "NameServer": "ns1.kultura.zp.ua.",
+      "Origin": "kultura.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kupi.zp.ua..txt",
+      "NameServer": "ns1.kupi.zp.ua.",
+      "Origin": "kupi.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kurort.zp.ua..txt",
+      "NameServer": "ns1.kurort.zp.ua.",
+      "Origin": "kurort.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kvazar-micro.zp.ua..txt",
+      "NameServer": "ns1.kvazar-micro.zp.ua.",
+      "Origin": "kvazar-micro.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kvest.zp.ua..txt",
+      "NameServer": "ns1.kvest.zp.ua.",
+      "Origin": "kvest.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kvzn.zp.ua..txt",
+      "NameServer": "ns1.kvzn.zp.ua.",
+      "Origin": "kvzn.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/kz.zp.ua..txt",
+      "NameServer": "ns1.kz.zp.ua.",
+      "Origin": "kz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ladies.zp.ua..txt",
+      "NameServer": "ns1.ladies.zp.ua.",
+      "Origin": "ladies.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lafemme.zp.ua..txt",
+      "NameServer": "ns1.lafemme.zp.ua.",
+      "Origin": "lafemme.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lan.zp.ua..txt",
+      "NameServer": "ns1.lan.zp.ua.",
+      "Origin": "lan.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/land.zp.ua..txt",
+      "NameServer": "ns1.land.zp.ua.",
+      "Origin": "land.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lasunka.zp.ua..txt",
+      "NameServer": "ns1.lasunka.zp.ua.",
+      "Origin": "lasunka.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lebedeva.zp.ua..txt",
+      "NameServer": "ns1.lebedeva.zp.ua.",
+      "Origin": "lebedeva.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lenra.zp.ua..txt",
+      "NameServer": "ns1.lenra.zp.ua.",
+      "Origin": "lenra.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lenta.zp.ua..txt",
+      "NameServer": "ns1.lenta.zp.ua.",
+      "Origin": "lenta.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/leshoz.zp.ua..txt",
+      "NameServer": "ns1.leshoz.zp.ua.",
+      "Origin": "leshoz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/letto.zp.ua..txt",
+      "NameServer": "ns1.letto.zp.ua.",
+      "Origin": "letto.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/libraline.zp.ua..txt",
+      "NameServer": "ns1.libraline.zp.ua.",
+      "Origin": "libraline.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/life.zp.ua..txt",
+      "NameServer": "ns1.life.zp.ua.",
+      "Origin": "life.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/linet.zp.ua..txt",
+      "NameServer": "ns1.linet.zp.ua.",
+      "Origin": "linet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/linux.zp.ua..txt",
+      "NameServer": "ns1.linux.zp.ua.",
+      "Origin": "linux.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lips.zp.ua..txt",
+      "NameServer": "ns1.lips.zp.ua.",
+      "Origin": "lips.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/live.zp.ua..txt",
+      "NameServer": "ns1.live.zp.ua.",
+      "Origin": "live.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/logo.zp.ua..txt",
+      "NameServer": "ns1.logo.zp.ua.",
+      "Origin": "logo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lotos.zp.ua..txt",
+      "NameServer": "ns1.lotos.zp.ua.",
+      "Origin": "lotos.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lubov.zp.ua..txt",
+      "NameServer": "ns1.lubov.zp.ua.",
+      "Origin": "lubov.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lucky.zp.ua..txt",
+      "NameServer": "ns1.lucky.zp.ua.",
+      "Origin": "lucky.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/lug.zp.ua..txt",
+      "NameServer": "ns1.lug.zp.ua.",
+      "Origin": "lug.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/magara.zp.ua..txt",
+      "NameServer": "ns1.magara.zp.ua.",
+      "Origin": "magara.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mail.zp.ua..txt",
+      "NameServer": "ns1.mail.zp.ua.",
+      "Origin": "mail.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/map.zp.ua..txt",
+      "NameServer": "ns1.map.zp.ua.",
+      "Origin": "map.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/market-group.zp.ua..txt",
+      "NameServer": "ns1.market-group.zp.ua.",
+      "Origin": "market-group.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/maup.zp.ua..txt",
+      "NameServer": "ns1.maup.zp.ua.",
+      "Origin": "maup.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mayak.zp.ua..txt",
+      "NameServer": "ns1.mayak.zp.ua.",
+      "Origin": "mayak.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mbl.zp.ua..txt",
+      "NameServer": "ns1.mbl.zp.ua.",
+      "Origin": "mbl.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mdgr.zp.ua..txt",
+      "NameServer": "ns1.mdgr.zp.ua.",
+      "Origin": "mdgr.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/me.zp.ua..txt",
+      "NameServer": "ns1.me.zp.ua.",
+      "Origin": "me.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/med.zp.ua..txt",
+      "NameServer": "ns1.med.zp.ua.",
+      "Origin": "med.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/medcom.zp.ua..txt",
+      "NameServer": "ns1.medcom.zp.ua.",
+      "Origin": "medcom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/medcomplekt.zp.ua..txt",
+      "NameServer": "ns1.medcomplekt.zp.ua.",
+      "Origin": "medcomplekt.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/media.zp.ua..txt",
+      "NameServer": "ns1.media.zp.ua.",
+      "Origin": "media.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/melcom.zp.ua..txt",
+      "NameServer": "ns1.melcom.zp.ua.",
+      "Origin": "melcom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mentor.zp.ua..txt",
+      "NameServer": "ns1.mentor.zp.ua.",
+      "Origin": "mentor.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/meria.zp.ua..txt",
+      "NameServer": "ns1.meria.zp.ua.",
+      "Origin": "meria.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/metrotekit.zp.ua..txt",
+      "NameServer": "ns1.metrotekit.zp.ua.",
+      "Origin": "metrotekit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mezpology.zp.ua..txt",
+      "NameServer": "ns1.mezpology.zp.ua.",
+      "Origin": "mezpology.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mgk.zp.ua..txt",
+      "NameServer": "ns1.mgk.zp.ua.",
+      "Origin": "mgk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/microcom.zp.ua..txt",
+      "NameServer": "ns1.microcom.zp.ua.",
+      "Origin": "microcom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/microtron.zp.ua..txt",
+      "NameServer": "ns1.microtron.zp.ua.",
+      "Origin": "microtron.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mida.zp.ua..txt",
+      "NameServer": "ns1.mida.zp.ua.",
+      "Origin": "mida.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/midis.zp.ua..txt",
+      "NameServer": "ns1.midis.zp.ua.",
+      "Origin": "midis.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/migremont.zp.ua..txt",
+      "NameServer": "ns1.migremont.zp.ua.",
+      "Origin": "migremont.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mik.zp.ua..txt",
+      "NameServer": "ns1.mik.zp.ua.",
+      "Origin": "mik.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mikroteh.zp.ua..txt",
+      "NameServer": "ns1.mikroteh.zp.ua.",
+      "Origin": "mikroteh.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mirtechno.zp.ua..txt",
+      "NameServer": "ns1.mirtechno.zp.ua.",
+      "Origin": "mirtechno.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/miskvo.zp.ua..txt",
+      "NameServer": "ns1.miskvo.zp.ua.",
+      "Origin": "miskvo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/misto.zp.ua..txt",
+      "NameServer": "ns1.misto.zp.ua.",
+      "Origin": "misto.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mix.zp.ua..txt",
+      "NameServer": "ns1.mix.zp.ua.",
+      "Origin": "mix.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mk.zp.ua..txt",
+      "NameServer": "ns1.mk.zp.ua.",
+      "Origin": "mk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mks.zp.ua..txt",
+      "NameServer": "ns1.mks.zp.ua.",
+      "Origin": "mks.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mnd.zp.ua..txt",
+      "NameServer": "ns1.mnd.zp.ua.",
+      "Origin": "mnd.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mobile.zp.ua..txt",
+      "NameServer": "ns1.mobile.zp.ua.",
+      "Origin": "mobile.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mobilnik.zp.ua..txt",
+      "NameServer": "ns1.mobilnik.zp.ua.",
+      "Origin": "mobilnik.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/modelist.zp.ua..txt",
+      "NameServer": "ns1.modelist.zp.ua.",
+      "Origin": "modelist.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/modern.zp.ua..txt",
+      "NameServer": "ns1.modern.zp.ua.",
+      "Origin": "modern.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/most.zp.ua..txt",
+      "NameServer": "ns1.most.zp.ua.",
+      "Origin": "most.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mps.zp.ua..txt",
+      "NameServer": "ns1.mps.zp.ua.",
+      "Origin": "mps.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mriya.zp.ua..txt",
+      "NameServer": "ns1.mriya.zp.ua.",
+      "Origin": "mriya.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mtm.zp.ua..txt",
+      "NameServer": "ns1.mtm.zp.ua.",
+      "Origin": "mtm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/museum.zp.ua..txt",
+      "NameServer": "ns1.museum.zp.ua.",
+      "Origin": "museum.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/muzon.zp.ua..txt",
+      "NameServer": "ns1.muzon.zp.ua.",
+      "Origin": "muzon.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/muzone.zp.ua..txt",
+      "NameServer": "ns1.muzone.zp.ua.",
+      "Origin": "muzone.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/my.zp.ua..txt",
+      "NameServer": "ns1.my.zp.ua.",
+      "Origin": "my.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mybaby.zp.ua..txt",
+      "NameServer": "ns1.mybaby.zp.ua.",
+      "Origin": "mybaby.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mycomp.zp.ua..txt",
+      "NameServer": "ns1.mycomp.zp.ua.",
+      "Origin": "mycomp.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/mzm.zp.ua..txt",
+      "NameServer": "ns1.mzm.zp.ua.",
+      "Origin": "mzm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/nabernet.zp.ua..txt",
+      "NameServer": "ns1.nabernet.zp.ua.",
+      "Origin": "nabernet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/nashasvadba.zp.ua..txt",
+      "NameServer": "ns1.nashasvadba.zp.ua.",
+      "Origin": "nashasvadba.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/nautilus.zp.ua..txt",
+      "NameServer": "ns1.nautilus.zp.ua.",
+      "Origin": "nautilus.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/neboley.zp.ua..txt",
+      "NameServer": "ns1.neboley.zp.ua.",
+      "Origin": "neboley.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/neg.zp.ua..txt",
+      "NameServer": "ns1.neg.zp.ua.",
+      "Origin": "neg.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/neon.zp.ua..txt",
+      "NameServer": "ns1.neon.zp.ua.",
+      "Origin": "neon.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/netpoint.zp.ua..txt",
+      "NameServer": "ns1.netpoint.zp.ua.",
+      "Origin": "netpoint.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/neuro.zp.ua..txt",
+      "NameServer": "ns1.neuro.zp.ua.",
+      "Origin": "neuro.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/newline.zp.ua..txt",
+      "NameServer": "ns1.newline.zp.ua.",
+      "Origin": "newline.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/news.strela.zp.ua..txt",
+      "NameServer": "ns1.news.strela.zp.ua.",
+      "Origin": "news.strela.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ngo.zp.ua..txt",
+      "NameServer": "ns1.ngo.zp.ua.",
+      "Origin": "ngo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/niiogas.zp.ua..txt",
+      "NameServer": "ns1.niiogas.zp.ua.",
+      "Origin": "niiogas.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ninpo.zp.ua..txt",
+      "NameServer": "ns1.ninpo.zp.ua.",
+      "Origin": "ninpo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/niva.zp.ua..txt",
+      "NameServer": "ns1.niva.zp.ua.",
+      "Origin": "niva.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/novosel.zp.ua..txt",
+      "NameServer": "ns1.novosel.zp.ua.",
+      "Origin": "novosel.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/novostroy.zp.ua..txt",
+      "NameServer": "ns1.novostroy.zp.ua.",
+      "Origin": "novostroy.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/npp.zp.ua..txt",
+      "NameServer": "ns1.npp.zp.ua.",
+      "Origin": "npp.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ns1.xcom.zp.ua..txt",
+      "NameServer": "ns1.ns1.xcom.zp.ua.",
+      "Origin": "ns1.xcom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ns2.xcom.zp.ua..txt",
+      "NameServer": "ns1.ns2.xcom.zp.ua.",
+      "Origin": "ns2.xcom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/nv.zp.ua..txt",
+      "NameServer": "ns1.nv.zp.ua.",
+      "Origin": "nv.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/obereg.zp.ua..txt",
+      "NameServer": "ns1.obereg.zp.ua.",
+      "Origin": "obereg.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/oblses.zp.ua..txt",
+      "NameServer": "ns1.oblses.zp.ua.",
+      "Origin": "oblses.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/oboz.zp.ua..txt",
+      "NameServer": "ns1.oboz.zp.ua.",
+      "Origin": "oboz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/obzor.zp.ua..txt",
+      "NameServer": "ns1.obzor.zp.ua.",
+      "Origin": "obzor.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/oda.zp.ua..txt",
+      "NameServer": "ns1.oda.zp.ua.",
+      "Origin": "oda.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/office.zp.ua..txt",
+      "NameServer": "ns1.office.zp.ua.",
+      "Origin": "office.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ofis.zp.ua..txt",
+      "NameServer": "ns1.ofis.zp.ua.",
+      "Origin": "ofis.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ohota.zp.ua..txt",
+      "NameServer": "ns1.ohota.zp.ua.",
+      "Origin": "ohota.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ohrana.zp.ua..txt",
+      "NameServer": "ns1.ohrana.zp.ua.",
+      "Origin": "ohrana.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ok.zp.ua..txt",
+      "NameServer": "ns1.ok.zp.ua.",
+      "Origin": "ok.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/oldgames.zp.ua..txt",
+      "NameServer": "ns1.oldgames.zp.ua.",
+      "Origin": "oldgames.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/olis.zp.ua..txt",
+      "NameServer": "ns1.olis.zp.ua.",
+      "Origin": "olis.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/online.zp.ua..txt",
+      "NameServer": "ns1.online.zp.ua.",
+      "Origin": "online.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/oops.zp.ua..txt",
+      "NameServer": "ns1.oops.zp.ua.",
+      "Origin": "oops.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/openroad.zp.ua..txt",
+      "NameServer": "ns1.openroad.zp.ua.",
+      "Origin": "openroad.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/optika.zp.ua..txt",
+      "NameServer": "ns1.optika.zp.ua.",
+      "Origin": "optika.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/oriflame.zp.ua..txt",
+      "NameServer": "ns1.oriflame.zp.ua.",
+      "Origin": "oriflame.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/oriyana.zp.ua..txt",
+      "NameServer": "ns1.oriyana.zp.ua.",
+      "Origin": "oriyana.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ort.zp.ua..txt",
+      "NameServer": "ns1.ort.zp.ua.",
+      "Origin": "ort.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/osnovanie.zp.ua..txt",
+      "NameServer": "ns1.osnovanie.zp.ua.",
+      "Origin": "osnovanie.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ostrov.zp.ua..txt",
+      "NameServer": "ns1.ostrov.zp.ua.",
+      "Origin": "ostrov.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/otvet.zp.ua..txt",
+      "NameServer": "ns1.otvet.zp.ua.",
+      "Origin": "otvet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ougg.zp.ua..txt",
+      "NameServer": "ns1.ougg.zp.ua.",
+      "Origin": "ougg.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/packet.zp.ua..txt",
+      "NameServer": "ns1.packet.zp.ua.",
+      "Origin": "packet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/party.zp.ua..txt",
+      "NameServer": "ns1.party.zp.ua.",
+      "Origin": "party.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pbank.zp.ua..txt",
+      "NameServer": "ns1.pbank.zp.ua.",
+      "Origin": "pbank.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pechati.zp.ua..txt",
+      "NameServer": "ns1.pechati.zp.ua.",
+      "Origin": "pechati.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/penoizol.zp.ua..txt",
+      "NameServer": "ns1.penoizol.zp.ua.",
+      "Origin": "penoizol.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/personal.zp.ua..txt",
+      "NameServer": "ns1.personal.zp.ua.",
+      "Origin": "personal.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pf.zp.ua..txt",
+      "NameServer": "ns1.pf.zp.ua.",
+      "Origin": "pf.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pfu.zp.ua..txt",
+      "NameServer": "ns1.pfu.zp.ua.",
+      "Origin": "pfu.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pg.zp.ua..txt",
+      "NameServer": "ns1.pg.zp.ua.",
+      "Origin": "pg.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pharmacy.zp.ua..txt",
+      "NameServer": "ns1.pharmacy.zp.ua.",
+      "Origin": "pharmacy.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/photoalbum.zp.ua..txt",
+      "NameServer": "ns1.photoalbum.zp.ua.",
+      "Origin": "photoalbum.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pilot.zp.ua..txt",
+      "NameServer": "ns1.pilot.zp.ua.",
+      "Origin": "pilot.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pitstop.zp.ua..txt",
+      "NameServer": "ns1.pitstop.zp.ua.",
+      "Origin": "pitstop.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pivdenny.zp.ua..txt",
+      "NameServer": "ns1.pivdenny.zp.ua.",
+      "Origin": "pivdenny.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pizzacity.zp.ua..txt",
+      "NameServer": "ns1.pizzacity.zp.ua.",
+      "Origin": "pizzacity.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/planeta107.zp.ua..txt",
+      "NameServer": "ns1.planeta107.zp.ua.",
+      "Origin": "planeta107.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pluton.zp.ua..txt",
+      "NameServer": "ns1.pluton.zp.ua.",
+      "Origin": "pluton.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pm.zp.ua..txt",
+      "NameServer": "ns1.pm.zp.ua.",
+      "Origin": "pm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pmp-online.zp.ua..txt",
+      "NameServer": "ns1.pmp-online.zp.ua.",
+      "Origin": "pmp-online.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/podobovo.zp.ua..txt",
+      "NameServer": "ns1.podobovo.zp.ua.",
+      "Origin": "podobovo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/polacy.zp.ua..txt",
+      "NameServer": "ns1.polacy.zp.ua.",
+      "Origin": "polacy.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/poligon.zp.ua..txt",
+      "NameServer": "ns1.poligon.zp.ua.",
+      "Origin": "poligon.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/poliplast.zp.ua..txt",
+      "NameServer": "ns1.poliplast.zp.ua.",
+      "Origin": "poliplast.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pology.zp.ua..txt",
+      "NameServer": "ns1.pology.zp.ua.",
+      "Origin": "pology.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/polygon.zp.ua..txt",
+      "NameServer": "ns1.polygon.zp.ua.",
+      "Origin": "polygon.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/porogy.zp.ua..txt",
+      "NameServer": "ns1.porogy.zp.ua.",
+      "Origin": "porogy.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/portal-azova.zp.ua..txt",
+      "NameServer": "ns1.portal-azova.zp.ua.",
+      "Origin": "portal-azova.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/portall.zp.ua..txt",
+      "NameServer": "ns1.portall.zp.ua.",
+      "Origin": "portall.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pozhtech.zp.ua..txt",
+      "NameServer": "ns1.pozhtech.zp.ua.",
+      "Origin": "pozhtech.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/premier.zp.ua..txt",
+      "NameServer": "ns1.premier.zp.ua.",
+      "Origin": "premier.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/presshouse.zp.ua..txt",
+      "NameServer": "ns1.presshouse.zp.ua.",
+      "Origin": "presshouse.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/privet.zp.ua..txt",
+      "NameServer": "ns1.privet.zp.ua.",
+      "Origin": "privet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/procom.zp.ua..txt",
+      "NameServer": "ns1.procom.zp.ua.",
+      "Origin": "procom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/profit.zp.ua..txt",
+      "NameServer": "ns1.profit.zp.ua.",
+      "Origin": "profit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/progress.zp.ua..txt",
+      "NameServer": "ns1.progress.zp.ua.",
+      "Origin": "progress.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/promel.zp.ua..txt",
+      "NameServer": "ns1.promel.zp.ua.",
+      "Origin": "promel.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/promlicey.zp.ua..txt",
+      "NameServer": "ns1.promlicey.zp.ua.",
+      "Origin": "promlicey.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pronan.zp.ua..txt",
+      "NameServer": "ns1.pronan.zp.ua.",
+      "Origin": "pronan.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/prorab.zp.ua..txt",
+      "NameServer": "ns1.prorab.zp.ua.",
+      "Origin": "prorab.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/prospect.zp.ua..txt",
+      "NameServer": "ns1.prospect.zp.ua.",
+      "Origin": "prospect.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/prosport.zp.ua..txt",
+      "NameServer": "ns1.prosport.zp.ua.",
+      "Origin": "prosport.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/prostoplus.zp.ua..txt",
+      "NameServer": "ns1.prostoplus.zp.ua.",
+      "Origin": "prostoplus.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ps.zp.ua..txt",
+      "NameServer": "ns1.ps.zp.ua.",
+      "Origin": "ps.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pulse.zp.ua..txt",
+      "NameServer": "ns1.pulse.zp.ua.",
+      "Origin": "pulse.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/putevki.zp.ua..txt",
+      "NameServer": "ns1.putevki.zp.ua.",
+      "Origin": "putevki.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/pzv.zp.ua..txt",
+      "NameServer": "ns1.pzv.zp.ua.",
+      "Origin": "pzv.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/r-invest.zp.ua..txt",
+      "NameServer": "ns1.r-invest.zp.ua.",
+      "Origin": "r-invest.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/r.zp.ua..txt",
+      "NameServer": "ns1.r.zp.ua.",
+      "Origin": "r.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/racing.zp.ua..txt",
+      "NameServer": "ns1.racing.zp.ua.",
+      "Origin": "racing.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rada.zp.ua..txt",
+      "NameServer": "ns1.rada.zp.ua.",
+      "Origin": "rada.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/radio3.zp.ua..txt",
+      "NameServer": "ns1.radio3.zp.ua.",
+      "Origin": "radio3.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rassledovanie.zp.ua..txt",
+      "NameServer": "ns1.rassledovanie.zp.ua.",
+      "Origin": "rassledovanie.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rassvet.zp.ua..txt",
+      "NameServer": "ns1.rassvet.zp.ua.",
+      "Origin": "rassvet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rating.zp.ua..txt",
+      "NameServer": "ns1.rating.zp.ua.",
+      "Origin": "rating.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rcom.zp.ua..txt",
+      "NameServer": "ns1.rcom.zp.ua.",
+      "Origin": "rcom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/redcross.zp.ua..txt",
+      "NameServer": "ns1.redcross.zp.ua.",
+      "Origin": "redcross.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/region.zp.ua..txt",
+      "NameServer": "ns1.region.zp.ua.",
+      "Origin": "region.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/reis.zp.ua..txt",
+      "NameServer": "ns1.reis.zp.ua.",
+      "Origin": "reis.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rekrut.zp.ua..txt",
+      "NameServer": "ns1.rekrut.zp.ua.",
+      "Origin": "rekrut.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/relax.zp.ua..txt",
+      "NameServer": "ns1.relax.zp.ua.",
+      "Origin": "relax.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rembitservice.zp.ua..txt",
+      "NameServer": "ns1.rembitservice.zp.ua.",
+      "Origin": "rembitservice.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/reporter.zp.ua..txt",
+      "NameServer": "ns1.reporter.zp.ua.",
+      "Origin": "reporter.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/resonance.zp.ua..txt",
+      "NameServer": "ns1.resonance.zp.ua.",
+      "Origin": "resonance.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/retro.zp.ua..txt",
+      "NameServer": "ns1.retro.zp.ua.",
+      "Origin": "retro.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rieltor.zp.ua..txt",
+      "NameServer": "ns1.rieltor.zp.ua.",
+      "Origin": "rieltor.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rim.zp.ua..txt",
+      "NameServer": "ns1.rim.zp.ua.",
+      "Origin": "rim.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ritm.zp.ua..txt",
+      "NameServer": "ns1.ritm.zp.ua.",
+      "Origin": "ritm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rkc.zp.ua..txt",
+      "NameServer": "ns1.rkc.zp.ua.",
+      "Origin": "rkc.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rolevik.zp.ua..txt",
+      "NameServer": "ns1.rolevik.zp.ua.",
+      "Origin": "rolevik.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/roma.zp.ua..txt",
+      "NameServer": "ns1.roma.zp.ua.",
+      "Origin": "roma.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/romantik.zp.ua..txt",
+      "NameServer": "ns1.romantik.zp.ua.",
+      "Origin": "romantik.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rotary.zp.ua..txt",
+      "NameServer": "ns1.rotary.zp.ua.",
+      "Origin": "rotary.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rus.zp.ua..txt",
+      "NameServer": "ns1.rus.zp.ua.",
+      "Origin": "rus.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/rybohorona.zp.ua..txt",
+      "NameServer": "ns1.rybohorona.zp.ua.",
+      "Origin": "rybohorona.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/s28.zp.ua..txt",
+      "NameServer": "ns1.s28.zp.ua.",
+      "Origin": "s28.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sa.zp.ua..txt",
+      "NameServer": "ns1.sa.zp.ua.",
+      "Origin": "sa.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sailing.zp.ua..txt",
+      "NameServer": "ns1.sailing.zp.ua.",
+      "Origin": "sailing.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sales.zp.ua..txt",
+      "NameServer": "ns1.sales.zp.ua.",
+      "Origin": "sales.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/salon.zp.ua..txt",
+      "NameServer": "ns1.salon.zp.ua.",
+      "Origin": "salon.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/samm.zp.ua..txt",
+      "NameServer": "ns1.samm.zp.ua.",
+      "Origin": "samm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/samoobrazovanie.zp.ua..txt",
+      "NameServer": "ns1.samoobrazovanie.zp.ua.",
+      "Origin": "samoobrazovanie.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/samovar.zp.ua..txt",
+      "NameServer": "ns1.samovar.zp.ua.",
+      "Origin": "samovar.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sbank.zp.ua..txt",
+      "NameServer": "ns1.sbank.zp.ua.",
+      "Origin": "sbank.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sc.zp.ua..txt",
+      "NameServer": "ns1.sc.zp.ua.",
+      "Origin": "sc.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/school.zp.ua..txt",
+      "NameServer": "ns1.school.zp.ua.",
+      "Origin": "school.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/scorpion.zp.ua..txt",
+      "NameServer": "ns1.scorpion.zp.ua.",
+      "Origin": "scorpion.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/semena.zp.ua..txt",
+      "NameServer": "ns1.semena.zp.ua.",
+      "Origin": "semena.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sergey-kaltsev.zp.ua..txt",
+      "NameServer": "ns1.sergey-kaltsev.zp.ua.",
+      "Origin": "sergey-kaltsev.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/setka.zp.ua..txt",
+      "NameServer": "ns1.setka.zp.ua.",
+      "Origin": "setka.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/shakespeare.zp.ua..txt",
+      "NameServer": "ns1.shakespeare.zp.ua.",
+      "Origin": "shakespeare.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/shanti.zp.ua..txt",
+      "NameServer": "ns1.shanti.zp.ua.",
+      "Origin": "shanti.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sich.zp.ua..txt",
+      "NameServer": "ns1.sich.zp.ua.",
+      "Origin": "sich.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sigma.zp.ua..txt",
+      "NameServer": "ns1.sigma.zp.ua.",
+      "Origin": "sigma.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/silnaukraina.zp.ua..txt",
+      "NameServer": "ns1.silnaukraina.zp.ua.",
+      "Origin": "silnaukraina.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sin.zp.ua..txt",
+      "NameServer": "ns1.sin.zp.ua.",
+      "Origin": "sin.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/skat.zp.ua..txt",
+      "NameServer": "ns1.skat.zp.ua.",
+      "Origin": "skat.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/skynet.zp.ua..txt",
+      "NameServer": "ns1.skynet.zp.ua.",
+      "Origin": "skynet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/slavia.zp.ua..txt",
+      "NameServer": "ns1.slavia.zp.ua.",
+      "Origin": "slavia.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/smarthouse.zp.ua..txt",
+      "NameServer": "ns1.smarthouse.zp.ua.",
+      "Origin": "smarthouse.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/smarts.zp.ua..txt",
+      "NameServer": "ns1.smarts.zp.ua.",
+      "Origin": "smarts.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sniper.zp.ua..txt",
+      "NameServer": "ns1.sniper.zp.ua.",
+      "Origin": "sniper.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sobor.zp.ua..txt",
+      "NameServer": "ns1.sobor.zp.ua.",
+      "Origin": "sobor.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/softtaxi.zp.ua..txt",
+      "NameServer": "ns1.softtaxi.zp.ua.",
+      "Origin": "softtaxi.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sota.zp.ua..txt",
+      "NameServer": "ns1.sota.zp.ua.",
+      "Origin": "sota.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/southside.zp.ua..txt",
+      "NameServer": "ns1.southside.zp.ua.",
+      "Origin": "southside.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sp-house.zp.ua..txt",
+      "NameServer": "ns1.sp-house.zp.ua.",
+      "Origin": "sp-house.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/spy.zp.ua..txt",
+      "NameServer": "ns1.spy.zp.ua.",
+      "Origin": "spy.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sqshop.zp.ua..txt",
+      "NameServer": "ns1.sqshop.zp.ua.",
+      "Origin": "sqshop.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ss.zp.ua..txt",
+      "NameServer": "ns1.ss.zp.ua.",
+      "Origin": "ss.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/stadion.zp.ua..txt",
+      "NameServer": "ns1.stadion.zp.ua.",
+      "Origin": "stadion.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/starinet.zp.ua..txt",
+      "NameServer": "ns1.starinet.zp.ua.",
+      "Origin": "starinet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sterling.zp.ua..txt",
+      "NameServer": "ns1.sterling.zp.ua.",
+      "Origin": "sterling.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/stimul.zp.ua..txt",
+      "NameServer": "ns1.stimul.zp.ua.",
+      "Origin": "stimul.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/stomatolog.zp.ua..txt",
+      "NameServer": "ns1.stomatolog.zp.ua.",
+      "Origin": "stomatolog.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/stozhary.zp.ua..txt",
+      "NameServer": "ns1.stozhary.zp.ua.",
+      "Origin": "stozhary.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/stream.zp.ua..txt",
+      "NameServer": "ns1.stream.zp.ua.",
+      "Origin": "stream.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/strela.zp.ua..txt",
+      "NameServer": "ns1.strela.zp.ua.",
+      "Origin": "strela.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sts.zp.ua..txt",
+      "NameServer": "ns1.sts.zp.ua.",
+      "Origin": "sts.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/subnet.zp.ua..txt",
+      "NameServer": "ns1.subnet.zp.ua.",
+      "Origin": "subnet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/sunseeds.zp.ua..txt",
+      "NameServer": "ns1.sunseeds.zp.ua.",
+      "Origin": "sunseeds.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/superbit.zp.ua..txt",
+      "NameServer": "ns1.superbit.zp.ua.",
+      "Origin": "superbit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/svs.zp.ua..txt",
+      "NameServer": "ns1.svs.zp.ua.",
+      "Origin": "svs.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/swift.zp.ua..txt",
+      "NameServer": "ns1.swift.zp.ua.",
+      "Origin": "swift.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/system.zp.ua..txt",
+      "NameServer": "ns1.system.zp.ua.",
+      "Origin": "system.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/systema.zp.ua..txt",
+      "NameServer": "ns1.systema.zp.ua.",
+      "Origin": "systema.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/systems.zp.ua..txt",
+      "NameServer": "ns1.systems.zp.ua.",
+      "Origin": "systems.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tanchenko.zp.ua..txt",
+      "NameServer": "ns1.tanchenko.zp.ua.",
+      "Origin": "tanchenko.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tata.zp.ua..txt",
+      "NameServer": "ns1.tata.zp.ua.",
+      "Origin": "tata.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tatyana.zp.ua..txt",
+      "NameServer": "ns1.tatyana.zp.ua.",
+      "Origin": "tatyana.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tavma.zp.ua..txt",
+      "NameServer": "ns1.tavma.zp.ua.",
+      "Origin": "tavma.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/td-olis.zp.ua..txt",
+      "NameServer": "ns1.td-olis.zp.ua.",
+      "Origin": "td-olis.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tea.zp.ua..txt",
+      "NameServer": "ns1.tea.zp.ua.",
+      "Origin": "tea.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tech.zp.ua..txt",
+      "NameServer": "ns1.tech.zp.ua.",
+      "Origin": "tech.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/techlab.zp.ua..txt",
+      "NameServer": "ns1.techlab.zp.ua.",
+      "Origin": "techlab.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/technofavorit.zp.ua..txt",
+      "NameServer": "ns1.technofavorit.zp.ua.",
+      "Origin": "technofavorit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/telza.zp.ua..txt",
+      "NameServer": "ns1.telza.zp.ua.",
+      "Origin": "telza.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/teplo.zp.ua..txt",
+      "NameServer": "ns1.teplo.zp.ua.",
+      "Origin": "teplo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/teploseti.zp.ua..txt",
+      "NameServer": "ns1.teploseti.zp.ua.",
+      "Origin": "teploseti.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/termin.zp.ua..txt",
+      "NameServer": "ns1.termin.zp.ua.",
+      "Origin": "termin.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tetra.zp.ua..txt",
+      "NameServer": "ns1.tetra.zp.ua.",
+      "Origin": "tetra.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tibet.zp.ua..txt",
+      "NameServer": "ns1.tibet.zp.ua.",
+      "Origin": "tibet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tinet.zp.ua..txt",
+      "NameServer": "ns1.tinet.zp.ua.",
+      "Origin": "tinet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/toda.zp.ua..txt",
+      "NameServer": "ns1.toda.zp.ua.",
+      "Origin": "toda.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tokmak.zp.ua..txt",
+      "NameServer": "ns1.tokmak.zp.ua.",
+      "Origin": "tokmak.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tolpa.zp.ua..txt",
+      "NameServer": "ns1.tolpa.zp.ua.",
+      "Origin": "tolpa.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tools-shop.zp.ua..txt",
+      "NameServer": "ns1.tools-shop.zp.ua.",
+      "Origin": "tools-shop.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tourism.zp.ua..txt",
+      "NameServer": "ns1.tourism.zp.ua.",
+      "Origin": "tourism.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tpl.zp.ua..txt",
+      "NameServer": "ns1.tpl.zp.ua.",
+      "Origin": "tpl.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tr.zp.ua..txt",
+      "NameServer": "ns1.tr.zp.ua.",
+      "Origin": "tr.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tracker.zp.ua..txt",
+      "NameServer": "ns1.tracker.zp.ua.",
+      "Origin": "tracker.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/transfer.zp.ua..txt",
+      "NameServer": "ns1.transfer.zp.ua.",
+      "Origin": "transfer.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/transplant.zp.ua..txt",
+      "NameServer": "ns1.transplant.zp.ua.",
+      "Origin": "transplant.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/trion.zp.ua..txt",
+      "NameServer": "ns1.trion.zp.ua.",
+      "Origin": "trion.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tugg.zp.ua..txt",
+      "NameServer": "ns1.tugg.zp.ua.",
+      "Origin": "tugg.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/turizm.zp.ua..txt",
+      "NameServer": "ns1.turizm.zp.ua.",
+      "Origin": "turizm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tv5.zp.ua..txt",
+      "NameServer": "ns1.tv5.zp.ua.",
+      "Origin": "tv5.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/tvoy.zp.ua..txt",
+      "NameServer": "ns1.tvoy.zp.ua.",
+      "Origin": "tvoy.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/uanews.zp.ua..txt",
+      "NameServer": "ns1.uanews.zp.ua.",
+      "Origin": "uanews.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/uavto.zp.ua..txt",
+      "NameServer": "ns1.uavto.zp.ua.",
+      "Origin": "uavto.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ucc.zp.ua..txt",
+      "NameServer": "ns1.ucc.zp.ua.",
+      "Origin": "ucc.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/uft.zp.ua..txt",
+      "NameServer": "ns1.uft.zp.ua.",
+      "Origin": "uft.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ukraine.zp.ua..txt",
+      "NameServer": "ns1.ukraine.zp.ua.",
+      "Origin": "ukraine.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ukrgrafit.zp.ua..txt",
+      "NameServer": "ns1.ukrgrafit.zp.ua.",
+      "Origin": "ukrgrafit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ukrsep.zp.ua..txt",
+      "NameServer": "ns1.ukrsep.zp.ua.",
+      "Origin": "ukrsep.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ultranet.zp.ua..txt",
+      "NameServer": "ns1.ultranet.zp.ua.",
+      "Origin": "ultranet.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/umapalata.zp.ua..txt",
+      "NameServer": "ns1.umapalata.zp.ua.",
+      "Origin": "umapalata.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/uran.zp.ua..txt",
+      "NameServer": "ns1.uran.zp.ua.",
+      "Origin": "uran.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/usluga.zp.ua..txt",
+      "NameServer": "ns1.usluga.zp.ua.",
+      "Origin": "usluga.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ute.zp.ua..txt",
+      "NameServer": "ns1.ute.zp.ua.",
+      "Origin": "ute.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/val.zp.ua..txt",
+      "NameServer": "ns1.val.zp.ua.",
+      "Origin": "val.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vasdat.zp.ua..txt",
+      "NameServer": "ns1.vasdat.zp.ua.",
+      "Origin": "vasdat.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vashdom.zp.ua..txt",
+      "NameServer": "ns1.vashdom.zp.ua.",
+      "Origin": "vashdom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vds.zp.ua..txt",
+      "NameServer": "ns1.vds.zp.ua.",
+      "Origin": "vds.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vektorz.zp.ua..txt",
+      "NameServer": "ns1.vektorz.zp.ua.",
+      "Origin": "vektorz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/velosport.zp.ua..txt",
+      "NameServer": "ns1.velosport.zp.ua.",
+      "Origin": "velosport.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/veloturist.zp.ua..txt",
+      "NameServer": "ns1.veloturist.zp.ua.",
+      "Origin": "veloturist.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/verbove.zp.ua..txt",
+      "NameServer": "ns1.verbove.zp.ua.",
+      "Origin": "verbove.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/verge.zp.ua..txt",
+      "NameServer": "ns1.verge.zp.ua.",
+      "Origin": "verge.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vertical.zp.ua..txt",
+      "NameServer": "ns1.vertical.zp.ua.",
+      "Origin": "vertical.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vesta-travel.zp.ua..txt",
+      "NameServer": "ns1.vesta-travel.zp.ua.",
+      "Origin": "vesta-travel.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/veteranovd.zp.ua..txt",
+      "NameServer": "ns1.veteranovd.zp.ua.",
+      "Origin": "veteranovd.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vie.zp.ua..txt",
+      "NameServer": "ns1.vie.zp.ua.",
+      "Origin": "vie.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vik.zp.ua..txt",
+      "NameServer": "ns1.vik.zp.ua.",
+      "Origin": "vik.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vikonda.zp.ua..txt",
+      "NameServer": "ns1.vikonda.zp.ua.",
+      "Origin": "vikonda.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/viktoriya.zp.ua..txt",
+      "NameServer": "ns1.viktoriya.zp.ua.",
+      "Origin": "viktoriya.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/viola.zp.ua..txt",
+      "NameServer": "ns1.viola.zp.ua.",
+      "Origin": "viola.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/visnyk.zp.ua..txt",
+      "NameServer": "ns1.visnyk.zp.ua.",
+      "Origin": "visnyk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vist.zp.ua..txt",
+      "NameServer": "ns1.vist.zp.ua.",
+      "Origin": "vist.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/visti.zp.ua..txt",
+      "NameServer": "ns1.visti.zp.ua.",
+      "Origin": "visti.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vit.zp.ua..txt",
+      "NameServer": "ns1.vit.zp.ua.",
+      "Origin": "vit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vkurse.zp.ua..txt",
+      "NameServer": "ns1.vkurse.zp.ua.",
+      "Origin": "vkurse.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vlug.zp.ua..txt",
+      "NameServer": "ns1.vlug.zp.ua.",
+      "Origin": "vlug.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vodokanal.zp.ua..txt",
+      "NameServer": "ns1.vodokanal.zp.ua.",
+      "Origin": "vodokanal.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/volkov.zp.ua..txt",
+      "NameServer": "ns1.volkov.zp.ua.",
+      "Origin": "volkov.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/voshod.zp.ua..txt",
+      "NameServer": "ns1.voshod.zp.ua.",
+      "Origin": "voshod.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vr-alliance.zp.ua..txt",
+      "NameServer": "ns1.vr-alliance.zp.ua.",
+      "Origin": "vr-alliance.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vse.zp.ua..txt",
+      "NameServer": "ns1.vse.zp.ua.",
+      "Origin": "vse.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vsesvit.zp.ua..txt",
+      "NameServer": "ns1.vsesvit.zp.ua.",
+      "Origin": "vsesvit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vugg.zp.ua..txt",
+      "NameServer": "ns1.vugg.zp.ua.",
+      "Origin": "vugg.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/vvs.zp.ua..txt",
+      "NameServer": "ns1.vvs.zp.ua.",
+      "Origin": "vvs.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/watson.zp.ua..txt",
+      "NameServer": "ns1.watson.zp.ua.",
+      "Origin": "watson.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/webcam.zp.ua..txt",
+      "NameServer": "ns1.webcam.zp.ua.",
+      "Origin": "webcam.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/webprorab.zp.ua..txt",
+      "NameServer": "ns1.webprorab.zp.ua.",
+      "Origin": "webprorab.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/wizard.zp.ua..txt",
+      "NameServer": "ns1.wizard.zp.ua.",
+      "Origin": "wizard.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/woman.zp.ua..txt",
+      "NameServer": "ns1.woman.zp.ua.",
+      "Origin": "woman.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/www.ninpo.zp.ua..txt",
+      "NameServer": "ns1.www.ninpo.zp.ua.",
+      "Origin": "www.ninpo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/xart.zp.ua..txt",
+      "NameServer": "ns1.xart.zp.ua.",
+      "Origin": "xart.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/xcom.zp.ua..txt",
+      "NameServer": "ns1.xcom.zp.ua.",
+      "Origin": "xcom.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/xn--c1acsoabl.zp.ua..txt",
+      "NameServer": "ns1.xn--c1acsoabl.zp.ua.",
+      "Origin": "xn--c1acsoabl.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/xtv.zp.ua..txt",
+      "NameServer": "ns1.xtv.zp.ua.",
+      "Origin": "xtv.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/yadrik.zp.ua..txt",
+      "NameServer": "ns1.yadrik.zp.ua.",
+      "Origin": "yadrik.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/yuran.zp.ua..txt",
+      "NameServer": "ns1.yuran.zp.ua.",
+      "Origin": "yuran.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zabor.zp.ua..txt",
+      "NameServer": "ns1.zabor.zp.ua.",
+      "Origin": "zabor.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zahist.zp.ua..txt",
+      "NameServer": "ns1.zahist.zp.ua.",
+      "Origin": "zahist.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zakaz.zp.ua..txt",
+      "NameServer": "ns1.zakaz.zp.ua.",
+      "Origin": "zakaz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zapgaz.zp.ua..txt",
+      "NameServer": "ns1.zapgaz.zp.ua.",
+      "Origin": "zapgaz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zavto.zp.ua..txt",
+      "NameServer": "ns1.zavto.zp.ua.",
+      "Origin": "zavto.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zaz.zp.ua..txt",
+      "NameServer": "ns1.zaz.zp.ua.",
+      "Origin": "zaz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zbmk.zp.ua..txt",
+      "NameServer": "ns1.zbmk.zp.ua.",
+      "Origin": "zbmk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zcntei.zp.ua..txt",
+      "NameServer": "ns1.zcntei.zp.ua.",
+      "Origin": "zcntei.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zdcsms.zp.ua..txt",
+      "NameServer": "ns1.zdcsms.zp.ua.",
+      "Origin": "zdcsms.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zds.zp.ua..txt",
+      "NameServer": "ns1.zds.zp.ua.",
+      "Origin": "zds.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zeaz.zp.ua..txt",
+      "NameServer": "ns1.zeaz.zp.ua.",
+      "Origin": "zeaz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zenit.zp.ua..txt",
+      "NameServer": "ns1.zenit.zp.ua.",
+      "Origin": "zenit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zgec.zp.ua..txt",
+      "NameServer": "ns1.zgec.zp.ua.",
+      "Origin": "zgec.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zgia.zp.ua..txt",
+      "NameServer": "ns1.zgia.zp.ua.",
+      "Origin": "zgia.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zgo.zp.ua..txt",
+      "NameServer": "ns1.zgo.zp.ua.",
+      "Origin": "zgo.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zgp.zp.ua..txt",
+      "NameServer": "ns1.zgp.zp.ua.",
+      "Origin": "zgp.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zit.zp.ua..txt",
+      "NameServer": "ns1.zit.zp.ua.",
+      "Origin": "zit.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zkz.zp.ua..txt",
+      "NameServer": "ns1.zkz.zp.ua.",
+      "Origin": "zkz.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zli.zp.ua..txt",
+      "NameServer": "ns1.zli.zp.ua.",
+      "Origin": "zli.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zmgk.zp.ua..txt",
+      "NameServer": "ns1.zmgk.zp.ua.",
+      "Origin": "zmgk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zntu.zp.ua..txt",
+      "NameServer": "ns1.zntu.zp.ua.",
+      "Origin": "zntu.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zodtrk.zp.ua..txt",
+      "NameServer": "ns1.zodtrk.zp.ua.",
+      "Origin": "zodtrk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zoff.zp.ua..txt",
+      "NameServer": "ns1.zoff.zp.ua.",
+      "Origin": "zoff.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zokb.zp.ua..txt",
+      "NameServer": "ns1.zokb.zp.ua.",
+      "Origin": "zokb.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zol.zp.ua..txt",
+      "NameServer": "ns1.zol.zp.ua.",
+      "Origin": "zol.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zona.zp.ua..txt",
+      "NameServer": "ns1.zona.zp.ua.",
+      "Origin": "zona.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zotic.zp.ua..txt",
+      "NameServer": "ns1.zotic.zp.ua.",
+      "Origin": "zotic.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zounb.zp.ua..txt",
+      "NameServer": "ns1.zounb.zp.ua.",
+      "Origin": "zounb.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zovh.zp.ua..txt",
+      "NameServer": "ns1.zovh.zp.ua.",
+      "Origin": "zovh.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zp-raises.zp.ua..txt",
+      "NameServer": "ns1.zp-raises.zp.ua.",
+      "Origin": "zp-raises.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zp.ua..txt",
+      "NameServer": "ns1.zp.ua.",
+      "Origin": "zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zphoto.zp.ua..txt",
+      "NameServer": "ns1.zphoto.zp.ua.",
+      "Origin": "zphoto.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zpk.zp.ua..txt",
+      "NameServer": "ns1.zpk.zp.ua.",
+      "Origin": "zpk.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zrfa.zp.ua..txt",
+      "NameServer": "ns1.zrfa.zp.ua.",
+      "Origin": "zrfa.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zsmu.zp.ua..txt",
+      "NameServer": "ns1.zsmu.zp.ua.",
+      "Origin": "zsmu.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zss.zp.ua..txt",
+      "NameServer": "ns1.zss.zp.ua.",
+      "Origin": "zss.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zssm.zp.ua..txt",
+      "NameServer": "ns1.zssm.zp.ua.",
+      "Origin": "zssm.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zsu.zp.ua..txt",
+      "NameServer": "ns1.zsu.zp.ua.",
+      "Origin": "zsu.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/ztmc.zp.ua..txt",
+      "NameServer": "ns1.ztmc.zp.ua.",
+      "Origin": "ztmc.zp.ua."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/zp.ua/zva.zp.ua..txt",
+      "NameServer": "ns1.zva.zp.ua.",
+      "Origin": "zva.zp.ua."
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/x-y.net,abcenglish.x-y.net..txt,NS_UPDATE,DEL,abcenglish.x-y.net.,NS,ns.x-y.net.
+files-100-500/x-y.net,abcenglish.x-y.net..txt,NS_UPDATE,ADD,abcenglish.x-y.net.,NS,ns-inc.abcenglish.x-y.net.

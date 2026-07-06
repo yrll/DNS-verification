@@ -1,0 +1,882 @@
+{
+  "TopNameServers": [
+    "ns1.www.de."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/131840.kq.bpod.www.de..txt",
+      "NameServer": "ns1.131840.kq.bpod.www.de.",
+      "Origin": "131840.kq.bpod.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/132047.kq.bpod.www.de..txt",
+      "NameServer": "ns1.132047.kq.bpod.www.de.",
+      "Origin": "132047.kq.bpod.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/998877.kq.bpod.www.de..txt",
+      "NameServer": "ns1.998877.kq.bpod.www.de.",
+      "Origin": "998877.kq.bpod.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/advent.www.de..txt",
+      "NameServer": "ns1.advent.www.de.",
+      "Origin": "advent.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/afghantrana.www.de..txt",
+      "NameServer": "ns1.afghantrana.www.de.",
+      "Origin": "afghantrana.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/albamoda-gutschein.www.de..txt",
+      "NameServer": "ns1.albamoda-gutschein.www.de.",
+      "Origin": "albamoda-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/alexwhv.www.de..txt",
+      "NameServer": "ns1.alexwhv.www.de.",
+      "Origin": "alexwhv.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/aliisa.www.de..txt",
+      "NameServer": "ns1.aliisa.www.de.",
+      "Origin": "aliisa.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/aloisiuskolleg.www.de..txt",
+      "NameServer": "ns1.aloisiuskolleg.www.de.",
+      "Origin": "aloisiuskolleg.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/angeln-ewaldsee.www.de..txt",
+      "NameServer": "ns1.angeln-ewaldsee.www.de.",
+      "Origin": "angeln-ewaldsee.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/atu-gutschein.www.de..txt",
+      "NameServer": "ns1.atu-gutschein.www.de.",
+      "Origin": "atu-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/austrias-next-topmodel.www.de..txt",
+      "NameServer": "ns1.austrias-next-topmodel.www.de.",
+      "Origin": "austrias-next-topmodel.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/babybutt-gutschein.www.de..txt",
+      "NameServer": "ns1.babybutt-gutschein.www.de.",
+      "Origin": "babybutt-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/baohan.www.de..txt",
+      "NameServer": "ns1.baohan.www.de.",
+      "Origin": "baohan.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/baur-gutschein.www.de..txt",
+      "NameServer": "ns1.baur-gutschein.www.de.",
+      "Origin": "baur-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/berlin.www.de..txt",
+      "NameServer": "ns1.berlin.www.de.",
+      "Origin": "berlin.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/blacklenos.www.de..txt",
+      "NameServer": "ns1.blacklenos.www.de.",
+      "Origin": "blacklenos.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/bomberman4ever.www.de..txt",
+      "NameServer": "ns1.bomberman4ever.www.de.",
+      "Origin": "bomberman4ever.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/borntobeaseo.www.de..txt",
+      "NameServer": "ns1.borntobeaseo.www.de.",
+      "Origin": "borntobeaseo.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/bot.www.de..txt",
+      "NameServer": "ns1.bot.www.de.",
+      "Origin": "bot.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/botpennergame.www.de..txt",
+      "NameServer": "ns1.botpennergame.www.de.",
+      "Origin": "botpennergame.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/bpod.www.de..txt",
+      "NameServer": "ns1.bpod.www.de.",
+      "Origin": "bpod.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/cbh-darkorbit.www.de..txt",
+      "NameServer": "ns1.cbh-darkorbit.www.de.",
+      "Origin": "cbh-darkorbit.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/chanel-handbags.www.de..txt",
+      "NameServer": "ns1.chanel-handbags.www.de.",
+      "Origin": "chanel-handbags.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/cheats.pennergame.www.de..txt",
+      "NameServer": "ns1.cheats.pennergame.www.de.",
+      "Origin": "cheats.pennergame.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/cheats4pennergame.www.de..txt",
+      "NameServer": "ns1.cheats4pennergame.www.de.",
+      "Origin": "cheats4pennergame.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/chlsale.www.de..txt",
+      "NameServer": "ns1.chlsale.www.de.",
+      "Origin": "chlsale.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/cwss.www.de..txt",
+      "NameServer": "ns1.cwss.www.de.",
+      "Origin": "cwss.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/de.www.de..txt",
+      "NameServer": "ns1.de.www.de.",
+      "Origin": "de.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/dersimzazaplatformu.www.de..txt",
+      "NameServer": "ns1.dersimzazaplatformu.www.de.",
+      "Origin": "dersimzazaplatformu.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/design.hotel.waren-muritz.www.de..txt",
+      "NameServer": "ns1.design.hotel.waren-muritz.www.de.",
+      "Origin": "design.hotel.waren-muritz.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/docmorris-gutschein.www.de..txt",
+      "NameServer": "ns1.docmorris-gutschein.www.de.",
+      "Origin": "docmorris-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/dsds.www.de..txt",
+      "NameServer": "ns1.dsds.www.de.",
+      "Origin": "dsds.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/elvisjohn.www.de..txt",
+      "NameServer": "ns1.elvisjohn.www.de.",
+      "Origin": "elvisjohn.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/emo-bilder.www.de..txt",
+      "NameServer": "ns1.emo-bilder.www.de.",
+      "Origin": "emo-bilder.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/emo-chat.www.de..txt",
+      "NameServer": "ns1.emo-chat.www.de.",
+      "Origin": "emo-chat.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/emo-deutschland.www.de..txt",
+      "NameServer": "ns1.emo-deutschland.www.de.",
+      "Origin": "emo-deutschland.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/emo.www.de..txt",
+      "NameServer": "ns1.emo.www.de.",
+      "Origin": "emo.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/engelbilder.www.de..txt",
+      "NameServer": "ns1.engelbilder.www.de.",
+      "Origin": "engelbilder.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/ente.www.de..txt",
+      "NameServer": "ns1.ente.www.de.",
+      "Origin": "ente.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/ernstingsfamily-gutschein.www.de..txt",
+      "NameServer": "ns1.ernstingsfamily-gutschein.www.de.",
+      "Origin": "ernstingsfamily-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/ezman.www.de..txt",
+      "NameServer": "ns1.ezman.www.de.",
+      "Origin": "ezman.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/facebook.www.de..txt",
+      "NameServer": "ns1.facebook.www.de.",
+      "Origin": "facebook.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/far-from-it.www.de..txt",
+      "NameServer": "ns1.far-from-it.www.de.",
+      "Origin": "far-from-it.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/farbgemetzel.www.de..txt",
+      "NameServer": "ns1.farbgemetzel.www.de.",
+      "Origin": "farbgemetzel.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/ferienwohnung-berlin.www.de..txt",
+      "NameServer": "ns1.ferienwohnung-berlin.www.de.",
+      "Origin": "ferienwohnung-berlin.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/ferienwohnungen-waren-mueritz.www.de..txt",
+      "NameServer": "ns1.ferienwohnungen-waren-mueritz.www.de.",
+      "Origin": "ferienwohnungen-waren-mueritz.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/fkk.www.de..txt",
+      "NameServer": "ns1.fkk.www.de.",
+      "Origin": "fkk.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/floraprima-gutschein.www.de..txt",
+      "NameServer": "ns1.floraprima-gutschein.www.de.",
+      "Origin": "floraprima-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/fraeuleinwunder.www.de..txt",
+      "NameServer": "ns1.fraeuleinwunder.www.de.",
+      "Origin": "fraeuleinwunder.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/free-ecards.www.de..txt",
+      "NameServer": "ns1.free-ecards.www.de.",
+      "Origin": "free-ecards.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/fussmatten-gestalten-shop.www.de..txt",
+      "NameServer": "ns1.fussmatten-gestalten-shop.www.de.",
+      "Origin": "fussmatten-gestalten-shop.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/geld-verdienen-online.www.de..txt",
+      "NameServer": "ns1.geld-verdienen-online.www.de.",
+      "Origin": "geld-verdienen-online.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/geschaftskonto.www.de..txt",
+      "NameServer": "ns1.geschaftskonto.www.de.",
+      "Origin": "geschaftskonto.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/gf.www.de..txt",
+      "NameServer": "ns1.gf.www.de.",
+      "Origin": "gf.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/ghostwhisperer.www.de..txt",
+      "NameServer": "ns1.ghostwhisperer.www.de.",
+      "Origin": "ghostwhisperer.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/gutscheine.www.de..txt",
+      "NameServer": "ns1.gutscheine.www.de.",
+      "Origin": "gutscheine.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/habbotalerumsonstbk.www.de..txt",
+      "NameServer": "ns1.habbotalerumsonstbk.www.de.",
+      "Origin": "habbotalerumsonstbk.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/halloweenbilder.www.de..txt",
+      "NameServer": "ns1.halloweenbilder.www.de.",
+      "Origin": "halloweenbilder.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/handy-blog.www.de..txt",
+      "NameServer": "ns1.handy-blog.www.de.",
+      "Origin": "handy-blog.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/handyflat.www.de..txt",
+      "NameServer": "ns1.handyflat.www.de.",
+      "Origin": "handyflat.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/haushaltsaufloesung-magdeburg.www.de..txt",
+      "NameServer": "ns1.haushaltsaufloesung-magdeburg.www.de.",
+      "Origin": "haushaltsaufloesung-magdeburg.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/helpforyou.www.de..txt",
+      "NameServer": "ns1.helpforyou.www.de.",
+      "Origin": "helpforyou.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/herting.www.de..txt",
+      "NameServer": "ns1.herting.www.de.",
+      "Origin": "herting.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/hobby.www.de..txt",
+      "NameServer": "ns1.hobby.www.de.",
+      "Origin": "hobby.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/hotel.waren-muritz.www.de..txt",
+      "NameServer": "ns1.hotel.waren-muritz.www.de.",
+      "Origin": "hotel.waren-muritz.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/inflation.www.de..txt",
+      "NameServer": "ns1.inflation.www.de.",
+      "Origin": "inflation.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/infomaus.de.www.de..txt",
+      "NameServer": "ns1.infomaus.de.www.de.",
+      "Origin": "infomaus.de.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/insider.www.de..txt",
+      "NameServer": "ns1.insider.www.de.",
+      "Origin": "insider.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/iphone.www.de..txt",
+      "NameServer": "ns1.iphone.www.de.",
+      "Origin": "iphone.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/iphonekoenig.www.de..txt",
+      "NameServer": "ns1.iphonekoenig.www.de.",
+      "Origin": "iphonekoenig.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/jochenebmeier.www.de..txt",
+      "NameServer": "ns1.jochenebmeier.www.de.",
+      "Origin": "jochenebmeier.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/knautschzone.www.de..txt",
+      "NameServer": "ns1.knautschzone.www.de.",
+      "Origin": "knautschzone.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/knuddels.stuff.www.de..txt",
+      "NameServer": "ns1.knuddels.stuff.www.de.",
+      "Origin": "knuddels.stuff.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/knuddelshop.www.de..txt",
+      "NameServer": "ns1.knuddelshop.www.de.",
+      "Origin": "knuddelshop.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/kopfschmerzen.www.de..txt",
+      "NameServer": "ns1.kopfschmerzen.www.de.",
+      "Origin": "kopfschmerzen.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/kostenlose-kreditkarte.www.de..txt",
+      "NameServer": "ns1.kostenlose-kreditkarte.www.de.",
+      "Origin": "kostenlose-kreditkarte.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/kostenlosetaler.www.de..txt",
+      "NameServer": "ns1.kostenlosetaler.www.de.",
+      "Origin": "kostenlosetaler.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/kq.bpod.www.de..txt",
+      "NameServer": "ns1.kq.bpod.www.de.",
+      "Origin": "kq.bpod.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/kreditkarte.www.de..txt",
+      "NameServer": "ns1.kreditkarte.www.de.",
+      "Origin": "kreditkarte.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/kroczek.www.de..txt",
+      "NameServer": "ns1.kroczek.www.de.",
+      "Origin": "kroczek.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/lelan.www.de..txt",
+      "NameServer": "ns1.lelan.www.de.",
+      "Origin": "lelan.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/lilmisssunshine.www.de..txt",
+      "NameServer": "ns1.lilmisssunshine.www.de.",
+      "Origin": "lilmisssunshine.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/lionx.www.de..txt",
+      "NameServer": "ns1.lionx.www.de.",
+      "Origin": "lionx.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/logomatten.www.de..txt",
+      "NameServer": "ns1.logomatten.www.de.",
+      "Origin": "logomatten.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/lorrainemediagmbh.www.de..txt",
+      "NameServer": "ns1.lorrainemediagmbh.www.de.",
+      "Origin": "lorrainemediagmbh.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/losverfahren-medizin.www.de..txt",
+      "NameServer": "ns1.losverfahren-medizin.www.de.",
+      "Origin": "losverfahren-medizin.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/louboutin-sale.www.de..txt",
+      "NameServer": "ns1.louboutin-sale.www.de.",
+      "Origin": "louboutin-sale.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/marcel.kroczek.www.de..txt",
+      "NameServer": "ns1.marcel.kroczek.www.de.",
+      "Origin": "marcel.kroczek.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/matratzen.www.de..txt",
+      "NameServer": "ns1.matratzen.www.de.",
+      "Origin": "matratzen.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/mehrwertsteuerrechner.www.de..txt",
+      "NameServer": "ns1.mehrwertsteuerrechner.www.de.",
+      "Origin": "mehrwertsteuerrechner.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/mehrzadmarashi.www.de..txt",
+      "NameServer": "ns1.mehrzadmarashi.www.de.",
+      "Origin": "mehrzadmarashi.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/mileyemilyfriends.www.de..txt",
+      "NameServer": "ns1.mileyemilyfriends.www.de.",
+      "Origin": "mileyemilyfriends.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/mileyfans.www.de..txt",
+      "NameServer": "ns1.mileyfans.www.de.",
+      "Origin": "mileyfans.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/mobel.www.de..txt",
+      "NameServer": "ns1.mobel.www.de.",
+      "Origin": "mobel.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/modegott.www.de..txt",
+      "NameServer": "ns1.modegott.www.de.",
+      "Origin": "modegott.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/modelwg.www.de..txt",
+      "NameServer": "ns1.modelwg.www.de.",
+      "Origin": "modelwg.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/momox-gutschein.www.de..txt",
+      "NameServer": "ns1.momox-gutschein.www.de.",
+      "Origin": "momox-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/muttertag.www.de..txt",
+      "NameServer": "ns1.muttertag.www.de.",
+      "Origin": "muttertag.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/myrevierphone.www.de..txt",
+      "NameServer": "ns1.myrevierphone.www.de.",
+      "Origin": "myrevierphone.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/navi.www.de..txt",
+      "NameServer": "ns1.navi.www.de.",
+      "Origin": "navi.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/neckermann-gutschein.www.de..txt",
+      "NameServer": "ns1.neckermann-gutschein.www.de.",
+      "Origin": "neckermann-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/nightlife.sven.r.www.de..txt",
+      "NameServer": "ns1.nightlife.sven.r.www.de.",
+      "Origin": "nightlife.sven.r.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/nuru.www.de..txt",
+      "NameServer": "ns1.nuru.www.de.",
+      "Origin": "nuru.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/olewacken.www.de..txt",
+      "NameServer": "ns1.olewacken.www.de.",
+      "Origin": "olewacken.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/opodo-gutschein.www.de..txt",
+      "NameServer": "ns1.opodo-gutschein.www.de.",
+      "Origin": "opodo-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/orbit.www.de..txt",
+      "NameServer": "ns1.orbit.www.de.",
+      "Origin": "orbit.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/otto-gutschein.www.de..txt",
+      "NameServer": "ns1.otto-gutschein.www.de.",
+      "Origin": "otto-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/panfu-losungen.www.de..txt",
+      "NameServer": "ns1.panfu-losungen.www.de.",
+      "Origin": "panfu-losungen.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/panfu.www.de..txt",
+      "NameServer": "ns1.panfu.www.de.",
+      "Origin": "panfu.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/penner-game-cheats-flaschen-haustiere-tipps.www.de..txt",
+      "NameServer": "ns1.penner-game-cheats-flaschen-haustiere-tipps.www.de.",
+      "Origin": "penner-game-cheats-flaschen-haustiere-tipps.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/penner-game-cheats.www.de..txt",
+      "NameServer": "ns1.penner-game-cheats.www.de.",
+      "Origin": "penner-game-cheats.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/penner-game.www.de..txt",
+      "NameServer": "ns1.penner-game.www.de.",
+      "Origin": "penner-game.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennergame-autochange.www.de..txt",
+      "NameServer": "ns1.pennergame-autochange.www.de.",
+      "Origin": "pennergame-autochange.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennergame-cheats-tipps-listen.www.de..txt",
+      "NameServer": "ns1.pennergame-cheats-tipps-listen.www.de.",
+      "Origin": "pennergame-cheats-tipps-listen.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennergame-freaks.www.de..txt",
+      "NameServer": "ns1.pennergame-freaks.www.de.",
+      "Origin": "pennergame-freaks.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennergame-hack.www.de..txt",
+      "NameServer": "ns1.pennergame-hack.www.de.",
+      "Origin": "pennergame-hack.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennergame.bot.www.de..txt",
+      "NameServer": "ns1.pennergame.bot.www.de.",
+      "Origin": "pennergame.bot.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennergame.www.de..txt",
+      "NameServer": "ns1.pennergame.www.de.",
+      "Origin": "pennergame.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennergamebot.www.de..txt",
+      "NameServer": "ns1.pennergamebot.www.de.",
+      "Origin": "pennergamebot.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennergamebots.www.de..txt",
+      "NameServer": "ns1.pennergamebots.www.de.",
+      "Origin": "pennergamebots.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennergametrick.www.de..txt",
+      "NameServer": "ns1.pennergametrick.www.de.",
+      "Origin": "pennergametrick.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennergametricks.www.de..txt",
+      "NameServer": "ns1.pennergametricks.www.de.",
+      "Origin": "pennergametricks.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pennerspenden.www.de..txt",
+      "NameServer": "ns1.pennerspenden.www.de.",
+      "Origin": "pennerspenden.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/platinum-pokewissen.www.de..txt",
+      "NameServer": "ns1.platinum-pokewissen.www.de.",
+      "Origin": "platinum-pokewissen.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/pressearchiv-kubitschek.www.de..txt",
+      "NameServer": "ns1.pressearchiv-kubitschek.www.de.",
+      "Origin": "pressearchiv-kubitschek.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/princesssassi.www.de..txt",
+      "NameServer": "ns1.princesssassi.www.de.",
+      "Origin": "princesssassi.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/proanalight.www.de..txt",
+      "NameServer": "ns1.proanalight.www.de.",
+      "Origin": "proanalight.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/queensberry.www.de..txt",
+      "NameServer": "ns1.queensberry.www.de.",
+      "Origin": "queensberry.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/r.www.de..txt",
+      "NameServer": "ns1.r.www.de.",
+      "Origin": "r.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/radrouten-muritz.www.de..txt",
+      "NameServer": "ns1.radrouten-muritz.www.de.",
+      "Origin": "radrouten-muritz.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/rechnungskauf.www.de..txt",
+      "NameServer": "ns1.rechnungskauf.www.de.",
+      "Origin": "rechnungskauf.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/reifen-gutschein.www.de..txt",
+      "NameServer": "ns1.reifen-gutschein.www.de.",
+      "Origin": "reifen-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/retromotel.www.de..txt",
+      "NameServer": "ns1.retromotel.www.de.",
+      "Origin": "retromotel.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/revierphone-smartphone.www.de..txt",
+      "NameServer": "ns1.revierphone-smartphone.www.de.",
+      "Origin": "revierphone-smartphone.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/revierphone.www.de..txt",
+      "NameServer": "ns1.revierphone.www.de.",
+      "Origin": "revierphone.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/sara.nuru.www.de..txt",
+      "NameServer": "ns1.sara.nuru.www.de.",
+      "Origin": "sara.nuru.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/sashgraphics.www.de..txt",
+      "NameServer": "ns1.sashgraphics.www.de.",
+      "Origin": "sashgraphics.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/schair.www.de..txt",
+      "NameServer": "ns1.schair.www.de.",
+      "Origin": "schair.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/schulfahrten-news.www.de..txt",
+      "NameServer": "ns1.schulfahrten-news.www.de.",
+      "Origin": "schulfahrten-news.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/schwab-gutschein.www.de..txt",
+      "NameServer": "ns1.schwab-gutschein.www.de.",
+      "Origin": "schwab-gutschein.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/schweizertaschenmesser.www.de..txt",
+      "NameServer": "ns1.schweizertaschenmesser.www.de.",
+      "Origin": "schweizertaschenmesser.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/secure.www.de..txt",
+      "NameServer": "ns1.secure.www.de.",
+      "Origin": "secure.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/sellcopy.www.de..txt",
+      "NameServer": "ns1.sellcopy.www.de.",
+      "Origin": "sellcopy.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/shanghaiescort.www.de..txt",
+      "NameServer": "ns1.shanghaiescort.www.de.",
+      "Origin": "shanghaiescort.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/shenglijiaofour.www.de..txt",
+      "NameServer": "ns1.shenglijiaofour.www.de.",
+      "Origin": "shenglijiaofour.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/simsonteile.www.de..txt",
+      "NameServer": "ns1.simsonteile.www.de.",
+      "Origin": "simsonteile.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/sincy.www.de..txt",
+      "NameServer": "ns1.sincy.www.de.",
+      "Origin": "sincy.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/sky.www.de..txt",
+      "NameServer": "ns1.sky.www.de.",
+      "Origin": "sky.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/some-and-any.www.de..txt",
+      "NameServer": "ns1.some-and-any.www.de.",
+      "Origin": "some-and-any.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/spielwaren.www.de..txt",
+      "NameServer": "ns1.spielwaren.www.de.",
+      "Origin": "spielwaren.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/streamload.www.de..txt",
+      "NameServer": "ns1.streamload.www.de.",
+      "Origin": "streamload.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/streetfighters.www.de..txt",
+      "NameServer": "ns1.streetfighters.www.de.",
+      "Origin": "streetfighters.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/stuff.www.de..txt",
+      "NameServer": "ns1.stuff.www.de.",
+      "Origin": "stuff.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/sven.r.www.de..txt",
+      "NameServer": "ns1.sven.r.www.de.",
+      "Origin": "sven.r.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/thaimassage-gesundheit.www.de..txt",
+      "NameServer": "ns1.thaimassage-gesundheit.www.de.",
+      "Origin": "thaimassage-gesundheit.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/trandong.www.de..txt",
+      "NameServer": "ns1.trandong.www.de.",
+      "Origin": "trandong.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/ts61.www.de..txt",
+      "NameServer": "ns1.ts61.www.de.",
+      "Origin": "ts61.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/uploaded.www.de..txt",
+      "NameServer": "ns1.uploaded.www.de.",
+      "Origin": "uploaded.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/vampiretwilight17.www.de..txt",
+      "NameServer": "ns1.vampiretwilight17.www.de.",
+      "Origin": "vampiretwilight17.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/vanilla-star.www.de..txt",
+      "NameServer": "ns1.vanilla-star.www.de.",
+      "Origin": "vanilla-star.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/verena-enge-ild.www.de..txt",
+      "NameServer": "ns1.verena-enge-ild.www.de.",
+      "Origin": "verena-enge-ild.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/vodafone-blackberry.www.de..txt",
+      "NameServer": "ns1.vodafone-blackberry.www.de.",
+      "Origin": "vodafone-blackberry.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/vodafonelovesblackberry.www.de..txt",
+      "NameServer": "ns1.vodafonelovesblackberry.www.de.",
+      "Origin": "vodafonelovesblackberry.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/volksphone.www.de..txt",
+      "NameServer": "ns1.volksphone.www.de.",
+      "Origin": "volksphone.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/waren-muritz.www.de..txt",
+      "NameServer": "ns1.waren-muritz.www.de.",
+      "Origin": "waren-muritz.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/weihnachtsbild.www.de..txt",
+      "NameServer": "ns1.weihnachtsbild.www.de.",
+      "Origin": "weihnachtsbild.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/wenwei.www.de..txt",
+      "NameServer": "ns1.wenwei.www.de.",
+      "Origin": "wenwei.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/worlds.insider.www.de..txt",
+      "NameServer": "ns1.worlds.insider.www.de.",
+      "Origin": "worlds.insider.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/www.de..txt",
+      "NameServer": "ns1.www.de.",
+      "Origin": "www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/www.www.de..txt",
+      "NameServer": "ns1.www.www.de.",
+      "Origin": "www.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/yanghack.www.de..txt",
+      "NameServer": "ns1.yanghack.www.de.",
+      "Origin": "yanghack.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/yangyang.www.de..txt",
+      "NameServer": "ns1.yangyang.www.de.",
+      "Origin": "yangyang.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/zazaki.www.de..txt",
+      "NameServer": "ns1.zazaki.www.de.",
+      "Origin": "zazaki.www.de."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/www.de/zhongguo.www.de..txt",
+      "NameServer": "ns1.zhongguo.www.de.",
+      "Origin": "zhongguo.www.de."
+    }
+  ]
+}

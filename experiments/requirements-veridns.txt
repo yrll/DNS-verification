@@ -1,0 +1,6 @@
+dnspython
+matplotlib
+networkx
+pandas
+psutil
+PyYAML

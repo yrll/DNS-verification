@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/washington.edu,aa.washington.edu..txt,A_UPDATE,DEL,mail.aa.washington.edu.,A,-all
+files-100-500/washington.edu,aa.washington.edu..txt,A_UPDATE,ADD,mail.aa.washington.edu.,A,192.0.2.253

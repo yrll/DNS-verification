@@ -1,0 +1,1287 @@
+{
+  "TopNameServers": [
+    "ns1.wo.tc."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/10wonsoft.wo.tc..txt",
+      "NameServer": "ns1.10wonsoft.wo.tc.",
+      "Origin": "10wonsoft.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/1205.wo.tc..txt",
+      "NameServer": "ns1.1205.wo.tc.",
+      "Origin": "1205.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/17th.wo.tc..txt",
+      "NameServer": "ns1.17th.wo.tc.",
+      "Origin": "17th.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/1sthost.wo.tc..txt",
+      "NameServer": "ns1.1sthost.wo.tc.",
+      "Origin": "1sthost.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/411.wo.tc..txt",
+      "NameServer": "ns1.411.wo.tc.",
+      "Origin": "411.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/7aero.wo.tc..txt",
+      "NameServer": "ns1.7aero.wo.tc.",
+      "Origin": "7aero.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/9won.wo.tc..txt",
+      "NameServer": "ns1.9won.wo.tc.",
+      "Origin": "9won.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/a-in.wo.tc..txt",
+      "NameServer": "ns1.a-in.wo.tc.",
+      "Origin": "a-in.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/aimarjb.wo.tc..txt",
+      "NameServer": "ns1.aimarjb.wo.tc.",
+      "Origin": "aimarjb.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/akalog.wo.tc..txt",
+      "NameServer": "ns1.akalog.wo.tc.",
+      "Origin": "akalog.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/alina.wo.tc..txt",
+      "NameServer": "ns1.alina.wo.tc.",
+      "Origin": "alina.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/alistasha.wo.tc..txt",
+      "NameServer": "ns1.alistasha.wo.tc.",
+      "Origin": "alistasha.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/anitv.wo.tc..txt",
+      "NameServer": "ns1.anitv.wo.tc.",
+      "Origin": "anitv.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/aram.wo.tc..txt",
+      "NameServer": "ns1.aram.wo.tc.",
+      "Origin": "aram.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/arche.wo.tc..txt",
+      "NameServer": "ns1.arche.wo.tc.",
+      "Origin": "arche.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/asteria.wo.tc..txt",
+      "NameServer": "ns1.asteria.wo.tc.",
+      "Origin": "asteria.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/asumai.wo.tc..txt",
+      "NameServer": "ns1.asumai.wo.tc.",
+      "Origin": "asumai.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/atrox.wo.tc..txt",
+      "NameServer": "ns1.atrox.wo.tc.",
+      "Origin": "atrox.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/ayase.wo.tc..txt",
+      "NameServer": "ns1.ayase.wo.tc.",
+      "Origin": "ayase.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/aysel.wo.tc..txt",
+      "NameServer": "ns1.aysel.wo.tc.",
+      "Origin": "aysel.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/batista.wo.tc..txt",
+      "NameServer": "ns1.batista.wo.tc.",
+      "Origin": "batista.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/bedibic.wo.tc..txt",
+      "NameServer": "ns1.bedibic.wo.tc.",
+      "Origin": "bedibic.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/berkaen.wo.tc..txt",
+      "NameServer": "ns1.berkaen.wo.tc.",
+      "Origin": "berkaen.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/beruiko.wo.tc..txt",
+      "NameServer": "ns1.beruiko.wo.tc.",
+      "Origin": "beruiko.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/bijarim.wo.tc..txt",
+      "NameServer": "ns1.bijarim.wo.tc.",
+      "Origin": "bijarim.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/binson.wo.tc..txt",
+      "NameServer": "ns1.binson.wo.tc.",
+      "Origin": "binson.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/blotal.wo.tc..txt",
+      "NameServer": "ns1.blotal.wo.tc.",
+      "Origin": "blotal.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/bootsfdsq.wo.tc..txt",
+      "NameServer": "ns1.bootsfdsq.wo.tc.",
+      "Origin": "bootsfdsq.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/bootsfdsw.wo.tc..txt",
+      "NameServer": "ns1.bootsfdsw.wo.tc.",
+      "Origin": "bootsfdsw.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/boy.wo.tc..txt",
+      "NameServer": "ns1.boy.wo.tc.",
+      "Origin": "boy.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/brainclan.wo.tc..txt",
+      "NameServer": "ns1.brainclan.wo.tc.",
+      "Origin": "brainclan.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/byulmaple.wo.tc..txt",
+      "NameServer": "ns1.byulmaple.wo.tc.",
+      "Origin": "byulmaple.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/cafekoenigs.wo.tc..txt",
+      "NameServer": "ns1.cafekoenigs.wo.tc.",
+      "Origin": "cafekoenigs.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/carpem.wo.tc..txt",
+      "NameServer": "ns1.carpem.wo.tc.",
+      "Origin": "carpem.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/catdog.wo.tc..txt",
+      "NameServer": "ns1.catdog.wo.tc.",
+      "Origin": "catdog.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/changdoc.wo.tc..txt",
+      "NameServer": "ns1.changdoc.wo.tc.",
+      "Origin": "changdoc.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/chunpil.wo.tc..txt",
+      "NameServer": "ns1.chunpil.wo.tc.",
+      "Origin": "chunpil.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/cnblue.wo.tc..txt",
+      "NameServer": "ns1.cnblue.wo.tc.",
+      "Origin": "cnblue.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/cnetwork.wo.tc..txt",
+      "NameServer": "ns1.cnetwork.wo.tc.",
+      "Origin": "cnetwork.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/cobox.wo.tc..txt",
+      "NameServer": "ns1.cobox.wo.tc.",
+      "Origin": "cobox.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/cocoperi.wo.tc..txt",
+      "NameServer": "ns1.cocoperi.wo.tc.",
+      "Origin": "cocoperi.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/colortest.wo.tc..txt",
+      "NameServer": "ns1.colortest.wo.tc.",
+      "Origin": "colortest.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/com.wo.tc..txt",
+      "NameServer": "ns1.com.wo.tc.",
+      "Origin": "com.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/comandtv.wo.tc..txt",
+      "NameServer": "ns1.comandtv.wo.tc.",
+      "Origin": "comandtv.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/comblog.wo.tc..txt",
+      "NameServer": "ns1.comblog.wo.tc.",
+      "Origin": "comblog.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/commania.wo.tc..txt",
+      "NameServer": "ns1.commania.wo.tc.",
+      "Origin": "commania.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/crownw.wo.tc..txt",
+      "NameServer": "ns1.crownw.wo.tc.",
+      "Origin": "crownw.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/crteam.wo.tc..txt",
+      "NameServer": "ns1.crteam.wo.tc.",
+      "Origin": "crteam.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/crypticus.wo.tc..txt",
+      "NameServer": "ns1.crypticus.wo.tc.",
+      "Origin": "crypticus.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/ctow.wo.tc..txt",
+      "NameServer": "ns1.ctow.wo.tc.",
+      "Origin": "ctow.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/damon.wo.tc..txt",
+      "NameServer": "ns1.damon.wo.tc.",
+      "Origin": "damon.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/darkstar.wo.tc..txt",
+      "NameServer": "ns1.darkstar.wo.tc.",
+      "Origin": "darkstar.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/ddobagi.wo.tc..txt",
+      "NameServer": "ns1.ddobagi.wo.tc.",
+      "Origin": "ddobagi.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/degi.wo.tc..txt",
+      "NameServer": "ns1.degi.wo.tc.",
+      "Origin": "degi.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/degi0.wo.tc..txt",
+      "NameServer": "ns1.degi0.wo.tc.",
+      "Origin": "degi0.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/dennis.wo.tc..txt",
+      "NameServer": "ns1.dennis.wo.tc.",
+      "Origin": "dennis.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/desgramer.wo.tc..txt",
+      "NameServer": "ns1.desgramer.wo.tc.",
+      "Origin": "desgramer.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/dir.wo.tc..txt",
+      "NameServer": "ns1.dir.wo.tc.",
+      "Origin": "dir.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/djrayblade.wo.tc..txt",
+      "NameServer": "ns1.djrayblade.wo.tc.",
+      "Origin": "djrayblade.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/dom.wo.tc..txt",
+      "NameServer": "ns1.dom.wo.tc.",
+      "Origin": "dom.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/dung.wo.tc..txt",
+      "NameServer": "ns1.dung.wo.tc.",
+      "Origin": "dung.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/duriansoft.wo.tc..txt",
+      "NameServer": "ns1.duriansoft.wo.tc.",
+      "Origin": "duriansoft.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/dzukesen.wo.tc..txt",
+      "NameServer": "ns1.dzukesen.wo.tc.",
+      "Origin": "dzukesen.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/eld.wo.tc..txt",
+      "NameServer": "ns1.eld.wo.tc.",
+      "Origin": "eld.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/element.wo.tc..txt",
+      "NameServer": "ns1.element.wo.tc.",
+      "Origin": "element.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/elu.wo.tc..txt",
+      "NameServer": "ns1.elu.wo.tc.",
+      "Origin": "elu.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/ersione.wo.tc..txt",
+      "NameServer": "ns1.ersione.wo.tc.",
+      "Origin": "ersione.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/evereyong.wo.tc..txt",
+      "NameServer": "ns1.evereyong.wo.tc.",
+      "Origin": "evereyong.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/fami.wo.tc..txt",
+      "NameServer": "ns1.fami.wo.tc.",
+      "Origin": "fami.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/fancam.wo.tc..txt",
+      "NameServer": "ns1.fancam.wo.tc.",
+      "Origin": "fancam.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/forhumor.wo.tc..txt",
+      "NameServer": "ns1.forhumor.wo.tc.",
+      "Origin": "forhumor.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/freddo.wo.tc..txt",
+      "NameServer": "ns1.freddo.wo.tc.",
+      "Origin": "freddo.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/free4u.wo.tc..txt",
+      "NameServer": "ns1.free4u.wo.tc.",
+      "Origin": "free4u.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/gaikono.wo.tc..txt",
+      "NameServer": "ns1.gaikono.wo.tc.",
+      "Origin": "gaikono.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/gaing.wo.tc..txt",
+      "NameServer": "ns1.gaing.wo.tc.",
+      "Origin": "gaing.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/geinoko.wo.tc..txt",
+      "NameServer": "ns1.geinoko.wo.tc.",
+      "Origin": "geinoko.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/gekikigi.wo.tc..txt",
+      "NameServer": "ns1.gekikigi.wo.tc.",
+      "Origin": "gekikigi.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/gffl.wo.tc..txt",
+      "NameServer": "ns1.gffl.wo.tc.",
+      "Origin": "gffl.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/ggamsso.wo.tc..txt",
+      "NameServer": "ns1.ggamsso.wo.tc.",
+      "Origin": "ggamsso.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/ginkawa.wo.tc..txt",
+      "NameServer": "ns1.ginkawa.wo.tc.",
+      "Origin": "ginkawa.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/goodbuup.wo.tc..txt",
+      "NameServer": "ns1.goodbuup.wo.tc.",
+      "Origin": "goodbuup.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/grammaright.wo.tc..txt",
+      "NameServer": "ns1.grammaright.wo.tc.",
+      "Origin": "grammaright.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/grippen.wo.tc..txt",
+      "NameServer": "ns1.grippen.wo.tc.",
+      "Origin": "grippen.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/grossbox.wo.tc..txt",
+      "NameServer": "ns1.grossbox.wo.tc.",
+      "Origin": "grossbox.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/gundambbull.wo.tc..txt",
+      "NameServer": "ns1.gundambbull.wo.tc.",
+      "Origin": "gundambbull.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/hanempire.wo.tc..txt",
+      "NameServer": "ns1.hanempire.wo.tc.",
+      "Origin": "hanempire.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/harasworld.wo.tc..txt",
+      "NameServer": "ns1.harasworld.wo.tc.",
+      "Origin": "harasworld.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/harum.wo.tc..txt",
+      "NameServer": "ns1.harum.wo.tc.",
+      "Origin": "harum.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/hatsuebi.wo.tc..txt",
+      "NameServer": "ns1.hatsuebi.wo.tc.",
+      "Origin": "hatsuebi.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/heal.wo.tc..txt",
+      "NameServer": "ns1.heal.wo.tc.",
+      "Origin": "heal.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/hekiyuki.wo.tc..txt",
+      "NameServer": "ns1.hekiyuki.wo.tc.",
+      "Origin": "hekiyuki.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/hidcatch.wo.tc..txt",
+      "NameServer": "ns1.hidcatch.wo.tc.",
+      "Origin": "hidcatch.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/hnmaru.wo.tc..txt",
+      "NameServer": "ns1.hnmaru.wo.tc.",
+      "Origin": "hnmaru.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/hubseoul.wo.tc..txt",
+      "NameServer": "ns1.hubseoul.wo.tc.",
+      "Origin": "hubseoul.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/huni.wo.tc..txt",
+      "NameServer": "ns1.huni.wo.tc.",
+      "Origin": "huni.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/ilauncher.wo.tc..txt",
+      "NameServer": "ns1.ilauncher.wo.tc.",
+      "Origin": "ilauncher.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/inblog.wo.tc..txt",
+      "NameServer": "ns1.inblog.wo.tc.",
+      "Origin": "inblog.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/infoso2010.wo.tc..txt",
+      "NameServer": "ns1.infoso2010.wo.tc.",
+      "Origin": "infoso2010.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/infotos.wo.tc..txt",
+      "NameServer": "ns1.infotos.wo.tc.",
+      "Origin": "infotos.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/infree.wo.tc..txt",
+      "NameServer": "ns1.infree.wo.tc.",
+      "Origin": "infree.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/island.wo.tc..txt",
+      "NameServer": "ns1.island.wo.tc.",
+      "Origin": "island.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/istart.wo.tc..txt",
+      "NameServer": "ns1.istart.wo.tc.",
+      "Origin": "istart.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/isun.wo.tc..txt",
+      "NameServer": "ns1.isun.wo.tc.",
+      "Origin": "isun.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/its9oclock.wo.tc..txt",
+      "NameServer": "ns1.its9oclock.wo.tc.",
+      "Origin": "its9oclock.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/jfkzvo.wo.tc..txt",
+      "NameServer": "ns1.jfkzvo.wo.tc.",
+      "Origin": "jfkzvo.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/jonghwa.wo.tc..txt",
+      "NameServer": "ns1.jonghwa.wo.tc.",
+      "Origin": "jonghwa.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/jotdown.wo.tc..txt",
+      "NameServer": "ns1.jotdown.wo.tc.",
+      "Origin": "jotdown.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/jrn.wo.tc..txt",
+      "NameServer": "ns1.jrn.wo.tc.",
+      "Origin": "jrn.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/junglegalaxy.wo.tc..txt",
+      "NameServer": "ns1.junglegalaxy.wo.tc.",
+      "Origin": "junglegalaxy.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/junterl.wo.tc..txt",
+      "NameServer": "ns1.junterl.wo.tc.",
+      "Origin": "junterl.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/katselphrime.wo.tc..txt",
+      "NameServer": "ns1.katselphrime.wo.tc.",
+      "Origin": "katselphrime.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/keynote.wo.tc..txt",
+      "NameServer": "ns1.keynote.wo.tc.",
+      "Origin": "keynote.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/kimjooik.wo.tc..txt",
+      "NameServer": "ns1.kimjooik.wo.tc.",
+      "Origin": "kimjooik.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/kirihise.wo.tc..txt",
+      "NameServer": "ns1.kirihise.wo.tc.",
+      "Origin": "kirihise.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/kko.wo.tc..txt",
+      "NameServer": "ns1.kko.wo.tc.",
+      "Origin": "kko.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/kmc0805.wo.tc..txt",
+      "NameServer": "ns1.kmc0805.wo.tc.",
+      "Origin": "kmc0805.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/knu.wo.tc..txt",
+      "NameServer": "ns1.knu.wo.tc.",
+      "Origin": "knu.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/koohara.wo.tc..txt",
+      "NameServer": "ns1.koohara.wo.tc.",
+      "Origin": "koohara.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/koreanarchie.wo.tc..txt",
+      "NameServer": "ns1.koreanarchie.wo.tc.",
+      "Origin": "koreanarchie.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/kosang.wo.tc..txt",
+      "NameServer": "ns1.kosang.wo.tc.",
+      "Origin": "kosang.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/krosswind.wo.tc..txt",
+      "NameServer": "ns1.krosswind.wo.tc.",
+      "Origin": "krosswind.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/kschu.wo.tc..txt",
+      "NameServer": "ns1.kschu.wo.tc.",
+      "Origin": "kschu.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/kuna.wo.tc..txt",
+      "NameServer": "ns1.kuna.wo.tc.",
+      "Origin": "kuna.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/kuronet.wo.tc..txt",
+      "NameServer": "ns1.kuronet.wo.tc.",
+      "Origin": "kuronet.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/kuros.wo.tc..txt",
+      "NameServer": "ns1.kuros.wo.tc.",
+      "Origin": "kuros.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/kwhp.wo.tc..txt",
+      "NameServer": "ns1.kwhp.wo.tc.",
+      "Origin": "kwhp.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/lain.wo.tc..txt",
+      "NameServer": "ns1.lain.wo.tc.",
+      "Origin": "lain.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/less.wo.tc..txt",
+      "NameServer": "ns1.less.wo.tc.",
+      "Origin": "less.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/lks.wo.tc..txt",
+      "NameServer": "ns1.lks.wo.tc.",
+      "Origin": "lks.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/lol.wo.tc..txt",
+      "NameServer": "ns1.lol.wo.tc.",
+      "Origin": "lol.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/lost.wo.tc..txt",
+      "NameServer": "ns1.lost.wo.tc.",
+      "Origin": "lost.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/lottotop4u.wo.tc..txt",
+      "NameServer": "ns1.lottotop4u.wo.tc.",
+      "Origin": "lottotop4u.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/lozity.wo.tc..txt",
+      "NameServer": "ns1.lozity.wo.tc.",
+      "Origin": "lozity.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/ludarin.wo.tc..txt",
+      "NameServer": "ns1.ludarin.wo.tc.",
+      "Origin": "ludarin.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/lusiyan.wo.tc..txt",
+      "NameServer": "ns1.lusiyan.wo.tc.",
+      "Origin": "lusiyan.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/mabiholikr.wo.tc..txt",
+      "NameServer": "ns1.mabiholikr.wo.tc.",
+      "Origin": "mabiholikr.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/macro.wo.tc..txt",
+      "NameServer": "ns1.macro.wo.tc.",
+      "Origin": "macro.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/magnet.wo.tc..txt",
+      "NameServer": "ns1.magnet.wo.tc.",
+      "Origin": "magnet.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/marakua.wo.tc..txt",
+      "NameServer": "ns1.marakua.wo.tc.",
+      "Origin": "marakua.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/marakui.wo.tc..txt",
+      "NameServer": "ns1.marakui.wo.tc.",
+      "Origin": "marakui.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/marakuu.wo.tc..txt",
+      "NameServer": "ns1.marakuu.wo.tc.",
+      "Origin": "marakuu.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/marakuy.wo.tc..txt",
+      "NameServer": "ns1.marakuy.wo.tc.",
+      "Origin": "marakuy.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/milk92.wo.tc..txt",
+      "NameServer": "ns1.milk92.wo.tc.",
+      "Origin": "milk92.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/milllove.wo.tc..txt",
+      "NameServer": "ns1.milllove.wo.tc.",
+      "Origin": "milllove.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/mm8.wo.tc..txt",
+      "NameServer": "ns1.mm8.wo.tc.",
+      "Origin": "mm8.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/modernit.wo.tc..txt",
+      "NameServer": "ns1.modernit.wo.tc.",
+      "Origin": "modernit.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/muldorn.wo.tc..txt",
+      "NameServer": "ns1.muldorn.wo.tc.",
+      "Origin": "muldorn.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/munsen.wo.tc..txt",
+      "NameServer": "ns1.munsen.wo.tc.",
+      "Origin": "munsen.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nanuria.wo.tc..txt",
+      "NameServer": "ns1.nanuria.wo.tc.",
+      "Origin": "nanuria.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nazna.wo.tc..txt",
+      "NameServer": "ns1.nazna.wo.tc.",
+      "Origin": "nazna.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/ndm.wo.tc..txt",
+      "NameServer": "ns1.ndm.wo.tc.",
+      "Origin": "ndm.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/negs.wo.tc..txt",
+      "NameServer": "ns1.negs.wo.tc.",
+      "Origin": "negs.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nephelai.wo.tc..txt",
+      "NameServer": "ns1.nephelai.wo.tc.",
+      "Origin": "nephelai.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nimonri.wo.tc..txt",
+      "NameServer": "ns1.nimonri.wo.tc.",
+      "Origin": "nimonri.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nintendo.wo.tc..txt",
+      "NameServer": "ns1.nintendo.wo.tc.",
+      "Origin": "nintendo.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nium0.wo.tc..txt",
+      "NameServer": "ns1.nium0.wo.tc.",
+      "Origin": "nium0.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nlp.wo.tc..txt",
+      "NameServer": "ns1.nlp.wo.tc.",
+      "Origin": "nlp.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/noel.wo.tc..txt",
+      "NameServer": "ns1.noel.wo.tc.",
+      "Origin": "noel.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nomp.wo.tc..txt",
+      "NameServer": "ns1.nomp.wo.tc.",
+      "Origin": "nomp.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nslog.wo.tc..txt",
+      "NameServer": "ns1.nslog.wo.tc.",
+      "Origin": "nslog.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nsoleeo.wo.tc..txt",
+      "NameServer": "ns1.nsoleeo.wo.tc.",
+      "Origin": "nsoleeo.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/nsys.wo.tc..txt",
+      "NameServer": "ns1.nsys.wo.tc.",
+      "Origin": "nsys.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/okrs.wo.tc..txt",
+      "NameServer": "ns1.okrs.wo.tc.",
+      "Origin": "okrs.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/onsemy.wo.tc..txt",
+      "NameServer": "ns1.onsemy.wo.tc.",
+      "Origin": "onsemy.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/paparazzo.wo.tc..txt",
+      "NameServer": "ns1.paparazzo.wo.tc.",
+      "Origin": "paparazzo.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/perfume.wo.tc..txt",
+      "NameServer": "ns1.perfume.wo.tc.",
+      "Origin": "perfume.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/piasound.wo.tc..txt",
+      "NameServer": "ns1.piasound.wo.tc.",
+      "Origin": "piasound.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/piftp.wo.tc..txt",
+      "NameServer": "ns1.piftp.wo.tc.",
+      "Origin": "piftp.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/pink24.wo.tc..txt",
+      "NameServer": "ns1.pink24.wo.tc.",
+      "Origin": "pink24.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/pips.wo.tc..txt",
+      "NameServer": "ns1.pips.wo.tc.",
+      "Origin": "pips.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/pjm0616.wo.tc..txt",
+      "NameServer": "ns1.pjm0616.wo.tc.",
+      "Origin": "pjm0616.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/programing.wo.tc..txt",
+      "NameServer": "ns1.programing.wo.tc.",
+      "Origin": "programing.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/prs.wo.tc..txt",
+      "NameServer": "ns1.prs.wo.tc.",
+      "Origin": "prs.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/psman.wo.tc..txt",
+      "NameServer": "ns1.psman.wo.tc.",
+      "Origin": "psman.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/pusam.wo.tc..txt",
+      "NameServer": "ns1.pusam.wo.tc.",
+      "Origin": "pusam.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/quik.wo.tc..txt",
+      "NameServer": "ns1.quik.wo.tc.",
+      "Origin": "quik.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/r-kai.wo.tc..txt",
+      "NameServer": "ns1.r-kai.wo.tc.",
+      "Origin": "r-kai.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/racedenver.wo.tc..txt",
+      "NameServer": "ns1.racedenver.wo.tc.",
+      "Origin": "racedenver.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/reddesignch.wo.tc..txt",
+      "NameServer": "ns1.reddesignch.wo.tc.",
+      "Origin": "reddesignch.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/reznoa.wo.tc..txt",
+      "NameServer": "ns1.reznoa.wo.tc.",
+      "Origin": "reznoa.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/rit.wo.tc..txt",
+      "NameServer": "ns1.rit.wo.tc.",
+      "Origin": "rit.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/rodonoya.wo.tc..txt",
+      "NameServer": "ns1.rodonoya.wo.tc.",
+      "Origin": "rodonoya.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/ruiko.wo.tc..txt",
+      "NameServer": "ns1.ruiko.wo.tc.",
+      "Origin": "ruiko.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/rumawari.wo.tc..txt",
+      "NameServer": "ns1.rumawari.wo.tc.",
+      "Origin": "rumawari.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/rynie.wo.tc..txt",
+      "NameServer": "ns1.rynie.wo.tc.",
+      "Origin": "rynie.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/sakaryuji.wo.tc..txt",
+      "NameServer": "ns1.sakaryuji.wo.tc.",
+      "Origin": "sakaryuji.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/sakia.wo.tc..txt",
+      "NameServer": "ns1.sakia.wo.tc.",
+      "Origin": "sakia.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/sakujiza.wo.tc..txt",
+      "NameServer": "ns1.sakujiza.wo.tc.",
+      "Origin": "sakujiza.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/sgdk.wo.tc..txt",
+      "NameServer": "ns1.sgdk.wo.tc.",
+      "Origin": "sgdk.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/shahn.wo.tc..txt",
+      "NameServer": "ns1.shahn.wo.tc.",
+      "Origin": "shahn.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/shotimg.wo.tc..txt",
+      "NameServer": "ns1.shotimg.wo.tc.",
+      "Origin": "shotimg.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/silhouette20.wo.tc..txt",
+      "NameServer": "ns1.silhouette20.wo.tc.",
+      "Origin": "silhouette20.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/sim.wo.tc..txt",
+      "NameServer": "ns1.sim.wo.tc.",
+      "Origin": "sim.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/simtweet.wo.tc..txt",
+      "NameServer": "ns1.simtweet.wo.tc.",
+      "Origin": "simtweet.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/sinoru.wo.tc..txt",
+      "NameServer": "ns1.sinoru.wo.tc.",
+      "Origin": "sinoru.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/siru.wo.tc..txt",
+      "NameServer": "ns1.siru.wo.tc.",
+      "Origin": "siru.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/situ.wo.tc..txt",
+      "NameServer": "ns1.situ.wo.tc.",
+      "Origin": "situ.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/slotxe.wo.tc..txt",
+      "NameServer": "ns1.slotxe.wo.tc.",
+      "Origin": "slotxe.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/snooey.wo.tc..txt",
+      "NameServer": "ns1.snooey.wo.tc.",
+      "Origin": "snooey.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/soon.wo.tc..txt",
+      "NameServer": "ns1.soon.wo.tc.",
+      "Origin": "soon.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/sssagagi.wo.tc..txt",
+      "NameServer": "ns1.sssagagi.wo.tc.",
+      "Origin": "sssagagi.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/stern.wo.tc..txt",
+      "NameServer": "ns1.stern.wo.tc.",
+      "Origin": "stern.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/stop.wo.tc..txt",
+      "NameServer": "ns1.stop.wo.tc.",
+      "Origin": "stop.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/subicura.wo.tc..txt",
+      "NameServer": "ns1.subicura.wo.tc.",
+      "Origin": "subicura.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/summers7.wo.tc..txt",
+      "NameServer": "ns1.summers7.wo.tc.",
+      "Origin": "summers7.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/super-fish.wo.tc..txt",
+      "NameServer": "ns1.super-fish.wo.tc.",
+      "Origin": "super-fish.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/supermanminwoo.wo.tc..txt",
+      "NameServer": "ns1.supermanminwoo.wo.tc.",
+      "Origin": "supermanminwoo.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/suprockstormic.wo.tc..txt",
+      "NameServer": "ns1.suprockstormic.wo.tc.",
+      "Origin": "suprockstormic.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/surl.wo.tc..txt",
+      "NameServer": "ns1.surl.wo.tc.",
+      "Origin": "surl.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/syukunoblog.wo.tc..txt",
+      "NameServer": "ns1.syukunoblog.wo.tc.",
+      "Origin": "syukunoblog.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/tc.wo.tc..txt",
+      "NameServer": "ns1.tc.wo.tc.",
+      "Origin": "tc.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/tcbbul.wo.tc..txt",
+      "NameServer": "ns1.tcbbul.wo.tc.",
+      "Origin": "tcbbul.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/tendozinzza.wo.tc..txt",
+      "NameServer": "ns1.tendozinzza.wo.tc.",
+      "Origin": "tendozinzza.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/textcube.wo.tc..txt",
+      "NameServer": "ns1.textcube.wo.tc.",
+      "Origin": "textcube.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/tfi.wo.tc..txt",
+      "NameServer": "ns1.tfi.wo.tc.",
+      "Origin": "tfi.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/theomachy.wo.tc..txt",
+      "NameServer": "ns1.theomachy.wo.tc.",
+      "Origin": "theomachy.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/tigr.wo.tc..txt",
+      "NameServer": "ns1.tigr.wo.tc.",
+      "Origin": "tigr.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/tistory.wo.tc..txt",
+      "NameServer": "ns1.tistory.wo.tc.",
+      "Origin": "tistory.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/tmldd.wo.tc..txt",
+      "NameServer": "ns1.tmldd.wo.tc.",
+      "Origin": "tmldd.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/todaki.wo.tc..txt",
+      "NameServer": "ns1.todaki.wo.tc.",
+      "Origin": "todaki.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/toe.wo.tc..txt",
+      "NameServer": "ns1.toe.wo.tc.",
+      "Origin": "toe.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/tokoneria.wo.tc..txt",
+      "NameServer": "ns1.tokoneria.wo.tc.",
+      "Origin": "tokoneria.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/tongcast.wo.tc..txt",
+      "NameServer": "ns1.tongcast.wo.tc.",
+      "Origin": "tongcast.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/tooth.wo.tc..txt",
+      "NameServer": "ns1.tooth.wo.tc.",
+      "Origin": "tooth.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/totozamzi.wo.tc..txt",
+      "NameServer": "ns1.totozamzi.wo.tc.",
+      "Origin": "totozamzi.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/travlog.wo.tc..txt",
+      "NameServer": "ns1.travlog.wo.tc.",
+      "Origin": "travlog.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/trivialog.wo.tc..txt",
+      "NameServer": "ns1.trivialog.wo.tc.",
+      "Origin": "trivialog.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/twicl.wo.tc..txt",
+      "NameServer": "ns1.twicl.wo.tc.",
+      "Origin": "twicl.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/twit.wo.tc..txt",
+      "NameServer": "ns1.twit.wo.tc.",
+      "Origin": "twit.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/uidx.wo.tc..txt",
+      "NameServer": "ns1.uidx.wo.tc.",
+      "Origin": "uidx.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/uisis.wo.tc..txt",
+      "NameServer": "ns1.uisis.wo.tc.",
+      "Origin": "uisis.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/victory.wo.tc..txt",
+      "NameServer": "ns1.victory.wo.tc.",
+      "Origin": "victory.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/visualize.wo.tc..txt",
+      "NameServer": "ns1.visualize.wo.tc.",
+      "Origin": "visualize.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/vita.wo.tc..txt",
+      "NameServer": "ns1.vita.wo.tc.",
+      "Origin": "vita.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/webmail.wo.tc..txt",
+      "NameServer": "ns1.webmail.wo.tc.",
+      "Origin": "webmail.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/weddinget.wo.tc..txt",
+      "NameServer": "ns1.weddinget.wo.tc.",
+      "Origin": "weddinget.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/weightlossr.wo.tc..txt",
+      "NameServer": "ns1.weightlossr.wo.tc.",
+      "Origin": "weightlossr.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/wgnews.wo.tc..txt",
+      "NameServer": "ns1.wgnews.wo.tc.",
+      "Origin": "wgnews.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/whale.wo.tc..txt",
+      "NameServer": "ns1.whale.wo.tc.",
+      "Origin": "whale.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/whereverjuggling.wo.tc..txt",
+      "NameServer": "ns1.whereverjuggling.wo.tc.",
+      "Origin": "whereverjuggling.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/whitestar.wo.tc..txt",
+      "NameServer": "ns1.whitestar.wo.tc.",
+      "Origin": "whitestar.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/wincomi.wo.tc..txt",
+      "NameServer": "ns1.wincomi.wo.tc.",
+      "Origin": "wincomi.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/wo.tc..txt",
+      "NameServer": "ns1.wo.tc.",
+      "Origin": "wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/x86osx.wo.tc..txt",
+      "NameServer": "ns1.x86osx.wo.tc.",
+      "Origin": "x86osx.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/xiah.wo.tc..txt",
+      "NameServer": "ns1.xiah.wo.tc.",
+      "Origin": "xiah.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/xifsh.wo.tc..txt",
+      "NameServer": "ns1.xifsh.wo.tc.",
+      "Origin": "xifsh.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/yaranaika.wo.tc..txt",
+      "NameServer": "ns1.yaranaika.wo.tc.",
+      "Origin": "yaranaika.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/yhdfc.wo.tc..txt",
+      "NameServer": "ns1.yhdfc.wo.tc.",
+      "Origin": "yhdfc.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/yoonajessica.wo.tc..txt",
+      "NameServer": "ns1.yoonajessica.wo.tc.",
+      "Origin": "yoonajessica.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/youngviva.wo.tc..txt",
+      "NameServer": "ns1.youngviva.wo.tc.",
+      "Origin": "youngviva.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/youtil.wo.tc..txt",
+      "NameServer": "ns1.youtil.wo.tc.",
+      "Origin": "youtil.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/yua.wo.tc..txt",
+      "NameServer": "ns1.yua.wo.tc.",
+      "Origin": "yua.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/yuhangri.wo.tc..txt",
+      "NameServer": "ns1.yuhangri.wo.tc.",
+      "Origin": "yuhangri.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/yukenet.wo.tc..txt",
+      "NameServer": "ns1.yukenet.wo.tc.",
+      "Origin": "yukenet.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/zootai.wo.tc..txt",
+      "NameServer": "ns1.zootai.wo.tc.",
+      "Origin": "zootai.wo.tc."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wo.tc/zulet.wo.tc..txt",
+      "NameServer": "ns1.zulet.wo.tc.",
+      "Origin": "zulet.wo.tc."
+    }
+  ]
+}

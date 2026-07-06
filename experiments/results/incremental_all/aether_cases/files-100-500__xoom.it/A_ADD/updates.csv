@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/xoom.it,acelocahujerii.xoom.it..txt,A_ADD,ADD,__aether_veridns_inc__.acelocahujerii.xoom.it.,A,192.0.2.254

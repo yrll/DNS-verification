@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/voxcdn.com,1714.voxcdn.com..txt,CNAME_UPDATE,DEL,1714.voxcdn.com.,CNAME,content.iad1.site.voxcdn.net.
+files-100-500/voxcdn.com,1714.voxcdn.com..txt,CNAME_UPDATE,ADD,1714.voxcdn.com.,CNAME,cname-inc.1714.voxcdn.com.

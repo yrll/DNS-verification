@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-1000-plus/youaremighty.com,1337.youaremighty.com..txt,NS_UPDATE,DEL,1337.youaremighty.com.,NS,ns1.fastpark.net.
+files-1000-plus/youaremighty.com,1337.youaremighty.com..txt,NS_UPDATE,ADD,1337.youaremighty.com.,NS,ns-inc.1337.youaremighty.com.

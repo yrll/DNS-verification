@@ -1,0 +1,6 @@
+sociology.shu.com.	14400	IN	SOA	ns1.sociology.shu.com. james.shu.edu. 19122302 14400 3600 2419200 14400
+sociology.shu.com.		    IN	NS ns1.sociology.shu.com.
+ns1.sociology.shu.com.	    IN	A	10.166.21.14
+
+sociology.shu.com.		    IN	A	6.6.6.6
+

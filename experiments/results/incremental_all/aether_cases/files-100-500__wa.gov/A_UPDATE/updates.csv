@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wa.gov,agencymeddirectors.wa.gov..txt,A_UPDATE,DEL,agencymeddirectors.wa.gov.,A,198.239.150.79
+files-100-500/wa.gov,agencymeddirectors.wa.gov..txt,A_UPDATE,ADD,agencymeddirectors.wa.gov.,A,192.0.2.253

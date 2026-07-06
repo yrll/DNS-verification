@@ -1,0 +1,2 @@
+zone,num_lec,io_time (ms),construction_time (ms),symbolic_time (ms),property_checking_time (ms),re_construction_time (ms),re_symbolic_time (ms),re_property_checking_time (ms),properties,initial_property_pass,initial_errors,incremental_property_pass,incremental_errors
+top-10/com.mx,209940,2638.421,37198.134,0.007,0.001,0.007,0.002,0.002,rewrites|delegation consistency|too long|rewrite blackholing|zone loop|hops|lame delegation,true,,true,

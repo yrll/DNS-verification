@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/wopert.com,0cob9yz.wopert.com..txt,A_UPDATE,DEL,0cob9yz.wopert.com.,A,8.5.1.49
+files-500-1000/wopert.com,0cob9yz.wopert.com..txt,A_UPDATE,ADD,0cob9yz.wopert.com.,A,192.0.2.253

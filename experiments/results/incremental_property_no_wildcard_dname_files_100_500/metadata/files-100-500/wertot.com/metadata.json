@@ -1,0 +1,1107 @@
+{
+  "TopNameServers": [
+    "ns1.wertot.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/0o8up.wertot.com..txt",
+      "NameServer": "ns1.0o8up.wertot.com.",
+      "Origin": "0o8up.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/0pcos.wertot.com..txt",
+      "NameServer": "ns1.0pcos.wertot.com.",
+      "Origin": "0pcos.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/0xxid.wertot.com..txt",
+      "NameServer": "ns1.0xxid.wertot.com.",
+      "Origin": "0xxid.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/0yuldiu.wertot.com..txt",
+      "NameServer": "ns1.0yuldiu.wertot.com.",
+      "Origin": "0yuldiu.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/1kawp.wertot.com..txt",
+      "NameServer": "ns1.1kawp.wertot.com.",
+      "Origin": "1kawp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/24g37fh.wertot.com..txt",
+      "NameServer": "ns1.24g37fh.wertot.com.",
+      "Origin": "24g37fh.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/2oaa0.wertot.com..txt",
+      "NameServer": "ns1.2oaa0.wertot.com.",
+      "Origin": "2oaa0.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/2q4yv.wertot.com..txt",
+      "NameServer": "ns1.2q4yv.wertot.com.",
+      "Origin": "2q4yv.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/3ib3zf.wertot.com..txt",
+      "NameServer": "ns1.3ib3zf.wertot.com.",
+      "Origin": "3ib3zf.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/3pp5ax.wertot.com..txt",
+      "NameServer": "ns1.3pp5ax.wertot.com.",
+      "Origin": "3pp5ax.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/4hpnoa.wertot.com..txt",
+      "NameServer": "ns1.4hpnoa.wertot.com.",
+      "Origin": "4hpnoa.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/4ootr.wertot.com..txt",
+      "NameServer": "ns1.4ootr.wertot.com.",
+      "Origin": "4ootr.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/4wdd.wertot.com..txt",
+      "NameServer": "ns1.4wdd.wertot.com.",
+      "Origin": "4wdd.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/52vdoku.wertot.com..txt",
+      "NameServer": "ns1.52vdoku.wertot.com.",
+      "Origin": "52vdoku.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/59ue7qz.wertot.com..txt",
+      "NameServer": "ns1.59ue7qz.wertot.com.",
+      "Origin": "59ue7qz.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/5btc4gk.wertot.com..txt",
+      "NameServer": "ns1.5btc4gk.wertot.com.",
+      "Origin": "5btc4gk.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/5ezxbt.wertot.com..txt",
+      "NameServer": "ns1.5ezxbt.wertot.com.",
+      "Origin": "5ezxbt.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/5folp.wertot.com..txt",
+      "NameServer": "ns1.5folp.wertot.com.",
+      "Origin": "5folp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/5qma2.wertot.com..txt",
+      "NameServer": "ns1.5qma2.wertot.com.",
+      "Origin": "5qma2.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/5xnx9od.wertot.com..txt",
+      "NameServer": "ns1.5xnx9od.wertot.com.",
+      "Origin": "5xnx9od.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/5zhz.wertot.com..txt",
+      "NameServer": "ns1.5zhz.wertot.com.",
+      "Origin": "5zhz.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/5znwvwt.wertot.com..txt",
+      "NameServer": "ns1.5znwvwt.wertot.com.",
+      "Origin": "5znwvwt.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/6zya.wertot.com..txt",
+      "NameServer": "ns1.6zya.wertot.com.",
+      "Origin": "6zya.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/7latzst.wertot.com..txt",
+      "NameServer": "ns1.7latzst.wertot.com.",
+      "Origin": "7latzst.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/816szfb.wertot.com..txt",
+      "NameServer": "ns1.816szfb.wertot.com.",
+      "Origin": "816szfb.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/8aaw.wertot.com..txt",
+      "NameServer": "ns1.8aaw.wertot.com.",
+      "Origin": "8aaw.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/8ed7.wertot.com..txt",
+      "NameServer": "ns1.8ed7.wertot.com.",
+      "Origin": "8ed7.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/8pp1.wertot.com..txt",
+      "NameServer": "ns1.8pp1.wertot.com.",
+      "Origin": "8pp1.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/8rnko.wertot.com..txt",
+      "NameServer": "ns1.8rnko.wertot.com.",
+      "Origin": "8rnko.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/8uq5l.wertot.com..txt",
+      "NameServer": "ns1.8uq5l.wertot.com.",
+      "Origin": "8uq5l.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/90bjbfd.wertot.com..txt",
+      "NameServer": "ns1.90bjbfd.wertot.com.",
+      "Origin": "90bjbfd.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/9x5t.wertot.com..txt",
+      "NameServer": "ns1.9x5t.wertot.com.",
+      "Origin": "9x5t.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/a1ivvfg.wertot.com..txt",
+      "NameServer": "ns1.a1ivvfg.wertot.com.",
+      "Origin": "a1ivvfg.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/a2mpu.wertot.com..txt",
+      "NameServer": "ns1.a2mpu.wertot.com.",
+      "Origin": "a2mpu.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/a6qo5mm.wertot.com..txt",
+      "NameServer": "ns1.a6qo5mm.wertot.com.",
+      "Origin": "a6qo5mm.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/adzdcyc.wertot.com..txt",
+      "NameServer": "ns1.adzdcyc.wertot.com.",
+      "Origin": "adzdcyc.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/annsbhv.wertot.com..txt",
+      "NameServer": "ns1.annsbhv.wertot.com.",
+      "Origin": "annsbhv.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/arux.wertot.com..txt",
+      "NameServer": "ns1.arux.wertot.com.",
+      "Origin": "arux.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/b5rlp.wertot.com..txt",
+      "NameServer": "ns1.b5rlp.wertot.com.",
+      "Origin": "b5rlp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/b9o1.wertot.com..txt",
+      "NameServer": "ns1.b9o1.wertot.com.",
+      "Origin": "b9o1.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/befhgp9.wertot.com..txt",
+      "NameServer": "ns1.befhgp9.wertot.com.",
+      "Origin": "befhgp9.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/bf8a.wertot.com..txt",
+      "NameServer": "ns1.bf8a.wertot.com.",
+      "Origin": "bf8a.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/bhwecvf.wertot.com..txt",
+      "NameServer": "ns1.bhwecvf.wertot.com.",
+      "Origin": "bhwecvf.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/bn4b.wertot.com..txt",
+      "NameServer": "ns1.bn4b.wertot.com.",
+      "Origin": "bn4b.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/bn55fn.wertot.com..txt",
+      "NameServer": "ns1.bn55fn.wertot.com.",
+      "Origin": "bn55fn.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/bozq.wertot.com..txt",
+      "NameServer": "ns1.bozq.wertot.com.",
+      "Origin": "bozq.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/bupy.wertot.com..txt",
+      "NameServer": "ns1.bupy.wertot.com.",
+      "Origin": "bupy.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/buzwlc.wertot.com..txt",
+      "NameServer": "ns1.buzwlc.wertot.com.",
+      "Origin": "buzwlc.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/bxwtqyj.wertot.com..txt",
+      "NameServer": "ns1.bxwtqyj.wertot.com.",
+      "Origin": "bxwtqyj.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/c2x01.wertot.com..txt",
+      "NameServer": "ns1.c2x01.wertot.com.",
+      "Origin": "c2x01.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/camwmuk.wertot.com..txt",
+      "NameServer": "ns1.camwmuk.wertot.com.",
+      "Origin": "camwmuk.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/cbarnr.wertot.com..txt",
+      "NameServer": "ns1.cbarnr.wertot.com.",
+      "Origin": "cbarnr.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/cgcug.wertot.com..txt",
+      "NameServer": "ns1.cgcug.wertot.com.",
+      "Origin": "cgcug.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/chygeqa.wertot.com..txt",
+      "NameServer": "ns1.chygeqa.wertot.com.",
+      "Origin": "chygeqa.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ckxy.wertot.com..txt",
+      "NameServer": "ns1.ckxy.wertot.com.",
+      "Origin": "ckxy.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/cnbfc.wertot.com..txt",
+      "NameServer": "ns1.cnbfc.wertot.com.",
+      "Origin": "cnbfc.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/cpws.wertot.com..txt",
+      "NameServer": "ns1.cpws.wertot.com.",
+      "Origin": "cpws.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ctejc.wertot.com..txt",
+      "NameServer": "ns1.ctejc.wertot.com.",
+      "Origin": "ctejc.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/cu61bwd.wertot.com..txt",
+      "NameServer": "ns1.cu61bwd.wertot.com.",
+      "Origin": "cu61bwd.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/cvb63li.wertot.com..txt",
+      "NameServer": "ns1.cvb63li.wertot.com.",
+      "Origin": "cvb63li.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/d3hn.wertot.com..txt",
+      "NameServer": "ns1.d3hn.wertot.com.",
+      "Origin": "d3hn.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/dbajy.wertot.com..txt",
+      "NameServer": "ns1.dbajy.wertot.com.",
+      "Origin": "dbajy.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/dkiw5i.wertot.com..txt",
+      "NameServer": "ns1.dkiw5i.wertot.com.",
+      "Origin": "dkiw5i.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/dnthp.wertot.com..txt",
+      "NameServer": "ns1.dnthp.wertot.com.",
+      "Origin": "dnthp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/dqk2lb.wertot.com..txt",
+      "NameServer": "ns1.dqk2lb.wertot.com.",
+      "Origin": "dqk2lb.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/drqpj.wertot.com..txt",
+      "NameServer": "ns1.drqpj.wertot.com.",
+      "Origin": "drqpj.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/dvshxb8.wertot.com..txt",
+      "NameServer": "ns1.dvshxb8.wertot.com.",
+      "Origin": "dvshxb8.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/dxhln.wertot.com..txt",
+      "NameServer": "ns1.dxhln.wertot.com.",
+      "Origin": "dxhln.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/dxid.wertot.com..txt",
+      "NameServer": "ns1.dxid.wertot.com.",
+      "Origin": "dxid.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/dy4h8p.wertot.com..txt",
+      "NameServer": "ns1.dy4h8p.wertot.com.",
+      "Origin": "dy4h8p.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/echhyxm.wertot.com..txt",
+      "NameServer": "ns1.echhyxm.wertot.com.",
+      "Origin": "echhyxm.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ej8u1u2.wertot.com..txt",
+      "NameServer": "ns1.ej8u1u2.wertot.com.",
+      "Origin": "ej8u1u2.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/el3n8qm.wertot.com..txt",
+      "NameServer": "ns1.el3n8qm.wertot.com.",
+      "Origin": "el3n8qm.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/enwv.wertot.com..txt",
+      "NameServer": "ns1.enwv.wertot.com.",
+      "Origin": "enwv.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/epqqgo.wertot.com..txt",
+      "NameServer": "ns1.epqqgo.wertot.com.",
+      "Origin": "epqqgo.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/etimam.wertot.com..txt",
+      "NameServer": "ns1.etimam.wertot.com.",
+      "Origin": "etimam.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/fbrpav.wertot.com..txt",
+      "NameServer": "ns1.fbrpav.wertot.com.",
+      "Origin": "fbrpav.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/feb5rgl.wertot.com..txt",
+      "NameServer": "ns1.feb5rgl.wertot.com.",
+      "Origin": "feb5rgl.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/fk8mdu.wertot.com..txt",
+      "NameServer": "ns1.fk8mdu.wertot.com.",
+      "Origin": "fk8mdu.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/fmtu5.wertot.com..txt",
+      "NameServer": "ns1.fmtu5.wertot.com.",
+      "Origin": "fmtu5.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/fnath.wertot.com..txt",
+      "NameServer": "ns1.fnath.wertot.com.",
+      "Origin": "fnath.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/gc5qp9.wertot.com..txt",
+      "NameServer": "ns1.gc5qp9.wertot.com.",
+      "Origin": "gc5qp9.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/gl85.wertot.com..txt",
+      "NameServer": "ns1.gl85.wertot.com.",
+      "Origin": "gl85.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/gluku.wertot.com..txt",
+      "NameServer": "ns1.gluku.wertot.com.",
+      "Origin": "gluku.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/gtzzz.wertot.com..txt",
+      "NameServer": "ns1.gtzzz.wertot.com.",
+      "Origin": "gtzzz.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/gwrvqfl.wertot.com..txt",
+      "NameServer": "ns1.gwrvqfl.wertot.com.",
+      "Origin": "gwrvqfl.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/gxu42sw.wertot.com..txt",
+      "NameServer": "ns1.gxu42sw.wertot.com.",
+      "Origin": "gxu42sw.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/gzac.wertot.com..txt",
+      "NameServer": "ns1.gzac.wertot.com.",
+      "Origin": "gzac.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/gzscj.wertot.com..txt",
+      "NameServer": "ns1.gzscj.wertot.com.",
+      "Origin": "gzscj.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/hey2oqq.wertot.com..txt",
+      "NameServer": "ns1.hey2oqq.wertot.com.",
+      "Origin": "hey2oqq.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/hijwj.wertot.com..txt",
+      "NameServer": "ns1.hijwj.wertot.com.",
+      "Origin": "hijwj.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/hmym.wertot.com..txt",
+      "NameServer": "ns1.hmym.wertot.com.",
+      "Origin": "hmym.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/hqgacj.wertot.com..txt",
+      "NameServer": "ns1.hqgacj.wertot.com.",
+      "Origin": "hqgacj.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ibley2.wertot.com..txt",
+      "NameServer": "ns1.ibley2.wertot.com.",
+      "Origin": "ibley2.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ichkt.wertot.com..txt",
+      "NameServer": "ns1.ichkt.wertot.com.",
+      "Origin": "ichkt.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ii41.wertot.com..txt",
+      "NameServer": "ns1.ii41.wertot.com.",
+      "Origin": "ii41.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ikmpce.wertot.com..txt",
+      "NameServer": "ns1.ikmpce.wertot.com.",
+      "Origin": "ikmpce.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/imx8wi.wertot.com..txt",
+      "NameServer": "ns1.imx8wi.wertot.com.",
+      "Origin": "imx8wi.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/isyy1t.wertot.com..txt",
+      "NameServer": "ns1.isyy1t.wertot.com.",
+      "Origin": "isyy1t.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/itktloi.wertot.com..txt",
+      "NameServer": "ns1.itktloi.wertot.com.",
+      "Origin": "itktloi.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ivvhttm.wertot.com..txt",
+      "NameServer": "ns1.ivvhttm.wertot.com.",
+      "Origin": "ivvhttm.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/j7eay.wertot.com..txt",
+      "NameServer": "ns1.j7eay.wertot.com.",
+      "Origin": "j7eay.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/jfgw7y.wertot.com..txt",
+      "NameServer": "ns1.jfgw7y.wertot.com.",
+      "Origin": "jfgw7y.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/jh04.wertot.com..txt",
+      "NameServer": "ns1.jh04.wertot.com.",
+      "Origin": "jh04.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/jmo2.wertot.com..txt",
+      "NameServer": "ns1.jmo2.wertot.com.",
+      "Origin": "jmo2.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/jq3xmp.wertot.com..txt",
+      "NameServer": "ns1.jq3xmp.wertot.com.",
+      "Origin": "jq3xmp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/jskg.wertot.com..txt",
+      "NameServer": "ns1.jskg.wertot.com.",
+      "Origin": "jskg.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/jskl.wertot.com..txt",
+      "NameServer": "ns1.jskl.wertot.com.",
+      "Origin": "jskl.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/jvr5ztx.wertot.com..txt",
+      "NameServer": "ns1.jvr5ztx.wertot.com.",
+      "Origin": "jvr5ztx.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/kaxtrk.wertot.com..txt",
+      "NameServer": "ns1.kaxtrk.wertot.com.",
+      "Origin": "kaxtrk.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/kc5v.wertot.com..txt",
+      "NameServer": "ns1.kc5v.wertot.com.",
+      "Origin": "kc5v.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/kdcn8ih.wertot.com..txt",
+      "NameServer": "ns1.kdcn8ih.wertot.com.",
+      "Origin": "kdcn8ih.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/kjlmiq.wertot.com..txt",
+      "NameServer": "ns1.kjlmiq.wertot.com.",
+      "Origin": "kjlmiq.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/kqleh0.wertot.com..txt",
+      "NameServer": "ns1.kqleh0.wertot.com.",
+      "Origin": "kqleh0.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/krjh.wertot.com..txt",
+      "NameServer": "ns1.krjh.wertot.com.",
+      "Origin": "krjh.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/krqup8.wertot.com..txt",
+      "NameServer": "ns1.krqup8.wertot.com.",
+      "Origin": "krqup8.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ktjqnx.wertot.com..txt",
+      "NameServer": "ns1.ktjqnx.wertot.com.",
+      "Origin": "ktjqnx.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/kwnjk8.wertot.com..txt",
+      "NameServer": "ns1.kwnjk8.wertot.com.",
+      "Origin": "kwnjk8.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/lae9y.wertot.com..txt",
+      "NameServer": "ns1.lae9y.wertot.com.",
+      "Origin": "lae9y.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/lbnnp.wertot.com..txt",
+      "NameServer": "ns1.lbnnp.wertot.com.",
+      "Origin": "lbnnp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/leqexu.wertot.com..txt",
+      "NameServer": "ns1.leqexu.wertot.com.",
+      "Origin": "leqexu.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/lh5y.wertot.com..txt",
+      "NameServer": "ns1.lh5y.wertot.com.",
+      "Origin": "lh5y.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/lmqhd78.wertot.com..txt",
+      "NameServer": "ns1.lmqhd78.wertot.com.",
+      "Origin": "lmqhd78.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/lpjk.wertot.com..txt",
+      "NameServer": "ns1.lpjk.wertot.com.",
+      "Origin": "lpjk.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/lqtm7ug.wertot.com..txt",
+      "NameServer": "ns1.lqtm7ug.wertot.com.",
+      "Origin": "lqtm7ug.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/lv5mb.wertot.com..txt",
+      "NameServer": "ns1.lv5mb.wertot.com.",
+      "Origin": "lv5mb.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/lz0gijl.wertot.com..txt",
+      "NameServer": "ns1.lz0gijl.wertot.com.",
+      "Origin": "lz0gijl.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/lzndvp.wertot.com..txt",
+      "NameServer": "ns1.lzndvp.wertot.com.",
+      "Origin": "lzndvp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/mixopy.wertot.com..txt",
+      "NameServer": "ns1.mixopy.wertot.com.",
+      "Origin": "mixopy.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/mjepj.wertot.com..txt",
+      "NameServer": "ns1.mjepj.wertot.com.",
+      "Origin": "mjepj.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/mkylb2.wertot.com..txt",
+      "NameServer": "ns1.mkylb2.wertot.com.",
+      "Origin": "mkylb2.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/mr2s7jo.wertot.com..txt",
+      "NameServer": "ns1.mr2s7jo.wertot.com.",
+      "Origin": "mr2s7jo.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/mxfaq.wertot.com..txt",
+      "NameServer": "ns1.mxfaq.wertot.com.",
+      "Origin": "mxfaq.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/myt3uoo.wertot.com..txt",
+      "NameServer": "ns1.myt3uoo.wertot.com.",
+      "Origin": "myt3uoo.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/navr.wertot.com..txt",
+      "NameServer": "ns1.navr.wertot.com.",
+      "Origin": "navr.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/nc5d89x.wertot.com..txt",
+      "NameServer": "ns1.nc5d89x.wertot.com.",
+      "Origin": "nc5d89x.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/nfzx2fk.wertot.com..txt",
+      "NameServer": "ns1.nfzx2fk.wertot.com.",
+      "Origin": "nfzx2fk.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ngqyeg.wertot.com..txt",
+      "NameServer": "ns1.ngqyeg.wertot.com.",
+      "Origin": "ngqyeg.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/nh37.wertot.com..txt",
+      "NameServer": "ns1.nh37.wertot.com.",
+      "Origin": "nh37.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/nosnp.wertot.com..txt",
+      "NameServer": "ns1.nosnp.wertot.com.",
+      "Origin": "nosnp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ntv4u.wertot.com..txt",
+      "NameServer": "ns1.ntv4u.wertot.com.",
+      "Origin": "ntv4u.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/nwwcd.wertot.com..txt",
+      "NameServer": "ns1.nwwcd.wertot.com.",
+      "Origin": "nwwcd.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/o0ehrdy.wertot.com..txt",
+      "NameServer": "ns1.o0ehrdy.wertot.com.",
+      "Origin": "o0ehrdy.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/o2yygs.wertot.com..txt",
+      "NameServer": "ns1.o2yygs.wertot.com.",
+      "Origin": "o2yygs.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/o5mwvr.wertot.com..txt",
+      "NameServer": "ns1.o5mwvr.wertot.com.",
+      "Origin": "o5mwvr.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/od4e6n3.wertot.com..txt",
+      "NameServer": "ns1.od4e6n3.wertot.com.",
+      "Origin": "od4e6n3.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/oelyna.wertot.com..txt",
+      "NameServer": "ns1.oelyna.wertot.com.",
+      "Origin": "oelyna.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/okergoy.wertot.com..txt",
+      "NameServer": "ns1.okergoy.wertot.com.",
+      "Origin": "okergoy.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/okmvha.wertot.com..txt",
+      "NameServer": "ns1.okmvha.wertot.com.",
+      "Origin": "okmvha.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/oqbd55a.wertot.com..txt",
+      "NameServer": "ns1.oqbd55a.wertot.com.",
+      "Origin": "oqbd55a.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ort9lu8.wertot.com..txt",
+      "NameServer": "ns1.ort9lu8.wertot.com.",
+      "Origin": "ort9lu8.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ovjhyms.wertot.com..txt",
+      "NameServer": "ns1.ovjhyms.wertot.com.",
+      "Origin": "ovjhyms.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ozsy0.wertot.com..txt",
+      "NameServer": "ns1.ozsy0.wertot.com.",
+      "Origin": "ozsy0.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/p3eotg.wertot.com..txt",
+      "NameServer": "ns1.p3eotg.wertot.com.",
+      "Origin": "p3eotg.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/p8czri.wertot.com..txt",
+      "NameServer": "ns1.p8czri.wertot.com.",
+      "Origin": "p8czri.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/pfwszf.wertot.com..txt",
+      "NameServer": "ns1.pfwszf.wertot.com.",
+      "Origin": "pfwszf.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/prbt9te.wertot.com..txt",
+      "NameServer": "ns1.prbt9te.wertot.com.",
+      "Origin": "prbt9te.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/pu2ewn.wertot.com..txt",
+      "NameServer": "ns1.pu2ewn.wertot.com.",
+      "Origin": "pu2ewn.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/pvjpluk.wertot.com..txt",
+      "NameServer": "ns1.pvjpluk.wertot.com.",
+      "Origin": "pvjpluk.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/qakkq.wertot.com..txt",
+      "NameServer": "ns1.qakkq.wertot.com.",
+      "Origin": "qakkq.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/qao8.wertot.com..txt",
+      "NameServer": "ns1.qao8.wertot.com.",
+      "Origin": "qao8.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/qbt7qs1.wertot.com..txt",
+      "NameServer": "ns1.qbt7qs1.wertot.com.",
+      "Origin": "qbt7qs1.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/qhvbnvb.wertot.com..txt",
+      "NameServer": "ns1.qhvbnvb.wertot.com.",
+      "Origin": "qhvbnvb.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/qlt9vmw.wertot.com..txt",
+      "NameServer": "ns1.qlt9vmw.wertot.com.",
+      "Origin": "qlt9vmw.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/qlug.wertot.com..txt",
+      "NameServer": "ns1.qlug.wertot.com.",
+      "Origin": "qlug.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/qmvo0xc.wertot.com..txt",
+      "NameServer": "ns1.qmvo0xc.wertot.com.",
+      "Origin": "qmvo0xc.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/qoxez.wertot.com..txt",
+      "NameServer": "ns1.qoxez.wertot.com.",
+      "Origin": "qoxez.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/qpgyq5z.wertot.com..txt",
+      "NameServer": "ns1.qpgyq5z.wertot.com.",
+      "Origin": "qpgyq5z.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/radcah.wertot.com..txt",
+      "NameServer": "ns1.radcah.wertot.com.",
+      "Origin": "radcah.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/rdvpet.wertot.com..txt",
+      "NameServer": "ns1.rdvpet.wertot.com.",
+      "Origin": "rdvpet.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/rsle2q.wertot.com..txt",
+      "NameServer": "ns1.rsle2q.wertot.com.",
+      "Origin": "rsle2q.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/rut2eud.wertot.com..txt",
+      "NameServer": "ns1.rut2eud.wertot.com.",
+      "Origin": "rut2eud.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/s23mp.wertot.com..txt",
+      "NameServer": "ns1.s23mp.wertot.com.",
+      "Origin": "s23mp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/s8kc.wertot.com..txt",
+      "NameServer": "ns1.s8kc.wertot.com.",
+      "Origin": "s8kc.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/sd4jdi.wertot.com..txt",
+      "NameServer": "ns1.sd4jdi.wertot.com.",
+      "Origin": "sd4jdi.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/sjnid6f.wertot.com..txt",
+      "NameServer": "ns1.sjnid6f.wertot.com.",
+      "Origin": "sjnid6f.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/smtbjj.wertot.com..txt",
+      "NameServer": "ns1.smtbjj.wertot.com.",
+      "Origin": "smtbjj.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/sqhb1c7.wertot.com..txt",
+      "NameServer": "ns1.sqhb1c7.wertot.com.",
+      "Origin": "sqhb1c7.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/tbp4np.wertot.com..txt",
+      "NameServer": "ns1.tbp4np.wertot.com.",
+      "Origin": "tbp4np.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/tdh3.wertot.com..txt",
+      "NameServer": "ns1.tdh3.wertot.com.",
+      "Origin": "tdh3.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/tifto97.wertot.com..txt",
+      "NameServer": "ns1.tifto97.wertot.com.",
+      "Origin": "tifto97.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/tluffvi.wertot.com..txt",
+      "NameServer": "ns1.tluffvi.wertot.com.",
+      "Origin": "tluffvi.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/tmikp.wertot.com..txt",
+      "NameServer": "ns1.tmikp.wertot.com.",
+      "Origin": "tmikp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/trjy.wertot.com..txt",
+      "NameServer": "ns1.trjy.wertot.com.",
+      "Origin": "trjy.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/twika8.wertot.com..txt",
+      "NameServer": "ns1.twika8.wertot.com.",
+      "Origin": "twika8.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/tyhl5tc.wertot.com..txt",
+      "NameServer": "ns1.tyhl5tc.wertot.com.",
+      "Origin": "tyhl5tc.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/u8suih.wertot.com..txt",
+      "NameServer": "ns1.u8suih.wertot.com.",
+      "Origin": "u8suih.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ulu9v.wertot.com..txt",
+      "NameServer": "ns1.ulu9v.wertot.com.",
+      "Origin": "ulu9v.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/uzjm7.wertot.com..txt",
+      "NameServer": "ns1.uzjm7.wertot.com.",
+      "Origin": "uzjm7.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/v66yc.wertot.com..txt",
+      "NameServer": "ns1.v66yc.wertot.com.",
+      "Origin": "v66yc.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/vdlk1n.wertot.com..txt",
+      "NameServer": "ns1.vdlk1n.wertot.com.",
+      "Origin": "vdlk1n.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/vhcllj.wertot.com..txt",
+      "NameServer": "ns1.vhcllj.wertot.com.",
+      "Origin": "vhcllj.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/vkqui.wertot.com..txt",
+      "NameServer": "ns1.vkqui.wertot.com.",
+      "Origin": "vkqui.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/vtpnb.wertot.com..txt",
+      "NameServer": "ns1.vtpnb.wertot.com.",
+      "Origin": "vtpnb.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/vypx1vt.wertot.com..txt",
+      "NameServer": "ns1.vypx1vt.wertot.com.",
+      "Origin": "vypx1vt.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/w09g.wertot.com..txt",
+      "NameServer": "ns1.w09g.wertot.com.",
+      "Origin": "w09g.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/w0ppb3y.wertot.com..txt",
+      "NameServer": "ns1.w0ppb3y.wertot.com.",
+      "Origin": "w0ppb3y.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/w8ihe9x.wertot.com..txt",
+      "NameServer": "ns1.w8ihe9x.wertot.com.",
+      "Origin": "w8ihe9x.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/wertot.com..txt",
+      "NameServer": "ns1.wertot.com.",
+      "Origin": "wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/wjpgl.wertot.com..txt",
+      "NameServer": "ns1.wjpgl.wertot.com.",
+      "Origin": "wjpgl.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/wkm9i.wertot.com..txt",
+      "NameServer": "ns1.wkm9i.wertot.com.",
+      "Origin": "wkm9i.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/wnjtera.wertot.com..txt",
+      "NameServer": "ns1.wnjtera.wertot.com.",
+      "Origin": "wnjtera.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/wrhgs.wertot.com..txt",
+      "NameServer": "ns1.wrhgs.wertot.com.",
+      "Origin": "wrhgs.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/wuzk.wertot.com..txt",
+      "NameServer": "ns1.wuzk.wertot.com.",
+      "Origin": "wuzk.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/wwyrku4.wertot.com..txt",
+      "NameServer": "ns1.wwyrku4.wertot.com.",
+      "Origin": "wwyrku4.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/wwyzdz.wertot.com..txt",
+      "NameServer": "ns1.wwyzdz.wertot.com.",
+      "Origin": "wwyzdz.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/xcdtwxk.wertot.com..txt",
+      "NameServer": "ns1.xcdtwxk.wertot.com.",
+      "Origin": "xcdtwxk.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/xjaz7.wertot.com..txt",
+      "NameServer": "ns1.xjaz7.wertot.com.",
+      "Origin": "xjaz7.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ybs6.wertot.com..txt",
+      "NameServer": "ns1.ybs6.wertot.com.",
+      "Origin": "ybs6.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/yf0a8.wertot.com..txt",
+      "NameServer": "ns1.yf0a8.wertot.com.",
+      "Origin": "yf0a8.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ygxx22s.wertot.com..txt",
+      "NameServer": "ns1.ygxx22s.wertot.com.",
+      "Origin": "ygxx22s.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ykylx.wertot.com..txt",
+      "NameServer": "ns1.ykylx.wertot.com.",
+      "Origin": "ykylx.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/yrh6qas.wertot.com..txt",
+      "NameServer": "ns1.yrh6qas.wertot.com.",
+      "Origin": "yrh6qas.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/yswleey.wertot.com..txt",
+      "NameServer": "ns1.yswleey.wertot.com.",
+      "Origin": "yswleey.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/yx5oh.wertot.com..txt",
+      "NameServer": "ns1.yx5oh.wertot.com.",
+      "Origin": "yx5oh.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/z4k91a.wertot.com..txt",
+      "NameServer": "ns1.z4k91a.wertot.com.",
+      "Origin": "z4k91a.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/z9mg.wertot.com..txt",
+      "NameServer": "ns1.z9mg.wertot.com.",
+      "Origin": "z9mg.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/znuc2.wertot.com..txt",
+      "NameServer": "ns1.znuc2.wertot.com.",
+      "Origin": "znuc2.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/zord0bp.wertot.com..txt",
+      "NameServer": "ns1.zord0bp.wertot.com.",
+      "Origin": "zord0bp.wertot.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/wertot.com/ztjcqo.wertot.com..txt",
+      "NameServer": "ns1.ztjcqo.wertot.com.",
+      "Origin": "ztjcqo.wertot.com."
+    }
+  ]
+}

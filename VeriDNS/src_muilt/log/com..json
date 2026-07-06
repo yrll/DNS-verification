@@ -1,0 +1,9 @@
+[
+    {
+        "Property": "check_delegation_inconsistency",
+        "domain_name": "com.",
+        "error_message": {
+            "info": "check domaincom., ns_server:school.com., com. haven't {'ns2.school.com.'}"
+        }
+    }
+]

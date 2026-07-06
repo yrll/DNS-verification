@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/votesp.com,votesp.com..txt,NS_UPDATE,DEL,votesp.com.,NS,dns1.name-services.com.
+files-500-1000/votesp.com,votesp.com..txt,NS_UPDATE,ADD,votesp.com.,NS,ns-inc.votesp.com.

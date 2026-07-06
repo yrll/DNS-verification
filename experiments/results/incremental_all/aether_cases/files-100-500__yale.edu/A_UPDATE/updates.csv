@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yale.edu,acir.yale.edu..txt,A_UPDATE,DEL,acir.yale.edu.,A,130.132.33.185
+files-100-500/yale.edu,acir.yale.edu..txt,A_UPDATE,ADD,acir.yale.edu.,A,192.0.2.253

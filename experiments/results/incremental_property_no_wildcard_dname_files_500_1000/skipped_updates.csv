@@ -1,0 +1,4 @@
+group,dataset,dataset_id,scenario,status,skipped_reason
+files-500-1000,votesp.com,files-500-1000/votesp.com,CNAME_UPDATE,skipped,no CNAME record
+files-500-1000,weblog.com,files-500-1000/weblog.com,CNAME_UPDATE,skipped,no CNAME record
+files-500-1000,wopert.com,files-500-1000/wopert.com,CNAME_UPDATE,skipped,no CNAME record

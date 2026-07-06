@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wcpss.net,aldertrootes.wcpss.net..txt,A_UPDATE,DEL,aldertrootes.wcpss.net.,A,24.171.168.207
+files-100-500/wcpss.net,aldertrootes.wcpss.net..txt,A_UPDATE,ADD,aldertrootes.wcpss.net.,A,192.0.2.253

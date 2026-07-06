@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/wroclaw.pl,2mserwis.wroclaw.pl..txt,A_ADD,ADD,__aether_veridns_inc__.2mserwis.wroclaw.pl.,A,192.0.2.254

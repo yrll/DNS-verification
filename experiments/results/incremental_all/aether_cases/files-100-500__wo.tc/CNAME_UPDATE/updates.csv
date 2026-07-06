@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wo.tc,noel.wo.tc..txt,CNAME_UPDATE,DEL,about.noel.wo.tc.,CNAME,noel.storytlr.com.
+files-100-500/wo.tc,noel.wo.tc..txt,CNAME_UPDATE,ADD,about.noel.wo.tc.,CNAME,cname-inc.noel.wo.tc.

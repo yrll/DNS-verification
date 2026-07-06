@@ -1,0 +1,2477 @@
+{
+  "TopNameServers": [
+    "ns1.vivilotz.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/10-greatest-guitar-players.aoo.vivilotz.com..txt",
+      "NameServer": "ns1.10-greatest-guitar-players.aoo.vivilotz.com.",
+      "Origin": "10-greatest-guitar-players.aoo.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/13850-zip-code-census-family-income.aoc.vivilotz.com..txt",
+      "NameServer": "ns1.13850-zip-code-census-family-income.aoc.vivilotz.com.",
+      "Origin": "13850-zip-code-census-family-income.aoc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/1997-property-maintenance-code.aey.vivilotz.com..txt",
+      "NameServer": "ns1.1997-property-maintenance-code.aey.vivilotz.com.",
+      "Origin": "1997-property-maintenance-code.aey.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/1998-road-test-yamaha-r1.aiu.vivilotz.com..txt",
+      "NameServer": "ns1.1998-road-test-yamaha-r1.aiu.vivilotz.com.",
+      "Origin": "1998-road-test-yamaha-r1.aiu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/4h-dog-show-entry-form.aem.vivilotz.com..txt",
+      "NameServer": "ns1.4h-dog-show-entry-form.aem.vivilotz.com.",
+      "Origin": "4h-dog-show-entry-form.aem.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/5th-kyu-aikido-test.ajj.vivilotz.com..txt",
+      "NameServer": "ns1.5th-kyu-aikido-test.ajj.vivilotz.com.",
+      "Origin": "5th-kyu-aikido-test.ajj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/80s-tv-series-pictures-actors.aln.vivilotz.com..txt",
+      "NameServer": "ns1.80s-tv-series-pictures-actors.aln.vivilotz.com.",
+      "Origin": "80s-tv-series-pictures-actors.aln.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/90-000-sexual-predators-removed.aec.vivilotz.com..txt",
+      "NameServer": "ns1.90-000-sexual-predators-removed.aec.vivilotz.com.",
+      "Origin": "90-000-sexual-predators-removed.aec.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aaa.vivilotz.com..txt",
+      "NameServer": "ns1.aaa.vivilotz.com.",
+      "Origin": "aaa.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aab.vivilotz.com..txt",
+      "NameServer": "ns1.aab.vivilotz.com.",
+      "Origin": "aab.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aaq.vivilotz.com..txt",
+      "NameServer": "ns1.aaq.vivilotz.com.",
+      "Origin": "aaq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aba.vivilotz.com..txt",
+      "NameServer": "ns1.aba.vivilotz.com.",
+      "Origin": "aba.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abf.vivilotz.com..txt",
+      "NameServer": "ns1.abf.vivilotz.com.",
+      "Origin": "abf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abg.vivilotz.com..txt",
+      "NameServer": "ns1.abg.vivilotz.com.",
+      "Origin": "abg.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abh.vivilotz.com..txt",
+      "NameServer": "ns1.abh.vivilotz.com.",
+      "Origin": "abh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abi.vivilotz.com..txt",
+      "NameServer": "ns1.abi.vivilotz.com.",
+      "Origin": "abi.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abk.vivilotz.com..txt",
+      "NameServer": "ns1.abk.vivilotz.com.",
+      "Origin": "abk.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abl.vivilotz.com..txt",
+      "NameServer": "ns1.abl.vivilotz.com.",
+      "Origin": "abl.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abm.vivilotz.com..txt",
+      "NameServer": "ns1.abm.vivilotz.com.",
+      "Origin": "abm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abn.vivilotz.com..txt",
+      "NameServer": "ns1.abn.vivilotz.com.",
+      "Origin": "abn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abp.vivilotz.com..txt",
+      "NameServer": "ns1.abp.vivilotz.com.",
+      "Origin": "abp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abs-cbn-tv-private-message-previous.anl.vivilotz.com..txt",
+      "NameServer": "ns1.abs-cbn-tv-private-message-previous.anl.vivilotz.com.",
+      "Origin": "abs-cbn-tv-private-message-previous.anl.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abw.vivilotz.com..txt",
+      "NameServer": "ns1.abw.vivilotz.com.",
+      "Origin": "abw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/abz.vivilotz.com..txt",
+      "NameServer": "ns1.abz.vivilotz.com.",
+      "Origin": "abz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/access-code-for-gallup-s-strengthsfinder.abn.vivilotz.com..txt",
+      "NameServer": "ns1.access-code-for-gallup-s-strengthsfinder.abn.vivilotz.com.",
+      "Origin": "access-code-for-gallup-s-strengthsfinder.abn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/acd.vivilotz.com..txt",
+      "NameServer": "ns1.acd.vivilotz.com.",
+      "Origin": "acd.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aci.vivilotz.com..txt",
+      "NameServer": "ns1.aci.vivilotz.com.",
+      "Origin": "aci.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/acj.vivilotz.com..txt",
+      "NameServer": "ns1.acj.vivilotz.com.",
+      "Origin": "acj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/acm.vivilotz.com..txt",
+      "NameServer": "ns1.acm.vivilotz.com.",
+      "Origin": "acm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/acp.vivilotz.com..txt",
+      "NameServer": "ns1.acp.vivilotz.com.",
+      "Origin": "acp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/activation-code-photoshop-cs2.abh.vivilotz.com..txt",
+      "NameServer": "ns1.activation-code-photoshop-cs2.abh.vivilotz.com.",
+      "Origin": "activation-code-photoshop-cs2.abh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/acu.vivilotz.com..txt",
+      "NameServer": "ns1.acu.vivilotz.com.",
+      "Origin": "acu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/acv.vivilotz.com..txt",
+      "NameServer": "ns1.acv.vivilotz.com.",
+      "Origin": "acv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/acx.vivilotz.com..txt",
+      "NameServer": "ns1.acx.vivilotz.com.",
+      "Origin": "acx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/acz.vivilotz.com..txt",
+      "NameServer": "ns1.acz.vivilotz.com.",
+      "Origin": "acz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/add.vivilotz.com..txt",
+      "NameServer": "ns1.add.vivilotz.com.",
+      "Origin": "add.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/adh.vivilotz.com..txt",
+      "NameServer": "ns1.adh.vivilotz.com.",
+      "Origin": "adh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/adj.vivilotz.com..txt",
+      "NameServer": "ns1.adj.vivilotz.com.",
+      "Origin": "adj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ado.vivilotz.com..txt",
+      "NameServer": "ns1.ado.vivilotz.com.",
+      "Origin": "ado.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/adp.vivilotz.com..txt",
+      "NameServer": "ns1.adp.vivilotz.com.",
+      "Origin": "adp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/adr.vivilotz.com..txt",
+      "NameServer": "ns1.adr.vivilotz.com.",
+      "Origin": "adr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ads.vivilotz.com..txt",
+      "NameServer": "ns1.ads.vivilotz.com.",
+      "Origin": "ads.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/adt.vivilotz.com..txt",
+      "NameServer": "ns1.adt.vivilotz.com.",
+      "Origin": "adt.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/adu.vivilotz.com..txt",
+      "NameServer": "ns1.adu.vivilotz.com.",
+      "Origin": "adu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/adv.vivilotz.com..txt",
+      "NameServer": "ns1.adv.vivilotz.com.",
+      "Origin": "adv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/adw.vivilotz.com..txt",
+      "NameServer": "ns1.adw.vivilotz.com.",
+      "Origin": "adw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ady.vivilotz.com..txt",
+      "NameServer": "ns1.ady.vivilotz.com.",
+      "Origin": "ady.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/adz.vivilotz.com..txt",
+      "NameServer": "ns1.adz.vivilotz.com.",
+      "Origin": "adz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aea.vivilotz.com..txt",
+      "NameServer": "ns1.aea.vivilotz.com.",
+      "Origin": "aea.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aeb.vivilotz.com..txt",
+      "NameServer": "ns1.aeb.vivilotz.com.",
+      "Origin": "aeb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aec.vivilotz.com..txt",
+      "NameServer": "ns1.aec.vivilotz.com.",
+      "Origin": "aec.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aed.vivilotz.com..txt",
+      "NameServer": "ns1.aed.vivilotz.com.",
+      "Origin": "aed.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aee.vivilotz.com..txt",
+      "NameServer": "ns1.aee.vivilotz.com.",
+      "Origin": "aee.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aef.vivilotz.com..txt",
+      "NameServer": "ns1.aef.vivilotz.com.",
+      "Origin": "aef.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aei.vivilotz.com..txt",
+      "NameServer": "ns1.aei.vivilotz.com.",
+      "Origin": "aei.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aek.vivilotz.com..txt",
+      "NameServer": "ns1.aek.vivilotz.com.",
+      "Origin": "aek.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ael.vivilotz.com..txt",
+      "NameServer": "ns1.ael.vivilotz.com.",
+      "Origin": "ael.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aem.vivilotz.com..txt",
+      "NameServer": "ns1.aem.vivilotz.com.",
+      "Origin": "aem.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aen.vivilotz.com..txt",
+      "NameServer": "ns1.aen.vivilotz.com.",
+      "Origin": "aen.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aeo.vivilotz.com..txt",
+      "NameServer": "ns1.aeo.vivilotz.com.",
+      "Origin": "aeo.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aep.vivilotz.com..txt",
+      "NameServer": "ns1.aep.vivilotz.com.",
+      "Origin": "aep.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aer.vivilotz.com..txt",
+      "NameServer": "ns1.aer.vivilotz.com.",
+      "Origin": "aer.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aeu.vivilotz.com..txt",
+      "NameServer": "ns1.aeu.vivilotz.com.",
+      "Origin": "aeu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aey.vivilotz.com..txt",
+      "NameServer": "ns1.aey.vivilotz.com.",
+      "Origin": "aey.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/afb.vivilotz.com..txt",
+      "NameServer": "ns1.afb.vivilotz.com.",
+      "Origin": "afb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/afc.vivilotz.com..txt",
+      "NameServer": "ns1.afc.vivilotz.com.",
+      "Origin": "afc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/afl.vivilotz.com..txt",
+      "NameServer": "ns1.afl.vivilotz.com.",
+      "Origin": "afl.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/afn.vivilotz.com..txt",
+      "NameServer": "ns1.afn.vivilotz.com.",
+      "Origin": "afn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/afs.vivilotz.com..txt",
+      "NameServer": "ns1.afs.vivilotz.com.",
+      "Origin": "afs.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/afx.vivilotz.com..txt",
+      "NameServer": "ns1.afx.vivilotz.com.",
+      "Origin": "afx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/agc.vivilotz.com..txt",
+      "NameServer": "ns1.agc.vivilotz.com.",
+      "Origin": "agc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/agd.vivilotz.com..txt",
+      "NameServer": "ns1.agd.vivilotz.com.",
+      "Origin": "agd.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/agj.vivilotz.com..txt",
+      "NameServer": "ns1.agj.vivilotz.com.",
+      "Origin": "agj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/agm.vivilotz.com..txt",
+      "NameServer": "ns1.agm.vivilotz.com.",
+      "Origin": "agm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ago.vivilotz.com..txt",
+      "NameServer": "ns1.ago.vivilotz.com.",
+      "Origin": "ago.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ags.vivilotz.com..txt",
+      "NameServer": "ns1.ags.vivilotz.com.",
+      "Origin": "ags.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/agw.vivilotz.com..txt",
+      "NameServer": "ns1.agw.vivilotz.com.",
+      "Origin": "agw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ahd.vivilotz.com..txt",
+      "NameServer": "ns1.ahd.vivilotz.com.",
+      "Origin": "ahd.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ahe.vivilotz.com..txt",
+      "NameServer": "ns1.ahe.vivilotz.com.",
+      "Origin": "ahe.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ahg.vivilotz.com..txt",
+      "NameServer": "ns1.ahg.vivilotz.com.",
+      "Origin": "ahg.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ahi.vivilotz.com..txt",
+      "NameServer": "ns1.ahi.vivilotz.com.",
+      "Origin": "ahi.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ahn.vivilotz.com..txt",
+      "NameServer": "ns1.ahn.vivilotz.com.",
+      "Origin": "ahn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ahp.vivilotz.com..txt",
+      "NameServer": "ns1.ahp.vivilotz.com.",
+      "Origin": "ahp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ahq.vivilotz.com..txt",
+      "NameServer": "ns1.ahq.vivilotz.com.",
+      "Origin": "ahq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ahr.vivilotz.com..txt",
+      "NameServer": "ns1.ahr.vivilotz.com.",
+      "Origin": "ahr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ahu.vivilotz.com..txt",
+      "NameServer": "ns1.ahu.vivilotz.com.",
+      "Origin": "ahu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aia.vivilotz.com..txt",
+      "NameServer": "ns1.aia.vivilotz.com.",
+      "Origin": "aia.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aid-and-attendance-form.aep.vivilotz.com..txt",
+      "NameServer": "ns1.aid-and-attendance-form.aep.vivilotz.com.",
+      "Origin": "aid-and-attendance-form.aep.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aid.vivilotz.com..txt",
+      "NameServer": "ns1.aid.vivilotz.com.",
+      "Origin": "aid.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aif.vivilotz.com..txt",
+      "NameServer": "ns1.aif.vivilotz.com.",
+      "Origin": "aif.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aig-annuity-insurance-company-annuity.aeb.vivilotz.com..txt",
+      "NameServer": "ns1.aig-annuity-insurance-company-annuity.aeb.vivilotz.com.",
+      "Origin": "aig-annuity-insurance-company-annuity.aeb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aii.vivilotz.com..txt",
+      "NameServer": "ns1.aii.vivilotz.com.",
+      "Origin": "aii.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aij.vivilotz.com..txt",
+      "NameServer": "ns1.aij.vivilotz.com.",
+      "Origin": "aij.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aik.vivilotz.com..txt",
+      "NameServer": "ns1.aik.vivilotz.com.",
+      "Origin": "aik.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ail.vivilotz.com..txt",
+      "NameServer": "ns1.ail.vivilotz.com.",
+      "Origin": "ail.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aim.vivilotz.com..txt",
+      "NameServer": "ns1.aim.vivilotz.com.",
+      "Origin": "aim.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ain.vivilotz.com..txt",
+      "NameServer": "ns1.ain.vivilotz.com.",
+      "Origin": "ain.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aiq.vivilotz.com..txt",
+      "NameServer": "ns1.aiq.vivilotz.com.",
+      "Origin": "aiq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ais.vivilotz.com..txt",
+      "NameServer": "ns1.ais.vivilotz.com.",
+      "Origin": "ais.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aiu.vivilotz.com..txt",
+      "NameServer": "ns1.aiu.vivilotz.com.",
+      "Origin": "aiu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aiv.vivilotz.com..txt",
+      "NameServer": "ns1.aiv.vivilotz.com.",
+      "Origin": "aiv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aiw.vivilotz.com..txt",
+      "NameServer": "ns1.aiw.vivilotz.com.",
+      "Origin": "aiw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aix.vivilotz.com..txt",
+      "NameServer": "ns1.aix.vivilotz.com.",
+      "Origin": "aix.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aiz.vivilotz.com..txt",
+      "NameServer": "ns1.aiz.vivilotz.com.",
+      "Origin": "aiz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ajb.vivilotz.com..txt",
+      "NameServer": "ns1.ajb.vivilotz.com.",
+      "Origin": "ajb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ajc.vivilotz.com..txt",
+      "NameServer": "ns1.ajc.vivilotz.com.",
+      "Origin": "ajc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aje.vivilotz.com..txt",
+      "NameServer": "ns1.aje.vivilotz.com.",
+      "Origin": "aje.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ajf.vivilotz.com..txt",
+      "NameServer": "ns1.ajf.vivilotz.com.",
+      "Origin": "ajf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ajh.vivilotz.com..txt",
+      "NameServer": "ns1.ajh.vivilotz.com.",
+      "Origin": "ajh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ajj.vivilotz.com..txt",
+      "NameServer": "ns1.ajj.vivilotz.com.",
+      "Origin": "ajj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ajk.vivilotz.com..txt",
+      "NameServer": "ns1.ajk.vivilotz.com.",
+      "Origin": "ajk.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ajr.vivilotz.com..txt",
+      "NameServer": "ns1.ajr.vivilotz.com.",
+      "Origin": "ajr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ajs.vivilotz.com..txt",
+      "NameServer": "ns1.ajs.vivilotz.com.",
+      "Origin": "ajs.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ajy.vivilotz.com..txt",
+      "NameServer": "ns1.ajy.vivilotz.com.",
+      "Origin": "ajy.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ajz.vivilotz.com..txt",
+      "NameServer": "ns1.ajz.vivilotz.com.",
+      "Origin": "ajz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/akg.vivilotz.com..txt",
+      "NameServer": "ns1.akg.vivilotz.com.",
+      "Origin": "akg.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/akh.vivilotz.com..txt",
+      "NameServer": "ns1.akh.vivilotz.com.",
+      "Origin": "akh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aki.vivilotz.com..txt",
+      "NameServer": "ns1.aki.vivilotz.com.",
+      "Origin": "aki.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/akk.vivilotz.com..txt",
+      "NameServer": "ns1.akk.vivilotz.com.",
+      "Origin": "akk.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/akm.vivilotz.com..txt",
+      "NameServer": "ns1.akm.vivilotz.com.",
+      "Origin": "akm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/akn.vivilotz.com..txt",
+      "NameServer": "ns1.akn.vivilotz.com.",
+      "Origin": "akn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/akp.vivilotz.com..txt",
+      "NameServer": "ns1.akp.vivilotz.com.",
+      "Origin": "akp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/akq.vivilotz.com..txt",
+      "NameServer": "ns1.akq.vivilotz.com.",
+      "Origin": "akq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/akr.vivilotz.com..txt",
+      "NameServer": "ns1.akr.vivilotz.com.",
+      "Origin": "akr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aks.vivilotz.com..txt",
+      "NameServer": "ns1.aks.vivilotz.com.",
+      "Origin": "aks.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/akz.vivilotz.com..txt",
+      "NameServer": "ns1.akz.vivilotz.com.",
+      "Origin": "akz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ala.vivilotz.com..txt",
+      "NameServer": "ns1.ala.vivilotz.com.",
+      "Origin": "ala.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/alaska-cruise-form-vancouver-cheap.adt.vivilotz.com..txt",
+      "NameServer": "ns1.alaska-cruise-form-vancouver-cheap.adt.vivilotz.com.",
+      "Origin": "alaska-cruise-form-vancouver-cheap.adt.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/alf.vivilotz.com..txt",
+      "NameServer": "ns1.alf.vivilotz.com.",
+      "Origin": "alf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/all.vivilotz.com..txt",
+      "NameServer": "ns1.all.vivilotz.com.",
+      "Origin": "all.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aln.vivilotz.com..txt",
+      "NameServer": "ns1.aln.vivilotz.com.",
+      "Origin": "aln.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/als.vivilotz.com..txt",
+      "NameServer": "ns1.als.vivilotz.com.",
+      "Origin": "als.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/alternative-cures-and-medicines.aoq.vivilotz.com..txt",
+      "NameServer": "ns1.alternative-cures-and-medicines.aoq.vivilotz.com.",
+      "Origin": "alternative-cures-and-medicines.aoq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/alv.vivilotz.com..txt",
+      "NameServer": "ns1.alv.vivilotz.com.",
+      "Origin": "alv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/alzheimers-eye-test.aiq.vivilotz.com..txt",
+      "NameServer": "ns1.alzheimers-eye-test.aiq.vivilotz.com.",
+      "Origin": "alzheimers-eye-test.aiq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ama-pro-motorcross-tv-schedule.anj.vivilotz.com..txt",
+      "NameServer": "ns1.ama-pro-motorcross-tv-schedule.anj.vivilotz.com.",
+      "Origin": "ama-pro-motorcross-tv-schedule.anj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/amd.vivilotz.com..txt",
+      "NameServer": "ns1.amd.vivilotz.com.",
+      "Origin": "amd.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/american-health-and-fitness-tv.ank.vivilotz.com..txt",
+      "NameServer": "ns1.american-health-and-fitness-tv.ank.vivilotz.com.",
+      "Origin": "american-health-and-fitness-tv.ank.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/american-kennel-club-good-citizens.aps.vivilotz.com..txt",
+      "NameServer": "ns1.american-kennel-club-good-citizens.aps.vivilotz.com.",
+      "Origin": "american-kennel-club-good-citizens.aps.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/american-pediatrics-tv-and-babies.amx.vivilotz.com..txt",
+      "NameServer": "ns1.american-pediatrics-tv-and-babies.amx.vivilotz.com.",
+      "Origin": "american-pediatrics-tv-and-babies.amx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/amerifirst-credit-card-dispute.ads.vivilotz.com..txt",
+      "NameServer": "ns1.amerifirst-credit-card-dispute.ads.vivilotz.com.",
+      "Origin": "amerifirst-credit-card-dispute.ads.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/amm.vivilotz.com..txt",
+      "NameServer": "ns1.amm.vivilotz.com.",
+      "Origin": "amm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ams.vivilotz.com..txt",
+      "NameServer": "ns1.ams.vivilotz.com.",
+      "Origin": "ams.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/amw.vivilotz.com..txt",
+      "NameServer": "ns1.amw.vivilotz.com.",
+      "Origin": "amw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/amx.vivilotz.com..txt",
+      "NameServer": "ns1.amx.vivilotz.com.",
+      "Origin": "amx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ana.vivilotz.com..txt",
+      "NameServer": "ns1.ana.vivilotz.com.",
+      "Origin": "ana.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anb.vivilotz.com..txt",
+      "NameServer": "ns1.anb.vivilotz.com.",
+      "Origin": "anb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anc.vivilotz.com..txt",
+      "NameServer": "ns1.anc.vivilotz.com.",
+      "Origin": "anc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ane.vivilotz.com..txt",
+      "NameServer": "ns1.ane.vivilotz.com.",
+      "Origin": "ane.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anf.vivilotz.com..txt",
+      "NameServer": "ns1.anf.vivilotz.com.",
+      "Origin": "anf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ang.vivilotz.com..txt",
+      "NameServer": "ns1.ang.vivilotz.com.",
+      "Origin": "ang.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anh.vivilotz.com..txt",
+      "NameServer": "ns1.anh.vivilotz.com.",
+      "Origin": "anh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ani.vivilotz.com..txt",
+      "NameServer": "ns1.ani.vivilotz.com.",
+      "Origin": "ani.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anj.vivilotz.com..txt",
+      "NameServer": "ns1.anj.vivilotz.com.",
+      "Origin": "anj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ank.vivilotz.com..txt",
+      "NameServer": "ns1.ank.vivilotz.com.",
+      "Origin": "ank.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anl.vivilotz.com..txt",
+      "NameServer": "ns1.anl.vivilotz.com.",
+      "Origin": "anl.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anm.vivilotz.com..txt",
+      "NameServer": "ns1.anm.vivilotz.com.",
+      "Origin": "anm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ano.vivilotz.com..txt",
+      "NameServer": "ns1.ano.vivilotz.com.",
+      "Origin": "ano.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anp.vivilotz.com..txt",
+      "NameServer": "ns1.anp.vivilotz.com.",
+      "Origin": "anp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anq.vivilotz.com..txt",
+      "NameServer": "ns1.anq.vivilotz.com.",
+      "Origin": "anq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anr.vivilotz.com..txt",
+      "NameServer": "ns1.anr.vivilotz.com.",
+      "Origin": "anr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anu.vivilotz.com..txt",
+      "NameServer": "ns1.anu.vivilotz.com.",
+      "Origin": "anu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anv.vivilotz.com..txt",
+      "NameServer": "ns1.anv.vivilotz.com.",
+      "Origin": "anv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anw.vivilotz.com..txt",
+      "NameServer": "ns1.anw.vivilotz.com.",
+      "Origin": "anw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anx.vivilotz.com..txt",
+      "NameServer": "ns1.anx.vivilotz.com.",
+      "Origin": "anx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/any.vivilotz.com..txt",
+      "NameServer": "ns1.any.vivilotz.com.",
+      "Origin": "any.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/anz.vivilotz.com..txt",
+      "NameServer": "ns1.anz.vivilotz.com.",
+      "Origin": "anz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aoa.vivilotz.com..txt",
+      "NameServer": "ns1.aoa.vivilotz.com.",
+      "Origin": "aoa.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aob.vivilotz.com..txt",
+      "NameServer": "ns1.aob.vivilotz.com.",
+      "Origin": "aob.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aoc.vivilotz.com..txt",
+      "NameServer": "ns1.aoc.vivilotz.com.",
+      "Origin": "aoc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aod.vivilotz.com..txt",
+      "NameServer": "ns1.aod.vivilotz.com.",
+      "Origin": "aod.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aoe.vivilotz.com..txt",
+      "NameServer": "ns1.aoe.vivilotz.com.",
+      "Origin": "aoe.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aoj.vivilotz.com..txt",
+      "NameServer": "ns1.aoj.vivilotz.com.",
+      "Origin": "aoj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aol.vivilotz.com..txt",
+      "NameServer": "ns1.aol.vivilotz.com.",
+      "Origin": "aol.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aoo.vivilotz.com..txt",
+      "NameServer": "ns1.aoo.vivilotz.com.",
+      "Origin": "aoo.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aop.vivilotz.com..txt",
+      "NameServer": "ns1.aop.vivilotz.com.",
+      "Origin": "aop.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aoq.vivilotz.com..txt",
+      "NameServer": "ns1.aoq.vivilotz.com.",
+      "Origin": "aoq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aou.vivilotz.com..txt",
+      "NameServer": "ns1.aou.vivilotz.com.",
+      "Origin": "aou.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aoz.vivilotz.com..txt",
+      "NameServer": "ns1.aoz.vivilotz.com.",
+      "Origin": "aoz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/apa.vivilotz.com..txt",
+      "NameServer": "ns1.apa.vivilotz.com.",
+      "Origin": "apa.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/apb.vivilotz.com..txt",
+      "NameServer": "ns1.apb.vivilotz.com.",
+      "Origin": "apb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/apc.vivilotz.com..txt",
+      "NameServer": "ns1.apc.vivilotz.com.",
+      "Origin": "apc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/apj.vivilotz.com..txt",
+      "NameServer": "ns1.apj.vivilotz.com.",
+      "Origin": "apj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/apk.vivilotz.com..txt",
+      "NameServer": "ns1.apk.vivilotz.com.",
+      "Origin": "apk.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/apm.vivilotz.com..txt",
+      "NameServer": "ns1.apm.vivilotz.com.",
+      "Origin": "apm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/apn.vivilotz.com..txt",
+      "NameServer": "ns1.apn.vivilotz.com.",
+      "Origin": "apn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/apo.vivilotz.com..txt",
+      "NameServer": "ns1.apo.vivilotz.com.",
+      "Origin": "apo.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/apq.vivilotz.com..txt",
+      "NameServer": "ns1.apq.vivilotz.com.",
+      "Origin": "apq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aps.vivilotz.com..txt",
+      "NameServer": "ns1.aps.vivilotz.com.",
+      "Origin": "aps.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/apz.vivilotz.com..txt",
+      "NameServer": "ns1.apz.vivilotz.com.",
+      "Origin": "apz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aqh.vivilotz.com..txt",
+      "NameServer": "ns1.aqh.vivilotz.com.",
+      "Origin": "aqh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aqi.vivilotz.com..txt",
+      "NameServer": "ns1.aqi.vivilotz.com.",
+      "Origin": "aqi.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aql.vivilotz.com..txt",
+      "NameServer": "ns1.aql.vivilotz.com.",
+      "Origin": "aql.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aqo.vivilotz.com..txt",
+      "NameServer": "ns1.aqo.vivilotz.com.",
+      "Origin": "aqo.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aqr.vivilotz.com..txt",
+      "NameServer": "ns1.aqr.vivilotz.com.",
+      "Origin": "aqr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/arb.vivilotz.com..txt",
+      "NameServer": "ns1.arb.vivilotz.com.",
+      "Origin": "arb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/archaeological-record-artifact.anr.vivilotz.com..txt",
+      "NameServer": "ns1.archaeological-record-artifact.anr.vivilotz.com.",
+      "Origin": "archaeological-record-artifact.anr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ard.vivilotz.com..txt",
+      "NameServer": "ns1.ard.vivilotz.com.",
+      "Origin": "ard.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/are.vivilotz.com..txt",
+      "NameServer": "ns1.are.vivilotz.com.",
+      "Origin": "are.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/area-code-databases.abn.vivilotz.com..txt",
+      "NameServer": "ns1.area-code-databases.abn.vivilotz.com.",
+      "Origin": "area-code-databases.abn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ari.vivilotz.com..txt",
+      "NameServer": "ns1.ari.vivilotz.com.",
+      "Origin": "ari.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/arizona-abatement-form-property.adw.vivilotz.com..txt",
+      "NameServer": "ns1.arizona-abatement-form-property.adw.vivilotz.com.",
+      "Origin": "arizona-abatement-form-property.adw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aro.vivilotz.com..txt",
+      "NameServer": "ns1.aro.vivilotz.com.",
+      "Origin": "aro.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/aromatherapy-for-massage-practitioner.afs.vivilotz.com..txt",
+      "NameServer": "ns1.aromatherapy-for-massage-practitioner.afs.vivilotz.com.",
+      "Origin": "aromatherapy-for-massage-practitioner.afs.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/arq.vivilotz.com..txt",
+      "NameServer": "ns1.arq.vivilotz.com.",
+      "Origin": "arq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/as-he-tenderly-removed-her-panties.ado.vivilotz.com..txt",
+      "NameServer": "ns1.as-he-tenderly-removed-her-panties.ado.vivilotz.com.",
+      "Origin": "as-he-tenderly-removed-her-panties.ado.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/as-seen-on-tv-retailers.akr.vivilotz.com..txt",
+      "NameServer": "ns1.as-seen-on-tv-retailers.akr.vivilotz.com.",
+      "Origin": "as-seen-on-tv-retailers.akr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/asperger-syndrome-test.apk.vivilotz.com..txt",
+      "NameServer": "ns1.asperger-syndrome-test.apk.vivilotz.com.",
+      "Origin": "asperger-syndrome-test.apk.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/atlantic-city-car-show-and-auction.aaa.vivilotz.com..txt",
+      "NameServer": "ns1.atlantic-city-car-show-and-auction.aaa.vivilotz.com.",
+      "Origin": "atlantic-city-car-show-and-auction.aaa.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/babylon-hotel-tv-actress.anc.vivilotz.com..txt",
+      "NameServer": "ns1.babylon-hotel-tv-actress.anc.vivilotz.com.",
+      "Origin": "babylon-hotel-tv-actress.anc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/bar-code-reader-hpp-4710hd131ck.abi.vivilotz.com..txt",
+      "NameServer": "ns1.bar-code-reader-hpp-4710hd131ck.abi.vivilotz.com.",
+      "Origin": "bar-code-reader-hpp-4710hd131ck.abi.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/basic-machine-tool-m-code-commands.acd.vivilotz.com..txt",
+      "NameServer": "ns1.basic-machine-tool-m-code-commands.acd.vivilotz.com.",
+      "Origin": "basic-machine-tool-m-code-commands.acd.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/bbc-tv-wimbledon-tennis.all.vivilotz.com..txt",
+      "NameServer": "ns1.bbc-tv-wimbledon-tennis.all.vivilotz.com.",
+      "Origin": "bbc-tv-wimbledon-tennis.all.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/be-on-tv-home-and-garden-show.anh.vivilotz.com..txt",
+      "NameServer": "ns1.be-on-tv-home-and-garden-show.anh.vivilotz.com.",
+      "Origin": "be-on-tv-home-and-garden-show.anh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/berkeley-cholesterol-test.ahu.vivilotz.com..txt",
+      "NameServer": "ns1.berkeley-cholesterol-test.ahu.vivilotz.com.",
+      "Origin": "berkeley-cholesterol-test.ahu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/best-cell-phone-home-phone-internet.akk.vivilotz.com..txt",
+      "NameServer": "ns1.best-cell-phone-home-phone-internet.akk.vivilotz.com.",
+      "Origin": "best-cell-phone-home-phone-internet.akk.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/bible-code-oracle-search-read-software.anz.vivilotz.com..txt",
+      "NameServer": "ns1.bible-code-oracle-search-read-software.anz.vivilotz.com.",
+      "Origin": "bible-code-oracle-search-read-software.anz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/bible-code-wisdom-free-search.aci.vivilotz.com..txt",
+      "NameServer": "ns1.bible-code-wisdom-free-search.aci.vivilotz.com.",
+      "Origin": "bible-code-wisdom-free-search.aci.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/billy-joel-music-code-for-myspace.ano.vivilotz.com..txt",
+      "NameServer": "ns1.billy-joel-music-code-for-myspace.ano.vivilotz.com.",
+      "Origin": "billy-joel-music-code-for-myspace.ano.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/boating-course-registration-form.aea.vivilotz.com..txt",
+      "NameServer": "ns1.boating-course-registration-form.aea.vivilotz.com.",
+      "Origin": "boating-course-registration-form.aea.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/body-image-test.ajc.vivilotz.com..txt",
+      "NameServer": "ns1.body-image-test.ajc.vivilotz.com.",
+      "Origin": "body-image-test.ajc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/box-kite-kites-vb-code-is-on-thread.abp.vivilotz.com..txt",
+      "NameServer": "ns1.box-kite-kites-vb-code-is-on-thread.abp.vivilotz.com.",
+      "Origin": "box-kite-kites-vb-code-is-on-thread.abp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/british-chef-with-traveling-tv.amx.vivilotz.com..txt",
+      "NameServer": "ns1.british-chef-with-traveling-tv.amx.vivilotz.com.",
+      "Origin": "british-chef-with-traveling-tv.amx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/british-tv-celebs-nude.anl.vivilotz.com..txt",
+      "NameServer": "ns1.british-tv-celebs-nude.anl.vivilotz.com.",
+      "Origin": "british-tv-celebs-nude.anl.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/business-opportunity-registration.aef.vivilotz.com..txt",
+      "NameServer": "ns1.business-opportunity-registration.aef.vivilotz.com.",
+      "Origin": "business-opportunity-registration.aef.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/cabelas-coupon-promo-code.agj.vivilotz.com..txt",
+      "NameServer": "ns1.cabelas-coupon-promo-code.agj.vivilotz.com.",
+      "Origin": "cabelas-coupon-promo-code.agj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/cable-tv-san-luis-obispo.ani.vivilotz.com..txt",
+      "NameServer": "ns1.cable-tv-san-luis-obispo.ani.vivilotz.com.",
+      "Origin": "cable-tv-san-luis-obispo.ani.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/cable-tv-sex-advice.alf.vivilotz.com..txt",
+      "NameServer": "ns1.cable-tv-sex-advice.alf.vivilotz.com.",
+      "Origin": "cable-tv-sex-advice.alf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/california-healthcare-durable-power.adj.vivilotz.com..txt",
+      "NameServer": "ns1.california-healthcare-durable-power.adj.vivilotz.com.",
+      "Origin": "california-healthcare-durable-power.adj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/californication-tv-show-pictures.akz.vivilotz.com..txt",
+      "NameServer": "ns1.californication-tv-show-pictures.akz.vivilotz.com.",
+      "Origin": "californication-tv-show-pictures.akz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/californication-tv-soundtrack-listing.aks.vivilotz.com..txt",
+      "NameServer": "ns1.californication-tv-soundtrack-listing.aks.vivilotz.com.",
+      "Origin": "californication-tv-soundtrack-listing.aks.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/camfrog-pro-5-2-activation-code.agd.vivilotz.com..txt",
+      "NameServer": "ns1.camfrog-pro-5-2-activation-code.agd.vivilotz.com.",
+      "Origin": "camfrog-pro-5-2-activation-code.agd.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/can-arthritis-form-from-trauma.adz.vivilotz.com..txt",
+      "NameServer": "ns1.can-arthritis-form-from-trauma.adz.vivilotz.com.",
+      "Origin": "can-arthritis-form-from-trauma.adz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/canada-reverse-postal-code-lookup.abl.vivilotz.com..txt",
+      "NameServer": "ns1.canada-reverse-postal-code-lookup.abl.vivilotz.com.",
+      "Origin": "canada-reverse-postal-code-lookup.abl.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/car-road-test-digest.aiu.vivilotz.com..txt",
+      "NameServer": "ns1.car-road-test-digest.aiu.vivilotz.com.",
+      "Origin": "car-road-test-digest.aiu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/castle-tv-show-abc.akz.vivilotz.com..txt",
+      "NameServer": "ns1.castle-tv-show-abc.akz.vivilotz.com.",
+      "Origin": "castle-tv-show-abc.akz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/century-21-testimonials.apc.vivilotz.com..txt",
+      "NameServer": "ns1.century-21-testimonials.apc.vivilotz.com.",
+      "Origin": "century-21-testimonials.apc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/chakra-test-questionnaire.ajf.vivilotz.com..txt",
+      "NameServer": "ns1.chakra-test-questionnaire.ajf.vivilotz.com.",
+      "Origin": "chakra-test-questionnaire.ajf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/charmed-tv-trivia.ang.vivilotz.com..txt",
+      "NameServer": "ns1.charmed-tv-trivia.ang.vivilotz.com.",
+      "Origin": "charmed-tv-trivia.ang.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/chips-tv-show-collectibles.alv.vivilotz.com..txt",
+      "NameServer": "ns1.chips-tv-show-collectibles.alv.vivilotz.com.",
+      "Origin": "chips-tv-show-collectibles.alv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/christian-music-video-code.ago.vivilotz.com..txt",
+      "NameServer": "ns1.christian-music-video-code.ago.vivilotz.com.",
+      "Origin": "christian-music-video-code.ago.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/cincinnati-local-tv-news.anh.vivilotz.com..txt",
+      "NameServer": "ns1.cincinnati-local-tv-news.anh.vivilotz.com.",
+      "Origin": "cincinnati-local-tv-news.anh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/claire-in-lost-tv-series.akp.vivilotz.com..txt",
+      "NameServer": "ns1.claire-in-lost-tv-series.akp.vivilotz.com.",
+      "Origin": "claire-in-lost-tv-series.akp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/closest-snow-skiing-to-zip-code.aaq.vivilotz.com..txt",
+      "NameServer": "ns1.closest-snow-skiing-to-zip-code.aaq.vivilotz.com.",
+      "Origin": "closest-snow-skiing-to-zip-code.aaq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/college-contest-thong.aoj.vivilotz.com..txt",
+      "NameServer": "ns1.college-contest-thong.aoj.vivilotz.com.",
+      "Origin": "college-contest-thong.aoj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/colorado-hunter-safety-test.aia.vivilotz.com..txt",
+      "NameServer": "ns1.colorado-hunter-safety-test.aia.vivilotz.com.",
+      "Origin": "colorado-hunter-safety-test.aia.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/colorado-mortgage-broker-compensation.aee.vivilotz.com..txt",
+      "NameServer": "ns1.colorado-mortgage-broker-compensation.aee.vivilotz.com.",
+      "Origin": "colorado-mortgage-broker-compensation.aee.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/compression-test-for-4-stroke-motorcyles.ahp.vivilotz.com..txt",
+      "NameServer": "ns1.compression-test-for-4-stroke-motorcyles.ahp.vivilotz.com.",
+      "Origin": "compression-test-for-4-stroke-motorcyles.ahp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/computer-forensics-form-change.ady.vivilotz.com..txt",
+      "NameServer": "ns1.computer-forensics-form-change.ady.vivilotz.com.",
+      "Origin": "computer-forensics-form-change.ady.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/computer-hardware-test-free-sofware.aim.vivilotz.com..txt",
+      "NameServer": "ns1.computer-hardware-test-free-sofware.aim.vivilotz.com.",
+      "Origin": "computer-hardware-test-free-sofware.aim.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/corporation-tax-return-form.add.vivilotz.com..txt",
+      "NameServer": "ns1.corporation-tax-return-form.add.vivilotz.com.",
+      "Origin": "corporation-tax-return-form.add.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/country-music-protest.aoq.vivilotz.com..txt",
+      "NameServer": "ns1.country-music-protest.aoq.vivilotz.com.",
+      "Origin": "country-music-protest.aoq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/court-tv-psychic.aks.vivilotz.com..txt",
+      "NameServer": "ns1.court-tv-psychic.aks.vivilotz.com.",
+      "Origin": "court-tv-psychic.aks.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/cpt-code-for-transurethral-collagen.abk.vivilotz.com..txt",
+      "NameServer": "ns1.cpt-code-for-transurethral-collagen.abk.vivilotz.com.",
+      "Origin": "cpt-code-for-transurethral-collagen.abk.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/crafters-choice-order-form.ady.vivilotz.com..txt",
+      "NameServer": "ns1.crafters-choice-order-form.ady.vivilotz.com.",
+      "Origin": "crafters-choice-order-form.ady.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/creatine-drug-test.aki.vivilotz.com..txt",
+      "NameServer": "ns1.creatine-drug-test.aki.vivilotz.com.",
+      "Origin": "creatine-drug-test.aki.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/creatine-drug-tests.arb.vivilotz.com..txt",
+      "NameServer": "ns1.creatine-drug-tests.arb.vivilotz.com.",
+      "Origin": "creatine-drug-tests.arb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/creatine-to-pass-urine-drug-test.aoq.vivilotz.com..txt",
+      "NameServer": "ns1.creatine-to-pass-urine-drug-test.aoq.vivilotz.com.",
+      "Origin": "creatine-to-pass-urine-drug-test.aoq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/creative-problem-solving-hosa-test.aro.vivilotz.com..txt",
+      "NameServer": "ns1.creative-problem-solving-hosa-test.aro.vivilotz.com.",
+      "Origin": "creative-problem-solving-hosa-test.aro.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/curves-release-form.aei.vivilotz.com..txt",
+      "NameServer": "ns1.curves-release-form.aei.vivilotz.com.",
+      "Origin": "curves-release-form.aei.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/dale-earnhardt-jr-qvc-copper-5.ajy.vivilotz.com..txt",
+      "NameServer": "ns1.dale-earnhardt-jr-qvc-copper-5.ajy.vivilotz.com.",
+      "Origin": "dale-earnhardt-jr-qvc-copper-5.ajy.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/dallas-house-tv-show-blueprints.ams.vivilotz.com..txt",
+      "NameServer": "ns1.dallas-house-tv-show-blueprints.ams.vivilotz.com.",
+      "Origin": "dallas-house-tv-show-blueprints.ams.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/december-21-2012-doomsday-tv-special.akq.vivilotz.com..txt",
+      "NameServer": "ns1.december-21-2012-doomsday-tv-special.akq.vivilotz.com.",
+      "Origin": "december-21-2012-doomsday-tv-special.akq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/decorating-ideas-interior-design.aoa.vivilotz.com..txt",
+      "NameServer": "ns1.decorating-ideas-interior-design.aoa.vivilotz.com.",
+      "Origin": "decorating-ideas-interior-design.aoa.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/define-broad-form-property-damage.aep.vivilotz.com..txt",
+      "NameServer": "ns1.define-broad-form-property-damage.aep.vivilotz.com.",
+      "Origin": "define-broad-form-property-damage.aep.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/dental-hygienist-hero-contest.aoq.vivilotz.com..txt",
+      "NameServer": "ns1.dental-hygienist-hero-contest.aoq.vivilotz.com.",
+      "Origin": "dental-hygienist-hero-contest.aoq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/difficult-us-constitution-test.ail.vivilotz.com..txt",
+      "NameServer": "ns1.difficult-us-constitution-test.ail.vivilotz.com.",
+      "Origin": "difficult-us-constitution-test.ail.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/direct-tv-and-nhra.anj.vivilotz.com..txt",
+      "NameServer": "ns1.direct-tv-and-nhra.anj.vivilotz.com.",
+      "Origin": "direct-tv-and-nhra.anj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/direct-tv-customer-retention-deals.ala.vivilotz.com..txt",
+      "NameServer": "ns1.direct-tv-customer-retention-deals.ala.vivilotz.com.",
+      "Origin": "direct-tv-customer-retention-deals.ala.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/dodge-ram-2500-test.akg.vivilotz.com..txt",
+      "NameServer": "ns1.dodge-ram-2500-test.akg.vivilotz.com.",
+      "Origin": "dodge-ram-2500-test.akg.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/door-hardware-showroom-coupon-code.ags.vivilotz.com..txt",
+      "NameServer": "ns1.door-hardware-showroom-coupon-code.ags.vivilotz.com.",
+      "Origin": "door-hardware-showroom-coupon-code.ags.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/dress-code-for-gangsters-molls.aob.vivilotz.com..txt",
+      "NameServer": "ns1.dress-code-for-gangsters-molls.aob.vivilotz.com.",
+      "Origin": "dress-code-for-gangsters-molls.aob.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/dress-code-for-tao-nightclub-las.abf.vivilotz.com..txt",
+      "NameServer": "ns1.dress-code-for-tao-nightclub-las.abf.vivilotz.com.",
+      "Origin": "dress-code-for-tao-nightclub-las.abf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/dress-code-nursing-school.any.vivilotz.com..txt",
+      "NameServer": "ns1.dress-code-nursing-school.any.vivilotz.com.",
+      "Origin": "dress-code-nursing-school.any.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/dressmaking-form-for-sale.aed.vivilotz.com..txt",
+      "NameServer": "ns1.dressmaking-form-for-sale.aed.vivilotz.com.",
+      "Origin": "dressmaking-form-for-sale.aed.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/drug-abuse-screening-test-copyright.ajb.vivilotz.com..txt",
+      "NameServer": "ns1.drug-abuse-screening-test-copyright.ajb.vivilotz.com.",
+      "Origin": "drug-abuse-screening-test-copyright.ajb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/dvd-player-car-with-tv-receiver.anb.vivilotz.com..txt",
+      "NameServer": "ns1.dvd-player-car-with-tv-receiver.anb.vivilotz.com.",
+      "Origin": "dvd-player-car-with-tv-receiver.anb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/eastenders-coranation-street-tv.ala.vivilotz.com..txt",
+      "NameServer": "ns1.eastenders-coranation-street-tv.ala.vivilotz.com.",
+      "Origin": "eastenders-coranation-street-tv.ala.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/employee-rights-labour-code-canada.acu.vivilotz.com..txt",
+      "NameServer": "ns1.employee-rights-labour-code-canada.acu.vivilotz.com.",
+      "Origin": "employee-rights-labour-code-canada.acu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/environmental-geology-test.ail.vivilotz.com..txt",
+      "NameServer": "ns1.environmental-geology-test.ail.vivilotz.com.",
+      "Origin": "environmental-geology-test.ail.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/epa-form-for-recycling-acquisition.ael.vivilotz.com..txt",
+      "NameServer": "ns1.epa-form-for-recycling-acquisition.ael.vivilotz.com.",
+      "Origin": "epa-form-for-recycling-acquisition.ael.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ephedra-free-hydroxycut-testimonials.aol.vivilotz.com..txt",
+      "NameServer": "ns1.ephedra-free-hydroxycut-testimonials.aol.vivilotz.com.",
+      "Origin": "ephedra-free-hydroxycut-testimonials.aol.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/example-of-thank-you-note-in-email.acx.vivilotz.com..txt",
+      "NameServer": "ns1.example-of-thank-you-note-in-email.acx.vivilotz.com.",
+      "Origin": "example-of-thank-you-note-in-email.acx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/exercise-treadmill-test-video.ahn.vivilotz.com..txt",
+      "NameServer": "ns1.exercise-treadmill-test-video.ahn.vivilotz.com.",
+      "Origin": "exercise-treadmill-test-video.ahn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/fatigue-test-for-copper.aik.vivilotz.com..txt",
+      "NameServer": "ns1.fatigue-test-for-copper.aik.vivilotz.com.",
+      "Origin": "fatigue-test-for-copper.aik.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/federa-tax-code-for-cars-trucks.anw.vivilotz.com..txt",
+      "NameServer": "ns1.federa-tax-code-for-cars-trucks.anw.vivilotz.com.",
+      "Origin": "federa-tax-code-for-cars-trucks.anw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/federal-firearms-form-3-or-4-transfer.aeb.vivilotz.com..txt",
+      "NameServer": "ns1.federal-firearms-form-3-or-4-transfer.aeb.vivilotz.com.",
+      "Origin": "federal-firearms-form-3-or-4-transfer.aeb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/federal-government-jobs-career.ajs.vivilotz.com..txt",
+      "NameServer": "ns1.federal-government-jobs-career.ajs.vivilotz.com.",
+      "Origin": "federal-government-jobs-career.ajs.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/fha-appraisal-repair-and-code-guidelines.aoe.vivilotz.com..txt",
+      "NameServer": "ns1.fha-appraisal-repair-and-code-guidelines.aoe.vivilotz.com.",
+      "Origin": "fha-appraisal-repair-and-code-guidelines.aoe.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/fibromyalgia-versus-lupus-test.ahn.vivilotz.com..txt",
+      "NameServer": "ns1.fibromyalgia-versus-lupus-test.ahn.vivilotz.com.",
+      "Origin": "fibromyalgia-versus-lupus-test.ahn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/fine-art-photography-motorcycle.aeb.vivilotz.com..txt",
+      "NameServer": "ns1.fine-art-photography-motorcycle.aeb.vivilotz.com.",
+      "Origin": "fine-art-photography-motorcycle.aeb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/firefighter-pack-test.akh.vivilotz.com..txt",
+      "NameServer": "ns1.firefighter-pack-test.akh.vivilotz.com.",
+      "Origin": "firefighter-pack-test.akh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/fluid-and-electrolytes-practice.ajb.vivilotz.com..txt",
+      "NameServer": "ns1.fluid-and-electrolytes-practice.ajb.vivilotz.com.",
+      "Origin": "fluid-and-electrolytes-practice.ajb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/fluorescence-in-situ-hybridization.ail.vivilotz.com..txt",
+      "NameServer": "ns1.fluorescence-in-situ-hybridization.ail.vivilotz.com.",
+      "Origin": "fluorescence-in-situ-hybridization.ail.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/foreign-language-textbook-adoption.aeb.vivilotz.com..txt",
+      "NameServer": "ns1.foreign-language-textbook-adoption.aeb.vivilotz.com.",
+      "Origin": "foreign-language-textbook-adoption.aeb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/form-for-ghost-hunting.aeo.vivilotz.com..txt",
+      "NameServer": "ns1.form-for-ghost-hunting.aeo.vivilotz.com.",
+      "Origin": "form-for-ghost-hunting.aeo.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/free-1950s-tv-trivia.amd.vivilotz.com..txt",
+      "NameServer": "ns1.free-1950s-tv-trivia.amd.vivilotz.com.",
+      "Origin": "free-1950s-tv-trivia.amd.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/free-form-meat-loaf-recipe.aen.vivilotz.com..txt",
+      "NameServer": "ns1.free-form-meat-loaf-recipe.aen.vivilotz.com.",
+      "Origin": "free-form-meat-loaf-recipe.aen.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/free-listening-skills-test.ajr.vivilotz.com..txt",
+      "NameServer": "ns1.free-listening-skills-test.ajr.vivilotz.com.",
+      "Origin": "free-listening-skills-test.ajr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/free-tv-abc-on-the-net.amx.vivilotz.com..txt",
+      "NameServer": "ns1.free-tv-abc-on-the-net.amx.vivilotz.com.",
+      "Origin": "free-tv-abc-on-the-net.amx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/free-tv-tray-woodworking-plans.amx.vivilotz.com..txt",
+      "NameServer": "ns1.free-tv-tray-woodworking-plans.amx.vivilotz.com.",
+      "Origin": "free-tv-tray-woodworking-plans.amx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/garth-brooks-tv-show-nov-2007.anf.vivilotz.com..txt",
+      "NameServer": "ns1.garth-brooks-tv-show-nov-2007.anf.vivilotz.com.",
+      "Origin": "garth-brooks-tv-show-nov-2007.anf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/gauge-needle-j2ee-source-code-library.any.vivilotz.com..txt",
+      "NameServer": "ns1.gauge-needle-j2ee-source-code-library.any.vivilotz.com.",
+      "Origin": "gauge-needle-j2ee-source-code-library.any.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/gemstones-for-sale-form-1000-dollars.aei.vivilotz.com..txt",
+      "NameServer": "ns1.gemstones-for-sale-form-1000-dollars.aei.vivilotz.com.",
+      "Origin": "gemstones-for-sale-form-1000-dollars.aei.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/general-jackson-promo-code.agc.vivilotz.com..txt",
+      "NameServer": "ns1.general-jackson-promo-code.agc.vivilotz.com.",
+      "Origin": "general-jackson-promo-code.agc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/generalized-anxiety-disorder-test.aiw.vivilotz.com..txt",
+      "NameServer": "ns1.generalized-anxiety-disorder-test.aiw.vivilotz.com.",
+      "Origin": "generalized-anxiety-disorder-test.aiw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ghost-hunting-tv-shows-psychics.anc.vivilotz.com..txt",
+      "NameServer": "ns1.ghost-hunting-tv-shows-psychics.anc.vivilotz.com.",
+      "Origin": "ghost-hunting-tv-shows-psychics.anc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ghost-recon-warfighter-xbox-360.agm.vivilotz.com..txt",
+      "NameServer": "ns1.ghost-recon-warfighter-xbox-360.agm.vivilotz.com.",
+      "Origin": "ghost-recon-warfighter-xbox-360.agm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/gnc-products-to-pass-thc-drug-test.aiq.vivilotz.com..txt",
+      "NameServer": "ns1.gnc-products-to-pass-thc-drug-test.aiq.vivilotz.com.",
+      "Origin": "gnc-products-to-pass-thc-drug-test.aiq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/goldmans-emotional-intelligence.aiz.vivilotz.com..txt",
+      "NameServer": "ns1.goldmans-emotional-intelligence.aiz.vivilotz.com.",
+      "Origin": "goldmans-emotional-intelligence.aiz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/golf-digest-2007-golf-equipment.ajk.vivilotz.com..txt",
+      "NameServer": "ns1.golf-digest-2007-golf-equipment.ajk.vivilotz.com.",
+      "Origin": "golf-digest-2007-golf-equipment.ajk.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/grades-registration-form.aec.vivilotz.com..txt",
+      "NameServer": "ns1.grades-registration-form.aec.vivilotz.com.",
+      "Origin": "grades-registration-form.aec.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/grammar-salary-test.ahi.vivilotz.com..txt",
+      "NameServer": "ns1.grammar-salary-test.ahi.vivilotz.com.",
+      "Origin": "grammar-salary-test.ahi.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/great-bible-verses-in-the-old-testament.apm.vivilotz.com..txt",
+      "NameServer": "ns1.great-bible-verses-in-the-old-testament.apm.vivilotz.com.",
+      "Origin": "great-bible-verses-in-the-old-testament.apm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/greatest-transfer-of-wealth.are.vivilotz.com..txt",
+      "NameServer": "ns1.greatest-transfer-of-wealth.are.vivilotz.com.",
+      "Origin": "greatest-transfer-of-wealth.are.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/haier-tv-review.akz.vivilotz.com..txt",
+      "NameServer": "ns1.haier-tv-review.akz.vivilotz.com.",
+      "Origin": "haier-tv-review.akz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/heavy-metal-test.aik.vivilotz.com..txt",
+      "NameServer": "ns1.heavy-metal-test.aik.vivilotz.com.",
+      "Origin": "heavy-metal-test.aik.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/hoax-beta-test-microsft.aiu.vivilotz.com..txt",
+      "NameServer": "ns1.hoax-beta-test-microsft.aiu.vivilotz.com.",
+      "Origin": "hoax-beta-test-microsft.aiu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/hotel-customer-feedback-form.aeb.vivilotz.com..txt",
+      "NameServer": "ns1.hotel-customer-feedback-form.aeb.vivilotz.com.",
+      "Origin": "hotel-customer-feedback-form.aeb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/hottest-tennis-players.aqi.vivilotz.com..txt",
+      "NameServer": "ns1.hottest-tennis-players.aqi.vivilotz.com.",
+      "Origin": "hottest-tennis-players.aqi.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/houses-with-ghosts-tv-shows.anj.vivilotz.com..txt",
+      "NameServer": "ns1.houses-with-ghosts-tv-shows.anj.vivilotz.com.",
+      "Origin": "houses-with-ghosts-tv-shows.anj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/houston-metro-texas-foreclosure.aab.vivilotz.com..txt",
+      "NameServer": "ns1.houston-metro-texas-foreclosure.aab.vivilotz.com.",
+      "Origin": "houston-metro-texas-foreclosure.aab.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/houston-tv-network-affiliates.amd.vivilotz.com..txt",
+      "NameServer": "ns1.houston-tv-network-affiliates.amd.vivilotz.com.",
+      "Origin": "houston-tv-network-affiliates.amd.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/how-are-nicotine-patches-tested.aqo.vivilotz.com..txt",
+      "NameServer": "ns1.how-are-nicotine-patches-tested.aqo.vivilotz.com.",
+      "Origin": "how-are-nicotine-patches-tested.aqo.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/how-do-quartz-crystals-form-naturally.adv.vivilotz.com..txt",
+      "NameServer": "ns1.how-do-quartz-crystals-form-naturally.adv.vivilotz.com.",
+      "Origin": "how-do-quartz-crystals-form-naturally.adv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/how-to-start-your-own-internet.anm.vivilotz.com..txt",
+      "NameServer": "ns1.how-to-start-your-own-internet.anm.vivilotz.com.",
+      "Origin": "how-to-start-your-own-internet.anm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/hpv-dna-test.aij.vivilotz.com..txt",
+      "NameServer": "ns1.hpv-dna-test.aij.vivilotz.com.",
+      "Origin": "hpv-dna-test.aij.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/html-code-to-log-website-visitors.abw.vivilotz.com..txt",
+      "NameServer": "ns1.html-code-to-log-website-visitors.abw.vivilotz.com.",
+      "Origin": "html-code-to-log-website-visitors.abw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/hunting-gear-vb-code-is-on-thread.abz.vivilotz.com..txt",
+      "NameServer": "ns1.hunting-gear-vb-code-is-on-thread.abz.vivilotz.com.",
+      "Origin": "hunting-gear-vb-code-is-on-thread.abz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/huntingtons-disease-false-negative.aje.vivilotz.com..txt",
+      "NameServer": "ns1.huntingtons-disease-false-negative.aje.vivilotz.com.",
+      "Origin": "huntingtons-disease-false-negative.aje.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/i-need-a-sample-of-a-church-membership.acz.vivilotz.com..txt",
+      "NameServer": "ns1.i-need-a-sample-of-a-church-membership.acz.vivilotz.com.",
+      "Origin": "i-need-a-sample-of-a-church-membership.acz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ice-sculpture-vb-code-is-on-thread.acp.vivilotz.com..txt",
+      "NameServer": "ns1.ice-sculpture-vb-code-is-on-thread.acp.vivilotz.com.",
+      "Origin": "ice-sculpture-vb-code-is-on-thread.acp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/immunology-serology-blood-test.apo.vivilotz.com..txt",
+      "NameServer": "ns1.immunology-serology-blood-test.apo.vivilotz.com.",
+      "Origin": "immunology-serology-blood-test.apo.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/independent-film-tv-channel.anf.vivilotz.com..txt",
+      "NameServer": "ns1.independent-film-tv-channel.anf.vivilotz.com.",
+      "Origin": "independent-film-tv-channel.anf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/industrial-pre-employment-test.apk.vivilotz.com..txt",
+      "NameServer": "ns1.industrial-pre-employment-test.apk.vivilotz.com.",
+      "Origin": "industrial-pre-employment-test.apk.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/indy-racing-league-tv-schedule.ane.vivilotz.com..txt",
+      "NameServer": "ns1.indy-racing-league-tv-schedule.ane.vivilotz.com.",
+      "Origin": "indy-racing-league-tv-schedule.ane.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/insulated-concrete-form-home-plans.ady.vivilotz.com..txt",
+      "NameServer": "ns1.insulated-concrete-form-home-plans.ady.vivilotz.com.",
+      "Origin": "insulated-concrete-form-home-plans.ady.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/international-call-reverse-lookup.ano.vivilotz.com..txt",
+      "NameServer": "ns1.international-call-reverse-lookup.ano.vivilotz.com.",
+      "Origin": "international-call-reverse-lookup.ano.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/inxtc-tv-sexy.akq.vivilotz.com..txt",
+      "NameServer": "ns1.inxtc-tv-sexy.akq.vivilotz.com.",
+      "Origin": "inxtc-tv-sexy.akq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/iso-code-bonaire.anq.vivilotz.com..txt",
+      "NameServer": "ns1.iso-code-bonaire.anq.vivilotz.com.",
+      "Origin": "iso-code-bonaire.anq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/itil-test-questions.aim.vivilotz.com..txt",
+      "NameServer": "ns1.itil-test-questions.aim.vivilotz.com.",
+      "Origin": "itil-test-questions.aim.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/japanese-tv-soaps-satellite.ang.vivilotz.com..txt",
+      "NameServer": "ns1.japanese-tv-soaps-satellite.ang.vivilotz.com.",
+      "Origin": "japanese-tv-soaps-satellite.ang.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/jesus-christ-superstar-fox-theater.afn.vivilotz.com..txt",
+      "NameServer": "ns1.jesus-christ-superstar-fox-theater.afn.vivilotz.com.",
+      "Origin": "jesus-christ-superstar-fox-theater.afn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/kabbalah-is-a-form-of-black-magick.ael.vivilotz.com..txt",
+      "NameServer": "ns1.kabbalah-is-a-form-of-black-magick.ael.vivilotz.com.",
+      "Origin": "kabbalah-is-a-form-of-black-magick.ael.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/karan-singh-arman-tv-actor-pictures.anf.vivilotz.com..txt",
+      "NameServer": "ns1.karan-singh-arman-tv-actor-pictures.anf.vivilotz.com.",
+      "Origin": "karan-singh-arman-tv-actor-pictures.anf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/kentucky-derby-form.adh.vivilotz.com..txt",
+      "NameServer": "ns1.kentucky-derby-form.adh.vivilotz.com.",
+      "Origin": "kentucky-derby-form.adh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/kirk-franklin-lastest-album.apj.vivilotz.com..txt",
+      "NameServer": "ns1.kirk-franklin-lastest-album.apj.vivilotz.com.",
+      "Origin": "kirk-franklin-lastest-album.apj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/knights-templar-conspiracy-vb-code.anv.vivilotz.com..txt",
+      "NameServer": "ns1.knights-templar-conspiracy-vb-code.anv.vivilotz.com.",
+      "Origin": "knights-templar-conspiracy-vb-code.anv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/kryptos-sculpture-code-cia.acj.vivilotz.com..txt",
+      "NameServer": "ns1.kryptos-sculpture-code-cia.acj.vivilotz.com.",
+      "Origin": "kryptos-sculpture-code-cia.acj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/large-tv-reviews.amm.vivilotz.com..txt",
+      "NameServer": "ns1.large-tv-reviews.amm.vivilotz.com.",
+      "Origin": "large-tv-reviews.amm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/latest-jamesbond-movie.apq.vivilotz.com..txt",
+      "NameServer": "ns1.latest-jamesbond-movie.apq.vivilotz.com.",
+      "Origin": "latest-jamesbond-movie.apq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/latest-music-bands-2007.aql.vivilotz.com..txt",
+      "NameServer": "ns1.latest-music-bands-2007.aql.vivilotz.com.",
+      "Origin": "latest-music-bands-2007.aql.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/laughter-is-a-form-of-medicine.adr.vivilotz.com..txt",
+      "NameServer": "ns1.laughter-is-a-form-of-medicine.adr.vivilotz.com.",
+      "Origin": "laughter-is-a-form-of-medicine.adr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/lcd-tv-review-2008.ani.vivilotz.com..txt",
+      "NameServer": "ns1.lcd-tv-review-2008.ani.vivilotz.com.",
+      "Origin": "lcd-tv-review-2008.ani.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/lee-county-florida-appellate-notice.aec.vivilotz.com..txt",
+      "NameServer": "ns1.lee-county-florida-appellate-notice.aec.vivilotz.com.",
+      "Origin": "lee-county-florida-appellate-notice.aec.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/lee-county-florida-cable-tv-franchise.ana.vivilotz.com..txt",
+      "NameServer": "ns1.lee-county-florida-cable-tv-franchise.ana.vivilotz.com.",
+      "Origin": "lee-county-florida-cable-tv-franchise.ana.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/live-footbal-matches-euro-2008.ank.vivilotz.com..txt",
+      "NameServer": "ns1.live-footbal-matches-euro-2008.ank.vivilotz.com.",
+      "Origin": "live-footbal-matches-euro-2008.ank.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/lumber-liquidators-sample-credit.agw.vivilotz.com..txt",
+      "NameServer": "ns1.lumber-liquidators-sample-credit.agw.vivilotz.com.",
+      "Origin": "lumber-liquidators-sample-credit.agw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ma-department-of-education-mcas.apa.vivilotz.com..txt",
+      "NameServer": "ns1.ma-department-of-education-mcas.apa.vivilotz.com.",
+      "Origin": "ma-department-of-education-mcas.apa.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/marijuania-test-and-self-help.ahd.vivilotz.com..txt",
+      "NameServer": "ns1.marijuania-test-and-self-help.ahd.vivilotz.com.",
+      "Origin": "marijuania-test-and-self-help.ahd.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/massachusetts-rn-test.ahi.vivilotz.com..txt",
+      "NameServer": "ns1.massachusetts-rn-test.ahi.vivilotz.com.",
+      "Origin": "massachusetts-rn-test.ahi.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/mazak-integrex-100-alarm-code-list.abw.vivilotz.com..txt",
+      "NameServer": "ns1.mazak-integrex-100-alarm-code-list.abw.vivilotz.com.",
+      "Origin": "mazak-integrex-100-alarm-code-list.abw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/medical-advances-caused-by-animal.ard.vivilotz.com..txt",
+      "NameServer": "ns1.medical-advances-caused-by-animal.ard.vivilotz.com.",
+      "Origin": "medical-advances-caused-by-animal.ard.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/melaleuca-lane-orlando-florida.afn.vivilotz.com..txt",
+      "NameServer": "ns1.melaleuca-lane-orlando-florida.afn.vivilotz.com.",
+      "Origin": "melaleuca-lane-orlando-florida.afn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/metal-detecting-form.aek.vivilotz.com..txt",
+      "NameServer": "ns1.metal-detecting-form.aek.vivilotz.com.",
+      "Origin": "metal-detecting-form.aek.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/metatrader-code-calculate-lot-size.aod.vivilotz.com..txt",
+      "NameServer": "ns1.metatrader-code-calculate-lot-size.aod.vivilotz.com.",
+      "Origin": "metatrader-code-calculate-lot-size.aod.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/mgic-mushroom-form.adw.vivilotz.com..txt",
+      "NameServer": "ns1.mgic-mushroom-form.adw.vivilotz.com.",
+      "Origin": "mgic-mushroom-form.adw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/middle-school-goal-setting-form.aer.vivilotz.com..txt",
+      "NameServer": "ns1.middle-school-goal-setting-form.aer.vivilotz.com.",
+      "Origin": "middle-school-goal-setting-form.aer.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/miller-graduate-test-prep-classes.ahq.vivilotz.com..txt",
+      "NameServer": "ns1.miller-graduate-test-prep-classes.ahq.vivilotz.com.",
+      "Origin": "miller-graduate-test-prep-classes.ahq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/mississippi-carpentry-license-test.aiz.vivilotz.com..txt",
+      "NameServer": "ns1.mississippi-carpentry-license-test.aiz.vivilotz.com.",
+      "Origin": "mississippi-carpentry-license-test.aiz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/mitsubishi-powertrain-flash-code.anu.vivilotz.com..txt",
+      "NameServer": "ns1.mitsubishi-powertrain-flash-code.anu.vivilotz.com.",
+      "Origin": "mitsubishi-powertrain-flash-code.anu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/moms-adelaide-code.aab.vivilotz.com..txt",
+      "NameServer": "ns1.moms-adelaide-code.aab.vivilotz.com.",
+      "Origin": "moms-adelaide-code.aab.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/moodle-and-mediawiki-integration.agj.vivilotz.com..txt",
+      "NameServer": "ns1.moodle-and-mediawiki-integration.agj.vivilotz.com.",
+      "Origin": "moodle-and-mediawiki-integration.agj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/mortgage-note-modification-form.adr.vivilotz.com..txt",
+      "NameServer": "ns1.mortgage-note-modification-form.adr.vivilotz.com.",
+      "Origin": "mortgage-note-modification-form.adr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/motivating-spiritual-gifts-test.aii.vivilotz.com..txt",
+      "NameServer": "ns1.motivating-spiritual-gifts-test.aii.vivilotz.com.",
+      "Origin": "motivating-spiritual-gifts-test.aii.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/motorcycle-safety-foundation-test.aid.vivilotz.com..txt",
+      "NameServer": "ns1.motorcycle-safety-foundation-test.aid.vivilotz.com.",
+      "Origin": "motorcycle-safety-foundation-test.aid.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/multi-stage-fitness-test-how-to.aii.vivilotz.com..txt",
+      "NameServer": "ns1.multi-stage-fitness-test-how-to.aii.vivilotz.com.",
+      "Origin": "multi-stage-fitness-test-how-to.aii.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/music-video-code-fr-martina-mcbride.anz.vivilotz.com..txt",
+      "NameServer": "ns1.music-video-code-fr-martina-mcbride.anz.vivilotz.com.",
+      "Origin": "music-video-code-fr-martina-mcbride.anz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/nail-salons-with-zip-code-53226.ano.vivilotz.com..txt",
+      "NameServer": "ns1.nail-salons-with-zip-code-53226.ano.vivilotz.com.",
+      "Origin": "nail-salons-with-zip-code-53226.ano.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/napster-drm-code-break.aod.vivilotz.com..txt",
+      "NameServer": "ns1.napster-drm-code-break.aod.vivilotz.com.",
+      "Origin": "napster-drm-code-break.aod.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/national-hockey-league-vb-code.abg.vivilotz.com..txt",
+      "NameServer": "ns1.national-hockey-league-vb-code.abg.vivilotz.com.",
+      "Origin": "national-hockey-league-vb-code.abg.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/national-massage-test-in-las-vegas.ahg.vivilotz.com..txt",
+      "NameServer": "ns1.national-massage-test-in-las-vegas.ahg.vivilotz.com.",
+      "Origin": "national-massage-test-in-las-vegas.ahg.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/nazi-archeology-tv-shows.anh.vivilotz.com..txt",
+      "NameServer": "ns1.nazi-archeology-tv-shows.anh.vivilotz.com.",
+      "Origin": "nazi-archeology-tv-shows.anh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ncaa-volleyball-tv-schedule.anh.vivilotz.com..txt",
+      "NameServer": "ns1.ncaa-volleyball-tv-schedule.anh.vivilotz.com.",
+      "Origin": "ncaa-volleyball-tv-schedule.anh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/neurostat-carpal-tunnel-test.aix.vivilotz.com..txt",
+      "NameServer": "ns1.neurostat-carpal-tunnel-test.aix.vivilotz.com.",
+      "Origin": "neurostat-carpal-tunnel-test.aix.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/new-york-state-realestate-test.arq.vivilotz.com..txt",
+      "NameServer": "ns1.new-york-state-realestate-test.arq.vivilotz.com.",
+      "Origin": "new-york-state-realestate-test.arq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/new-zealand-building-code-greywater.aci.vivilotz.com..txt",
+      "NameServer": "ns1.new-zealand-building-code-greywater.aci.vivilotz.com.",
+      "Origin": "new-zealand-building-code-greywater.aci.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/nfl-football-tv-schedules.anj.vivilotz.com..txt",
+      "NameServer": "ns1.nfl-football-tv-schedules.anj.vivilotz.com.",
+      "Origin": "nfl-football-tv-schedules.anj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/nkotb-promotional-code.afx.vivilotz.com..txt",
+      "NameServer": "ns1.nkotb-promotional-code.afx.vivilotz.com.",
+      "Origin": "nkotb-promotional-code.afx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/nora-jones-song-in-tv-commercials.ank.vivilotz.com..txt",
+      "NameServer": "ns1.nora-jones-song-in-tv-commercials.ank.vivilotz.com.",
+      "Origin": "nora-jones-song-in-tv-commercials.ank.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/north-carolina-amp-energy-code.abg.vivilotz.com..txt",
+      "NameServer": "ns1.north-carolina-amp-energy-code.abg.vivilotz.com.",
+      "Origin": "north-carolina-amp-energy-code.abg.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/now-tv-schedule-us-open.amx.vivilotz.com..txt",
+      "NameServer": "ns1.now-tv-schedule-us-open.amx.vivilotz.com.",
+      "Origin": "now-tv-schedule-us-open.amx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/nutritional-blood-test-dogs.aik.vivilotz.com..txt",
+      "NameServer": "ns1.nutritional-blood-test-dogs.aik.vivilotz.com.",
+      "Origin": "nutritional-blood-test-dogs.aik.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/nys-salesperson-sample-test.ajh.vivilotz.com..txt",
+      "NameServer": "ns1.nys-salesperson-sample-test.ajh.vivilotz.com.",
+      "Origin": "nys-salesperson-sample-test.ajh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/old-testament-redemption-holy-spirit.apb.vivilotz.com..txt",
+      "NameServer": "ns1.old-testament-redemption-holy-spirit.apb.vivilotz.com.",
+      "Origin": "old-testament-redemption-holy-spirit.apb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/olympic-tv-schedule-basketball.anj.vivilotz.com..txt",
+      "NameServer": "ns1.olympic-tv-schedule-basketball.anj.vivilotz.com.",
+      "Origin": "olympic-tv-schedule-basketball.anj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/on-line-discount-code-for-skechers.aoa.vivilotz.com..txt",
+      "NameServer": "ns1.on-line-discount-code-for-skechers.aoa.vivilotz.com.",
+      "Origin": "on-line-discount-code-for-skechers.aoa.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/online-auction-system-source-code.aoa.vivilotz.com..txt",
+      "NameServer": "ns1.online-auction-system-source-code.aoa.vivilotz.com.",
+      "Origin": "online-auction-system-source-code.aoa.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/online-gaming-benchmark-test.ain.vivilotz.com..txt",
+      "NameServer": "ns1.online-gaming-benchmark-test.ain.vivilotz.com.",
+      "Origin": "online-gaming-benchmark-test.ain.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/online-security-test.ahe.vivilotz.com..txt",
+      "NameServer": "ns1.online-security-test.ahe.vivilotz.com.",
+      "Origin": "online-security-test.ahe.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/operations-management-krajewski.aje.vivilotz.com..txt",
+      "NameServer": "ns1.operations-management-krajewski.aje.vivilotz.com.",
+      "Origin": "operations-management-krajewski.aje.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/orlando-florida-ip-code.afn.vivilotz.com..txt",
+      "NameServer": "ns1.orlando-florida-ip-code.afn.vivilotz.com.",
+      "Origin": "orlando-florida-ip-code.afn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/pacific-luther-university-admissions.adp.vivilotz.com..txt",
+      "NameServer": "ns1.pacific-luther-university-admissions.adp.vivilotz.com.",
+      "Origin": "pacific-luther-university-admissions.adp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/passing-a-cocaine-drug-test.aia.vivilotz.com..txt",
+      "NameServer": "ns1.passing-a-cocaine-drug-test.aia.vivilotz.com.",
+      "Origin": "passing-a-cocaine-drug-test.aia.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/patient-intake-form-naturopathic.adt.vivilotz.com..txt",
+      "NameServer": "ns1.patient-intake-form-naturopathic.adt.vivilotz.com.",
+      "Origin": "patient-intake-form-naturopathic.adt.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/pdf-file-called-world-travel-claim.adv.vivilotz.com..txt",
+      "NameServer": "ns1.pdf-file-called-world-travel-claim.adv.vivilotz.com.",
+      "Origin": "pdf-file-called-world-travel-claim.adv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/personality-assessment-form.ael.vivilotz.com..txt",
+      "NameServer": "ns1.personality-assessment-form.ael.vivilotz.com.",
+      "Origin": "personality-assessment-form.ael.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/photographing-tv-screen-image.anf.vivilotz.com..txt",
+      "NameServer": "ns1.photographing-tv-screen-image.anf.vivilotz.com.",
+      "Origin": "photographing-tv-screen-image.anf.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/physical-exercise-vb-code-is-on.abk.vivilotz.com..txt",
+      "NameServer": "ns1.physical-exercise-vb-code-is-on.abk.vivilotz.com.",
+      "Origin": "physical-exercise-vb-code-is-on.abk.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/physical-fitness-skill-test.aoz.vivilotz.com..txt",
+      "NameServer": "ns1.physical-fitness-skill-test.aoz.vivilotz.com.",
+      "Origin": "physical-fitness-skill-test.aoz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/pinal-county-zip-code-chang.anp.vivilotz.com..txt",
+      "NameServer": "ns1.pinal-county-zip-code-chang.anp.vivilotz.com.",
+      "Origin": "pinal-county-zip-code-chang.anp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/pittsburgh-penguins-2008-tv-schedule.anl.vivilotz.com..txt",
+      "NameServer": "ns1.pittsburgh-penguins-2008-tv-schedule.anl.vivilotz.com.",
+      "Origin": "pittsburgh-penguins-2008-tv-schedule.anl.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/plastic-packaging-design-and-test.aiv.vivilotz.com..txt",
+      "NameServer": "ns1.plastic-packaging-design-and-test.aiv.vivilotz.com.",
+      "Origin": "plastic-packaging-design-and-test.aiv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/pom-wonderful-antioxidant-test.aik.vivilotz.com..txt",
+      "NameServer": "ns1.pom-wonderful-antioxidant-test.aik.vivilotz.com.",
+      "Origin": "pom-wonderful-antioxidant-test.aik.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/pop-up-tv-furniture-atic-heirlooms.anj.vivilotz.com..txt",
+      "NameServer": "ns1.pop-up-tv-furniture-atic-heirlooms.anj.vivilotz.com.",
+      "Origin": "pop-up-tv-furniture-atic-heirlooms.anj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/postal-code-for-huntington-beach.acm.vivilotz.com..txt",
+      "NameServer": "ns1.postal-code-for-huntington-beach.acm.vivilotz.com.",
+      "Origin": "postal-code-for-huntington-beach.acm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/postal-code-for-shanghai-china.abn.vivilotz.com..txt",
+      "NameServer": "ns1.postal-code-for-shanghai-china.abn.vivilotz.com.",
+      "Origin": "postal-code-for-shanghai-china.abn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/pregnancy-test-liability.ahi.vivilotz.com..txt",
+      "NameServer": "ns1.pregnancy-test-liability.ahi.vivilotz.com.",
+      "Origin": "pregnancy-test-liability.ahi.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/priva-test.ari.vivilotz.com..txt",
+      "NameServer": "ns1.priva-test.ari.vivilotz.com.",
+      "Origin": "priva-test.ari.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/pro-form-850-elliptical-reviews.acv.vivilotz.com..txt",
+      "NameServer": "ns1.pro-form-850-elliptical-reviews.acv.vivilotz.com.",
+      "Origin": "pro-form-850-elliptical-reviews.acv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/probiotics-how-do-hey-help-our.aqr.vivilotz.com..txt",
+      "NameServer": "ns1.probiotics-how-do-hey-help-our.aqr.vivilotz.com.",
+      "Origin": "probiotics-how-do-hey-help-our.aqr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/promotion-code-equifax-score-watch.aob.vivilotz.com..txt",
+      "NameServer": "ns1.promotion-code-equifax-score-watch.aob.vivilotz.com.",
+      "Origin": "promotion-code-equifax-score-watch.aob.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/provo-utah-area-code.agw.vivilotz.com..txt",
+      "NameServer": "ns1.provo-utah-area-code.agw.vivilotz.com.",
+      "Origin": "provo-utah-area-code.agw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/psilocybin-identification-tests.apa.vivilotz.com..txt",
+      "NameServer": "ns1.psilocybin-identification-tests.apa.vivilotz.com.",
+      "Origin": "psilocybin-identification-tests.apa.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/psychic-tv-episodes.ang.vivilotz.com..txt",
+      "NameServer": "ns1.psychic-tv-episodes.ang.vivilotz.com.",
+      "Origin": "psychic-tv-episodes.ang.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/public-tv-broadcasting-seattle.als.vivilotz.com..txt",
+      "NameServer": "ns1.public-tv-broadcasting-seattle.als.vivilotz.com.",
+      "Origin": "public-tv-broadcasting-seattle.als.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/purchase-at-home-pap-smear-test.aop.vivilotz.com..txt",
+      "NameServer": "ns1.purchase-at-home-pap-smear-test.aop.vivilotz.com.",
+      "Origin": "purchase-at-home-pap-smear-test.aop.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/queensland-government-healthy-eating.ane.vivilotz.com..txt",
+      "NameServer": "ns1.queensland-government-healthy-eating.ane.vivilotz.com.",
+      "Origin": "queensland-government-healthy-eating.ane.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/racq-learner-driver-test.aik.vivilotz.com..txt",
+      "NameServer": "ns1.racq-learner-driver-test.aik.vivilotz.com.",
+      "Origin": "racq-learner-driver-test.aik.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/real-estate-agent-code-australia.abp.vivilotz.com..txt",
+      "NameServer": "ns1.real-estate-agent-code-australia.abp.vivilotz.com.",
+      "Origin": "real-estate-agent-code-australia.abp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/rebate-form-for-lexar-crucial-ddr2.adw.vivilotz.com..txt",
+      "NameServer": "ns1.rebate-form-for-lexar-crucial-ddr2.adw.vivilotz.com.",
+      "Origin": "rebate-form-for-lexar-crucial-ddr2.adw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/regulator-23-boat-test-sportfishing.aki.vivilotz.com..txt",
+      "NameServer": "ns1.regulator-23-boat-test-sportfishing.aki.vivilotz.com.",
+      "Origin": "regulator-23-boat-test-sportfishing.aki.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/residential-code-books.abg.vivilotz.com..txt",
+      "NameServer": "ns1.residential-code-books.abg.vivilotz.com.",
+      "Origin": "residential-code-books.abg.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/reverse-international-code-look.abm.vivilotz.com..txt",
+      "NameServer": "ns1.reverse-international-code-look.abm.vivilotz.com.",
+      "Origin": "reverse-international-code-look.abm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/richmond-texas-residential-building.aob.vivilotz.com..txt",
+      "NameServer": "ns1.richmond-texas-residential-building.aob.vivilotz.com.",
+      "Origin": "richmond-texas-residential-building.aob.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/road-jogging-vb-code-is-on-thread.aod.vivilotz.com..txt",
+      "NameServer": "ns1.road-jogging-vb-code-is-on-thread.aod.vivilotz.com.",
+      "Origin": "road-jogging-vb-code-is-on-thread.aod.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/rottweiler-tv-ad-funny.amx.vivilotz.com..txt",
+      "NameServer": "ns1.rottweiler-tv-ad-funny.amx.vivilotz.com.",
+      "Origin": "rottweiler-tv-ad-funny.amx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/rubiks-cube-sudoku-vb-code-is-on.aoa.vivilotz.com..txt",
+      "NameServer": "ns1.rubiks-cube-sudoku-vb-code-is-on.aoa.vivilotz.com.",
+      "Origin": "rubiks-cube-sudoku-vb-code-is-on.aoa.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sacramento-county-home-pre-foreclosures.abz.vivilotz.com..txt",
+      "NameServer": "ns1.sacramento-county-home-pre-foreclosures.abz.vivilotz.com.",
+      "Origin": "sacramento-county-home-pre-foreclosures.abz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sample-job-evaluation-form.aef.vivilotz.com..txt",
+      "NameServer": "ns1.sample-job-evaluation-form.aef.vivilotz.com.",
+      "Origin": "sample-job-evaluation-form.aef.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sand-sculpture-vb-code-is-on-thread.anq.vivilotz.com..txt",
+      "NameServer": "ns1.sand-sculpture-vb-code-is-on-thread.anq.vivilotz.com.",
+      "Origin": "sand-sculpture-vb-code-is-on-thread.anq.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/satellite-tv-distribution-system.amw.vivilotz.com..txt",
+      "NameServer": "ns1.satellite-tv-distribution-system.amw.vivilotz.com.",
+      "Origin": "satellite-tv-distribution-system.amw.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sharon-mann-the-works-cardio-upc.agj.vivilotz.com..txt",
+      "NameServer": "ns1.sharon-mann-the-works-cardio-upc.agj.vivilotz.com.",
+      "Origin": "sharon-mann-the-works-cardio-upc.agj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sing-sing-sing-tv-commercial.ane.vivilotz.com..txt",
+      "NameServer": "ns1.sing-sing-sing-tv-commercial.ane.vivilotz.com.",
+      "Origin": "sing-sing-sing-tv-commercial.ane.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sky-diving-vb-code-is-on-thread.anz.vivilotz.com..txt",
+      "NameServer": "ns1.sky-diving-vb-code-is-on-thread.anz.vivilotz.com.",
+      "Origin": "sky-diving-vb-code-is-on-thread.anz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sky-tv-on-your-pc-watch-premiership.anj.vivilotz.com..txt",
+      "NameServer": "ns1.sky-tv-on-your-pc-watch-premiership.anj.vivilotz.com.",
+      "Origin": "sky-tv-on-your-pc-watch-premiership.anj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/smash-tv-codes-snes.ank.vivilotz.com..txt",
+      "NameServer": "ns1.smash-tv-codes-snes.ank.vivilotz.com.",
+      "Origin": "smash-tv-codes-snes.ank.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/social-anxiety-test.ahd.vivilotz.com..txt",
+      "NameServer": "ns1.social-anxiety-test.ahd.vivilotz.com.",
+      "Origin": "social-anxiety-test.ahd.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sony-psp-media-manager-2-5-serial.afc.vivilotz.com..txt",
+      "NameServer": "ns1.sony-psp-media-manager-2-5-serial.afc.vivilotz.com.",
+      "Origin": "sony-psp-media-manager-2-5-serial.afc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sorority-recruitment-form-rutgers.adu.vivilotz.com..txt",
+      "NameServer": "ns1.sorority-recruitment-form-rutgers.adu.vivilotz.com.",
+      "Origin": "sorority-recruitment-form-rutgers.adu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/source-code-comments-function-documentation.aba.vivilotz.com..txt",
+      "NameServer": "ns1.source-code-comments-function-documentation.aba.vivilotz.com.",
+      "Origin": "source-code-comments-function-documentation.aba.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/speedball-2-live-arcade-free-game.afc.vivilotz.com..txt",
+      "NameServer": "ns1.speedball-2-live-arcade-free-game.afc.vivilotz.com.",
+      "Origin": "speedball-2-live-arcade-free-game.afc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sprint-pcs-im-coupon-code.aeu.vivilotz.com..txt",
+      "NameServer": "ns1.sprint-pcs-im-coupon-code.aeu.vivilotz.com.",
+      "Origin": "sprint-pcs-im-coupon-code.aeu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/spyware-doctor-register-code.afx.vivilotz.com..txt",
+      "NameServer": "ns1.spyware-doctor-register-code.afx.vivilotz.com.",
+      "Origin": "spyware-doctor-register-code.afx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ssis-error-code-0xc0202092.acp.vivilotz.com..txt",
+      "NameServer": "ns1.ssis-error-code-0xc0202092.acp.vivilotz.com.",
+      "Origin": "ssis-error-code-0xc0202092.acp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/subaru-sti-2009-test.aij.vivilotz.com..txt",
+      "NameServer": "ns1.subaru-sti-2009-test.aij.vivilotz.com.",
+      "Origin": "subaru-sti-2009-test.aij.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/sujitha-tv-actress-photos.amx.vivilotz.com..txt",
+      "NameServer": "ns1.sujitha-tv-actress-photos.amx.vivilotz.com.",
+      "Origin": "sujitha-tv-actress-photos.amx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/survivor-tv-show-on-cbs.amx.vivilotz.com..txt",
+      "NameServer": "ns1.survivor-tv-show-on-cbs.amx.vivilotz.com.",
+      "Origin": "survivor-tv-show-on-cbs.amx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/tarot-palm-reading-test.apn.vivilotz.com..txt",
+      "NameServer": "ns1.tarot-palm-reading-test.apn.vivilotz.com.",
+      "Origin": "tarot-palm-reading-test.apn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/taxonomy-code-urgent-care-facility.anz.vivilotz.com..txt",
+      "NameServer": "ns1.taxonomy-code-urgent-care-facility.anz.vivilotz.com.",
+      "Origin": "taxonomy-code-urgent-care-facility.anz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/tcm-tv-host.anb.vivilotz.com..txt",
+      "NameServer": "ns1.tcm-tv-host.anb.vivilotz.com.",
+      "Origin": "tcm-tv-host.anb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/teachers-tv-gay-teens.akz.vivilotz.com..txt",
+      "NameServer": "ns1.teachers-tv-gay-teens.akz.vivilotz.com.",
+      "Origin": "teachers-tv-gay-teens.akz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/tenerife-tv-guide.akm.vivilotz.com..txt",
+      "NameServer": "ns1.tenerife-tv-guide.akm.vivilotz.com.",
+      "Origin": "tenerife-tv-guide.akm.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/test-creatinine-drug.aif.vivilotz.com..txt",
+      "NameServer": "ns1.test-creatinine-drug.aif.vivilotz.com.",
+      "Origin": "test-creatinine-drug.aif.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/test-for-auditory-processing-disorder.ahg.vivilotz.com..txt",
+      "NameServer": "ns1.test-for-auditory-processing-disorder.ahg.vivilotz.com.",
+      "Origin": "test-for-auditory-processing-disorder.ahg.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/test-homosexuality-with-subliminal.aiv.vivilotz.com..txt",
+      "NameServer": "ns1.test-homosexuality-with-subliminal.aiv.vivilotz.com.",
+      "Origin": "test-homosexuality-with-subliminal.aiv.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/test-results-for-adult-diapers.ajc.vivilotz.com..txt",
+      "NameServer": "ns1.test-results-for-adult-diapers.ajc.vivilotz.com.",
+      "Origin": "test-results-for-adult-diapers.ajc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/test-scores-bay-area-high-schools.ais.vivilotz.com..txt",
+      "NameServer": "ns1.test-scores-bay-area-high-schools.ais.vivilotz.com.",
+      "Origin": "test-scores-bay-area-high-schools.ais.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/testi-bob-marley.aou.vivilotz.com..txt",
+      "NameServer": "ns1.testi-bob-marley.aou.vivilotz.com.",
+      "Origin": "testi-bob-marley.aou.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/the-girls-form-james-bond-movies.aee.vivilotz.com..txt",
+      "NameServer": "ns1.the-girls-form-james-bond-movies.aee.vivilotz.com.",
+      "Origin": "the-girls-form-james-bond-movies.aee.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/the-hobbit-the-greatest-adventure.apz.vivilotz.com..txt",
+      "NameServer": "ns1.the-hobbit-the-greatest-adventure.apz.vivilotz.com.",
+      "Origin": "the-hobbit-the-greatest-adventure.apz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/the-resurrection-of-jesus-christ.afb.vivilotz.com..txt",
+      "NameServer": "ns1.the-resurrection-of-jesus-christ.afb.vivilotz.com.",
+      "Origin": "the-resurrection-of-jesus-christ.afb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/the-science-of-mind-the-thirty.aek.vivilotz.com..txt",
+      "NameServer": "ns1.the-science-of-mind-the-thirty.aek.vivilotz.com.",
+      "Origin": "the-science-of-mind-the-thirty.aek.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/the-soaps-on-tv-england.anj.vivilotz.com..txt",
+      "NameServer": "ns1.the-soaps-on-tv-england.anj.vivilotz.com.",
+      "Origin": "the-soaps-on-tv-england.anj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/the-worlds-greatest-salesman-quotes.aoo.vivilotz.com..txt",
+      "NameServer": "ns1.the-worlds-greatest-salesman-quotes.aoo.vivilotz.com.",
+      "Origin": "the-worlds-greatest-salesman-quotes.aoo.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/thematic-apperception-test-cards.ajz.vivilotz.com..txt",
+      "NameServer": "ns1.thematic-apperception-test-cards.ajz.vivilotz.com.",
+      "Origin": "thematic-apperception-test-cards.ajz.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/tigerdirect-discount-code-newegg.anu.vivilotz.com..txt",
+      "NameServer": "ns1.tigerdirect-discount-code-newegg.anu.vivilotz.com.",
+      "Origin": "tigerdirect-discount-code-newegg.anu.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/timeshare-sales-agreement-form.adp.vivilotz.com..txt",
+      "NameServer": "ns1.timeshare-sales-agreement-form.adp.vivilotz.com.",
+      "Origin": "timeshare-sales-agreement-form.adp.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/toshiba-tv-bulbs-only.akn.vivilotz.com..txt",
+      "NameServer": "ns1.toshiba-tv-bulbs-only.akn.vivilotz.com.",
+      "Origin": "toshiba-tv-bulbs-only.akn.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/toyota-scion-tv-ad-of-extraterrestrial.anh.vivilotz.com..txt",
+      "NameServer": "ns1.toyota-scion-tv-ad-of-extraterrestrial.anh.vivilotz.com.",
+      "Origin": "toyota-scion-tv-ad-of-extraterrestrial.anh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/treadmill-lcd-tv-mount.anj.vivilotz.com..txt",
+      "NameServer": "ns1.treadmill-lcd-tv-mount.anj.vivilotz.com.",
+      "Origin": "treadmill-lcd-tv-mount.anj.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/treadmills-themselves-treadmill.ajc.vivilotz.com..txt",
+      "NameServer": "ns1.treadmills-themselves-treadmill.ajc.vivilotz.com.",
+      "Origin": "treadmills-themselves-treadmill.ajc.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/tropical-astrology-astrology-vb.anx.vivilotz.com..txt",
+      "NameServer": "ns1.tropical-astrology-astrology-vb.anx.vivilotz.com.",
+      "Origin": "tropical-astrology-astrology-vb.anx.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/true-cafe-registration-code.afl.vivilotz.com..txt",
+      "NameServer": "ns1.true-cafe-registration-code.afl.vivilotz.com.",
+      "Origin": "true-cafe-registration-code.afl.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/type-of-medium-do-waves-pass-through.aqh.vivilotz.com..txt",
+      "NameServer": "ns1.type-of-medium-do-waves-pass-through.aqh.vivilotz.com.",
+      "Origin": "type-of-medium-do-waves-pass-through.aqh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/u-s-marshal-physical-fitness-test.ahr.vivilotz.com..txt",
+      "NameServer": "ns1.u-s-marshal-physical-fitness-test.ahr.vivilotz.com.",
+      "Origin": "u-s-marshal-physical-fitness-test.ahr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/u-s-open-golf-tv-times-schedule.anh.vivilotz.com..txt",
+      "NameServer": "ns1.u-s-open-golf-tv-times-schedule.anh.vivilotz.com.",
+      "Origin": "u-s-open-golf-tv-times-schedule.anh.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/ultimate-fighting-championship.ang.vivilotz.com..txt",
+      "NameServer": "ns1.ultimate-fighting-championship.ang.vivilotz.com.",
+      "Origin": "ultimate-fighting-championship.ang.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/unfinished-attics-code-requirements.anr.vivilotz.com..txt",
+      "NameServer": "ns1.unfinished-attics-code-requirements.anr.vivilotz.com.",
+      "Origin": "unfinished-attics-code-requirements.anr.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/university-of-alabama-football.anb.vivilotz.com..txt",
+      "NameServer": "ns1.university-of-alabama-football.anb.vivilotz.com.",
+      "Origin": "university-of-alabama-football.anb.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/urine-calcium-test.ail.vivilotz.com..txt",
+      "NameServer": "ns1.urine-calcium-test.ail.vivilotz.com.",
+      "Origin": "urine-calcium-test.ail.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/vehicle-code-vc-23123.abg.vivilotz.com..txt",
+      "NameServer": "ns1.vehicle-code-vc-23123.abg.vivilotz.com.",
+      "Origin": "vehicle-code-vc-23123.abg.vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/vivilotz.com..txt",
+      "NameServer": "ns1.vivilotz.com.",
+      "Origin": "vivilotz.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/vivilotz.com/www.vivilotz.com..txt",
+      "NameServer": "ns1.www.vivilotz.com.",
+      "Origin": "www.vivilotz.com."
+    }
+  ]
+}

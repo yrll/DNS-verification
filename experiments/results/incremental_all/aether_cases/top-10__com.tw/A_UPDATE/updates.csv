@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.tw,000.com.tw..txt,A_UPDATE,DEL,www.000.com.tw.,A,60.249.139.139
+top-10/com.tw,000.com.tw..txt,A_UPDATE,ADD,www.000.com.tw.,A,192.0.2.253

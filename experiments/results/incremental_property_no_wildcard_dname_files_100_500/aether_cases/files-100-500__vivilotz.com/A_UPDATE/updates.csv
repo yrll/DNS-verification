@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/vivilotz.com,10-greatest-guitar-players.aoo.vivilotz.com..txt,A_UPDATE,DEL,10-greatest-guitar-players.aoo.vivilotz.com.,A,208.87.35.105
+files-100-500/vivilotz.com,10-greatest-guitar-players.aoo.vivilotz.com..txt,A_UPDATE,ADD,10-greatest-guitar-players.aoo.vivilotz.com.,A,192.0.2.253

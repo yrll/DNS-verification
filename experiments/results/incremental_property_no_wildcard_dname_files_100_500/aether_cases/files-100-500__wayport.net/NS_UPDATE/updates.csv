@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wayport.net,anchoak.wayport.net..txt,NS_UPDATE,DEL,anchoak.wayport.net.,NS,auth0.wayport.net.
+files-100-500/wayport.net,anchoak.wayport.net..txt,NS_UPDATE,ADD,anchoak.wayport.net.,NS,ns-inc.anchoak.wayport.net.

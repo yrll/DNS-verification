@@ -1,0 +1,5 @@
+[2026-07-03T07:09:31Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "virginia", "alumni", "www"], rtype: A, rdata: "96.125.162.145" }
+[2026-07-03T07:09:31Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "virginia", "web", "www"], rtype: A, rdata: "128.143.22.131" }
+[2026-07-03T07:09:31Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "virginia", "shanti", "dev1"], rtype: A, rdata: "128.143.22.128" }
+[2026-07-03T07:09:31Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "virginia", "darden", "store"], rtype: A, rdata: "74.208.12.81" }
+[2026-07-03T07:09:31Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "virginia", "lib", "virgo"], rtype: MX, rdata: "0 virgo.lib.virginia.edu" }

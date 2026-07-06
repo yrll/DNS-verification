@@ -1,0 +1,637 @@
+{
+  "TopNameServers": [
+    "ns1.virginia.edu."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/abcrc.virginia.edu..txt",
+      "NameServer": "ns1.abcrc.virginia.edu.",
+      "Origin": "abcrc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/acc.virginia.edu..txt",
+      "NameServer": "ns1.acc.virginia.edu.",
+      "Origin": "acc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/acs.virginia.edu..txt",
+      "NameServer": "ns1.acs.virginia.edu.",
+      "Origin": "acs.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/admin.virginia.edu..txt",
+      "NameServer": "ns1.admin.virginia.edu.",
+      "Origin": "admin.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/admission.virginia.edu..txt",
+      "NameServer": "ns1.admission.virginia.edu.",
+      "Origin": "admission.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/ais.virginia.edu..txt",
+      "NameServer": "ns1.ais.virginia.edu.",
+      "Origin": "ais.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/alumni.virginia.edu..txt",
+      "NameServer": "ns1.alumni.virginia.edu.",
+      "Origin": "alumni.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/anthropology.virginia.edu..txt",
+      "NameServer": "ns1.anthropology.virginia.edu.",
+      "Origin": "anthropology.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/appreciativeinquiry.virginia.edu..txt",
+      "NameServer": "ns1.appreciativeinquiry.virginia.edu.",
+      "Origin": "appreciativeinquiry.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/arch.virginia.edu..txt",
+      "NameServer": "ns1.arch.virginia.edu.",
+      "Origin": "arch.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/artsboxoffice.virginia.edu..txt",
+      "NameServer": "ns1.artsboxoffice.virginia.edu.",
+      "Origin": "artsboxoffice.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/astro.virginia.edu..txt",
+      "NameServer": "ns1.astro.virginia.edu.",
+      "Origin": "astro.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/batten.virginia.edu..txt",
+      "NameServer": "ns1.batten.virginia.edu.",
+      "Origin": "batten.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/betech.virginia.edu..txt",
+      "NameServer": "ns1.betech.virginia.edu.",
+      "Origin": "betech.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/bht.virginia.edu..txt",
+      "NameServer": "ns1.bht.virginia.edu.",
+      "Origin": "bht.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/bioch.virginia.edu..txt",
+      "NameServer": "ns1.bioch.virginia.edu.",
+      "Origin": "bioch.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/biology.virginia.edu..txt",
+      "NameServer": "ns1.biology.virginia.edu.",
+      "Origin": "biology.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/bme.virginia.edu..txt",
+      "NameServer": "ns1.bme.virginia.edu.",
+      "Origin": "bme.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/bookstore.virginia.edu..txt",
+      "NameServer": "ns1.bookstore.virginia.edu.",
+      "Origin": "bookstore.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/career.virginia.edu..txt",
+      "NameServer": "ns1.career.virginia.edu.",
+      "Origin": "career.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/ccps.virginia.edu..txt",
+      "NameServer": "ns1.ccps.virginia.edu.",
+      "Origin": "ccps.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/ce.virginia.edu..txt",
+      "NameServer": "ns1.ce.virginia.edu.",
+      "Origin": "ce.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/che.virginia.edu..txt",
+      "NameServer": "ns1.che.virginia.edu.",
+      "Origin": "che.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/chem.virginia.edu..txt",
+      "NameServer": "ns1.chem.virginia.edu.",
+      "Origin": "chem.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/clas.virginia.edu..txt",
+      "NameServer": "ns1.clas.virginia.edu.",
+      "Origin": "clas.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/cme.virginia.edu..txt",
+      "NameServer": "ns1.cme.virginia.edu.",
+      "Origin": "cme.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/comm.virginia.edu..txt",
+      "NameServer": "ns1.comm.virginia.edu.",
+      "Origin": "comm.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/commerce.virginia.edu..txt",
+      "NameServer": "ns1.commerce.virginia.edu.",
+      "Origin": "commerce.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/cpe.virginia.edu..txt",
+      "NameServer": "ns1.cpe.virginia.edu.",
+      "Origin": "cpe.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/cphg.virginia.edu..txt",
+      "NameServer": "ns1.cphg.virginia.edu.",
+      "Origin": "cphg.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/creativewriting.virginia.edu..txt",
+      "NameServer": "ns1.creativewriting.virginia.edu.",
+      "Origin": "creativewriting.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/cs.virginia.edu..txt",
+      "NameServer": "ns1.cs.virginia.edu.",
+      "Origin": "cs.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/curry.virginia.edu..txt",
+      "NameServer": "ns1.curry.virginia.edu.",
+      "Origin": "curry.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/cvrc.virginia.edu..txt",
+      "NameServer": "ns1.cvrc.virginia.edu.",
+      "Origin": "cvrc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/darden.virginia.edu..txt",
+      "NameServer": "ns1.darden.virginia.edu.",
+      "Origin": "darden.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/dev.virginia.edu..txt",
+      "NameServer": "ns1.dev.virginia.edu.",
+      "Origin": "dev.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/ece.virginia.edu..txt",
+      "NameServer": "ns1.ece.virginia.edu.",
+      "Origin": "ece.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/econ.virginia.edu..txt",
+      "NameServer": "ns1.econ.virginia.edu.",
+      "Origin": "econ.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/economics.virginia.edu..txt",
+      "NameServer": "ns1.economics.virginia.edu.",
+      "Origin": "economics.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/edschool.virginia.edu..txt",
+      "NameServer": "ns1.edschool.virginia.edu.",
+      "Origin": "edschool.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/ee.virginia.edu..txt",
+      "NameServer": "ns1.ee.virginia.edu.",
+      "Origin": "ee.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/ehs.virginia.edu..txt",
+      "NameServer": "ns1.ehs.virginia.edu.",
+      "Origin": "ehs.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/ei.virginia.edu..txt",
+      "NameServer": "ns1.ei.virginia.edu.",
+      "Origin": "ei.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/engl.virginia.edu..txt",
+      "NameServer": "ns1.engl.virginia.edu.",
+      "Origin": "engl.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/eservices.virginia.edu..txt",
+      "NameServer": "ns1.eservices.virginia.edu.",
+      "Origin": "eservices.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/evsc.virginia.edu..txt",
+      "NameServer": "ns1.evsc.virginia.edu.",
+      "Origin": "evsc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/finadmin.virginia.edu..txt",
+      "NameServer": "ns1.finadmin.virginia.edu.",
+      "Origin": "finadmin.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/fm.virginia.edu..txt",
+      "NameServer": "ns1.fm.virginia.edu.",
+      "Origin": "fm.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/gbus.virginia.edu..txt",
+      "NameServer": "ns1.gbus.virginia.edu.",
+      "Origin": "gbus.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/gecp.virginia.edu..txt",
+      "NameServer": "ns1.gecp.virginia.edu.",
+      "Origin": "gecp.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/genesis2.virginia.edu..txt",
+      "NameServer": "ns1.genesis2.virginia.edu.",
+      "Origin": "genesis2.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/healthdisparities.virginia.edu..txt",
+      "NameServer": "ns1.healthdisparities.virginia.edu.",
+      "Origin": "healthdisparities.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/healthsystem.virginia.edu..txt",
+      "NameServer": "ns1.healthsystem.virginia.edu.",
+      "Origin": "healthsystem.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/hereford.virginia.edu..txt",
+      "NameServer": "ns1.hereford.virginia.edu.",
+      "Origin": "hereford.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/history.virginia.edu..txt",
+      "NameServer": "ns1.history.virginia.edu.",
+      "Origin": "history.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/housing.virginia.edu..txt",
+      "NameServer": "ns1.housing.virginia.edu.",
+      "Origin": "housing.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/hr.virginia.edu..txt",
+      "NameServer": "ns1.hr.virginia.edu.",
+      "Origin": "hr.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/hrs.virginia.edu..txt",
+      "NameServer": "ns1.hrs.virginia.edu.",
+      "Origin": "hrs.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/hsc.virginia.edu..txt",
+      "NameServer": "ns1.hsc.virginia.edu.",
+      "Origin": "hsc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/hscs.virginia.edu..txt",
+      "NameServer": "ns1.hscs.virginia.edu.",
+      "Origin": "hscs.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/hsf.virginia.edu..txt",
+      "NameServer": "ns1.hsf.virginia.edu.",
+      "Origin": "hsf.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/hsl.virginia.edu..txt",
+      "NameServer": "ns1.hsl.virginia.edu.",
+      "Origin": "hsl.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/iath.virginia.edu..txt",
+      "NameServer": "ns1.iath.virginia.edu.",
+      "Origin": "iath.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/intercom.virginia.edu..txt",
+      "NameServer": "ns1.intercom.virginia.edu.",
+      "Origin": "intercom.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/ipm.virginia.edu..txt",
+      "NameServer": "ns1.ipm.virginia.edu.",
+      "Origin": "ipm.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/ise.virginia.edu..txt",
+      "NameServer": "ns1.ise.virginia.edu.",
+      "Origin": "ise.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/itc.virginia.edu..txt",
+      "NameServer": "ns1.itc.virginia.edu.",
+      "Origin": "itc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/its.virginia.edu..txt",
+      "NameServer": "ns1.its.virginia.edu.",
+      "Origin": "its.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/jeffersonscholars.virginia.edu..txt",
+      "NameServer": "ns1.jeffersonscholars.virginia.edu.",
+      "Origin": "jeffersonscholars.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/law.virginia.edu..txt",
+      "NameServer": "ns1.law.virginia.edu.",
+      "Origin": "law.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/lawschool.virginia.edu..txt",
+      "NameServer": "ns1.lawschool.virginia.edu.",
+      "Origin": "lawschool.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/legion.virginia.edu..txt",
+      "NameServer": "ns1.legion.virginia.edu.",
+      "Origin": "legion.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/lib.virginia.edu..txt",
+      "NameServer": "ns1.lib.virginia.edu.",
+      "Origin": "lib.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/library.virginia.edu..txt",
+      "NameServer": "ns1.library.virginia.edu.",
+      "Origin": "library.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/mae.virginia.edu..txt",
+      "NameServer": "ns1.mae.virginia.edu.",
+      "Origin": "mae.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/mail.virginia.edu..txt",
+      "NameServer": "ns1.mail.virginia.edu.",
+      "Origin": "mail.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/math.virginia.edu..txt",
+      "NameServer": "ns1.math.virginia.edu.",
+      "Origin": "math.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/mcc.virginia.edu..txt",
+      "NameServer": "ns1.mcc.virginia.edu.",
+      "Origin": "mcc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/mcpa.virginia.edu..txt",
+      "NameServer": "ns1.mcpa.virginia.edu.",
+      "Origin": "mcpa.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/mech.virginia.edu..txt",
+      "NameServer": "ns1.mech.virginia.edu.",
+      "Origin": "mech.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/med-ed.virginia.edu..txt",
+      "NameServer": "ns1.med-ed.virginia.edu.",
+      "Origin": "med-ed.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/med.virginia.edu..txt",
+      "NameServer": "ns1.med.virginia.edu.",
+      "Origin": "med.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/mediastudies.virginia.edu..txt",
+      "NameServer": "ns1.mediastudies.virginia.edu.",
+      "Origin": "mediastudies.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/medicine.virginia.edu..txt",
+      "NameServer": "ns1.medicine.virginia.edu.",
+      "Origin": "medicine.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/mgmt.virginia.edu..txt",
+      "NameServer": "ns1.mgmt.virginia.edu.",
+      "Origin": "mgmt.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/misc.virginia.edu..txt",
+      "NameServer": "ns1.misc.virginia.edu.",
+      "Origin": "misc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/mlbs.virginia.edu..txt",
+      "NameServer": "ns1.mlbs.virginia.edu.",
+      "Origin": "mlbs.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/mobile.virginia.edu..txt",
+      "NameServer": "ns1.mobile.virginia.edu.",
+      "Origin": "mobile.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/music.virginia.edu..txt",
+      "NameServer": "ns1.music.virginia.edu.",
+      "Origin": "music.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/myuva.virginia.edu..txt",
+      "NameServer": "ns1.myuva.virginia.edu.",
+      "Origin": "myuva.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/news.virginia.edu..txt",
+      "NameServer": "ns1.news.virginia.edu.",
+      "Origin": "news.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/nursing.virginia.edu..txt",
+      "NameServer": "ns1.nursing.virginia.edu.",
+      "Origin": "nursing.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/pcs.virginia.edu..txt",
+      "NameServer": "ns1.pcs.virginia.edu.",
+      "Origin": "pcs.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/people.virginia.edu..txt",
+      "NameServer": "ns1.people.virginia.edu.",
+      "Origin": "people.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/pharm.virginia.edu..txt",
+      "NameServer": "ns1.pharm.virginia.edu.",
+      "Origin": "pharm.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/phys.virginia.edu..txt",
+      "NameServer": "ns1.phys.virginia.edu.",
+      "Origin": "phys.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/physics.virginia.edu..txt",
+      "NameServer": "ns1.physics.virginia.edu.",
+      "Origin": "physics.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/pki.virginia.edu..txt",
+      "NameServer": "ns1.pki.virginia.edu.",
+      "Origin": "pki.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/politics.virginia.edu..txt",
+      "NameServer": "ns1.politics.virginia.edu.",
+      "Origin": "politics.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/presidentialprecinct.virginia.edu..txt",
+      "NameServer": "ns1.presidentialprecinct.virginia.edu.",
+      "Origin": "presidentialprecinct.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/procurement.virginia.edu..txt",
+      "NameServer": "ns1.procurement.virginia.edu.",
+      "Origin": "procurement.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/psyc.virginia.edu..txt",
+      "NameServer": "ns1.psyc.virginia.edu.",
+      "Origin": "psyc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/radio.virginia.edu..txt",
+      "NameServer": "ns1.radio.virginia.edu.",
+      "Origin": "radio.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/readingfirst.virginia.edu..txt",
+      "NameServer": "ns1.readingfirst.virginia.edu.",
+      "Origin": "readingfirst.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/scps.virginia.edu..txt",
+      "NameServer": "ns1.scps.virginia.edu.",
+      "Origin": "scps.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/seas.virginia.edu..txt",
+      "NameServer": "ns1.seas.virginia.edu.",
+      "Origin": "seas.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/shanti.virginia.edu..txt",
+      "NameServer": "ns1.shanti.virginia.edu.",
+      "Origin": "shanti.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/spanitalport.virginia.edu..txt",
+      "NameServer": "ns1.spanitalport.virginia.edu.",
+      "Origin": "spanitalport.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/stat.virginia.edu..txt",
+      "NameServer": "ns1.stat.virginia.edu.",
+      "Origin": "stat.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/sts.virginia.edu..txt",
+      "NameServer": "ns1.sts.virginia.edu.",
+      "Origin": "sts.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/student.virginia.edu..txt",
+      "NameServer": "ns1.student.virginia.edu.",
+      "Origin": "student.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/studenthealth.virginia.edu..txt",
+      "NameServer": "ns1.studenthealth.virginia.edu.",
+      "Origin": "studenthealth.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/sys.virginia.edu..txt",
+      "NameServer": "ns1.sys.virginia.edu.",
+      "Origin": "sys.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/tcc.virginia.edu..txt",
+      "NameServer": "ns1.tcc.virginia.edu.",
+      "Origin": "tcc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/upress.virginia.edu..txt",
+      "NameServer": "ns1.upress.virginia.edu.",
+      "Origin": "upress.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/ureg.virginia.edu..txt",
+      "NameServer": "ns1.ureg.virginia.edu.",
+      "Origin": "ureg.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/uvacse.virginia.edu..txt",
+      "NameServer": "ns1.uvacse.virginia.edu.",
+      "Origin": "uvacse.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/vcdh.virginia.edu..txt",
+      "NameServer": "ns1.vcdh.virginia.edu.",
+      "Origin": "vcdh.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/vcrlter.virginia.edu..txt",
+      "NameServer": "ns1.vcrlter.virginia.edu.",
+      "Origin": "vcrlter.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/view.eservices.virginia.edu..txt",
+      "NameServer": "ns1.view.eservices.virginia.edu.",
+      "Origin": "view.eservices.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/village.virginia.edu..txt",
+      "NameServer": "ns1.village.virginia.edu.",
+      "Origin": "village.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/virginia.edu..txt",
+      "NameServer": "ns1.virginia.edu.",
+      "Origin": "virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/vtrc.virginia.edu..txt",
+      "NameServer": "ns1.vtrc.virginia.edu.",
+      "Origin": "vtrc.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/web.virginia.edu..txt",
+      "NameServer": "ns1.web.virginia.edu.",
+      "Origin": "web.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/wgs.virginia.edu..txt",
+      "NameServer": "ns1.wgs.virginia.edu.",
+      "Origin": "wgs.virginia.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/virginia.edu/wise.virginia.edu..txt",
+      "NameServer": "ns1.wise.virginia.edu.",
+      "Origin": "wise.virginia.edu."
+    }
+  ]
+}

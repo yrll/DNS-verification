@@ -1,0 +1,6 @@
+law.nju.com.	14400	IN	SOA	ns1.law.nju.com. james.nju.edu. 19122302 14400 3600 2419200 14400
+law.nju.com.		    IN	NS ns1.law.nju.com.
+ns1.law.nju.com.	    IN	A	10.166.21.13
+
+law.nju.com.		    IN	A	6.6.6.6
+

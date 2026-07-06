@@ -1,0 +1,802 @@
+{
+  "TopNameServers": [
+    "ns1.webwealth.us."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/123freedom.webwealth.us..txt",
+      "NameServer": "ns1.123freedom.webwealth.us.",
+      "Origin": "123freedom.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/12point5.webwealth.us..txt",
+      "NameServer": "ns1.12point5.webwealth.us.",
+      "Origin": "12point5.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/1million4u.webwealth.us..txt",
+      "NameServer": "ns1.1million4u.webwealth.us.",
+      "Origin": "1million4u.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/2awesome.webwealth.us..txt",
+      "NameServer": "ns1.2awesome.webwealth.us.",
+      "Origin": "2awesome.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/4success.webwealth.us..txt",
+      "NameServer": "ns1.4success.webwealth.us.",
+      "Origin": "4success.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/abundancy.webwealth.us..txt",
+      "NameServer": "ns1.abundancy.webwealth.us.",
+      "Origin": "abundancy.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/access2.webwealth.us..txt",
+      "NameServer": "ns1.access2.webwealth.us.",
+      "Origin": "access2.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/alaflair.webwealth.us..txt",
+      "NameServer": "ns1.alaflair.webwealth.us.",
+      "Origin": "alaflair.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/alderman.webwealth.us..txt",
+      "NameServer": "ns1.alderman.webwealth.us.",
+      "Origin": "alderman.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/andinia.webwealth.us..txt",
+      "NameServer": "ns1.andinia.webwealth.us.",
+      "Origin": "andinia.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/artemis.webwealth.us..txt",
+      "NameServer": "ns1.artemis.webwealth.us.",
+      "Origin": "artemis.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/ateer.webwealth.us..txt",
+      "NameServer": "ns1.ateer.webwealth.us.",
+      "Origin": "ateer.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/atlast.webwealth.us..txt",
+      "NameServer": "ns1.atlast.webwealth.us.",
+      "Origin": "atlast.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/atoztexan.webwealth.us..txt",
+      "NameServer": "ns1.atoztexan.webwealth.us.",
+      "Origin": "atoztexan.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/author.webwealth.us..txt",
+      "NameServer": "ns1.author.webwealth.us.",
+      "Origin": "author.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/automoney.webwealth.us..txt",
+      "NameServer": "ns1.automoney.webwealth.us.",
+      "Origin": "automoney.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/backyards.webwealth.us..txt",
+      "NameServer": "ns1.backyards.webwealth.us.",
+      "Origin": "backyards.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/bblarue.webwealth.us..txt",
+      "NameServer": "ns1.bblarue.webwealth.us.",
+      "Origin": "bblarue.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/bigshot.webwealth.us..txt",
+      "NameServer": "ns1.bigshot.webwealth.us.",
+      "Origin": "bigshot.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/bizpay.webwealth.us..txt",
+      "NameServer": "ns1.bizpay.webwealth.us.",
+      "Origin": "bizpay.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/blaiza.webwealth.us..txt",
+      "NameServer": "ns1.blaiza.webwealth.us.",
+      "Origin": "blaiza.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/brenda245.webwealth.us..txt",
+      "NameServer": "ns1.brenda245.webwealth.us.",
+      "Origin": "brenda245.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/bryantg.webwealth.us..txt",
+      "NameServer": "ns1.bryantg.webwealth.us.",
+      "Origin": "bryantg.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/bux4us.webwealth.us..txt",
+      "NameServer": "ns1.bux4us.webwealth.us.",
+      "Origin": "bux4us.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/cash2005.webwealth.us..txt",
+      "NameServer": "ns1.cash2005.webwealth.us.",
+      "Origin": "cash2005.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/cashflow.webwealth.us..txt",
+      "NameServer": "ns1.cashflow.webwealth.us.",
+      "Origin": "cashflow.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/cashgate.webwealth.us..txt",
+      "NameServer": "ns1.cashgate.webwealth.us.",
+      "Origin": "cashgate.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/cashroll.webwealth.us..txt",
+      "NameServer": "ns1.cashroll.webwealth.us.",
+      "Origin": "cashroll.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/chuckw8.webwealth.us..txt",
+      "NameServer": "ns1.chuckw8.webwealth.us.",
+      "Origin": "chuckw8.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/clelmer.webwealth.us..txt",
+      "NameServer": "ns1.clelmer.webwealth.us.",
+      "Origin": "clelmer.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/college.webwealth.us..txt",
+      "NameServer": "ns1.college.webwealth.us.",
+      "Origin": "college.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/coredesire.webwealth.us..txt",
+      "NameServer": "ns1.coredesire.webwealth.us.",
+      "Origin": "coredesire.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/davey.webwealth.us..txt",
+      "NameServer": "ns1.davey.webwealth.us.",
+      "Origin": "davey.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/dd2005.webwealth.us..txt",
+      "NameServer": "ns1.dd2005.webwealth.us.",
+      "Origin": "dd2005.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/delen.webwealth.us..txt",
+      "NameServer": "ns1.delen.webwealth.us.",
+      "Origin": "delen.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/dinerokaty.webwealth.us..txt",
+      "NameServer": "ns1.dinerokaty.webwealth.us.",
+      "Origin": "dinerokaty.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/diogenes.webwealth.us..txt",
+      "NameServer": "ns1.diogenes.webwealth.us.",
+      "Origin": "diogenes.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/dougeisele.webwealth.us..txt",
+      "NameServer": "ns1.dougeisele.webwealth.us.",
+      "Origin": "dougeisele.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/dteague.webwealth.us..txt",
+      "NameServer": "ns1.dteague.webwealth.us.",
+      "Origin": "dteague.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/easymarket.webwealth.us..txt",
+      "NameServer": "ns1.easymarket.webwealth.us.",
+      "Origin": "easymarket.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/emillion.webwealth.us..txt",
+      "NameServer": "ns1.emillion.webwealth.us.",
+      "Origin": "emillion.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/empire.webwealth.us..txt",
+      "NameServer": "ns1.empire.webwealth.us.",
+      "Origin": "empire.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/ernieesp.webwealth.us..txt",
+      "NameServer": "ns1.ernieesp.webwealth.us.",
+      "Origin": "ernieesp.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/esusforu.webwealth.us..txt",
+      "NameServer": "ns1.esusforu.webwealth.us.",
+      "Origin": "esusforu.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/evision.webwealth.us..txt",
+      "NameServer": "ns1.evision.webwealth.us.",
+      "Origin": "evision.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/experience.webwealth.us..txt",
+      "NameServer": "ns1.experience.webwealth.us.",
+      "Origin": "experience.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/fastpace.webwealth.us..txt",
+      "NameServer": "ns1.fastpace.webwealth.us.",
+      "Origin": "fastpace.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/fasttrac2.webwealth.us..txt",
+      "NameServer": "ns1.fasttrac2.webwealth.us.",
+      "Origin": "fasttrac2.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/fatherof2.webwealth.us..txt",
+      "NameServer": "ns1.fatherof2.webwealth.us.",
+      "Origin": "fatherof2.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/flong2.webwealth.us..txt",
+      "NameServer": "ns1.flong2.webwealth.us.",
+      "Origin": "flong2.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/floydhh.webwealth.us..txt",
+      "NameServer": "ns1.floydhh.webwealth.us.",
+      "Origin": "floydhh.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/fontaine.webwealth.us..txt",
+      "NameServer": "ns1.fontaine.webwealth.us.",
+      "Origin": "fontaine.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/ganansiya.webwealth.us..txt",
+      "NameServer": "ns1.ganansiya.webwealth.us.",
+      "Origin": "ganansiya.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/genmar.webwealth.us..txt",
+      "NameServer": "ns1.genmar.webwealth.us.",
+      "Origin": "genmar.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/gerry1.webwealth.us..txt",
+      "NameServer": "ns1.gerry1.webwealth.us.",
+      "Origin": "gerry1.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/gfaub3401.webwealth.us..txt",
+      "NameServer": "ns1.gfaub3401.webwealth.us.",
+      "Origin": "gfaub3401.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/gilmore.webwealth.us..txt",
+      "NameServer": "ns1.gilmore.webwealth.us.",
+      "Origin": "gilmore.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/golden15.webwealth.us..txt",
+      "NameServer": "ns1.golden15.webwealth.us.",
+      "Origin": "golden15.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/grace25.webwealth.us..txt",
+      "NameServer": "ns1.grace25.webwealth.us.",
+      "Origin": "grace25.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/growrich.webwealth.us..txt",
+      "NameServer": "ns1.growrich.webwealth.us.",
+      "Origin": "growrich.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/hawk62.webwealth.us..txt",
+      "NameServer": "ns1.hawk62.webwealth.us.",
+      "Origin": "hawk62.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/helpme.webwealth.us..txt",
+      "NameServer": "ns1.helpme.webwealth.us.",
+      "Origin": "helpme.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/hereandnow.webwealth.us..txt",
+      "NameServer": "ns1.hereandnow.webwealth.us.",
+      "Origin": "hereandnow.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/hrslknatu2.webwealth.us..txt",
+      "NameServer": "ns1.hrslknatu2.webwealth.us.",
+      "Origin": "hrslknatu2.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/ianps.webwealth.us..txt",
+      "NameServer": "ns1.ianps.webwealth.us.",
+      "Origin": "ianps.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/income.webwealth.us..txt",
+      "NameServer": "ns1.income.webwealth.us.",
+      "Origin": "income.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/jdryan.webwealth.us..txt",
+      "NameServer": "ns1.jdryan.webwealth.us.",
+      "Origin": "jdryan.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/jestoutley.webwealth.us..txt",
+      "NameServer": "ns1.jestoutley.webwealth.us.",
+      "Origin": "jestoutley.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/jfrank.webwealth.us..txt",
+      "NameServer": "ns1.jfrank.webwealth.us.",
+      "Origin": "jfrank.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/jlc9680.webwealth.us..txt",
+      "NameServer": "ns1.jlc9680.webwealth.us.",
+      "Origin": "jlc9680.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/jmcclary.webwealth.us..txt",
+      "NameServer": "ns1.jmcclary.webwealth.us.",
+      "Origin": "jmcclary.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/joinrteam.webwealth.us..txt",
+      "NameServer": "ns1.joinrteam.webwealth.us.",
+      "Origin": "joinrteam.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/kathysola.webwealth.us..txt",
+      "NameServer": "ns1.kathysola.webwealth.us.",
+      "Origin": "kathysola.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/kdcollins.webwealth.us..txt",
+      "NameServer": "ns1.kdcollins.webwealth.us.",
+      "Origin": "kdcollins.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/kregptl.webwealth.us..txt",
+      "NameServer": "ns1.kregptl.webwealth.us.",
+      "Origin": "kregptl.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/leobold.webwealth.us..txt",
+      "NameServer": "ns1.leobold.webwealth.us.",
+      "Origin": "leobold.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/libertad.webwealth.us..txt",
+      "NameServer": "ns1.libertad.webwealth.us.",
+      "Origin": "libertad.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/linlb.webwealth.us..txt",
+      "NameServer": "ns1.linlb.webwealth.us.",
+      "Origin": "linlb.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/lklein.webwealth.us..txt",
+      "NameServer": "ns1.lklein.webwealth.us.",
+      "Origin": "lklein.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/lmorgan.webwealth.us..txt",
+      "NameServer": "ns1.lmorgan.webwealth.us.",
+      "Origin": "lmorgan.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/lujoh.webwealth.us..txt",
+      "NameServer": "ns1.lujoh.webwealth.us.",
+      "Origin": "lujoh.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/magna7.webwealth.us..txt",
+      "NameServer": "ns1.magna7.webwealth.us.",
+      "Origin": "magna7.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/malcolml.webwealth.us..txt",
+      "NameServer": "ns1.malcolml.webwealth.us.",
+      "Origin": "malcolml.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/marketing.webwealth.us..txt",
+      "NameServer": "ns1.marketing.webwealth.us.",
+      "Origin": "marketing.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/markx2.webwealth.us..txt",
+      "NameServer": "ns1.markx2.webwealth.us.",
+      "Origin": "markx2.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/marpam.webwealth.us..txt",
+      "NameServer": "ns1.marpam.webwealth.us.",
+      "Origin": "marpam.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/maxpower.webwealth.us..txt",
+      "NameServer": "ns1.maxpower.webwealth.us.",
+      "Origin": "maxpower.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/mentors2.webwealth.us..txt",
+      "NameServer": "ns1.mentors2.webwealth.us.",
+      "Origin": "mentors2.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/mhall.webwealth.us..txt",
+      "NameServer": "ns1.mhall.webwealth.us.",
+      "Origin": "mhall.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/million2k5.webwealth.us..txt",
+      "NameServer": "ns1.million2k5.webwealth.us.",
+      "Origin": "million2k5.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/moneyop.webwealth.us..txt",
+      "NameServer": "ns1.moneyop.webwealth.us.",
+      "Origin": "moneyop.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/nansanas.webwealth.us..txt",
+      "NameServer": "ns1.nansanas.webwealth.us.",
+      "Origin": "nansanas.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/nimzar.webwealth.us..txt",
+      "NameServer": "ns1.nimzar.webwealth.us.",
+      "Origin": "nimzar.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/norod.webwealth.us..txt",
+      "NameServer": "ns1.norod.webwealth.us.",
+      "Origin": "norod.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/nursing.webwealth.us..txt",
+      "NameServer": "ns1.nursing.webwealth.us.",
+      "Origin": "nursing.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/onewah.webwealth.us..txt",
+      "NameServer": "ns1.onewah.webwealth.us.",
+      "Origin": "onewah.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/orich.webwealth.us..txt",
+      "NameServer": "ns1.orich.webwealth.us.",
+      "Origin": "orich.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/patience10.webwealth.us..txt",
+      "NameServer": "ns1.patience10.webwealth.us.",
+      "Origin": "patience10.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/phoenixe.webwealth.us..txt",
+      "NameServer": "ns1.phoenixe.webwealth.us.",
+      "Origin": "phoenixe.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/pinky33.webwealth.us..txt",
+      "NameServer": "ns1.pinky33.webwealth.us.",
+      "Origin": "pinky33.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/pinky43.webwealth.us..txt",
+      "NameServer": "ns1.pinky43.webwealth.us.",
+      "Origin": "pinky43.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/profit.webwealth.us..txt",
+      "NameServer": "ns1.profit.webwealth.us.",
+      "Origin": "profit.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/realdeal.webwealth.us..txt",
+      "NameServer": "ns1.realdeal.webwealth.us.",
+      "Origin": "realdeal.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/realizing.webwealth.us..txt",
+      "NameServer": "ns1.realizing.webwealth.us.",
+      "Origin": "realizing.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/renee.webwealth.us..txt",
+      "NameServer": "ns1.renee.webwealth.us.",
+      "Origin": "renee.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/rmcmanus.webwealth.us..txt",
+      "NameServer": "ns1.rmcmanus.webwealth.us.",
+      "Origin": "rmcmanus.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/roydshouse.webwealth.us..txt",
+      "NameServer": "ns1.roydshouse.webwealth.us.",
+      "Origin": "roydshouse.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/ruimartinh.webwealth.us..txt",
+      "NameServer": "ns1.ruimartinh.webwealth.us.",
+      "Origin": "ruimartinh.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/sanphil.webwealth.us..txt",
+      "NameServer": "ns1.sanphil.webwealth.us.",
+      "Origin": "sanphil.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/security.webwealth.us..txt",
+      "NameServer": "ns1.security.webwealth.us.",
+      "Origin": "security.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/showtime.webwealth.us..txt",
+      "NameServer": "ns1.showtime.webwealth.us.",
+      "Origin": "showtime.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/shriji.webwealth.us..txt",
+      "NameServer": "ns1.shriji.webwealth.us.",
+      "Origin": "shriji.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/sisein.webwealth.us..txt",
+      "NameServer": "ns1.sisein.webwealth.us.",
+      "Origin": "sisein.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/smithjms.webwealth.us..txt",
+      "NameServer": "ns1.smithjms.webwealth.us.",
+      "Origin": "smithjms.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/sparrows.webwealth.us..txt",
+      "NameServer": "ns1.sparrows.webwealth.us.",
+      "Origin": "sparrows.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/spriggs.webwealth.us..txt",
+      "NameServer": "ns1.spriggs.webwealth.us.",
+      "Origin": "spriggs.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/stability.webwealth.us..txt",
+      "NameServer": "ns1.stability.webwealth.us.",
+      "Origin": "stability.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/succes4u.webwealth.us..txt",
+      "NameServer": "ns1.succes4u.webwealth.us.",
+      "Origin": "succes4u.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/success45.webwealth.us..txt",
+      "NameServer": "ns1.success45.webwealth.us.",
+      "Origin": "success45.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/sventa.webwealth.us..txt",
+      "NameServer": "ns1.sventa.webwealth.us.",
+      "Origin": "sventa.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/teambig.webwealth.us..txt",
+      "NameServer": "ns1.teambig.webwealth.us.",
+      "Origin": "teambig.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/terra.webwealth.us..txt",
+      "NameServer": "ns1.terra.webwealth.us.",
+      "Origin": "terra.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/tesuccess.webwealth.us..txt",
+      "NameServer": "ns1.tesuccess.webwealth.us.",
+      "Origin": "tesuccess.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/thjaco.webwealth.us..txt",
+      "NameServer": "ns1.thjaco.webwealth.us.",
+      "Origin": "thjaco.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/tmk603.webwealth.us..txt",
+      "NameServer": "ns1.tmk603.webwealth.us.",
+      "Origin": "tmk603.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/topline.webwealth.us..txt",
+      "NameServer": "ns1.topline.webwealth.us.",
+      "Origin": "topline.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/uranswer.webwealth.us..txt",
+      "NameServer": "ns1.uranswer.webwealth.us.",
+      "Origin": "uranswer.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/veteran80.webwealth.us..txt",
+      "NameServer": "ns1.veteran80.webwealth.us.",
+      "Origin": "veteran80.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/vigga.webwealth.us..txt",
+      "NameServer": "ns1.vigga.webwealth.us.",
+      "Origin": "vigga.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/vshepherd.webwealth.us..txt",
+      "NameServer": "ns1.vshepherd.webwealth.us.",
+      "Origin": "vshepherd.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/wallym.webwealth.us..txt",
+      "NameServer": "ns1.wallym.webwealth.us.",
+      "Origin": "wallym.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/wealth1.webwealth.us..txt",
+      "NameServer": "ns1.wealth1.webwealth.us.",
+      "Origin": "wealth1.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/wealth22.webwealth.us..txt",
+      "NameServer": "ns1.wealth22.webwealth.us.",
+      "Origin": "wealth22.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/webwealth.us..txt",
+      "NameServer": "ns1.webwealth.us.",
+      "Origin": "webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/wize4tune.webwealth.us..txt",
+      "NameServer": "ns1.wize4tune.webwealth.us.",
+      "Origin": "wize4tune.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/worldsecty.webwealth.us..txt",
+      "NameServer": "ns1.worldsecty.webwealth.us.",
+      "Origin": "worldsecty.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.automoney.webwealth.us..txt",
+      "NameServer": "ns1.www.automoney.webwealth.us.",
+      "Origin": "www.automoney.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.blaiza.webwealth.us..txt",
+      "NameServer": "ns1.www.blaiza.webwealth.us.",
+      "Origin": "www.blaiza.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.bux4us.webwealth.us..txt",
+      "NameServer": "ns1.www.bux4us.webwealth.us.",
+      "Origin": "www.bux4us.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.diogenes.webwealth.us..txt",
+      "NameServer": "ns1.www.diogenes.webwealth.us.",
+      "Origin": "www.diogenes.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.hereandnow.webwealth.us..txt",
+      "NameServer": "ns1.www.hereandnow.webwealth.us.",
+      "Origin": "www.hereandnow.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.jestoutley.webwealth.us..txt",
+      "NameServer": "ns1.www.jestoutley.webwealth.us.",
+      "Origin": "www.jestoutley.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.kregptl.webwealth.us..txt",
+      "NameServer": "ns1.www.kregptl.webwealth.us.",
+      "Origin": "www.kregptl.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.linlb.webwealth.us..txt",
+      "NameServer": "ns1.www.linlb.webwealth.us.",
+      "Origin": "www.linlb.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.magna7.webwealth.us..txt",
+      "NameServer": "ns1.www.magna7.webwealth.us.",
+      "Origin": "www.magna7.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.profit.webwealth.us..txt",
+      "NameServer": "ns1.www.profit.webwealth.us.",
+      "Origin": "www.profit.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.security.webwealth.us..txt",
+      "NameServer": "ns1.www.security.webwealth.us.",
+      "Origin": "www.security.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.sisein.webwealth.us..txt",
+      "NameServer": "ns1.www.sisein.webwealth.us.",
+      "Origin": "www.sisein.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.teambig.webwealth.us..txt",
+      "NameServer": "ns1.www.teambig.webwealth.us.",
+      "Origin": "www.teambig.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.tesuccess.webwealth.us..txt",
+      "NameServer": "ns1.www.tesuccess.webwealth.us.",
+      "Origin": "www.tesuccess.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.veteran80.webwealth.us..txt",
+      "NameServer": "ns1.www.veteran80.webwealth.us.",
+      "Origin": "www.veteran80.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.webwealth.us..txt",
+      "NameServer": "ns1.www.webwealth.us.",
+      "Origin": "www.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.wize4tune.webwealth.us..txt",
+      "NameServer": "ns1.www.wize4tune.webwealth.us.",
+      "Origin": "www.wize4tune.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/www.yffen.webwealth.us..txt",
+      "NameServer": "ns1.www.yffen.webwealth.us.",
+      "Origin": "www.yffen.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/wwww.marketing.webwealth.us..txt",
+      "NameServer": "ns1.wwww.marketing.webwealth.us.",
+      "Origin": "wwww.marketing.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/yffen.webwealth.us..txt",
+      "NameServer": "ns1.yffen.webwealth.us.",
+      "Origin": "yffen.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/yourusername.webwealth.us..txt",
+      "NameServer": "ns1.yourusername.webwealth.us.",
+      "Origin": "yourusername.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/youthpower.webwealth.us..txt",
+      "NameServer": "ns1.youthpower.webwealth.us.",
+      "Origin": "youthpower.webwealth.us."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webwealth.us/zuidlaren.webwealth.us..txt",
+      "NameServer": "ns1.zuidlaren.webwealth.us.",
+      "Origin": "zuidlaren.webwealth.us."
+    }
+  ]
+}

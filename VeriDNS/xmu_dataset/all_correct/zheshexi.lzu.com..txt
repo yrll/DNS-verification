@@ -1,0 +1,6 @@
+zheshexi.lzu.com.	14400	IN	SOA	ns1.zheshexi.lzu.com. james.lzu.edu. 19122302 14400 3600 2419200 14400
+zheshexi.lzu.com.		    IN	NS ns1.zheshexi.lzu.com.
+ns1.zheshexi.lzu.com.	    IN	A	10.166.21.15
+
+zheshexi.lzu.com.		    IN	A	6.6.6.6
+

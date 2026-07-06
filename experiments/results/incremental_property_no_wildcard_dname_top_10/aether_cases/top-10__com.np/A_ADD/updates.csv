@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.np,062civil.com.np..txt,A_ADD,ADD,__aether_veridns_inc__.062civil.com.np.,A,192.0.2.254

@@ -1,0 +1,92 @@
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "kentos", "www"], rtype: A, rdata: "141.101.116.65" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "unsurya", "www"], rtype: A, rdata: "120.89.89.56" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "dutcheastindies", "www"], rtype: A, rdata: "209.141.61.39" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "fcbarcelona", "mail"], rtype: A, rdata: "49.50.8.66" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "wim", "www"], rtype: A, rdata: "203.130.198.44" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "mazumam", "www"], rtype: A, rdata: "103.246.107.62" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "poems"], rtype: SOA, rdata: "poems.web.id hostmaster.masterweb.net 2012101627 7200 1800 1209600 300" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "van", "blog"], rtype: A, rdata: "72.32.231.8" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "minitoys", "www"], rtype: A, rdata: "203.142.25.70" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "masykur", "mail"], rtype: A, rdata: "203.29.26.196" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "kredit", "www"], rtype: A, rdata: "120.89.89.165" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "vas", "www"], rtype: A, rdata: "204.93.167.38" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "yonky", "www"], rtype: A, rdata: "211.10.17.18" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "freero", "www"], rtype: SOA, rdata: "ns1.freero.web.id hostmaster.www.freero.web.id 2010111001 14400 3600 1209600 86400" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "untaiankisah", "www"], rtype: SOA, rdata: "dns.parkpage.foundationapi.com abuse.opticaljungle.com 2011062801 3600 900 604800 86400" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "kdri", "www"], rtype: MX, rdata: "10 mail.kdri.web.id" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "worldfriend", "www"], rtype: A, rdata: "108.162.192.82" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "miruku", "www"], rtype: A, rdata: "83.125.22.152" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "kabayan"], rtype: SOA, rdata: "ns1.kuncihost.com kuncihost.gmail.com 2013081800 86400 7200 3600000 86400" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "mitracleaner"], rtype: SOA, rdata: "ns1.0fees.net support.mitracleaner.web.id 2006112402 28800 7200 604800 86400" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "videoklip", "www"], rtype: A, rdata: "116.251.214.74" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "mobi"], rtype: SOA, rdata: "bob.ns.cloudflare.com dns.cloudflare.com 2013012105 10000 2400 604800 3600" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "yudanta", "www"], rtype: A, rdata: "173.224.215.123" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "stipas", "www"], rtype: A, rdata: "69.197.18.180" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "lusiana"], rtype: SOA, rdata: "ns1.byethost6.org response.ifastnet.com 2012101600 952 961 3601 952" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "photoblog", "www"], rtype: A, rdata: "112.215.11.60" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "lingerie", "www"], rtype: A, rdata: "199.180.249.148" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "toko-online", "www"], rtype: A, rdata: "120.89.89.51" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "duddy", "www"], rtype: MX, rdata: "10 mail.duddy.web.id" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "mossackanme", "www"], rtype: A, rdata: "198.57.247.156" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "linuxgames", "www"], rtype: A, rdata: "199.34.228.100" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "mozilla", "www"], rtype: MX, rdata: "10 mail.mozilla.web.id" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "pro-vclinic", "www"], rtype: A, rdata: "202.138.225.251" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "kurungsiku", "www"], rtype: A, rdata: "108.59.11.110" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "masykur", "labs", "mail"], rtype: A, rdata: "203.29.26.196" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "esoft", "www"], rtype: A, rdata: "173.232.105.199" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "davidkurniawan", "www"], rtype: A, rdata: "209.190.61.40" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "estore", "www"], rtype: A, rdata: "202.59.161.215" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "coretanku", "mail"], rtype: A, rdata: "180.253.103.98" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "punya", "www"], rtype: A, rdata: "72.8.150.14" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "fxstreet", "www"], rtype: A, rdata: "66.29.209.2" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "egablog"], rtype: SOA, rdata: "nsid1.rumahweb.com info.rumahweb.com 2013032002 86400 7200 3600000 86400" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "ranahminang"], rtype: SOA, rdata: "ns1.byet.org support.netfast.org 2006112402 28800 7200 604800 200" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "ewink"], rtype: SOA, rdata: "ns1.idhostinger.com postmaster.ewink.web.id 2012011801 28800 7200 604800 86400" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "tipe-x", "www"], rtype: MX, rdata: "30 mx.tipe-x.web.id" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "bimo", "www"], rtype: A, rdata: "222.124.20.52" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "wicaksana", "dedy"], rtype: A, rdata: "202.155.27.139" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "hendrik-perdana", "www"], rtype: A, rdata: "209.190.85.251" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "trust", "www"], rtype: A, rdata: "209.51.196.252" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "digitoktavianto", "www"], rtype: A, rdata: "67.228.167.92" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "el-abee"], rtype: SOA, rdata: "ns1.0fees.net support.el-abee.web.id 2006112402 28800 7200 604800 86400" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "faceblog", "www"], rtype: A, rdata: "184.170.143.226" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "hsp5", "www"], rtype: A, rdata: "209.190.85.9" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "adriyan", "www"], rtype: A, rdata: "82.196.4.251" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "cancer", "www"], rtype: A, rdata: "120.89.89.167" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "andriani", "www"], rtype: A, rdata: "202.43.182.16" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "budiarto", "www"], rtype: A, rdata: "118.97.219.70" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "zimbra", "www"], rtype: A, rdata: "208.113.134.251" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "robee", "www"], rtype: A, rdata: "72.29.127.90" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "nuralief", "www"], rtype: A, rdata: "188.40.15.19" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "blackorder"], rtype: SOA, rdata: "ns1.domaindns.com postmaster.blackorder.web.id 2010010601 28800 7200 604800 86400" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "anime21"], rtype: SOA, rdata: "ns205.gconex.com servidores.iguanahosting.com 2013091502 86400 7200 3600000 86400" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "sms-online", "www"], rtype: A, rdata: "103.28.148.35" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "allan", "www"], rtype: A, rdata: "209.51.196.243" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "cafe", "www"], rtype: A, rdata: "174.123.117.162" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "fajran", "www"], rtype: A, rdata: "173.236.190.121" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "herusastro", "www"], rtype: A, rdata: "184.173.85.198" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "ridu", "www"], rtype: A, rdata: "49.50.8.226" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "catur", "www"], rtype: A, rdata: "198.245.62.40" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "ridwan", "www"], rtype: A, rdata: "209.190.85.35" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "ardi", "www"], rtype: A, rdata: "174.132.105.66" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "cahyo", "www"], rtype: A, rdata: "202.154.56.24" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "anjar", "www"], rtype: A, rdata: "141.101.117.152" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "fajarpagi", "www"], rtype: A, rdata: "209.190.24.9" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "resepkue", "www"], rtype: A, rdata: "192.211.51.73" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "antonraharja", "www"], rtype: A, rdata: "202.153.128.33" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "hong", "www"], rtype: A, rdata: "96.8.117.229" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "otherhalf"], rtype: SOA, rdata: "kate.ns.cloudflare.com dns.cloudflare.com 2012012502 10000 2400 604800 3600" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "isi"], rtype: SOA, rdata: "ns1.afraid.org dnsadmin.afraid.org 1309180002 86400 7200 2419200 3600" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "imageshare", "www"], rtype: A, rdata: "173.232.105.199" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "jak", "www"], rtype: A, rdata: "49.50.8.195" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "inaicta", "www"], rtype: A, rdata: "117.102.249.135" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "bacamanga", "www"], rtype: A, rdata: "202.43.182.9" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "indah", "www"], rtype: A, rdata: "199.96.156.215" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "bahagiasejahteradankeren"], rtype: SOA, rdata: "coco.ns.cloudflare.com dns.cloudflare.com 2012111120 10000 2400 604800 3600" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "saryono", "www"], rtype: A, rdata: "69.197.18.174" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "bandara", "www"], rtype: MX, rdata: "30 mx.bandara.web.id" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "salman", "www"], rtype: A, rdata: "202.43.182.16" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "rss", "www"], rtype: A, rdata: "108.166.185.41" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "iosa", "www"], rtype: A, rdata: "117.102.249.118" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "balitravel", "www"], rtype: A, rdata: "108.162.198.155" }
+[2026-06-30T05:21:57Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["id", "web", "farouk"], rtype: NS, rdata: "ns1.mikailsoft.com." }

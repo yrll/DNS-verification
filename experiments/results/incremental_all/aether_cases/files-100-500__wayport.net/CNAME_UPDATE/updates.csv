@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wayport.net,corp.aus.wayport.net..txt,CNAME_UPDATE,DEL,calltracker.corp.aus.wayport.net.,CNAME,calltracker.corp.wayport.net.
+files-100-500/wayport.net,corp.aus.wayport.net..txt,CNAME_UPDATE,ADD,calltracker.corp.aus.wayport.net.,CNAME,cname-inc.corp.aus.wayport.net.

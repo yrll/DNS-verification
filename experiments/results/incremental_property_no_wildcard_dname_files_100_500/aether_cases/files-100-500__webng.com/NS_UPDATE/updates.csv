@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/webng.com,webng.com..txt,NS_UPDATE,DEL,webng.com.,NS,dns1.name-services.com.
+files-100-500/webng.com,webng.com..txt,NS_UPDATE,ADD,webng.com.,NS,ns-inc.webng.com.

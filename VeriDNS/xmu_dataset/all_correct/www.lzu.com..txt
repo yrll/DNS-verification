@@ -1,0 +1,6 @@
+www.lzu.com. 	14400	IN	SOA	ns1.www.lzu.com. james.lzu.edu. 19122302 14400 3600 2419200 14400
+www.lzu.com.		    IN	NS ns1.www.lzu.com.
+ns1.www.lzu.com.	    IN	A	10.166.21.13
+
+www.lzu.com.		    IN	A	6.6.6.6
+

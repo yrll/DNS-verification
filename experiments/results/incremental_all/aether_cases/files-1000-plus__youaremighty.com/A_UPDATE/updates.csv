@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-1000-plus/youaremighty.com,1337.youaremighty.com..txt,A_UPDATE,DEL,1337.youaremighty.com.,A,216.8.179.25
+files-1000-plus/youaremighty.com,1337.youaremighty.com..txt,A_UPDATE,ADD,1337.youaremighty.com.,A,192.0.2.253

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/xitinblog.net,125equity.xitinblog.net..txt,NS_UPDATE,DEL,125equity.xitinblog.net.,NS,buy.internettraffic.com.
+files-100-500/xitinblog.net,125equity.xitinblog.net..txt,NS_UPDATE,ADD,125equity.xitinblog.net.,NS,ns-inc.125equity.xitinblog.net.

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/za.net,17loader.za.net..txt,A_UPDATE,DEL,17loader.za.net.,A,196.40.97.247
+files-100-500/za.net,17loader.za.net..txt,A_UPDATE,ADD,17loader.za.net.,A,192.0.2.253

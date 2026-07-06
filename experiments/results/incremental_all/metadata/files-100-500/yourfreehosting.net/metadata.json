@@ -1,0 +1,1442 @@
+{
+  "TopNameServers": [
+    "ns1.yourfreehosting.net."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/accordion2.yourfreehosting.net..txt",
+      "NameServer": "ns1.accordion2.yourfreehosting.net.",
+      "Origin": "accordion2.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/account-correct-service.yourfreehosting.net..txt",
+      "NameServer": "ns1.account-correct-service.yourfreehosting.net.",
+      "Origin": "account-correct-service.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/accountid.yourfreehosting.net..txt",
+      "NameServer": "ns1.accountid.yourfreehosting.net.",
+      "Origin": "accountid.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/accounts-confirmation-facebook.yourfreehosting.net..txt",
+      "NameServer": "ns1.accounts-confirmation-facebook.yourfreehosting.net.",
+      "Origin": "accounts-confirmation-facebook.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/achincute.yourfreehosting.net..txt",
+      "NameServer": "ns1.achincute.yourfreehosting.net.",
+      "Origin": "achincute.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/admgames.yourfreehosting.net..txt",
+      "NameServer": "ns1.admgames.yourfreehosting.net.",
+      "Origin": "admgames.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/admin007.yourfreehosting.net..txt",
+      "NameServer": "ns1.admin007.yourfreehosting.net.",
+      "Origin": "admin007.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/admin747.yourfreehosting.net..txt",
+      "NameServer": "ns1.admin747.yourfreehosting.net.",
+      "Origin": "admin747.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/adminfacebook.yourfreehosting.net..txt",
+      "NameServer": "ns1.adminfacebook.yourfreehosting.net.",
+      "Origin": "adminfacebook.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ads-103.yourfreehosting.net..txt",
+      "NameServer": "ns1.ads-103.yourfreehosting.net.",
+      "Origin": "ads-103.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/adz18592.yourfreehosting.net..txt",
+      "NameServer": "ns1.adz18592.yourfreehosting.net.",
+      "Origin": "adz18592.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/air-travel.yourfreehosting.net..txt",
+      "NameServer": "ns1.air-travel.yourfreehosting.net.",
+      "Origin": "air-travel.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/anang.yourfreehosting.net..txt",
+      "NameServer": "ns1.anang.yourfreehosting.net.",
+      "Origin": "anang.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/apps-facebook-texasholdem.yourfreehosting.net..txt",
+      "NameServer": "ns1.apps-facebook-texasholdem.yourfreehosting.net.",
+      "Origin": "apps-facebook-texasholdem.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/apps-gift-winner.yourfreehosting.net..txt",
+      "NameServer": "ns1.apps-gift-winner.yourfreehosting.net.",
+      "Origin": "apps-gift-winner.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/appsfreechipsbonuszyngapoker.yourfreehosting.net..txt",
+      "NameServer": "ns1.appsfreechipsbonuszyngapoker.yourfreehosting.net.",
+      "Origin": "appsfreechipsbonuszyngapoker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/appslivechatregisterinfacebook.yourfreehosting.net..txt",
+      "NameServer": "ns1.appslivechatregisterinfacebook.yourfreehosting.net.",
+      "Origin": "appslivechatregisterinfacebook.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/appsloginonlinechat.yourfreehosting.net..txt",
+      "NameServer": "ns1.appsloginonlinechat.yourfreehosting.net.",
+      "Origin": "appsloginonlinechat.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ar3695uojm.yourfreehosting.net..txt",
+      "NameServer": "ns1.ar3695uojm.yourfreehosting.net.",
+      "Origin": "ar3695uojm.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/arthverma88.yourfreehosting.net..txt",
+      "NameServer": "ns1.arthverma88.yourfreehosting.net.",
+      "Origin": "arthverma88.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/aussielavender.yourfreehosting.net..txt",
+      "NameServer": "ns1.aussielavender.yourfreehosting.net.",
+      "Origin": "aussielavender.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/bar-bonus.yourfreehosting.net..txt",
+      "NameServer": "ns1.bar-bonus.yourfreehosting.net.",
+      "Origin": "bar-bonus.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/beatycoon.yourfreehosting.net..txt",
+      "NameServer": "ns1.beatycoon.yourfreehosting.net.",
+      "Origin": "beatycoon.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/bestlist.yourfreehosting.net..txt",
+      "NameServer": "ns1.bestlist.yourfreehosting.net.",
+      "Origin": "bestlist.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/bobobobobo.yourfreehosting.net..txt",
+      "NameServer": "ns1.bobobobobo.yourfreehosting.net.",
+      "Origin": "bobobobobo.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/bonus-cip-poker.yourfreehosting.net..txt",
+      "NameServer": "ns1.bonus-cip-poker.yourfreehosting.net.",
+      "Origin": "bonus-cip-poker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/bonusfree.yourfreehosting.net..txt",
+      "NameServer": "ns1.bonusfree.yourfreehosting.net.",
+      "Origin": "bonusfree.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/bonusholdemchips.yourfreehosting.net..txt",
+      "NameServer": "ns1.bonusholdemchips.yourfreehosting.net.",
+      "Origin": "bonusholdemchips.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/bonuspokerchip.yourfreehosting.net..txt",
+      "NameServer": "ns1.bonuspokerchip.yourfreehosting.net.",
+      "Origin": "bonuspokerchip.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/boolle.yourfreehosting.net..txt",
+      "NameServer": "ns1.boolle.yourfreehosting.net.",
+      "Origin": "boolle.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/breezyr89.yourfreehosting.net..txt",
+      "NameServer": "ns1.breezyr89.yourfreehosting.net.",
+      "Origin": "breezyr89.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/brontok-business-online.yourfreehosting.net..txt",
+      "NameServer": "ns1.brontok-business-online.yourfreehosting.net.",
+      "Origin": "brontok-business-online.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/brplj.yourfreehosting.net..txt",
+      "NameServer": "ns1.brplj.yourfreehosting.net.",
+      "Origin": "brplj.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/buygenericonli.yourfreehosting.net..txt",
+      "NameServer": "ns1.buygenericonli.yourfreehosting.net.",
+      "Origin": "buygenericonli.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/cashsurveys.yourfreehosting.net..txt",
+      "NameServer": "ns1.cashsurveys.yourfreehosting.net.",
+      "Origin": "cashsurveys.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ceril.yourfreehosting.net..txt",
+      "NameServer": "ns1.ceril.yourfreehosting.net.",
+      "Origin": "ceril.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/championrocks.yourfreehosting.net..txt",
+      "NameServer": "ns1.championrocks.yourfreehosting.net.",
+      "Origin": "championrocks.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/chintan.yourfreehosting.net..txt",
+      "NameServer": "ns1.chintan.yourfreehosting.net.",
+      "Origin": "chintan.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/chips2010.yourfreehosting.net..txt",
+      "NameServer": "ns1.chips2010.yourfreehosting.net.",
+      "Origin": "chips2010.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/claim-chip-bonus-zynga.yourfreehosting.net..txt",
+      "NameServer": "ns1.claim-chip-bonus-zynga.yourfreehosting.net.",
+      "Origin": "claim-chip-bonus-zynga.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/claimbonusweekly.yourfreehosting.net..txt",
+      "NameServer": "ns1.claimbonusweekly.yourfreehosting.net.",
+      "Origin": "claimbonusweekly.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/claimreward.yourfreehosting.net..txt",
+      "NameServer": "ns1.claimreward.yourfreehosting.net.",
+      "Origin": "claimreward.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/clockworkradio.yourfreehosting.net..txt",
+      "NameServer": "ns1.clockworkradio.yourfreehosting.net.",
+      "Origin": "clockworkradio.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/closetgayslist.yourfreehosting.net..txt",
+      "NameServer": "ns1.closetgayslist.yourfreehosting.net.",
+      "Origin": "closetgayslist.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/cogaaja.yourfreehosting.net..txt",
+      "NameServer": "ns1.cogaaja.yourfreehosting.net.",
+      "Origin": "cogaaja.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/coitaia.yourfreehosting.net..txt",
+      "NameServer": "ns1.coitaia.yourfreehosting.net.",
+      "Origin": "coitaia.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/confim-data.yourfreehosting.net..txt",
+      "NameServer": "ns1.confim-data.yourfreehosting.net.",
+      "Origin": "confim-data.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/confirmation-message-prizes.yourfreehosting.net..txt",
+      "NameServer": "ns1.confirmation-message-prizes.yourfreehosting.net.",
+      "Origin": "confirmation-message-prizes.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/confirmation-message.yourfreehosting.net..txt",
+      "NameServer": "ns1.confirmation-message.yourfreehosting.net.",
+      "Origin": "confirmation-message.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/confirmation-of-registration.yourfreehosting.net..txt",
+      "NameServer": "ns1.confirmation-of-registration.yourfreehosting.net.",
+      "Origin": "confirmation-of-registration.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/congratulationyouwinschip.yourfreehosting.net..txt",
+      "NameServer": "ns1.congratulationyouwinschip.yourfreehosting.net.",
+      "Origin": "congratulationyouwinschip.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/curran16.yourfreehosting.net..txt",
+      "NameServer": "ns1.curran16.yourfreehosting.net.",
+      "Origin": "curran16.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/cutekalpana134.yourfreehosting.net..txt",
+      "NameServer": "ns1.cutekalpana134.yourfreehosting.net.",
+      "Origin": "cutekalpana134.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/daniel621.yourfreehosting.net..txt",
+      "NameServer": "ns1.daniel621.yourfreehosting.net.",
+      "Origin": "daniel621.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/danz.yourfreehosting.net..txt",
+      "NameServer": "ns1.danz.yourfreehosting.net.",
+      "Origin": "danz.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/davich23.yourfreehosting.net..txt",
+      "NameServer": "ns1.davich23.yourfreehosting.net.",
+      "Origin": "davich23.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/deathblooms.yourfreehosting.net..txt",
+      "NameServer": "ns1.deathblooms.yourfreehosting.net.",
+      "Origin": "deathblooms.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/defusiondex.yourfreehosting.net..txt",
+      "NameServer": "ns1.defusiondex.yourfreehosting.net.",
+      "Origin": "defusiondex.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/demigod.yourfreehosting.net..txt",
+      "NameServer": "ns1.demigod.yourfreehosting.net.",
+      "Origin": "demigod.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/destrong-ajha.yourfreehosting.net..txt",
+      "NameServer": "ns1.destrong-ajha.yourfreehosting.net.",
+      "Origin": "destrong-ajha.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/dilipchallani.yourfreehosting.net..txt",
+      "NameServer": "ns1.dilipchallani.yourfreehosting.net.",
+      "Origin": "dilipchallani.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/disabledaccount.yourfreehosting.net..txt",
+      "NameServer": "ns1.disabledaccount.yourfreehosting.net.",
+      "Origin": "disabledaccount.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/discount-travel.yourfreehosting.net..txt",
+      "NameServer": "ns1.discount-travel.yourfreehosting.net.",
+      "Origin": "discount-travel.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/dodgyman12.yourfreehosting.net..txt",
+      "NameServer": "ns1.dodgyman12.yourfreehosting.net.",
+      "Origin": "dodgyman12.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/dorit.yourfreehosting.net..txt",
+      "NameServer": "ns1.dorit.yourfreehosting.net.",
+      "Origin": "dorit.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/e059w9rrp.yourfreehosting.net..txt",
+      "NameServer": "ns1.e059w9rrp.yourfreehosting.net.",
+      "Origin": "e059w9rrp.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ebaystealth.yourfreehosting.net..txt",
+      "NameServer": "ns1.ebaystealth.yourfreehosting.net.",
+      "Origin": "ebaystealth.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/eliotson.yourfreehosting.net..txt",
+      "NameServer": "ns1.eliotson.yourfreehosting.net.",
+      "Origin": "eliotson.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/elmajd.yourfreehosting.net..txt",
+      "NameServer": "ns1.elmajd.yourfreehosting.net.",
+      "Origin": "elmajd.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/erob.yourfreehosting.net..txt",
+      "NameServer": "ns1.erob.yourfreehosting.net.",
+      "Origin": "erob.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/expunk.yourfreehosting.net..txt",
+      "NameServer": "ns1.expunk.yourfreehosting.net.",
+      "Origin": "expunk.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/f1x0trhxutj.yourfreehosting.net..txt",
+      "NameServer": "ns1.f1x0trhxutj.yourfreehosting.net.",
+      "Origin": "f1x0trhxutj.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/facbooks.yourfreehosting.net..txt",
+      "NameServer": "ns1.facbooks.yourfreehosting.net.",
+      "Origin": "facbooks.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/faceboklogin.yourfreehosting.net..txt",
+      "NameServer": "ns1.faceboklogin.yourfreehosting.net.",
+      "Origin": "faceboklogin.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/facebook-bonus.yourfreehosting.net..txt",
+      "NameServer": "ns1.facebook-bonus.yourfreehosting.net.",
+      "Origin": "facebook-bonus.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/facebook-monica-profile.yourfreehosting.net..txt",
+      "NameServer": "ns1.facebook-monica-profile.yourfreehosting.net.",
+      "Origin": "facebook-monica-profile.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/facebook-site-security.yourfreehosting.net..txt",
+      "NameServer": "ns1.facebook-site-security.yourfreehosting.net.",
+      "Origin": "facebook-site-security.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/facebook378errorcode.yourfreehosting.net..txt",
+      "NameServer": "ns1.facebook378errorcode.yourfreehosting.net.",
+      "Origin": "facebook378errorcode.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/facebookadmin.yourfreehosting.net..txt",
+      "NameServer": "ns1.facebookadmin.yourfreehosting.net.",
+      "Origin": "facebookadmin.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/facebookconfrimsecurityaccount.yourfreehosting.net..txt",
+      "NameServer": "ns1.facebookconfrimsecurityaccount.yourfreehosting.net.",
+      "Origin": "facebookconfrimsecurityaccount.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/facebookpageallowed.yourfreehosting.net..txt",
+      "NameServer": "ns1.facebookpageallowed.yourfreehosting.net.",
+      "Origin": "facebookpageallowed.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/facebookverefy1.yourfreehosting.net..txt",
+      "NameServer": "ns1.facebookverefy1.yourfreehosting.net.",
+      "Origin": "facebookverefy1.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/faceloook.yourfreehosting.net..txt",
+      "NameServer": "ns1.faceloook.yourfreehosting.net.",
+      "Origin": "faceloook.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/facespacemail.yourfreehosting.net..txt",
+      "NameServer": "ns1.facespacemail.yourfreehosting.net.",
+      "Origin": "facespacemail.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/fallen.yourfreehosting.net..txt",
+      "NameServer": "ns1.fallen.yourfreehosting.net.",
+      "Origin": "fallen.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/favebook.yourfreehosting.net..txt",
+      "NameServer": "ns1.favebook.yourfreehosting.net.",
+      "Origin": "favebook.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/fbprofilewatcher.yourfreehosting.net..txt",
+      "NameServer": "ns1.fbprofilewatcher.yourfreehosting.net.",
+      "Origin": "fbprofilewatcher.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/feecbook.yourfreehosting.net..txt",
+      "NameServer": "ns1.feecbook.yourfreehosting.net.",
+      "Origin": "feecbook.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/fishermanpico23.yourfreehosting.net..txt",
+      "NameServer": "ns1.fishermanpico23.yourfreehosting.net.",
+      "Origin": "fishermanpico23.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/freechippoker.yourfreehosting.net..txt",
+      "NameServer": "ns1.freechippoker.yourfreehosting.net.",
+      "Origin": "freechippoker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/freeonlinepokerchips.yourfreehosting.net..txt",
+      "NameServer": "ns1.freeonlinepokerchips.yourfreehosting.net.",
+      "Origin": "freeonlinepokerchips.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/freerech4rge2010.yourfreehosting.net..txt",
+      "NameServer": "ns1.freerech4rge2010.yourfreehosting.net.",
+      "Origin": "freerech4rge2010.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/freewinner.yourfreehosting.net..txt",
+      "NameServer": "ns1.freewinner.yourfreehosting.net.",
+      "Origin": "freewinner.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/get-bonus.yourfreehosting.net..txt",
+      "NameServer": "ns1.get-bonus.yourfreehosting.net.",
+      "Origin": "get-bonus.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/getfree.yourfreehosting.net..txt",
+      "NameServer": "ns1.getfree.yourfreehosting.net.",
+      "Origin": "getfree.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/getfreerecharge.yourfreehosting.net..txt",
+      "NameServer": "ns1.getfreerecharge.yourfreehosting.net.",
+      "Origin": "getfreerecharge.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/getonlinewoks.yourfreehosting.net..txt",
+      "NameServer": "ns1.getonlinewoks.yourfreehosting.net.",
+      "Origin": "getonlinewoks.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/gettingin.yourfreehosting.net..txt",
+      "NameServer": "ns1.gettingin.yourfreehosting.net.",
+      "Origin": "gettingin.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ghjyui.yourfreehosting.net..txt",
+      "NameServer": "ns1.ghjyui.yourfreehosting.net.",
+      "Origin": "ghjyui.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/giftwinners.yourfreehosting.net..txt",
+      "NameServer": "ns1.giftwinners.yourfreehosting.net.",
+      "Origin": "giftwinners.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/gmailprologin.yourfreehosting.net..txt",
+      "NameServer": "ns1.gmailprologin.yourfreehosting.net.",
+      "Origin": "gmailprologin.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/gold-winner-bonus-chip-poker.yourfreehosting.net..txt",
+      "NameServer": "ns1.gold-winner-bonus-chip-poker.yourfreehosting.net.",
+      "Origin": "gold-winner-bonus-chip-poker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/gold-winner-bonus-chips-poker.yourfreehosting.net..txt",
+      "NameServer": "ns1.gold-winner-bonus-chips-poker.yourfreehosting.net.",
+      "Origin": "gold-winner-bonus-chips-poker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/golden-chips.yourfreehosting.net..txt",
+      "NameServer": "ns1.golden-chips.yourfreehosting.net.",
+      "Origin": "golden-chips.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/goldenlotterychippoker.yourfreehosting.net..txt",
+      "NameServer": "ns1.goldenlotterychippoker.yourfreehosting.net.",
+      "Origin": "goldenlotterychippoker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/google-account.yourfreehosting.net..txt",
+      "NameServer": "ns1.google-account.yourfreehosting.net.",
+      "Origin": "google-account.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/googleboy.yourfreehosting.net..txt",
+      "NameServer": "ns1.googleboy.yourfreehosting.net.",
+      "Origin": "googleboy.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/googlehacker.yourfreehosting.net..txt",
+      "NameServer": "ns1.googlehacker.yourfreehosting.net.",
+      "Origin": "googlehacker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/gps9llp.yourfreehosting.net..txt",
+      "NameServer": "ns1.gps9llp.yourfreehosting.net.",
+      "Origin": "gps9llp.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/gr8baba.yourfreehosting.net..txt",
+      "NameServer": "ns1.gr8baba.yourfreehosting.net.",
+      "Origin": "gr8baba.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/grand-prize-bonus-chip-poker.yourfreehosting.net..txt",
+      "NameServer": "ns1.grand-prize-bonus-chip-poker.yourfreehosting.net.",
+      "Origin": "grand-prize-bonus-chip-poker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/grandprize-chip-and-gold.yourfreehosting.net..txt",
+      "NameServer": "ns1.grandprize-chip-and-gold.yourfreehosting.net.",
+      "Origin": "grandprize-chip-and-gold.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/grandprize-texas-holdem.yourfreehosting.net..txt",
+      "NameServer": "ns1.grandprize-texas-holdem.yourfreehosting.net.",
+      "Origin": "grandprize-texas-holdem.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/greetingsforfriends.yourfreehosting.net..txt",
+      "NameServer": "ns1.greetingsforfriends.yourfreehosting.net.",
+      "Origin": "greetingsforfriends.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/gurlfriend.yourfreehosting.net..txt",
+      "NameServer": "ns1.gurlfriend.yourfreehosting.net.",
+      "Origin": "gurlfriend.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/hasitha77.yourfreehosting.net..txt",
+      "NameServer": "ns1.hasitha77.yourfreehosting.net.",
+      "Origin": "hasitha77.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/hbrcn11.yourfreehosting.net..txt",
+      "NameServer": "ns1.hbrcn11.yourfreehosting.net.",
+      "Origin": "hbrcn11.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/hgcuydiy.yourfreehosting.net..txt",
+      "NameServer": "ns1.hgcuydiy.yourfreehosting.net.",
+      "Origin": "hgcuydiy.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/holdembonus.yourfreehosting.net..txt",
+      "NameServer": "ns1.holdembonus.yourfreehosting.net.",
+      "Origin": "holdembonus.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/holdimcc.yourfreehosting.net..txt",
+      "NameServer": "ns1.holdimcc.yourfreehosting.net.",
+      "Origin": "holdimcc.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ibeatlanta.yourfreehosting.net..txt",
+      "NameServer": "ns1.ibeatlanta.yourfreehosting.net.",
+      "Origin": "ibeatlanta.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/id-confrim.yourfreehosting.net..txt",
+      "NameServer": "ns1.id-confrim.yourfreehosting.net.",
+      "Origin": "id-confrim.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/internationalfreepoker.yourfreehosting.net..txt",
+      "NameServer": "ns1.internationalfreepoker.yourfreehosting.net.",
+      "Origin": "internationalfreepoker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/irupillsonlinegkcheapdrugssr.yourfreehosting.net..txt",
+      "NameServer": "ns1.irupillsonlinegkcheapdrugssr.yourfreehosting.net.",
+      "Origin": "irupillsonlinegkcheapdrugssr.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/isuru71.yourfreehosting.net..txt",
+      "NameServer": "ns1.isuru71.yourfreehosting.net.",
+      "Origin": "isuru71.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/jakuchma.yourfreehosting.net..txt",
+      "NameServer": "ns1.jakuchma.yourfreehosting.net.",
+      "Origin": "jakuchma.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/jas111.yourfreehosting.net..txt",
+      "NameServer": "ns1.jas111.yourfreehosting.net.",
+      "Origin": "jas111.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/jkcl99.yourfreehosting.net..txt",
+      "NameServer": "ns1.jkcl99.yourfreehosting.net.",
+      "Origin": "jkcl99.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/jocey.yourfreehosting.net..txt",
+      "NameServer": "ns1.jocey.yourfreehosting.net.",
+      "Origin": "jocey.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/kartantya.yourfreehosting.net..txt",
+      "NameServer": "ns1.kartantya.yourfreehosting.net.",
+      "Origin": "kartantya.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/kasha2537.yourfreehosting.net..txt",
+      "NameServer": "ns1.kasha2537.yourfreehosting.net.",
+      "Origin": "kasha2537.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/khozo.yourfreehosting.net..txt",
+      "NameServer": "ns1.khozo.yourfreehosting.net.",
+      "Origin": "khozo.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/kofirmasiakun.yourfreehosting.net..txt",
+      "NameServer": "ns1.kofirmasiakun.yourfreehosting.net.",
+      "Origin": "kofirmasiakun.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/konfirmasi-email.yourfreehosting.net..txt",
+      "NameServer": "ns1.konfirmasi-email.yourfreehosting.net.",
+      "Origin": "konfirmasi-email.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/kottaram007.yourfreehosting.net..txt",
+      "NameServer": "ns1.kottaram007.yourfreehosting.net.",
+      "Origin": "kottaram007.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/las-vegas-nevada-travel.yourfreehosting.net..txt",
+      "NameServer": "ns1.las-vegas-nevada-travel.yourfreehosting.net.",
+      "Origin": "las-vegas-nevada-travel.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/lawllz.yourfreehosting.net..txt",
+      "NameServer": "ns1.lawllz.yourfreehosting.net.",
+      "Origin": "lawllz.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/layschips90210.yourfreehosting.net..txt",
+      "NameServer": "ns1.layschips90210.yourfreehosting.net.",
+      "Origin": "layschips90210.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/lerrymoe.yourfreehosting.net..txt",
+      "NameServer": "ns1.lerrymoe.yourfreehosting.net.",
+      "Origin": "lerrymoe.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/lesbian-catfights.yourfreehosting.net..txt",
+      "NameServer": "ns1.lesbian-catfights.yourfreehosting.net.",
+      "Origin": "lesbian-catfights.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/lesbian-fetish.yourfreehosting.net..txt",
+      "NameServer": "ns1.lesbian-fetish.yourfreehosting.net.",
+      "Origin": "lesbian-fetish.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/lesbian-tribanism.yourfreehosting.net..txt",
+      "NameServer": "ns1.lesbian-tribanism.yourfreehosting.net.",
+      "Origin": "lesbian-tribanism.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/liquidsnape.yourfreehosting.net..txt",
+      "NameServer": "ns1.liquidsnape.yourfreehosting.net.",
+      "Origin": "liquidsnape.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/live123456789.yourfreehosting.net..txt",
+      "NameServer": "ns1.live123456789.yourfreehosting.net.",
+      "Origin": "live123456789.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/liveqcam.yourfreehosting.net..txt",
+      "NameServer": "ns1.liveqcam.yourfreehosting.net.",
+      "Origin": "liveqcam.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/lotterary.yourfreehosting.net..txt",
+      "NameServer": "ns1.lotterary.yourfreehosting.net.",
+      "Origin": "lotterary.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/lottery-millions-bonus.yourfreehosting.net..txt",
+      "NameServer": "ns1.lottery-millions-bonus.yourfreehosting.net.",
+      "Origin": "lottery-millions-bonus.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/lotterydaily.yourfreehosting.net..txt",
+      "NameServer": "ns1.lotterydaily.yourfreehosting.net.",
+      "Origin": "lotterydaily.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/louloulouz.yourfreehosting.net..txt",
+      "NameServer": "ns1.louloulouz.yourfreehosting.net.",
+      "Origin": "louloulouz.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/maprofile.yourfreehosting.net..txt",
+      "NameServer": "ns1.maprofile.yourfreehosting.net.",
+      "Origin": "maprofile.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/markdude.yourfreehosting.net..txt",
+      "NameServer": "ns1.markdude.yourfreehosting.net.",
+      "Origin": "markdude.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/marvoplayerforfree.yourfreehosting.net..txt",
+      "NameServer": "ns1.marvoplayerforfree.yourfreehosting.net.",
+      "Origin": "marvoplayerforfree.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/medicamento.yourfreehosting.net..txt",
+      "NameServer": "ns1.medicamento.yourfreehosting.net.",
+      "Origin": "medicamento.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/mfriedman97.yourfreehosting.net..txt",
+      "NameServer": "ns1.mfriedman97.yourfreehosting.net.",
+      "Origin": "mfriedman97.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/middkidd.yourfreehosting.net..txt",
+      "NameServer": "ns1.middkidd.yourfreehosting.net.",
+      "Origin": "middkidd.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/mikel1980.yourfreehosting.net..txt",
+      "NameServer": "ns1.mikel1980.yourfreehosting.net.",
+      "Origin": "mikel1980.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/mokovhimka.yourfreehosting.net..txt",
+      "NameServer": "ns1.mokovhimka.yourfreehosting.net.",
+      "Origin": "mokovhimka.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/monty1611.yourfreehosting.net..txt",
+      "NameServer": "ns1.monty1611.yourfreehosting.net.",
+      "Origin": "monty1611.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/mossadrai.yourfreehosting.net..txt",
+      "NameServer": "ns1.mossadrai.yourfreehosting.net.",
+      "Origin": "mossadrai.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/mymitsubishi.yourfreehosting.net..txt",
+      "NameServer": "ns1.mymitsubishi.yourfreehosting.net.",
+      "Origin": "mymitsubishi.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/myspeca.yourfreehosting.net..txt",
+      "NameServer": "ns1.myspeca.yourfreehosting.net.",
+      "Origin": "myspeca.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/navjorockz.yourfreehosting.net..txt",
+      "NameServer": "ns1.navjorockz.yourfreehosting.net.",
+      "Origin": "navjorockz.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/new-orkut.yourfreehosting.net..txt",
+      "NameServer": "ns1.new-orkut.yourfreehosting.net.",
+      "Origin": "new-orkut.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/nishuardian.yourfreehosting.net..txt",
+      "NameServer": "ns1.nishuardian.yourfreehosting.net.",
+      "Origin": "nishuardian.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/nkfvas.yourfreehosting.net..txt",
+      "NameServer": "ns1.nkfvas.yourfreehosting.net.",
+      "Origin": "nkfvas.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/noviii.yourfreehosting.net..txt",
+      "NameServer": "ns1.noviii.yourfreehosting.net.",
+      "Origin": "noviii.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ns1.yourfreehosting.net..txt",
+      "NameServer": "ns1.ns1.yourfreehosting.net.",
+      "Origin": "ns1.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ns2.yourfreehosting.net..txt",
+      "NameServer": "ns1.ns2.yourfreehosting.net.",
+      "Origin": "ns2.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/nupurdhk.yourfreehosting.net..txt",
+      "NameServer": "ns1.nupurdhk.yourfreehosting.net.",
+      "Origin": "nupurdhk.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/onlinevideochat.yourfreehosting.net..txt",
+      "NameServer": "ns1.onlinevideochat.yourfreehosting.net.",
+      "Origin": "onlinevideochat.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/onlysexygirls.yourfreehosting.net..txt",
+      "NameServer": "ns1.onlysexygirls.yourfreehosting.net.",
+      "Origin": "onlysexygirls.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ordercialiasorder.yourfreehosting.net..txt",
+      "NameServer": "ns1.ordercialiasorder.yourfreehosting.net.",
+      "Origin": "ordercialiasorder.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/orlando-travel.yourfreehosting.net..txt",
+      "NameServer": "ns1.orlando-travel.yourfreehosting.net.",
+      "Origin": "orlando-travel.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/pakfb.yourfreehosting.net..txt",
+      "NameServer": "ns1.pakfb.yourfreehosting.net.",
+      "Origin": "pakfb.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/pecarry.yourfreehosting.net..txt",
+      "NameServer": "ns1.pecarry.yourfreehosting.net.",
+      "Origin": "pecarry.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/peysbuk.yourfreehosting.net..txt",
+      "NameServer": "ns1.peysbuk.yourfreehosting.net.",
+      "Origin": "peysbuk.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/plol.yourfreehosting.net..txt",
+      "NameServer": "ns1.plol.yourfreehosting.net.",
+      "Origin": "plol.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/pokerlotterychips.yourfreehosting.net..txt",
+      "NameServer": "ns1.pokerlotterychips.yourfreehosting.net.",
+      "Origin": "pokerlotterychips.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/poleinternational.yourfreehosting.net..txt",
+      "NameServer": "ns1.poleinternational.yourfreehosting.net.",
+      "Origin": "poleinternational.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/pornorkut1.yourfreehosting.net..txt",
+      "NameServer": "ns1.pornorkut1.yourfreehosting.net.",
+      "Origin": "pornorkut1.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/powerposh.yourfreehosting.net..txt",
+      "NameServer": "ns1.powerposh.yourfreehosting.net.",
+      "Origin": "powerposh.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/prateek555.yourfreehosting.net..txt",
+      "NameServer": "ns1.prateek555.yourfreehosting.net.",
+      "Origin": "prateek555.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/r1shabh.yourfreehosting.net..txt",
+      "NameServer": "ns1.r1shabh.yourfreehosting.net.",
+      "Origin": "r1shabh.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/rajat95.yourfreehosting.net..txt",
+      "NameServer": "ns1.rajat95.yourfreehosting.net.",
+      "Origin": "rajat95.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/rapidsharelogin.yourfreehosting.net..txt",
+      "NameServer": "ns1.rapidsharelogin.yourfreehosting.net.",
+      "Origin": "rapidsharelogin.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ratemyweed.yourfreehosting.net..txt",
+      "NameServer": "ns1.ratemyweed.yourfreehosting.net.",
+      "Origin": "ratemyweed.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/registerlivechatting.yourfreehosting.net..txt",
+      "NameServer": "ns1.registerlivechatting.yourfreehosting.net.",
+      "Origin": "registerlivechatting.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/registration-accounts-facebook.yourfreehosting.net..txt",
+      "NameServer": "ns1.registration-accounts-facebook.yourfreehosting.net.",
+      "Origin": "registration-accounts-facebook.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/reith.yourfreehosting.net..txt",
+      "NameServer": "ns1.reith.yourfreehosting.net.",
+      "Origin": "reith.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/reward.yourfreehosting.net..txt",
+      "NameServer": "ns1.reward.yourfreehosting.net.",
+      "Origin": "reward.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/rewards.yourfreehosting.net..txt",
+      "NameServer": "ns1.rewards.yourfreehosting.net.",
+      "Origin": "rewards.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/robx.yourfreehosting.net..txt",
+      "NameServer": "ns1.robx.yourfreehosting.net.",
+      "Origin": "robx.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/router.yourfreehosting.net..txt",
+      "NameServer": "ns1.router.yourfreehosting.net.",
+      "Origin": "router.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/rqf95kl6o9p.yourfreehosting.net..txt",
+      "NameServer": "ns1.rqf95kl6o9p.yourfreehosting.net.",
+      "Origin": "rqf95kl6o9p.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ryuandi.yourfreehosting.net..txt",
+      "NameServer": "ns1.ryuandi.yourfreehosting.net.",
+      "Origin": "ryuandi.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/sastroxy.yourfreehosting.net..txt",
+      "NameServer": "ns1.sastroxy.yourfreehosting.net.",
+      "Origin": "sastroxy.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/secure-runescape-com.yourfreehosting.net..txt",
+      "NameServer": "ns1.secure-runescape-com.yourfreehosting.net.",
+      "Origin": "secure-runescape-com.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/security-warning.yourfreehosting.net..txt",
+      "NameServer": "ns1.security-warning.yourfreehosting.net.",
+      "Origin": "security-warning.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/securityfacebook-manager-fb.yourfreehosting.net..txt",
+      "NameServer": "ns1.securityfacebook-manager-fb.yourfreehosting.net.",
+      "Origin": "securityfacebook-manager-fb.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/sendbonus-zyngapoker.yourfreehosting.net..txt",
+      "NameServer": "ns1.sendbonus-zyngapoker.yourfreehosting.net.",
+      "Origin": "sendbonus-zyngapoker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/sexycamgirls.yourfreehosting.net..txt",
+      "NameServer": "ns1.sexycamgirls.yourfreehosting.net.",
+      "Origin": "sexycamgirls.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/sh44nu.yourfreehosting.net..txt",
+      "NameServer": "ns1.sh44nu.yourfreehosting.net.",
+      "Origin": "sh44nu.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/sharkmaster5000.yourfreehosting.net..txt",
+      "NameServer": "ns1.sharkmaster5000.yourfreehosting.net.",
+      "Origin": "sharkmaster5000.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/shehmir94.yourfreehosting.net..txt",
+      "NameServer": "ns1.shehmir94.yourfreehosting.net.",
+      "Origin": "shehmir94.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/site-warning-facebook.yourfreehosting.net..txt",
+      "NameServer": "ns1.site-warning-facebook.yourfreehosting.net.",
+      "Origin": "site-warning-facebook.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/sitebashoma.yourfreehosting.net..txt",
+      "NameServer": "ns1.sitebashoma.yourfreehosting.net.",
+      "Origin": "sitebashoma.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/sk8slash.yourfreehosting.net..txt",
+      "NameServer": "ns1.sk8slash.yourfreehosting.net.",
+      "Origin": "sk8slash.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/slimshady90358.yourfreehosting.net..txt",
+      "NameServer": "ns1.slimshady90358.yourfreehosting.net.",
+      "Origin": "slimshady90358.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/smileycentre.yourfreehosting.net..txt",
+      "NameServer": "ns1.smileycentre.yourfreehosting.net.",
+      "Origin": "smileycentre.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/socialgames-online-zyngapoker.yourfreehosting.net..txt",
+      "NameServer": "ns1.socialgames-online-zyngapoker.yourfreehosting.net.",
+      "Origin": "socialgames-online-zyngapoker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/sohailsaif.yourfreehosting.net..txt",
+      "NameServer": "ns1.sohailsaif.yourfreehosting.net.",
+      "Origin": "sohailsaif.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/something.yourfreehosting.net..txt",
+      "NameServer": "ns1.something.yourfreehosting.net.",
+      "Origin": "something.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/spacerange.yourfreehosting.net..txt",
+      "NameServer": "ns1.spacerange.yourfreehosting.net.",
+      "Origin": "spacerange.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/specialprize2010.yourfreehosting.net..txt",
+      "NameServer": "ns1.specialprize2010.yourfreehosting.net.",
+      "Origin": "specialprize2010.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/staticakfbcdnnett.yourfreehosting.net..txt",
+      "NameServer": "ns1.staticakfbcdnnett.yourfreehosting.net.",
+      "Origin": "staticakfbcdnnett.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/staticspoker.yourfreehosting.net..txt",
+      "NameServer": "ns1.staticspoker.yourfreehosting.net.",
+      "Origin": "staticspoker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/steam-games.yourfreehosting.net..txt",
+      "NameServer": "ns1.steam-games.yourfreehosting.net.",
+      "Origin": "steam-games.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/succesfull.yourfreehosting.net..txt",
+      "NameServer": "ns1.succesfull.yourfreehosting.net.",
+      "Origin": "succesfull.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/superlucky-freechips.yourfreehosting.net..txt",
+      "NameServer": "ns1.superlucky-freechips.yourfreehosting.net.",
+      "Origin": "superlucky-freechips.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/support.yourfreehosting.net..txt",
+      "NameServer": "ns1.support.yourfreehosting.net.",
+      "Origin": "support.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/t7387yjvkpz.yourfreehosting.net..txt",
+      "NameServer": "ns1.t7387yjvkpz.yourfreehosting.net.",
+      "Origin": "t7387yjvkpz.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/tba1.yourfreehosting.net..txt",
+      "NameServer": "ns1.tba1.yourfreehosting.net.",
+      "Origin": "tba1.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/terry7414.yourfreehosting.net..txt",
+      "NameServer": "ns1.terry7414.yourfreehosting.net.",
+      "Origin": "terry7414.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texas-holdem-gift-chips.yourfreehosting.net..txt",
+      "NameServer": "ns1.texas-holdem-gift-chips.yourfreehosting.net.",
+      "Origin": "texas-holdem-gift-chips.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texas-holdem-pokerbonuss.yourfreehosting.net..txt",
+      "NameServer": "ns1.texas-holdem-pokerbonuss.yourfreehosting.net.",
+      "Origin": "texas-holdem-pokerbonuss.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasagaintwinners.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasagaintwinners.yourfreehosting.net.",
+      "Origin": "texasagaintwinners.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasbigwon.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasbigwon.yourfreehosting.net.",
+      "Origin": "texasbigwon.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasbonuschampions.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasbonuschampions.yourfreehosting.net.",
+      "Origin": "texasbonuschampions.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasbonusgoldenwinners.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasbonusgoldenwinners.yourfreehosting.net.",
+      "Origin": "texasbonusgoldenwinners.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texaschipswinners.yourfreehosting.net..txt",
+      "NameServer": "ns1.texaschipswinners.yourfreehosting.net.",
+      "Origin": "texaschipswinners.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasgiftbonus.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasgiftbonus.yourfreehosting.net.",
+      "Origin": "texasgiftbonus.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasgiftbonussitngo.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasgiftbonussitngo.yourfreehosting.net.",
+      "Origin": "texasgiftbonussitngo.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasgoldswinnerscasino.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasgoldswinnerscasino.yourfreehosting.net.",
+      "Origin": "texasgoldswinnerscasino.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasholdem-bonuschips.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasholdem-bonuschips.yourfreehosting.net.",
+      "Origin": "texasholdem-bonuschips.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasholdem-giftsitngo.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasholdem-giftsitngo.yourfreehosting.net.",
+      "Origin": "texasholdem-giftsitngo.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasholdem-greatsitngo.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasholdem-greatsitngo.yourfreehosting.net.",
+      "Origin": "texasholdem-greatsitngo.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasholdem-poker.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasholdem-poker.yourfreehosting.net.",
+      "Origin": "texasholdem-poker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasholdempoker-bonusgift.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasholdempoker-bonusgift.yourfreehosting.net.",
+      "Origin": "texasholdempoker-bonusgift.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasholdempoker-bonusgreatwin.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasholdempoker-bonusgreatwin.yourfreehosting.net.",
+      "Origin": "texasholdempoker-bonusgreatwin.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasholdempoker-bonuswin.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasholdempoker-bonuswin.yourfreehosting.net.",
+      "Origin": "texasholdempoker-bonuswin.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasholdempoker-goldswinners.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasholdempoker-goldswinners.yourfreehosting.net.",
+      "Origin": "texasholdempoker-goldswinners.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasholdempoker-rewardsbonus.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasholdempoker-rewardsbonus.yourfreehosting.net.",
+      "Origin": "texasholdempoker-rewardsbonus.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasjackpotwinners.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasjackpotwinners.yourfreehosting.net.",
+      "Origin": "texasjackpotwinners.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasmy.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasmy.yourfreehosting.net.",
+      "Origin": "texasmy.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texasrewardwinnerspoker.yourfreehosting.net..txt",
+      "NameServer": "ns1.texasrewardwinnerspoker.yourfreehosting.net.",
+      "Origin": "texasrewardwinnerspoker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texassuperwinnerscasinogolds.yourfreehosting.net..txt",
+      "NameServer": "ns1.texassuperwinnerscasinogolds.yourfreehosting.net.",
+      "Origin": "texassuperwinnerscasinogolds.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/texaswinnersgolds.yourfreehosting.net..txt",
+      "NameServer": "ns1.texaswinnersgolds.yourfreehosting.net.",
+      "Origin": "texaswinnersgolds.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/thedevil95.yourfreehosting.net..txt",
+      "NameServer": "ns1.thedevil95.yourfreehosting.net.",
+      "Origin": "thedevil95.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/theloathedone.yourfreehosting.net..txt",
+      "NameServer": "ns1.theloathedone.yourfreehosting.net.",
+      "Origin": "theloathedone.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/tooneleshoma.yourfreehosting.net..txt",
+      "NameServer": "ns1.tooneleshoma.yourfreehosting.net.",
+      "Origin": "tooneleshoma.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/travel-accident-insurance.yourfreehosting.net..txt",
+      "NameServer": "ns1.travel-accident-insurance.yourfreehosting.net.",
+      "Origin": "travel-accident-insurance.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/travel-agency.yourfreehosting.net..txt",
+      "NameServer": "ns1.travel-agency.yourfreehosting.net.",
+      "Origin": "travel-agency.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/travel-agent.yourfreehosting.net..txt",
+      "NameServer": "ns1.travel-agent.yourfreehosting.net.",
+      "Origin": "travel-agent.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/travel-health-insurance-us.yourfreehosting.net..txt",
+      "NameServer": "ns1.travel-health-insurance-us.yourfreehosting.net.",
+      "Origin": "travel-health-insurance-us.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/travel-insurance-online.yourfreehosting.net..txt",
+      "NameServer": "ns1.travel-insurance-online.yourfreehosting.net.",
+      "Origin": "travel-insurance-online.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/travel-medical-insurance.yourfreehosting.net..txt",
+      "NameServer": "ns1.travel-medical-insurance.yourfreehosting.net.",
+      "Origin": "travel-medical-insurance.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/travel.yourfreehosting.net..txt",
+      "NameServer": "ns1.travel.yourfreehosting.net.",
+      "Origin": "travel.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ttoa.yourfreehosting.net..txt",
+      "NameServer": "ns1.ttoa.yourfreehosting.net.",
+      "Origin": "ttoa.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/unik567.yourfreehosting.net..txt",
+      "NameServer": "ns1.unik567.yourfreehosting.net.",
+      "Origin": "unik567.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/updatefb.yourfreehosting.net..txt",
+      "NameServer": "ns1.updatefb.yourfreehosting.net.",
+      "Origin": "updatefb.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/vchatjoin.yourfreehosting.net..txt",
+      "NameServer": "ns1.vchatjoin.yourfreehosting.net.",
+      "Origin": "vchatjoin.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/vchatjoinfacebook.yourfreehosting.net..txt",
+      "NameServer": "ns1.vchatjoinfacebook.yourfreehosting.net.",
+      "Origin": "vchatjoinfacebook.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/vhqae.yourfreehosting.net..txt",
+      "NameServer": "ns1.vhqae.yourfreehosting.net.",
+      "Origin": "vhqae.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/video-el-nekat.yourfreehosting.net..txt",
+      "NameServer": "ns1.video-el-nekat.yourfreehosting.net.",
+      "Origin": "video-el-nekat.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/violation-warning.yourfreehosting.net..txt",
+      "NameServer": "ns1.violation-warning.yourfreehosting.net.",
+      "Origin": "violation-warning.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/winnercircle.yourfreehosting.net..txt",
+      "NameServer": "ns1.winnercircle.yourfreehosting.net.",
+      "Origin": "winnercircle.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/winnerschipspoker.yourfreehosting.net..txt",
+      "NameServer": "ns1.winnerschipspoker.yourfreehosting.net.",
+      "Origin": "winnerschipspoker.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/www.bestlist.yourfreehosting.net..txt",
+      "NameServer": "ns1.www.bestlist.yourfreehosting.net.",
+      "Origin": "www.bestlist.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/www.cashsurveys.yourfreehosting.net..txt",
+      "NameServer": "ns1.www.cashsurveys.yourfreehosting.net.",
+      "Origin": "www.cashsurveys.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/www.yourfreehosting.net..txt",
+      "NameServer": "ns1.www.yourfreehosting.net.",
+      "Origin": "www.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/xlr8.yourfreehosting.net..txt",
+      "NameServer": "ns1.xlr8.yourfreehosting.net.",
+      "Origin": "xlr8.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/ymailxxx.yourfreehosting.net..txt",
+      "NameServer": "ns1.ymailxxx.yourfreehosting.net.",
+      "Origin": "ymailxxx.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/youngistan.yourfreehosting.net..txt",
+      "NameServer": "ns1.youngistan.yourfreehosting.net.",
+      "Origin": "youngistan.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/your-multy-chip.yourfreehosting.net..txt",
+      "NameServer": "ns1.your-multy-chip.yourfreehosting.net.",
+      "Origin": "your-multy-chip.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/yourfreehosting.net..txt",
+      "NameServer": "ns1.yourfreehosting.net.",
+      "Origin": "yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/yoursecurity.yourfreehosting.net..txt",
+      "NameServer": "ns1.yoursecurity.yourfreehosting.net.",
+      "Origin": "yoursecurity.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/yovillefreestuff.yourfreehosting.net..txt",
+      "NameServer": "ns1.yovillefreestuff.yourfreehosting.net.",
+      "Origin": "yovillefreestuff.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/zaim59.yourfreehosting.net..txt",
+      "NameServer": "ns1.zaim59.yourfreehosting.net.",
+      "Origin": "zaim59.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/zeeshan1122.yourfreehosting.net..txt",
+      "NameServer": "ns1.zeeshan1122.yourfreehosting.net.",
+      "Origin": "zeeshan1122.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/zynga-award.yourfreehosting.net..txt",
+      "NameServer": "ns1.zynga-award.yourfreehosting.net.",
+      "Origin": "zynga-award.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/zynga-official-texas-holdem.yourfreehosting.net..txt",
+      "NameServer": "ns1.zynga-official-texas-holdem.yourfreehosting.net.",
+      "Origin": "zynga-official-texas-holdem.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/zynga-texas.yourfreehosting.net..txt",
+      "NameServer": "ns1.zynga-texas.yourfreehosting.net.",
+      "Origin": "zynga-texas.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/zyngacircle.yourfreehosting.net..txt",
+      "NameServer": "ns1.zyngacircle.yourfreehosting.net.",
+      "Origin": "zyngacircle.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/zyngadailywinnerchips.yourfreehosting.net..txt",
+      "NameServer": "ns1.zyngadailywinnerchips.yourfreehosting.net.",
+      "Origin": "zyngadailywinnerchips.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/zyngagamenetwork.yourfreehosting.net..txt",
+      "NameServer": "ns1.zyngagamenetwork.yourfreehosting.net.",
+      "Origin": "zyngagamenetwork.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/zyngagetbonus.yourfreehosting.net..txt",
+      "NameServer": "ns1.zyngagetbonus.yourfreehosting.net.",
+      "Origin": "zyngagetbonus.yourfreehosting.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/yourfreehosting.net/zyngapoker-game-on-facebook.yourfreehosting.net..txt",
+      "NameServer": "ns1.zyngapoker-game-on-facebook.yourfreehosting.net.",
+      "Origin": "zyngapoker-game-on-facebook.yourfreehosting.net."
+    }
+  ]
+}

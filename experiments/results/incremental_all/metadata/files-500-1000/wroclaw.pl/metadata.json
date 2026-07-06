@@ -1,0 +1,2552 @@
+{
+  "TopNameServers": [
+    "ns1.wroclaw.pl."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/2mserwis.wroclaw.pl..txt",
+      "NameServer": "ns1.2mserwis.wroclaw.pl.",
+      "Origin": "2mserwis.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/50lat.wrozz.wroclaw.pl..txt",
+      "NameServer": "ns1.50lat.wrozz.wroclaw.pl.",
+      "Origin": "50lat.wrozz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/abbeys.wroclaw.pl..txt",
+      "NameServer": "ns1.abbeys.wroclaw.pl.",
+      "Origin": "abbeys.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/abbreviates.wroclaw.pl..txt",
+      "NameServer": "ns1.abbreviates.wroclaw.pl.",
+      "Origin": "abbreviates.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/accent.wroclaw.pl..txt",
+      "NameServer": "ns1.accent.wroclaw.pl.",
+      "Origin": "accent.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/airport.wroclaw.pl..txt",
+      "NameServer": "ns1.airport.wroclaw.pl.",
+      "Origin": "airport.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/aite.wroclaw.pl..txt",
+      "NameServer": "ns1.aite.wroclaw.pl.",
+      "Origin": "aite.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/akant.wroclaw.pl..txt",
+      "NameServer": "ns1.akant.wroclaw.pl.",
+      "Origin": "akant.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/akson.wroclaw.pl..txt",
+      "NameServer": "ns1.akson.wroclaw.pl.",
+      "Origin": "akson.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/alan.wroclaw.pl..txt",
+      "NameServer": "ns1.alan.wroclaw.pl.",
+      "Origin": "alan.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/albud.wroclaw.pl..txt",
+      "NameServer": "ns1.albud.wroclaw.pl.",
+      "Origin": "albud.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/alfafilm.wroclaw.pl..txt",
+      "NameServer": "ns1.alfafilm.wroclaw.pl.",
+      "Origin": "alfafilm.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/alfanet.wroclaw.pl..txt",
+      "NameServer": "ns1.alfanet.wroclaw.pl.",
+      "Origin": "alfanet.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/alliance.wroclaw.pl..txt",
+      "NameServer": "ns1.alliance.wroclaw.pl.",
+      "Origin": "alliance.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/angelus.wroclaw.pl..txt",
+      "NameServer": "ns1.angelus.wroclaw.pl.",
+      "Origin": "angelus.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/antenosat.wroclaw.pl..txt",
+      "NameServer": "ns1.antenosat.wroclaw.pl.",
+      "Origin": "antenosat.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/aport.wroclaw.pl..txt",
+      "NameServer": "ns1.aport.wroclaw.pl.",
+      "Origin": "aport.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/arad.wroclaw.pl..txt",
+      "NameServer": "ns1.arad.wroclaw.pl.",
+      "Origin": "arad.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/architekturaiwnetrza.wroclaw.pl..txt",
+      "NameServer": "ns1.architekturaiwnetrza.wroclaw.pl.",
+      "Origin": "architekturaiwnetrza.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/archiwum.wroclaw.pl..txt",
+      "NameServer": "ns1.archiwum.wroclaw.pl.",
+      "Origin": "archiwum.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/arka.wroclaw.pl..txt",
+      "NameServer": "ns1.arka.wroclaw.pl.",
+      "Origin": "arka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/arscantandi.wroclaw.pl..txt",
+      "NameServer": "ns1.arscantandi.wroclaw.pl.",
+      "Origin": "arscantandi.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/atom.wroclaw.pl..txt",
+      "NameServer": "ns1.atom.wroclaw.pl.",
+      "Origin": "atom.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/auto-serwis.wroclaw.pl..txt",
+      "NameServer": "ns1.auto-serwis.wroclaw.pl.",
+      "Origin": "auto-serwis.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/autoserwis.wroclaw.pl..txt",
+      "NameServer": "ns1.autoserwis.wroclaw.pl.",
+      "Origin": "autoserwis.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/autowynajem.wroclaw.pl..txt",
+      "NameServer": "ns1.autowynajem.wroclaw.pl.",
+      "Origin": "autowynajem.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/azbest.wroclaw.pl..txt",
+      "NameServer": "ns1.azbest.wroclaw.pl.",
+      "Origin": "azbest.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/azs.wroclaw.pl..txt",
+      "NameServer": "ns1.azs.wroclaw.pl.",
+      "Origin": "azs.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/b2b.wroclaw.pl..txt",
+      "NameServer": "ns1.b2b.wroclaw.pl.",
+      "Origin": "b2b.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bactrans.wroclaw.pl..txt",
+      "NameServer": "ns1.bactrans.wroclaw.pl.",
+      "Origin": "bactrans.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/badania-netu.wroclaw.pl..txt",
+      "NameServer": "ns1.badania-netu.wroclaw.pl.",
+      "Origin": "badania-netu.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bagazniki.wroclaw.pl..txt",
+      "NameServer": "ns1.bagazniki.wroclaw.pl.",
+      "Origin": "bagazniki.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bankzywnosci.wroclaw.pl..txt",
+      "NameServer": "ns1.bankzywnosci.wroclaw.pl.",
+      "Origin": "bankzywnosci.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/baptysci.wroclaw.pl..txt",
+      "NameServer": "ns1.baptysci.wroclaw.pl.",
+      "Origin": "baptysci.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/basen.wroclaw.pl..txt",
+      "NameServer": "ns1.basen.wroclaw.pl.",
+      "Origin": "basen.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/best.wroclaw.pl..txt",
+      "NameServer": "ns1.best.wroclaw.pl.",
+      "Origin": "best.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bezsennosc.wroclaw.pl..txt",
+      "NameServer": "ns1.bezsennosc.wroclaw.pl.",
+      "Origin": "bezsennosc.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/biletylotnicze.wroclaw.pl..txt",
+      "NameServer": "ns1.biletylotnicze.wroclaw.pl.",
+      "Origin": "biletylotnicze.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bisc.wroclaw.pl..txt",
+      "NameServer": "ns1.bisc.wroclaw.pl.",
+      "Origin": "bisc.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/biurorachunkowebg.wroclaw.pl..txt",
+      "NameServer": "ns1.biurorachunkowebg.wroclaw.pl.",
+      "Origin": "biurorachunkowebg.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/biznesforum.wroclaw.pl..txt",
+      "NameServer": "ns1.biznesforum.wroclaw.pl.",
+      "Origin": "biznesforum.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/blue-host.wroclaw.pl..txt",
+      "NameServer": "ns1.blue-host.wroclaw.pl.",
+      "Origin": "blue-host.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bobola.wroclaw.pl..txt",
+      "NameServer": "ns1.bobola.wroclaw.pl.",
+      "Origin": "bobola.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/boken.wroclaw.pl..txt",
+      "NameServer": "ns1.boken.wroclaw.pl.",
+      "Origin": "boken.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bokken.wroclaw.pl..txt",
+      "NameServer": "ns1.bokken.wroclaw.pl.",
+      "Origin": "bokken.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/borkowski.wroclaw.pl..txt",
+      "NameServer": "ns1.borkowski.wroclaw.pl.",
+      "Origin": "borkowski.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bozecialo.wroclaw.pl..txt",
+      "NameServer": "ns1.bozecialo.wroclaw.pl.",
+      "Origin": "bozecialo.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bravissimo.wroclaw.pl..txt",
+      "NameServer": "ns1.bravissimo.wroclaw.pl.",
+      "Origin": "bravissimo.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bri.wroclaw.pl..txt",
+      "NameServer": "ns1.bri.wroclaw.pl.",
+      "Origin": "bri.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/brukarstwo.wroclaw.pl..txt",
+      "NameServer": "ns1.brukarstwo.wroclaw.pl.",
+      "Origin": "brukarstwo.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bs.wroclaw.pl..txt",
+      "NameServer": "ns1.bs.wroclaw.pl.",
+      "Origin": "bs.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/buddyzm.wroclaw.pl..txt",
+      "NameServer": "ns1.buddyzm.wroclaw.pl.",
+      "Origin": "buddyzm.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/budom.wroclaw.pl..txt",
+      "NameServer": "ns1.budom.wroclaw.pl.",
+      "Origin": "budom.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/budopol.wroclaw.pl..txt",
+      "NameServer": "ns1.budopol.wroclaw.pl.",
+      "Origin": "budopol.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/budowlane.wroclaw.pl..txt",
+      "NameServer": "ns1.budowlane.wroclaw.pl.",
+      "Origin": "budowlane.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/bufiplast.wroclaw.pl..txt",
+      "NameServer": "ns1.bufiplast.wroclaw.pl.",
+      "Origin": "bufiplast.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/buty.wroclaw.pl..txt",
+      "NameServer": "ns1.buty.wroclaw.pl.",
+      "Origin": "buty.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/campamerica.wroclaw.pl..txt",
+      "NameServer": "ns1.campamerica.wroclaw.pl.",
+      "Origin": "campamerica.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/capital.wroclaw.pl..txt",
+      "NameServer": "ns1.capital.wroclaw.pl.",
+      "Origin": "capital.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/cerkiew.wroclaw.pl..txt",
+      "NameServer": "ns1.cerkiew.wroclaw.pl.",
+      "Origin": "cerkiew.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ces.wroclaw.pl..txt",
+      "NameServer": "ns1.ces.wroclaw.pl.",
+      "Origin": "ces.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/charytatywna.wroclaw.pl..txt",
+      "NameServer": "ns1.charytatywna.wroclaw.pl.",
+      "Origin": "charytatywna.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/chelatacja.wroclaw.pl..txt",
+      "NameServer": "ns1.chelatacja.wroclaw.pl.",
+      "Origin": "chelatacja.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/chirurgia-plastyczna.wroclaw.pl..txt",
+      "NameServer": "ns1.chirurgia-plastyczna.wroclaw.pl.",
+      "Origin": "chirurgia-plastyczna.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/cirs.wroclaw.pl..txt",
+      "NameServer": "ns1.cirs.wroclaw.pl.",
+      "Origin": "cirs.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/cms.wroclaw.pl..txt",
+      "NameServer": "ns1.cms.wroclaw.pl.",
+      "Origin": "cms.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/coderetreat.wroclaw.pl..txt",
+      "NameServer": "ns1.coderetreat.wroclaw.pl.",
+      "Origin": "coderetreat.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/collection.wroclaw.pl..txt",
+      "NameServer": "ns1.collection.wroclaw.pl.",
+      "Origin": "collection.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/comp-tech.wroclaw.pl..txt",
+      "NameServer": "ns1.comp-tech.wroclaw.pl.",
+      "Origin": "comp-tech.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/constitution.wroclaw.pl..txt",
+      "NameServer": "ns1.constitution.wroclaw.pl.",
+      "Origin": "constitution.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/continuo.wroclaw.pl..txt",
+      "NameServer": "ns1.continuo.wroclaw.pl.",
+      "Origin": "continuo.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/convention.wroclaw.pl..txt",
+      "NameServer": "ns1.convention.wroclaw.pl.",
+      "Origin": "convention.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/copy.wroclaw.pl..txt",
+      "NameServer": "ns1.copy.wroclaw.pl.",
+      "Origin": "copy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/crk.wroclaw.pl..txt",
+      "NameServer": "ns1.crk.wroclaw.pl.",
+      "Origin": "crk.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/daab.wroclaw.pl..txt",
+      "NameServer": "ns1.daab.wroclaw.pl.",
+      "Origin": "daab.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dach.wroclaw.pl..txt",
+      "NameServer": "ns1.dach.wroclaw.pl.",
+      "Origin": "dach.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dart.wroclaw.pl..txt",
+      "NameServer": "ns1.dart.wroclaw.pl.",
+      "Origin": "dart.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dbajozeby.wroclaw.pl..txt",
+      "NameServer": "ns1.dbajozeby.wroclaw.pl.",
+      "Origin": "dbajozeby.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dcf.wroclaw.pl..txt",
+      "NameServer": "ns1.dcf.wroclaw.pl.",
+      "Origin": "dcf.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/deko.wroclaw.pl..txt",
+      "NameServer": "ns1.deko.wroclaw.pl.",
+      "Origin": "deko.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dell.wroclaw.pl..txt",
+      "NameServer": "ns1.dell.wroclaw.pl.",
+      "Origin": "dell.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dentis.wroclaw.pl..txt",
+      "NameServer": "ns1.dentis.wroclaw.pl.",
+      "Origin": "dentis.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dentysta.wroclaw.pl..txt",
+      "NameServer": "ns1.dentysta.wroclaw.pl.",
+      "Origin": "dentysta.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/deweloperzy.wroclaw.pl..txt",
+      "NameServer": "ns1.deweloperzy.wroclaw.pl.",
+      "Origin": "deweloperzy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dgd.wroclaw.pl..txt",
+      "NameServer": "ns1.dgd.wroclaw.pl.",
+      "Origin": "dgd.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/diabetolog.wroclaw.pl..txt",
+      "NameServer": "ns1.diabetolog.wroclaw.pl.",
+      "Origin": "diabetolog.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dietetyk.wroclaw.pl..txt",
+      "NameServer": "ns1.dietetyk.wroclaw.pl.",
+      "Origin": "dietetyk.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dip.wroclaw.pl..txt",
+      "NameServer": "ns1.dip.wroclaw.pl.",
+      "Origin": "dip.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dobryinformatyk.wroclaw.pl..txt",
+      "NameServer": "ns1.dobryinformatyk.wroclaw.pl.",
+      "Origin": "dobryinformatyk.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dobryremont.wroclaw.pl..txt",
+      "NameServer": "ns1.dobryremont.wroclaw.pl.",
+      "Origin": "dobryremont.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dodn.wroclaw.pl..txt",
+      "NameServer": "ns1.dodn.wroclaw.pl.",
+      "Origin": "dodn.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dolnobrzeska.wroclaw.pl..txt",
+      "NameServer": "ns1.dolnobrzeska.wroclaw.pl.",
+      "Origin": "dolnobrzeska.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dolzpn.wroclaw.pl..txt",
+      "NameServer": "ns1.dolzpn.wroclaw.pl.",
+      "Origin": "dolzpn.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/domy-weselne.wroclaw.pl..txt",
+      "NameServer": "ns1.domy-weselne.wroclaw.pl.",
+      "Origin": "domy-weselne.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/doss.wroclaw.pl..txt",
+      "NameServer": "ns1.doss.wroclaw.pl.",
+      "Origin": "doss.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/drewno-kominkowe.wroclaw.pl..txt",
+      "NameServer": "ns1.drewno-kominkowe.wroclaw.pl.",
+      "Origin": "drewno-kominkowe.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/drzwiokna.wroclaw.pl..txt",
+      "NameServer": "ns1.drzwiokna.wroclaw.pl.",
+      "Origin": "drzwiokna.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dudar.wroclaw.pl..txt",
+      "NameServer": "ns1.dudar.wroclaw.pl.",
+      "Origin": "dudar.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dworpolski.wroclaw.pl..txt",
+      "NameServer": "ns1.dworpolski.wroclaw.pl.",
+      "Origin": "dworpolski.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dystrybutor-kolagenu.wroclaw.pl..txt",
+      "NameServer": "ns1.dystrybutor-kolagenu.wroclaw.pl.",
+      "Origin": "dystrybutor-kolagenu.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dziennikarzerp.wroclaw.pl..txt",
+      "NameServer": "ns1.dziennikarzerp.wroclaw.pl.",
+      "Origin": "dziennikarzerp.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/dzkosz.wroclaw.pl..txt",
+      "NameServer": "ns1.dzkosz.wroclaw.pl.",
+      "Origin": "dzkosz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/e84c.wroclaw.pl..txt",
+      "NameServer": "ns1.e84c.wroclaw.pl.",
+      "Origin": "e84c.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/easydir.wroclaw.pl..txt",
+      "NameServer": "ns1.easydir.wroclaw.pl.",
+      "Origin": "easydir.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/eckp.wroclaw.pl..txt",
+      "NameServer": "ns1.eckp.wroclaw.pl.",
+      "Origin": "eckp.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/edu.wroclaw.pl..txt",
+      "NameServer": "ns1.edu.wroclaw.pl.",
+      "Origin": "edu.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/edukole.wroclaw.pl..txt",
+      "NameServer": "ns1.edukole.wroclaw.pl.",
+      "Origin": "edukole.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/eit.wroclaw.pl..txt",
+      "NameServer": "ns1.eit.wroclaw.pl.",
+      "Origin": "eit.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/eitplus.wroclaw.pl..txt",
+      "NameServer": "ns1.eitplus.wroclaw.pl.",
+      "Origin": "eitplus.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/eko-logis.wroclaw.pl..txt",
+      "NameServer": "ns1.eko-logis.wroclaw.pl.",
+      "Origin": "eko-logis.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/eko.wroclaw.pl..txt",
+      "NameServer": "ns1.eko.wroclaw.pl.",
+      "Origin": "eko.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ekoklub.wroclaw.pl..txt",
+      "NameServer": "ns1.ekoklub.wroclaw.pl.",
+      "Origin": "ekoklub.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ekoterm.wroclaw.pl..txt",
+      "NameServer": "ns1.ekoterm.wroclaw.pl.",
+      "Origin": "ekoterm.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/elmix.wroclaw.pl..txt",
+      "NameServer": "ns1.elmix.wroclaw.pl.",
+      "Origin": "elmix.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/elzbietanki.wroclaw.pl..txt",
+      "NameServer": "ns1.elzbietanki.wroclaw.pl.",
+      "Origin": "elzbietanki.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/energetyk.wroclaw.pl..txt",
+      "NameServer": "ns1.energetyk.wroclaw.pl.",
+      "Origin": "energetyk.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/english.wroclaw.pl..txt",
+      "NameServer": "ns1.english.wroclaw.pl.",
+      "Origin": "english.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/eos.wroclaw.pl..txt",
+      "NameServer": "ns1.eos.wroclaw.pl.",
+      "Origin": "eos.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/eprom.wroclaw.pl..txt",
+      "NameServer": "ns1.eprom.wroclaw.pl.",
+      "Origin": "eprom.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/esperanto.wroclaw.pl..txt",
+      "NameServer": "ns1.esperanto.wroclaw.pl.",
+      "Origin": "esperanto.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/euroadres-forum.wroclaw.pl..txt",
+      "NameServer": "ns1.euroadres-forum.wroclaw.pl.",
+      "Origin": "euroadres-forum.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/fama.wroclaw.pl..txt",
+      "NameServer": "ns1.fama.wroclaw.pl.",
+      "Origin": "fama.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/familydental.wroclaw.pl..txt",
+      "NameServer": "ns1.familydental.wroclaw.pl.",
+      "Origin": "familydental.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/fast-fashion.wroclaw.pl..txt",
+      "NameServer": "ns1.fast-fashion.wroclaw.pl.",
+      "Origin": "fast-fashion.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/faxim.wroclaw.pl..txt",
+      "NameServer": "ns1.faxim.wroclaw.pl.",
+      "Origin": "faxim.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/festungbreslau.wroclaw.pl..txt",
+      "NameServer": "ns1.festungbreslau.wroclaw.pl.",
+      "Origin": "festungbreslau.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ffm.wroclaw.pl..txt",
+      "NameServer": "ns1.ffm.wroclaw.pl.",
+      "Origin": "ffm.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/filesarchive.wroclaw.pl..txt",
+      "NameServer": "ns1.filesarchive.wroclaw.pl.",
+      "Origin": "filesarchive.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/filharmonia.wroclaw.pl..txt",
+      "NameServer": "ns1.filharmonia.wroclaw.pl.",
+      "Origin": "filharmonia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/firanex.wroclaw.pl..txt",
+      "NameServer": "ns1.firanex.wroclaw.pl.",
+      "Origin": "firanex.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/fitness-barbara.wroclaw.pl..txt",
+      "NameServer": "ns1.fitness-barbara.wroclaw.pl.",
+      "Origin": "fitness-barbara.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/fix.wroclaw.pl..txt",
+      "NameServer": "ns1.fix.wroclaw.pl.",
+      "Origin": "fix.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/flat.wroclaw.pl..txt",
+      "NameServer": "ns1.flat.wroclaw.pl.",
+      "Origin": "flat.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/frankofonia.wroclaw.pl..txt",
+      "NameServer": "ns1.frankofonia.wroclaw.pl.",
+      "Origin": "frankofonia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/fryzury.wroclaw.pl..txt",
+      "NameServer": "ns1.fryzury.wroclaw.pl.",
+      "Origin": "fryzury.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/fzs.wroclaw.pl..txt",
+      "NameServer": "ns1.fzs.wroclaw.pl.",
+      "Origin": "fzs.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/gaj-osiedle.wroclaw.pl..txt",
+      "NameServer": "ns1.gaj-osiedle.wroclaw.pl.",
+      "Origin": "gaj-osiedle.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/gastrolog.wroclaw.pl..txt",
+      "NameServer": "ns1.gastrolog.wroclaw.pl.",
+      "Origin": "gastrolog.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/gento.wroclaw.pl..txt",
+      "NameServer": "ns1.gento.wroclaw.pl.",
+      "Origin": "gento.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/geoportal.wroclaw.pl..txt",
+      "NameServer": "ns1.geoportal.wroclaw.pl.",
+      "Origin": "geoportal.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/gim1.wroclaw.pl..txt",
+      "NameServer": "ns1.gim1.wroclaw.pl.",
+      "Origin": "gim1.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/gim16.wroclaw.pl..txt",
+      "NameServer": "ns1.gim16.wroclaw.pl.",
+      "Origin": "gim16.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/gimn1.wroclaw.pl..txt",
+      "NameServer": "ns1.gimn1.wroclaw.pl.",
+      "Origin": "gimn1.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ginekologia.wroclaw.pl..txt",
+      "NameServer": "ns1.ginekologia.wroclaw.pl.",
+      "Origin": "ginekologia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/gitara.wroclaw.pl..txt",
+      "NameServer": "ns1.gitara.wroclaw.pl.",
+      "Origin": "gitara.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/goldeny.wroclaw.pl..txt",
+      "NameServer": "ns1.goldeny.wroclaw.pl.",
+      "Origin": "goldeny.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/gps.wroclaw.pl..txt",
+      "NameServer": "ns1.gps.wroclaw.pl.",
+      "Origin": "gps.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/granit.wroclaw.pl..txt",
+      "NameServer": "ns1.granit.wroclaw.pl.",
+      "Origin": "granit.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/grawerowanielaserowe.wroclaw.pl..txt",
+      "NameServer": "ns1.grawerowanielaserowe.wroclaw.pl.",
+      "Origin": "grawerowanielaserowe.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/greenhostel.wroclaw.pl..txt",
+      "NameServer": "ns1.greenhostel.wroclaw.pl.",
+      "Origin": "greenhostel.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/grod.wroclaw.pl..txt",
+      "NameServer": "ns1.grod.wroclaw.pl.",
+      "Origin": "grod.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/gros.wroclaw.pl..txt",
+      "NameServer": "ns1.gros.wroclaw.pl.",
+      "Origin": "gros.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/haccp.wroclaw.pl..txt",
+      "NameServer": "ns1.haccp.wroclaw.pl.",
+      "Origin": "haccp.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/hdc.wroclaw.pl..txt",
+      "NameServer": "ns1.hdc.wroclaw.pl.",
+      "Origin": "hdc.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/heaven.wroclaw.pl..txt",
+      "NameServer": "ns1.heaven.wroclaw.pl.",
+      "Origin": "heaven.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/hebe.wroclaw.pl..txt",
+      "NameServer": "ns1.hebe.wroclaw.pl.",
+      "Origin": "hebe.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/higiena-zebow.wroclaw.pl..txt",
+      "NameServer": "ns1.higiena-zebow.wroclaw.pl.",
+      "Origin": "higiena-zebow.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/hornet.wroclaw.pl..txt",
+      "NameServer": "ns1.hornet.wroclaw.pl.",
+      "Origin": "hornet.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/hostmaster.tcz.wroclaw.pl..txt",
+      "NameServer": "ns1.hostmaster.tcz.wroclaw.pl.",
+      "Origin": "hostmaster.tcz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/huby.wroclaw.pl..txt",
+      "NameServer": "ns1.huby.wroclaw.pl.",
+      "Origin": "huby.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/huntersmoon.wroclaw.pl..txt",
+      "NameServer": "ns1.huntersmoon.wroclaw.pl.",
+      "Origin": "huntersmoon.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/i.wroclaw.pl..txt",
+      "NameServer": "ns1.i.wroclaw.pl.",
+      "Origin": "i.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/icemac.wroclaw.pl..txt",
+      "NameServer": "ns1.icemac.wroclaw.pl.",
+      "Origin": "icemac.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ig.wroclaw.pl..txt",
+      "NameServer": "ns1.ig.wroclaw.pl.",
+      "Origin": "ig.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ikze.wroclaw.pl..txt",
+      "NameServer": "ns1.ikze.wroclaw.pl.",
+      "Origin": "ikze.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/imiona.wroclaw.pl..txt",
+      "NameServer": "ns1.imiona.wroclaw.pl.",
+      "Origin": "imiona.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/impex.wroclaw.pl..txt",
+      "NameServer": "ns1.impex.wroclaw.pl.",
+      "Origin": "impex.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/implanty-zebowe.wroclaw.pl..txt",
+      "NameServer": "ns1.implanty-zebowe.wroclaw.pl.",
+      "Origin": "implanty-zebowe.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ims.wroclaw.pl..txt",
+      "NameServer": "ns1.ims.wroclaw.pl.",
+      "Origin": "ims.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/in-research.wroclaw.pl..txt",
+      "NameServer": "ns1.in-research.wroclaw.pl.",
+      "Origin": "in-research.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/infomax.wroclaw.pl..txt",
+      "NameServer": "ns1.infomax.wroclaw.pl.",
+      "Origin": "infomax.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/informacja.wroclaw.pl..txt",
+      "NameServer": "ns1.informacja.wroclaw.pl.",
+      "Origin": "informacja.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/inspiracje.wroclaw.pl..txt",
+      "NameServer": "ns1.inspiracje.wroclaw.pl.",
+      "Origin": "inspiracje.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/integrum.wroclaw.pl..txt",
+      "NameServer": "ns1.integrum.wroclaw.pl.",
+      "Origin": "integrum.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/itaz.wroclaw.pl..txt",
+      "NameServer": "ns1.itaz.wroclaw.pl.",
+      "Origin": "itaz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/iung.wroclaw.pl..txt",
+      "NameServer": "ns1.iung.wroclaw.pl.",
+      "Origin": "iung.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/jamb.wroclaw.pl..txt",
+      "NameServer": "ns1.jamb.wroclaw.pl.",
+      "Origin": "jamb.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/jata.wroclaw.pl..txt",
+      "NameServer": "ns1.jata.wroclaw.pl.",
+      "Origin": "jata.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/jedzonko.wroclaw.pl..txt",
+      "NameServer": "ns1.jedzonko.wroclaw.pl.",
+      "Origin": "jedzonko.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/jerzmanowo.wroclaw.pl..txt",
+      "NameServer": "ns1.jerzmanowo.wroclaw.pl.",
+      "Origin": "jerzmanowo.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/jiujitsu.wroclaw.pl..txt",
+      "NameServer": "ns1.jiujitsu.wroclaw.pl.",
+      "Origin": "jiujitsu.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/jk2.wroclaw.pl..txt",
+      "NameServer": "ns1.jk2.wroclaw.pl.",
+      "Origin": "jk2.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/jp2centrum.wroclaw.pl..txt",
+      "NameServer": "ns1.jp2centrum.wroclaw.pl.",
+      "Origin": "jp2centrum.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/juvenia.wroclaw.pl..txt",
+      "NameServer": "ns1.juvenia.wroclaw.pl.",
+      "Origin": "juvenia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kabuto.wroclaw.pl..txt",
+      "NameServer": "ns1.kabuto.wroclaw.pl.",
+      "Origin": "kabuto.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kaczmarki.wroclaw.pl..txt",
+      "NameServer": "ns1.kaczmarki.wroclaw.pl.",
+      "Origin": "kaczmarki.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kalejdoskop.wroclaw.pl..txt",
+      "NameServer": "ns1.kalejdoskop.wroclaw.pl.",
+      "Origin": "kalejdoskop.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kamieniec.wroclaw.pl..txt",
+      "NameServer": "ns1.kamieniec.wroclaw.pl.",
+      "Origin": "kamieniec.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kancelaria-adwokacka.wroclaw.pl..txt",
+      "NameServer": "ns1.kancelaria-adwokacka.wroclaw.pl.",
+      "Origin": "kancelaria-adwokacka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/karlowice.wroclaw.pl..txt",
+      "NameServer": "ns1.karlowice.wroclaw.pl.",
+      "Origin": "karlowice.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kaskader.wroclaw.pl..txt",
+      "NameServer": "ns1.kaskader.wroclaw.pl.",
+      "Origin": "kaskader.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kaztor.wroclaw.pl..txt",
+      "NameServer": "ns1.kaztor.wroclaw.pl.",
+      "Origin": "kaztor.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kde.wroclaw.pl..txt",
+      "NameServer": "ns1.kde.wroclaw.pl.",
+      "Origin": "kde.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kenia.wroclaw.pl..txt",
+      "NameServer": "ns1.kenia.wroclaw.pl.",
+      "Origin": "kenia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kibr.wroclaw.pl..txt",
+      "NameServer": "ns1.kibr.wroclaw.pl.",
+      "Origin": "kibr.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/km.wroclaw.pl..txt",
+      "NameServer": "ns1.km.wroclaw.pl.",
+      "Origin": "km.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kmiecik.wroclaw.pl..txt",
+      "NameServer": "ns1.kmiecik.wroclaw.pl.",
+      "Origin": "kmiecik.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kmkz.wroclaw.pl..txt",
+      "NameServer": "ns1.kmkz.wroclaw.pl.",
+      "Origin": "kmkz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kml.wroclaw.pl..txt",
+      "NameServer": "ns1.kml.wroclaw.pl.",
+      "Origin": "kml.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kmpsp.wroclaw.pl..txt",
+      "NameServer": "ns1.kmpsp.wroclaw.pl.",
+      "Origin": "kmpsp.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kom-tech.wroclaw.pl..txt",
+      "NameServer": "ns1.kom-tech.wroclaw.pl.",
+      "Origin": "kom-tech.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kom-went.wroclaw.pl..txt",
+      "NameServer": "ns1.kom-went.wroclaw.pl.",
+      "Origin": "kom-went.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kominek.wroclaw.pl..txt",
+      "NameServer": "ns1.kominek.wroclaw.pl.",
+      "Origin": "kominek.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kominiarz.wroclaw.pl..txt",
+      "NameServer": "ns1.kominiarz.wroclaw.pl.",
+      "Origin": "kominiarz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kompania.wroclaw.pl..txt",
+      "NameServer": "ns1.kompania.wroclaw.pl.",
+      "Origin": "kompania.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/konsulat-ukraina.wroclaw.pl..txt",
+      "NameServer": "ns1.konsulat-ukraina.wroclaw.pl.",
+      "Origin": "konsulat-ukraina.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/konsulatniemiecki.wroclaw.pl..txt",
+      "NameServer": "ns1.konsulatniemiecki.wroclaw.pl.",
+      "Origin": "konsulatniemiecki.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/koparka.wroclaw.pl..txt",
+      "NameServer": "ns1.koparka.wroclaw.pl.",
+      "Origin": "koparka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/korfball.wroclaw.pl..txt",
+      "NameServer": "ns1.korfball.wroclaw.pl.",
+      "Origin": "korfball.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kosciolgarnizon.wroclaw.pl..txt",
+      "NameServer": "ns1.kosciolgarnizon.wroclaw.pl.",
+      "Origin": "kosciolgarnizon.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/koscioly.wroclaw.pl..txt",
+      "NameServer": "ns1.koscioly.wroclaw.pl.",
+      "Origin": "koscioly.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kosmetykinaturalne.wroclaw.pl..txt",
+      "NameServer": "ns1.kosmetykinaturalne.wroclaw.pl.",
+      "Origin": "kosmetykinaturalne.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kosynierzy.wroclaw.pl..txt",
+      "NameServer": "ns1.kosynierzy.wroclaw.pl.",
+      "Origin": "kosynierzy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/krasnale.wroclaw.pl..txt",
+      "NameServer": "ns1.krasnale.wroclaw.pl.",
+      "Origin": "krasnale.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kredycik.wroclaw.pl..txt",
+      "NameServer": "ns1.kredycik.wroclaw.pl.",
+      "Origin": "kredycik.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/krokodyl.wroclaw.pl..txt",
+      "NameServer": "ns1.krokodyl.wroclaw.pl.",
+      "Origin": "krokodyl.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/krolewiecka.wroclaw.pl..txt",
+      "NameServer": "ns1.krolewiecka.wroclaw.pl.",
+      "Origin": "krolewiecka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/krypton.wroclaw.pl..txt",
+      "NameServer": "ns1.krypton.wroclaw.pl.",
+      "Origin": "krypton.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ks-sleza.wroclaw.pl..txt",
+      "NameServer": "ns1.ks-sleza.wroclaw.pl.",
+      "Origin": "ks-sleza.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ksiegarnia.muzeum.miejskie.wroclaw.pl..txt",
+      "NameServer": "ns1.ksiegarnia.muzeum.miejskie.wroclaw.pl.",
+      "Origin": "ksiegarnia.muzeum.miejskie.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ktg.wroclaw.pl..txt",
+      "NameServer": "ns1.ktg.wroclaw.pl.",
+      "Origin": "ktg.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kubki-termiczne.wroclaw.pl..txt",
+      "NameServer": "ns1.kubki-termiczne.wroclaw.pl.",
+      "Origin": "kubki-termiczne.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kuratorium.wroclaw.pl..txt",
+      "NameServer": "ns1.kuratorium.wroclaw.pl.",
+      "Origin": "kuratorium.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kursant.wroclaw.pl..txt",
+      "NameServer": "ns1.kursant.wroclaw.pl.",
+      "Origin": "kursant.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kwiatek.wroclaw.pl..txt",
+      "NameServer": "ns1.kwiatek.wroclaw.pl.",
+      "Origin": "kwiatek.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/kyudo.wroclaw.pl..txt",
+      "NameServer": "ns1.kyudo.wroclaw.pl.",
+      "Origin": "kyudo.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/laboratorium.wroclaw.pl..txt",
+      "NameServer": "ns1.laboratorium.wroclaw.pl.",
+      "Origin": "laboratorium.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/largo.wroclaw.pl..txt",
+      "NameServer": "ns1.largo.wroclaw.pl.",
+      "Origin": "largo.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/lech.wroclaw.pl..txt",
+      "NameServer": "ns1.lech.wroclaw.pl.",
+      "Origin": "lech.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/leczenie-zebow.wroclaw.pl..txt",
+      "NameServer": "ns1.leczenie-zebow.wroclaw.pl.",
+      "Origin": "leczenie-zebow.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/lecznica.wroclaw.pl..txt",
+      "NameServer": "ns1.lecznica.wroclaw.pl.",
+      "Origin": "lecznica.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/lednica.wroclaw.pl..txt",
+      "NameServer": "ns1.lednica.wroclaw.pl.",
+      "Origin": "lednica.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/liturgia.wroclaw.pl..txt",
+      "NameServer": "ns1.liturgia.wroclaw.pl.",
+      "Origin": "liturgia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/liverpool.wroclaw.pl..txt",
+      "NameServer": "ns1.liverpool.wroclaw.pl.",
+      "Origin": "liverpool.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/lo12.wroclaw.pl..txt",
+      "NameServer": "ns1.lo12.wroclaw.pl.",
+      "Origin": "lo12.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/lowiecka.wroclaw.pl..txt",
+      "NameServer": "ns1.lowiecka.wroclaw.pl.",
+      "Origin": "lowiecka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/m.wroclaw.pl..txt",
+      "NameServer": "ns1.m.wroclaw.pl.",
+      "Origin": "m.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mail.kredycik.wroclaw.pl..txt",
+      "NameServer": "ns1.mail.kredycik.wroclaw.pl.",
+      "Origin": "mail.kredycik.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mail.tcz.wroclaw.pl..txt",
+      "NameServer": "ns1.mail.tcz.wroclaw.pl.",
+      "Origin": "mail.tcz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/major.wroclaw.pl..txt",
+      "NameServer": "ns1.major.wroclaw.pl.",
+      "Origin": "major.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/makler.wroclaw.pl..txt",
+      "NameServer": "ns1.makler.wroclaw.pl.",
+      "Origin": "makler.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/marbud.wroclaw.pl..txt",
+      "NameServer": "ns1.marbud.wroclaw.pl.",
+      "Origin": "marbud.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/marcom.wroclaw.pl..txt",
+      "NameServer": "ns1.marcom.wroclaw.pl.",
+      "Origin": "marcom.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mariachi.wroclaw.pl..txt",
+      "NameServer": "ns1.mariachi.wroclaw.pl.",
+      "Origin": "mariachi.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mariamagdalena.wroclaw.pl..txt",
+      "NameServer": "ns1.mariamagdalena.wroclaw.pl.",
+      "Origin": "mariamagdalena.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mariuszli.wroclaw.pl..txt",
+      "NameServer": "ns1.mariuszli.wroclaw.pl.",
+      "Origin": "mariuszli.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/marketing-szeptany.wroclaw.pl..txt",
+      "NameServer": "ns1.marketing-szeptany.wroclaw.pl.",
+      "Origin": "marketing-szeptany.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/masaze.wroclaw.pl..txt",
+      "NameServer": "ns1.masaze.wroclaw.pl.",
+      "Origin": "masaze.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/maszyny.wroclaw.pl..txt",
+      "NameServer": "ns1.maszyny.wroclaw.pl.",
+      "Origin": "maszyny.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/maszynydoszycia.wroclaw.pl..txt",
+      "NameServer": "ns1.maszynydoszycia.wroclaw.pl.",
+      "Origin": "maszynydoszycia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/maxi.wroclaw.pl..txt",
+      "NameServer": "ns1.maxi.wroclaw.pl.",
+      "Origin": "maxi.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mazda.wroclaw.pl..txt",
+      "NameServer": "ns1.mazda.wroclaw.pl.",
+      "Origin": "mazda.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mburnecka.wroclaw.pl..txt",
+      "NameServer": "ns1.mburnecka.wroclaw.pl.",
+      "Origin": "mburnecka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mdk.wroclaw.pl..txt",
+      "NameServer": "ns1.mdk.wroclaw.pl.",
+      "Origin": "mdk.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mdrzewiecki.wroclaw.pl..txt",
+      "NameServer": "ns1.mdrzewiecki.wroclaw.pl.",
+      "Origin": "mdrzewiecki.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mdt.wroclaw.pl..txt",
+      "NameServer": "ns1.mdt.wroclaw.pl.",
+      "Origin": "mdt.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/meblesosnowe.wroclaw.pl..txt",
+      "NameServer": "ns1.meblesosnowe.wroclaw.pl.",
+      "Origin": "meblesosnowe.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mebloduet.wroclaw.pl..txt",
+      "NameServer": "ns1.mebloduet.wroclaw.pl.",
+      "Origin": "mebloduet.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/medycynapracy.wroclaw.pl..txt",
+      "NameServer": "ns1.medycynapracy.wroclaw.pl.",
+      "Origin": "medycynapracy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/merkury.tcz.wroclaw.pl..txt",
+      "NameServer": "ns1.merkury.tcz.wroclaw.pl.",
+      "Origin": "merkury.tcz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/miasto.wroclaw.pl..txt",
+      "NameServer": "ns1.miasto.wroclaw.pl.",
+      "Origin": "miasto.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/miejskie.wroclaw.pl..txt",
+      "NameServer": "ns1.miejskie.wroclaw.pl.",
+      "Origin": "miejskie.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mieszkaniadowynajecia.wroclaw.pl..txt",
+      "NameServer": "ns1.mieszkaniadowynajecia.wroclaw.pl.",
+      "Origin": "mieszkaniadowynajecia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/milosierdzie.wroclaw.pl..txt",
+      "NameServer": "ns1.milosierdzie.wroclaw.pl.",
+      "Origin": "milosierdzie.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mkolbe.wroclaw.pl..txt",
+      "NameServer": "ns1.mkolbe.wroclaw.pl.",
+      "Origin": "mkolbe.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mkr.wroclaw.pl..txt",
+      "NameServer": "ns1.mkr.wroclaw.pl.",
+      "Origin": "mkr.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mksparasol.wroclaw.pl..txt",
+      "NameServer": "ns1.mksparasol.wroclaw.pl.",
+      "Origin": "mksparasol.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mlodzi.wroclaw.pl..txt",
+      "NameServer": "ns1.mlodzi.wroclaw.pl.",
+      "Origin": "mlodzi.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mn.wroclaw.pl..txt",
+      "NameServer": "ns1.mn.wroclaw.pl.",
+      "Origin": "mn.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mobi.wroclaw.pl..txt",
+      "NameServer": "ns1.mobi.wroclaw.pl.",
+      "Origin": "mobi.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mocherowy.wroclaw.pl..txt",
+      "NameServer": "ns1.mocherowy.wroclaw.pl.",
+      "Origin": "mocherowy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/modrzew.wroclaw.pl..txt",
+      "NameServer": "ns1.modrzew.wroclaw.pl.",
+      "Origin": "modrzew.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/molto.wroclaw.pl..txt",
+      "NameServer": "ns1.molto.wroclaw.pl.",
+      "Origin": "molto.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/montaz-i-realizacja.wroclaw.pl..txt",
+      "NameServer": "ns1.montaz-i-realizacja.wroclaw.pl.",
+      "Origin": "montaz-i-realizacja.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/mpwik.wroclaw.pl..txt",
+      "NameServer": "ns1.mpwik.wroclaw.pl.",
+      "Origin": "mpwik.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/muaythai.wroclaw.pl..txt",
+      "NameServer": "ns1.muaythai.wroclaw.pl.",
+      "Origin": "muaythai.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/muzeum.miejskie.wroclaw.pl..txt",
+      "NameServer": "ns1.muzeum.miejskie.wroclaw.pl.",
+      "Origin": "muzeum.miejskie.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/muzeum.wroclaw.pl..txt",
+      "NameServer": "ns1.muzeum.wroclaw.pl.",
+      "Origin": "muzeum.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/muzykoterapia.wroclaw.pl..txt",
+      "NameServer": "ns1.muzykoterapia.wroclaw.pl.",
+      "Origin": "muzykoterapia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/naprotechnologia.wroclaw.pl..txt",
+      "NameServer": "ns1.naprotechnologia.wroclaw.pl.",
+      "Origin": "naprotechnologia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/nasz.wroclaw.pl..txt",
+      "NameServer": "ns1.nasz.wroclaw.pl.",
+      "Origin": "nasz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/naszedzieci.wroclaw.pl..txt",
+      "NameServer": "ns1.naszedzieci.wroclaw.pl.",
+      "Origin": "naszedzieci.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/netdesign.wroclaw.pl..txt",
+      "NameServer": "ns1.netdesign.wroclaw.pl.",
+      "Origin": "netdesign.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/nfm.wroclaw.pl..txt",
+      "NameServer": "ns1.nfm.wroclaw.pl.",
+      "Origin": "nfm.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/niemiecki.wroclaw.pl..txt",
+      "NameServer": "ns1.niemiecki.wroclaw.pl.",
+      "Origin": "niemiecki.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/nihon.wroclaw.pl..txt",
+      "NameServer": "ns1.nihon.wroclaw.pl.",
+      "Origin": "nihon.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/nobis.wroclaw.pl..txt",
+      "NameServer": "ns1.nobis.wroclaw.pl.",
+      "Origin": "nobis.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/noceidnie.wroclaw.pl..txt",
+      "NameServer": "ns1.noceidnie.wroclaw.pl.",
+      "Origin": "noceidnie.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/nokiasalon.wroclaw.pl..txt",
+      "NameServer": "ns1.nokiasalon.wroclaw.pl.",
+      "Origin": "nokiasalon.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/notariuszkancelaria.wroclaw.pl..txt",
+      "NameServer": "ns1.notariuszkancelaria.wroclaw.pl.",
+      "Origin": "notariuszkancelaria.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/nowydwor.wroclaw.pl..txt",
+      "NameServer": "ns1.nowydwor.wroclaw.pl.",
+      "Origin": "nowydwor.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ogloszenia.wroclaw.pl..txt",
+      "NameServer": "ns1.ogloszenia.wroclaw.pl.",
+      "Origin": "ogloszenia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ogloszenia4u.wroclaw.pl..txt",
+      "NameServer": "ns1.ogloszenia4u.wroclaw.pl.",
+      "Origin": "ogloszenia4u.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ogrodbotaniczny.wroclaw.pl..txt",
+      "NameServer": "ns1.ogrodbotaniczny.wroclaw.pl.",
+      "Origin": "ogrodbotaniczny.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/okulista.wroclaw.pl..txt",
+      "NameServer": "ns1.okulista.wroclaw.pl.",
+      "Origin": "okulista.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/olymp.wroclaw.pl..txt",
+      "NameServer": "ns1.olymp.wroclaw.pl.",
+      "Origin": "olymp.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/om.wroclaw.pl..txt",
+      "NameServer": "ns1.om.wroclaw.pl.",
+      "Origin": "om.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/omnibus.wroclaw.pl..txt",
+      "NameServer": "ns1.omnibus.wroclaw.pl.",
+      "Origin": "omnibus.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/opakowania.wroclaw.pl..txt",
+      "NameServer": "ns1.opakowania.wroclaw.pl.",
+      "Origin": "opakowania.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/opera.wroclaw.pl..txt",
+      "NameServer": "ns1.opera.wroclaw.pl.",
+      "Origin": "opera.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/optima.wroclaw.pl..txt",
+      "NameServer": "ns1.optima.wroclaw.pl.",
+      "Origin": "optima.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/opusorgani.wroclaw.pl..txt",
+      "NameServer": "ns1.opusorgani.wroclaw.pl.",
+      "Origin": "opusorgani.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/osiedleowocowe.wroclaw.pl..txt",
+      "NameServer": "ns1.osiedleowocowe.wroclaw.pl.",
+      "Origin": "osiedleowocowe.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/otrek.wroclaw.pl..txt",
+      "NameServer": "ns1.otrek.wroclaw.pl.",
+      "Origin": "otrek.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/panattoni.wroclaw.pl..txt",
+      "NameServer": "ns1.panattoni.wroclaw.pl.",
+      "Origin": "panattoni.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/panorama.wroclaw.pl..txt",
+      "NameServer": "ns1.panorama.wroclaw.pl.",
+      "Origin": "panorama.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/panoramy.wroclaw.pl..txt",
+      "NameServer": "ns1.panoramy.wroclaw.pl.",
+      "Origin": "panoramy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/parafiarozanka.wroclaw.pl..txt",
+      "NameServer": "ns1.parafiarozanka.wroclaw.pl.",
+      "Origin": "parafiarozanka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/parasolereklamowe.wroclaw.pl..txt",
+      "NameServer": "ns1.parasolereklamowe.wroclaw.pl.",
+      "Origin": "parasolereklamowe.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/parkour.wroclaw.pl..txt",
+      "NameServer": "ns1.parkour.wroclaw.pl.",
+      "Origin": "parkour.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/partner-serwis.wroclaw.pl..txt",
+      "NameServer": "ns1.partner-serwis.wroclaw.pl.",
+      "Origin": "partner-serwis.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pasieka.wroclaw.pl..txt",
+      "NameServer": "ns1.pasieka.wroclaw.pl.",
+      "Origin": "pasieka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/payrolling.wroclaw.pl..txt",
+      "NameServer": "ns1.payrolling.wroclaw.pl.",
+      "Origin": "payrolling.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pik.wroclaw.pl..txt",
+      "NameServer": "ns1.pik.wroclaw.pl.",
+      "Origin": "pik.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pinea.wroclaw.pl..txt",
+      "NameServer": "ns1.pinea.wroclaw.pl.",
+      "Origin": "pinea.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pisarze.wroclaw.pl..txt",
+      "NameServer": "ns1.pisarze.wroclaw.pl.",
+      "Origin": "pisarze.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pkp.wroclaw.pl..txt",
+      "NameServer": "ns1.pkp.wroclaw.pl.",
+      "Origin": "pkp.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/platinum.wroclaw.pl..txt",
+      "NameServer": "ns1.platinum.wroclaw.pl.",
+      "Origin": "platinum.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pliki.wroclaw.pl..txt",
+      "NameServer": "ns1.pliki.wroclaw.pl.",
+      "Origin": "pliki.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pnk.azs.wroclaw.pl..txt",
+      "NameServer": "ns1.pnk.azs.wroclaw.pl.",
+      "Origin": "pnk.azs.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/poligrafia.wroclaw.pl..txt",
+      "NameServer": "ns1.poligrafia.wroclaw.pl.",
+      "Origin": "poligrafia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/polityka.wroclaw.pl..txt",
+      "NameServer": "ns1.polityka.wroclaw.pl.",
+      "Origin": "polityka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/polonia.wroclaw.pl..txt",
+      "NameServer": "ns1.polonia.wroclaw.pl.",
+      "Origin": "polonia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pornhub.wroclaw.pl..txt",
+      "NameServer": "ns1.pornhub.wroclaw.pl.",
+      "Origin": "pornhub.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/porno.wroclaw.pl..txt",
+      "NameServer": "ns1.porno.wroclaw.pl.",
+      "Origin": "porno.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/posit.wroclaw.pl..txt",
+      "NameServer": "ns1.posit.wroclaw.pl.",
+      "Origin": "posit.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/powodz.wroclaw.pl..txt",
+      "NameServer": "ns1.powodz.wroclaw.pl.",
+      "Origin": "powodz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ppa.wroclaw.pl..txt",
+      "NameServer": "ns1.ppa.wroclaw.pl.",
+      "Origin": "ppa.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ppc.wroclaw.pl..txt",
+      "NameServer": "ns1.ppc.wroclaw.pl.",
+      "Origin": "ppc.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pracownia-kuchni.wroclaw.pl..txt",
+      "NameServer": "ns1.pracownia-kuchni.wroclaw.pl.",
+      "Origin": "pracownia-kuchni.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/practimed.wroclaw.pl..txt",
+      "NameServer": "ns1.practimed.wroclaw.pl.",
+      "Origin": "practimed.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pro-kom.wroclaw.pl..txt",
+      "NameServer": "ns1.pro-kom.wroclaw.pl.",
+      "Origin": "pro-kom.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/prochnica.wroclaw.pl..txt",
+      "NameServer": "ns1.prochnica.wroclaw.pl.",
+      "Origin": "prochnica.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/profi.wroclaw.pl..txt",
+      "NameServer": "ns1.profi.wroclaw.pl.",
+      "Origin": "profi.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/profimed.wroclaw.pl..txt",
+      "NameServer": "ns1.profimed.wroclaw.pl.",
+      "Origin": "profimed.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/profit.wroclaw.pl..txt",
+      "NameServer": "ns1.profit.wroclaw.pl.",
+      "Origin": "profit.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/projektowanie-stron.wroclaw.pl..txt",
+      "NameServer": "ns1.projektowanie-stron.wroclaw.pl.",
+      "Origin": "projektowanie-stron.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/projektowanie.wroclaw.pl..txt",
+      "NameServer": "ns1.projektowanie.wroclaw.pl.",
+      "Origin": "projektowanie.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/prokuratura.wroclaw.pl..txt",
+      "NameServer": "ns1.prokuratura.wroclaw.pl.",
+      "Origin": "prokuratura.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/przeprowadzki-warszawa.wroclaw.pl..txt",
+      "NameServer": "ns1.przeprowadzki-warszawa.wroclaw.pl.",
+      "Origin": "przeprowadzki-warszawa.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/przewodnikdolnyslask.wroclaw.pl..txt",
+      "NameServer": "ns1.przewodnikdolnyslask.wroclaw.pl.",
+      "Origin": "przewodnikdolnyslask.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/przyroda.wroclaw.pl..txt",
+      "NameServer": "ns1.przyroda.wroclaw.pl.",
+      "Origin": "przyroda.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/przystan.wroclaw.pl..txt",
+      "NameServer": "ns1.przystan.wroclaw.pl.",
+      "Origin": "przystan.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/psd.wroclaw.pl..txt",
+      "NameServer": "ns1.psd.wroclaw.pl.",
+      "Origin": "psd.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/psl.wroclaw.pl..txt",
+      "NameServer": "ns1.psl.wroclaw.pl.",
+      "Origin": "psl.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/psycholog-online.wroclaw.pl..txt",
+      "NameServer": "ns1.psycholog-online.wroclaw.pl.",
+      "Origin": "psycholog-online.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/psychoterapia-nanovo.wroclaw.pl..txt",
+      "NameServer": "ns1.psychoterapia-nanovo.wroclaw.pl.",
+      "Origin": "psychoterapia-nanovo.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/psychoterapia.wroclaw.pl..txt",
+      "NameServer": "ns1.psychoterapia.wroclaw.pl.",
+      "Origin": "psychoterapia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pttk.wroclaw.pl..txt",
+      "NameServer": "ns1.pttk.wroclaw.pl.",
+      "Origin": "pttk.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pzf.wroclaw.pl..txt",
+      "NameServer": "ns1.pzf.wroclaw.pl.",
+      "Origin": "pzf.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/pzu.wroclaw.pl..txt",
+      "NameServer": "ns1.pzu.wroclaw.pl.",
+      "Origin": "pzu.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/rachunkowosc.wroclaw.pl..txt",
+      "NameServer": "ns1.rachunkowosc.wroclaw.pl.",
+      "Origin": "rachunkowosc.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/radio.wroclaw.pl..txt",
+      "NameServer": "ns1.radio.wroclaw.pl.",
+      "Origin": "radio.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/rancho.wroclaw.pl..txt",
+      "NameServer": "ns1.rancho.wroclaw.pl.",
+      "Origin": "rancho.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ratech.wroclaw.pl..txt",
+      "NameServer": "ns1.ratech.wroclaw.pl.",
+      "Origin": "ratech.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/rckik.wroclaw.pl..txt",
+      "NameServer": "ns1.rckik.wroclaw.pl.",
+      "Origin": "rckik.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/reklamy.wroclaw.pl..txt",
+      "NameServer": "ns1.reklamy.wroclaw.pl.",
+      "Origin": "reklamy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/reproprint.wroclaw.pl..txt",
+      "NameServer": "ns1.reproprint.wroclaw.pl.",
+      "Origin": "reproprint.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/requiem.wroclaw.pl..txt",
+      "NameServer": "ns1.requiem.wroclaw.pl.",
+      "Origin": "requiem.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/restauracja-miki.wroclaw.pl..txt",
+      "NameServer": "ns1.restauracja-miki.wroclaw.pl.",
+      "Origin": "restauracja-miki.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/restaurant.wroclaw.pl..txt",
+      "NameServer": "ns1.restaurant.wroclaw.pl.",
+      "Origin": "restaurant.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/rich.wroclaw.pl..txt",
+      "NameServer": "ns1.rich.wroclaw.pl.",
+      "Origin": "rich.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/rowerowy.wroclaw.pl..txt",
+      "NameServer": "ns1.rowerowy.wroclaw.pl.",
+      "Origin": "rowerowy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/rozanka.wroclaw.pl..txt",
+      "NameServer": "ns1.rozanka.wroclaw.pl.",
+      "Origin": "rozanka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/rrn.wroclaw.pl..txt",
+      "NameServer": "ns1.rrn.wroclaw.pl.",
+      "Origin": "rrn.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ruchpalikota.wroclaw.pl..txt",
+      "NameServer": "ns1.ruchpalikota.wroclaw.pl.",
+      "Origin": "ruchpalikota.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ruska.wroclaw.pl..txt",
+      "NameServer": "ns1.ruska.wroclaw.pl.",
+      "Origin": "ruska.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/rys.wroclaw.pl..txt",
+      "NameServer": "ns1.rys.wroclaw.pl.",
+      "Origin": "rys.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sanko.wroclaw.pl..txt",
+      "NameServer": "ns1.sanko.wroclaw.pl.",
+      "Origin": "sanko.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/schodydrewniane.wroclaw.pl..txt",
+      "NameServer": "ns1.schodydrewniane.wroclaw.pl.",
+      "Origin": "schodydrewniane.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sdpl.wroclaw.pl..txt",
+      "NameServer": "ns1.sdpl.wroclaw.pl.",
+      "Origin": "sdpl.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sektor3.wroclaw.pl..txt",
+      "NameServer": "ns1.sektor3.wroclaw.pl.",
+      "Origin": "sektor3.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sem.wroclaw.pl..txt",
+      "NameServer": "ns1.sem.wroclaw.pl.",
+      "Origin": "sem.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/seminarium.wroclaw.pl..txt",
+      "NameServer": "ns1.seminarium.wroclaw.pl.",
+      "Origin": "seminarium.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sepolno.wroclaw.pl..txt",
+      "NameServer": "ns1.sepolno.wroclaw.pl.",
+      "Origin": "sepolno.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/serwis-agd.wroclaw.pl..txt",
+      "NameServer": "ns1.serwis-agd.wroclaw.pl.",
+      "Origin": "serwis-agd.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/serwispc.wroclaw.pl..txt",
+      "NameServer": "ns1.serwispc.wroclaw.pl.",
+      "Origin": "serwispc.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sfinjak.wroclaw.pl..txt",
+      "NameServer": "ns1.sfinjak.wroclaw.pl.",
+      "Origin": "sfinjak.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sgi.wroclaw.pl..txt",
+      "NameServer": "ns1.sgi.wroclaw.pl.",
+      "Origin": "sgi.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/shs.wroclaw.pl..txt",
+      "NameServer": "ns1.shs.wroclaw.pl.",
+      "Origin": "shs.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/silesius.wroclaw.pl..txt",
+      "NameServer": "ns1.silesius.wroclaw.pl.",
+      "Origin": "silesius.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/simlock.wroclaw.pl..txt",
+      "NameServer": "ns1.simlock.wroclaw.pl.",
+      "Origin": "simlock.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sk.wroclaw.pl..txt",
+      "NameServer": "ns1.sk.wroclaw.pl.",
+      "Origin": "sk.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/skala.wroclaw.pl..txt",
+      "NameServer": "ns1.skala.wroclaw.pl.",
+      "Origin": "skala.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/skokitandem.wroclaw.pl..txt",
+      "NameServer": "ns1.skokitandem.wroclaw.pl.",
+      "Origin": "skokitandem.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/skps.wroclaw.pl..txt",
+      "NameServer": "ns1.skps.wroclaw.pl.",
+      "Origin": "skps.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sks.wroclaw.pl..txt",
+      "NameServer": "ns1.sks.wroclaw.pl.",
+      "Origin": "sks.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/skup--aut.wroclaw.pl..txt",
+      "NameServer": "ns1.skup--aut.wroclaw.pl.",
+      "Origin": "skup--aut.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/skytower.wroclaw.pl..txt",
+      "NameServer": "ns1.skytower.wroclaw.pl.",
+      "Origin": "skytower.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/slask.wroclaw.pl..txt",
+      "NameServer": "ns1.slask.wroclaw.pl.",
+      "Origin": "slask.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/slowacji.wroclaw.pl..txt",
+      "NameServer": "ns1.slowacji.wroclaw.pl.",
+      "Origin": "slowacji.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/slowozycia.wroclaw.pl..txt",
+      "NameServer": "ns1.slowozycia.wroclaw.pl.",
+      "Origin": "slowozycia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sluby.wroclaw.pl..txt",
+      "NameServer": "ns1.sluby.wroclaw.pl.",
+      "Origin": "sluby.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sma.wroclaw.pl..txt",
+      "NameServer": "ns1.sma.wroclaw.pl.",
+      "Origin": "sma.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/smchemik.wroclaw.pl..txt",
+      "NameServer": "ns1.smchemik.wroclaw.pl.",
+      "Origin": "smchemik.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/snj-orion.wroclaw.pl..txt",
+      "NameServer": "ns1.snj-orion.wroclaw.pl.",
+      "Origin": "snj-orion.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sp107.wroclaw.pl..txt",
+      "NameServer": "ns1.sp107.wroclaw.pl.",
+      "Origin": "sp107.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sp20.wroclaw.pl..txt",
+      "NameServer": "ns1.sp20.wroclaw.pl.",
+      "Origin": "sp20.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sp26.wroclaw.pl..txt",
+      "NameServer": "ns1.sp26.wroclaw.pl.",
+      "Origin": "sp26.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sp50.wroclaw.pl..txt",
+      "NameServer": "ns1.sp50.wroclaw.pl.",
+      "Origin": "sp50.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sp90.wroclaw.pl..txt",
+      "NameServer": "ns1.sp90.wroclaw.pl.",
+      "Origin": "sp90.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sparta.wroclaw.pl..txt",
+      "NameServer": "ns1.sparta.wroclaw.pl.",
+      "Origin": "sparta.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/spedycja-drogowa.wroclaw.pl..txt",
+      "NameServer": "ns1.spedycja-drogowa.wroclaw.pl.",
+      "Origin": "spedycja-drogowa.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sport.wroclaw.pl..txt",
+      "NameServer": "ns1.sport.wroclaw.pl.",
+      "Origin": "sport.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sportowy.wroclaw.pl..txt",
+      "NameServer": "ns1.sportowy.wroclaw.pl.",
+      "Origin": "sportowy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/squash.wroclaw.pl..txt",
+      "NameServer": "ns1.squash.wroclaw.pl.",
+      "Origin": "squash.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/staremiasto.wroclaw.pl..txt",
+      "NameServer": "ns1.staremiasto.wroclaw.pl.",
+      "Origin": "staremiasto.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/start.wroclaw.pl..txt",
+      "NameServer": "ns1.start.wroclaw.pl.",
+      "Origin": "start.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sterydownia.wroclaw.pl..txt",
+      "NameServer": "ns1.sterydownia.wroclaw.pl.",
+      "Origin": "sterydownia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/stomat-info.wroclaw.pl..txt",
+      "NameServer": "ns1.stomat-info.wroclaw.pl.",
+      "Origin": "stomat-info.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/stomatologia-zachowawcza.wroclaw.pl..txt",
+      "NameServer": "ns1.stomatologia-zachowawcza.wroclaw.pl.",
+      "Origin": "stomatologia-zachowawcza.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/stowarzyszenieuozun.wroclaw.pl..txt",
+      "NameServer": "ns1.stowarzyszenieuozun.wroclaw.pl.",
+      "Origin": "stowarzyszenieuozun.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/sudety.wroclaw.pl..txt",
+      "NameServer": "ns1.sudety.wroclaw.pl.",
+      "Origin": "sudety.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/suplementydiety.wroclaw.pl..txt",
+      "NameServer": "ns1.suplementydiety.wroclaw.pl.",
+      "Origin": "suplementydiety.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/synergia.wroclaw.pl..txt",
+      "NameServer": "ns1.synergia.wroclaw.pl.",
+      "Origin": "synergia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/szajba.wroclaw.pl..txt",
+      "NameServer": "ns1.szajba.wroclaw.pl.",
+      "Origin": "szajba.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/szermierka.wroclaw.pl..txt",
+      "NameServer": "ns1.szermierka.wroclaw.pl.",
+      "Origin": "szermierka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/szkolajazzu.wroclaw.pl..txt",
+      "NameServer": "ns1.szkolajazzu.wroclaw.pl.",
+      "Origin": "szkolajazzu.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/szkolatanca.wroclaw.pl..txt",
+      "NameServer": "ns1.szkolatanca.wroclaw.pl.",
+      "Origin": "szkolatanca.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/szlachta.wroclaw.pl..txt",
+      "NameServer": "ns1.szlachta.wroclaw.pl.",
+      "Origin": "szlachta.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tablica.wroclaw.pl..txt",
+      "NameServer": "ns1.tablica.wroclaw.pl.",
+      "Origin": "tablica.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tadeusz-garbulinski.wroclaw.pl..txt",
+      "NameServer": "ns1.tadeusz-garbulinski.wroclaw.pl.",
+      "Origin": "tadeusz-garbulinski.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tango.wroclaw.pl..txt",
+      "NameServer": "ns1.tango.wroclaw.pl.",
+      "Origin": "tango.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tanityton.wroclaw.pl..txt",
+      "NameServer": "ns1.tanityton.wroclaw.pl.",
+      "Origin": "tanityton.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tapeservice.wroclaw.pl..txt",
+      "NameServer": "ns1.tapeservice.wroclaw.pl.",
+      "Origin": "tapeservice.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tara.wroclaw.pl..txt",
+      "NameServer": "ns1.tara.wroclaw.pl.",
+      "Origin": "tara.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tarbud.wroclaw.pl..txt",
+      "NameServer": "ns1.tarbud.wroclaw.pl.",
+      "Origin": "tarbud.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tartakbor.wroclaw.pl..txt",
+      "NameServer": "ns1.tartakbor.wroclaw.pl.",
+      "Origin": "tartakbor.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tawerna.wroclaw.pl..txt",
+      "NameServer": "ns1.tawerna.wroclaw.pl.",
+      "Origin": "tawerna.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tcz.wroclaw.pl..txt",
+      "NameServer": "ns1.tcz.wroclaw.pl.",
+      "Origin": "tcz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/teatr.wroclaw.pl..txt",
+      "NameServer": "ns1.teatr.wroclaw.pl.",
+      "Origin": "teatr.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/teatrlalek.wroclaw.pl..txt",
+      "NameServer": "ns1.teatrlalek.wroclaw.pl.",
+      "Origin": "teatrlalek.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tematy.wroclaw.pl..txt",
+      "NameServer": "ns1.tematy.wroclaw.pl.",
+      "Origin": "tematy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tenis.wroclaw.pl..txt",
+      "NameServer": "ns1.tenis.wroclaw.pl.",
+      "Origin": "tenis.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/teres.wroclaw.pl..txt",
+      "NameServer": "ns1.teres.wroclaw.pl.",
+      "Origin": "teres.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/texon.wroclaw.pl..txt",
+      "NameServer": "ns1.texon.wroclaw.pl.",
+      "Origin": "texon.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/th.wroclaw.pl..txt",
+      "NameServer": "ns1.th.wroclaw.pl.",
+      "Origin": "th.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tl.wroclaw.pl..txt",
+      "NameServer": "ns1.tl.wroclaw.pl.",
+      "Origin": "tl.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tomcat.wroclaw.pl..txt",
+      "NameServer": "ns1.tomcat.wroclaw.pl.",
+      "Origin": "tomcat.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tompress.wroclaw.pl..txt",
+      "NameServer": "ns1.tompress.wroclaw.pl.",
+      "Origin": "tompress.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/toskania.wroclaw.pl..txt",
+      "NameServer": "ns1.toskania.wroclaw.pl.",
+      "Origin": "toskania.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/toz.wroclaw.pl..txt",
+      "NameServer": "ns1.toz.wroclaw.pl.",
+      "Origin": "toz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tppf.wroclaw.pl..txt",
+      "NameServer": "ns1.tppf.wroclaw.pl.",
+      "Origin": "tppf.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/transfuzja.wroclaw.pl..txt",
+      "NameServer": "ns1.transfuzja.wroclaw.pl.",
+      "Origin": "transfuzja.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/tsering.wroclaw.pl..txt",
+      "NameServer": "ns1.tsering.wroclaw.pl.",
+      "Origin": "tsering.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/turniej.polonia.wroclaw.pl..txt",
+      "NameServer": "ns1.turniej.polonia.wroclaw.pl.",
+      "Origin": "turniej.polonia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/turysta.wroclaw.pl..txt",
+      "NameServer": "ns1.turysta.wroclaw.pl.",
+      "Origin": "turysta.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/twierdza.wroclaw.pl..txt",
+      "NameServer": "ns1.twierdza.wroclaw.pl.",
+      "Origin": "twierdza.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/um.wroclaw.pl..txt",
+      "NameServer": "ns1.um.wroclaw.pl.",
+      "Origin": "um.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/universitas.wroclaw.pl..txt",
+      "NameServer": "ns1.universitas.wroclaw.pl.",
+      "Origin": "universitas.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/unix.wroclaw.pl..txt",
+      "NameServer": "ns1.unix.wroclaw.pl.",
+      "Origin": "unix.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/upr.wroclaw.pl..txt",
+      "NameServer": "ns1.upr.wroclaw.pl.",
+      "Origin": "upr.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/uslugiinformatyczne.wroclaw.pl..txt",
+      "NameServer": "ns1.uslugiinformatyczne.wroclaw.pl.",
+      "Origin": "uslugiinformatyczne.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/uslugipogrzebowe.wroclaw.pl..txt",
+      "NameServer": "ns1.uslugipogrzebowe.wroclaw.pl.",
+      "Origin": "uslugipogrzebowe.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/utw.wroclaw.pl..txt",
+      "NameServer": "ns1.utw.wroclaw.pl.",
+      "Origin": "utw.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/vegan.wroclaw.pl..txt",
+      "NameServer": "ns1.vegan.wroclaw.pl.",
+      "Origin": "vegan.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/vege.wroclaw.pl..txt",
+      "NameServer": "ns1.vege.wroclaw.pl.",
+      "Origin": "vege.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/vena.wroclaw.pl..txt",
+      "NameServer": "ns1.vena.wroclaw.pl.",
+      "Origin": "vena.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/vida.wroclaw.pl..txt",
+      "NameServer": "ns1.vida.wroclaw.pl.",
+      "Origin": "vida.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/vincent.wroclaw.pl..txt",
+      "NameServer": "ns1.vincent.wroclaw.pl.",
+      "Origin": "vincent.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/vivaldiego.wroclaw.pl..txt",
+      "NameServer": "ns1.vivaldiego.wroclaw.pl.",
+      "Origin": "vivaldiego.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/waniurski.wroclaw.pl..txt",
+      "NameServer": "ns1.waniurski.wroclaw.pl.",
+      "Origin": "waniurski.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wctd.wroclaw.pl..txt",
+      "NameServer": "ns1.wctd.wroclaw.pl.",
+      "Origin": "wctd.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wdi.wroclaw.pl..txt",
+      "NameServer": "ns1.wdi.wroclaw.pl.",
+      "Origin": "wdi.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wdr.wroclaw.pl..txt",
+      "NameServer": "ns1.wdr.wroclaw.pl.",
+      "Origin": "wdr.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/weteranionz.wroclaw.pl..txt",
+      "NameServer": "ns1.weteranionz.wroclaw.pl.",
+      "Origin": "weteranionz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wff.wroclaw.pl..txt",
+      "NameServer": "ns1.wff.wroclaw.pl.",
+      "Origin": "wff.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/whelks.wroclaw.pl..txt",
+      "NameServer": "ns1.whelks.wroclaw.pl.",
+      "Origin": "whelks.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/whinnying.wroclaw.pl..txt",
+      "NameServer": "ns1.whinnying.wroclaw.pl.",
+      "Origin": "whinnying.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/whirls.wroclaw.pl..txt",
+      "NameServer": "ns1.whirls.wroclaw.pl.",
+      "Origin": "whirls.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wiih.wroclaw.pl..txt",
+      "NameServer": "ns1.wiih.wroclaw.pl.",
+      "Origin": "wiih.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wikiccpl.wroclaw.pl..txt",
+      "NameServer": "ns1.wikiccpl.wroclaw.pl.",
+      "Origin": "wikiccpl.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wirtualny.wroclaw.pl..txt",
+      "NameServer": "ns1.wirtualny.wroclaw.pl.",
+      "Origin": "wirtualny.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wodrol.wroclaw.pl..txt",
+      "NameServer": "ns1.wodrol.wroclaw.pl.",
+      "Origin": "wodrol.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wolontariat.wroclaw.pl..txt",
+      "NameServer": "ns1.wolontariat.wroclaw.pl.",
+      "Origin": "wolontariat.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/woocash.wroclaw.pl..txt",
+      "NameServer": "ns1.woocash.wroclaw.pl.",
+      "Origin": "woocash.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wroclaw.pl..txt",
+      "NameServer": "ns1.wroclaw.pl.",
+      "Origin": "wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wrozz.wroclaw.pl..txt",
+      "NameServer": "ns1.wrozz.wroclaw.pl.",
+      "Origin": "wrozz.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wsb.wroclaw.pl..txt",
+      "NameServer": "ns1.wsb.wroclaw.pl.",
+      "Origin": "wsb.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/www.wroclaw.pl..txt",
+      "NameServer": "ns1.www.wroclaw.pl.",
+      "Origin": "www.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wyburzenia.wroclaw.pl..txt",
+      "NameServer": "ns1.wyburzenia.wroclaw.pl.",
+      "Origin": "wyburzenia.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wychowawcy.wroclaw.pl..txt",
+      "NameServer": "ns1.wychowawcy.wroclaw.pl.",
+      "Origin": "wychowawcy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wycieczkiszkolne.wroclaw.pl..txt",
+      "NameServer": "ns1.wycieczkiszkolne.wroclaw.pl.",
+      "Origin": "wycieczkiszkolne.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wyjazdy.wroclaw.pl..txt",
+      "NameServer": "ns1.wyjazdy.wroclaw.pl.",
+      "Origin": "wyjazdy.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wykladziny.wroclaw.pl..txt",
+      "NameServer": "ns1.wykladziny.wroclaw.pl.",
+      "Origin": "wykladziny.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wynajemmieszkan.wroclaw.pl..txt",
+      "NameServer": "ns1.wynajemmieszkan.wroclaw.pl.",
+      "Origin": "wynajemmieszkan.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/wysoka.wroclaw.pl..txt",
+      "NameServer": "ns1.wysoka.wroclaw.pl.",
+      "Origin": "wysoka.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/xvideos.wroclaw.pl..txt",
+      "NameServer": "ns1.xvideos.wroclaw.pl.",
+      "Origin": "xvideos.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zabloto.wroclaw.pl..txt",
+      "NameServer": "ns1.zabloto.wroclaw.pl.",
+      "Origin": "zabloto.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zacheta.wroclaw.pl..txt",
+      "NameServer": "ns1.zacheta.wroclaw.pl.",
+      "Origin": "zacheta.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zakladoptyczny.wroclaw.pl..txt",
+      "NameServer": "ns1.zakladoptyczny.wroclaw.pl.",
+      "Origin": "zakladoptyczny.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zako.wroclaw.pl..txt",
+      "NameServer": "ns1.zako.wroclaw.pl.",
+      "Origin": "zako.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zamek.wroclaw.pl..txt",
+      "NameServer": "ns1.zamek.wroclaw.pl.",
+      "Origin": "zamek.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zawidawie.wroclaw.pl..txt",
+      "NameServer": "ns1.zawidawie.wroclaw.pl.",
+      "Origin": "zawidawie.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zdrowe-zeby.wroclaw.pl..txt",
+      "NameServer": "ns1.zdrowe-zeby.wroclaw.pl.",
+      "Origin": "zdrowe-zeby.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/ze.wroclaw.pl..txt",
+      "NameServer": "ns1.ze.wroclaw.pl.",
+      "Origin": "ze.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zegarki.wroclaw.pl..txt",
+      "NameServer": "ns1.zegarki.wroclaw.pl.",
+      "Origin": "zegarki.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zegluga.wroclaw.pl..txt",
+      "NameServer": "ns1.zegluga.wroclaw.pl.",
+      "Origin": "zegluga.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zieba.wroclaw.pl..txt",
+      "NameServer": "ns1.zieba.wroclaw.pl.",
+      "Origin": "zieba.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zkwp.wroclaw.pl..txt",
+      "NameServer": "ns1.zkwp.wroclaw.pl.",
+      "Origin": "zkwp.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zlotypies.wroclaw.pl..txt",
+      "NameServer": "ns1.zlotypies.wroclaw.pl.",
+      "Origin": "zlotypies.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zoo.wroclaw.pl..txt",
+      "NameServer": "ns1.zoo.wroclaw.pl.",
+      "Origin": "zoo.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zositg.wroclaw.pl..txt",
+      "NameServer": "ns1.zositg.wroclaw.pl.",
+      "Origin": "zositg.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zpap.wroclaw.pl..txt",
+      "NameServer": "ns1.zpap.wroclaw.pl.",
+      "Origin": "zpap.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zpp.wroclaw.pl..txt",
+      "NameServer": "ns1.zpp.wroclaw.pl.",
+      "Origin": "zpp.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zs11.wroclaw.pl..txt",
+      "NameServer": "ns1.zs11.wroclaw.pl.",
+      "Origin": "zs11.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zs9.wroclaw.pl..txt",
+      "NameServer": "ns1.zs9.wroclaw.pl.",
+      "Origin": "zs9.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zsg.wroclaw.pl..txt",
+      "NameServer": "ns1.zsg.wroclaw.pl.",
+      "Origin": "zsg.wroclaw.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wroclaw.pl/zsp.wroclaw.pl..txt",
+      "NameServer": "ns1.zsp.wroclaw.pl.",
+      "Origin": "zsp.wroclaw.pl."
+    }
+  ]
+}

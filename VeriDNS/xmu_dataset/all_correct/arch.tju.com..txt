@@ -1,0 +1,6 @@
+arch.tju.com.	14400	IN	SOA	ns1.arch.tju.com. james.tju.edu. 19122302 14400 3600 2419200 14400
+arch.tju.com.		    IN	NS ns1.arch.tju.com.
+ns1.arch.tju.com.	    IN	A	10.166.21.12
+
+arch.tju.com.		    IN	A	6.6.6.6
+

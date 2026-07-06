@@ -1,0 +1,2 @@
+zone,num_lec,io_time (ms),construction_time (ms),symbolic_time (ms),property_checking_time (ms),re_construction_time (ms),re_symbolic_time (ms),re_property_checking_time (ms),properties,initial_property_pass,initial_errors,incremental_property_pass,incremental_errors
+files-100-500/yale.edu,1915,15.74,223.456,0.004,0,0.005,0.001,0.001,hops|rewrites|delegation consistency|zone loop|lame delegation|too long|rewrite blackholing,true,,true,

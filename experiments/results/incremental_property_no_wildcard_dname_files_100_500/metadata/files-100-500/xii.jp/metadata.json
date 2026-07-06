@@ -1,0 +1,1207 @@
+{
+  "TopNameServers": [
+    "ns1.xii.jp."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/125.xii.jp..txt",
+      "NameServer": "ns1.125.xii.jp.",
+      "Origin": "125.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/2t.xii.jp..txt",
+      "NameServer": "ns1.2t.xii.jp.",
+      "Origin": "2t.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/303.xii.jp..txt",
+      "NameServer": "ns1.303.xii.jp.",
+      "Origin": "303.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/456.xii.jp..txt",
+      "NameServer": "ns1.456.xii.jp.",
+      "Origin": "456.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/56tai.xii.jp..txt",
+      "NameServer": "ns1.56tai.xii.jp.",
+      "Origin": "56tai.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/909.xii.jp..txt",
+      "NameServer": "ns1.909.xii.jp.",
+      "Origin": "909.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/aardvark.xii.jp..txt",
+      "NameServer": "ns1.aardvark.xii.jp.",
+      "Origin": "aardvark.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/abchurch.xii.jp..txt",
+      "NameServer": "ns1.abchurch.xii.jp.",
+      "Origin": "abchurch.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ad-hoc.xii.jp..txt",
+      "NameServer": "ns1.ad-hoc.xii.jp.",
+      "Origin": "ad-hoc.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/add.xii.jp..txt",
+      "NameServer": "ns1.add.xii.jp.",
+      "Origin": "add.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/addiction.xii.jp..txt",
+      "NameServer": "ns1.addiction.xii.jp.",
+      "Origin": "addiction.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ahp.xii.jp..txt",
+      "NameServer": "ns1.ahp.xii.jp.",
+      "Origin": "ahp.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/airdrop.xii.jp..txt",
+      "NameServer": "ns1.airdrop.xii.jp.",
+      "Origin": "airdrop.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/akn.xii.jp..txt",
+      "NameServer": "ns1.akn.xii.jp.",
+      "Origin": "akn.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/alc5.xii.jp..txt",
+      "NameServer": "ns1.alc5.xii.jp.",
+      "Origin": "alc5.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/amawari.xii.jp..txt",
+      "NameServer": "ns1.amawari.xii.jp.",
+      "Origin": "amawari.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ambivalent.xii.jp..txt",
+      "NameServer": "ns1.ambivalent.xii.jp.",
+      "Origin": "ambivalent.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/apes.xii.jp..txt",
+      "NameServer": "ns1.apes.xii.jp.",
+      "Origin": "apes.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/aprs.xii.jp..txt",
+      "NameServer": "ns1.aprs.xii.jp.",
+      "Origin": "aprs.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/art3.xii.jp..txt",
+      "NameServer": "ns1.art3.xii.jp.",
+      "Origin": "art3.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/artes.xii.jp..txt",
+      "NameServer": "ns1.artes.xii.jp.",
+      "Origin": "artes.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/artine.xii.jp..txt",
+      "NameServer": "ns1.artine.xii.jp.",
+      "Origin": "artine.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ayu.xii.jp..txt",
+      "NameServer": "ns1.ayu.xii.jp.",
+      "Origin": "ayu.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/babypop.xii.jp..txt",
+      "NameServer": "ns1.babypop.xii.jp.",
+      "Origin": "babypop.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/batsquatch.xii.jp..txt",
+      "NameServer": "ns1.batsquatch.xii.jp.",
+      "Origin": "batsquatch.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/bielkakegohan.xii.jp..txt",
+      "NameServer": "ns1.bielkakegohan.xii.jp.",
+      "Origin": "bielkakegohan.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/bii.xii.jp..txt",
+      "NameServer": "ns1.bii.xii.jp.",
+      "Origin": "bii.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/blacklist.xii.jp..txt",
+      "NameServer": "ns1.blacklist.xii.jp.",
+      "Origin": "blacklist.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/blechmusik.xii.jp..txt",
+      "NameServer": "ns1.blechmusik.xii.jp.",
+      "Origin": "blechmusik.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/blindjustice.xii.jp..txt",
+      "NameServer": "ns1.blindjustice.xii.jp.",
+      "Origin": "blindjustice.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/blue21.xii.jp..txt",
+      "NameServer": "ns1.blue21.xii.jp.",
+      "Origin": "blue21.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/bluelady.xii.jp..txt",
+      "NameServer": "ns1.bluelady.xii.jp.",
+      "Origin": "bluelady.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/booleestreet.xii.jp..txt",
+      "NameServer": "ns1.booleestreet.xii.jp.",
+      "Origin": "booleestreet.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/britannia.xii.jp..txt",
+      "NameServer": "ns1.britannia.xii.jp.",
+      "Origin": "britannia.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/btn.xii.jp..txt",
+      "NameServer": "ns1.btn.xii.jp.",
+      "Origin": "btn.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/c-cherry.xii.jp..txt",
+      "NameServer": "ns1.c-cherry.xii.jp.",
+      "Origin": "c-cherry.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/c-l.xii.jp..txt",
+      "NameServer": "ns1.c-l.xii.jp.",
+      "Origin": "c-l.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/c00yen.xii.jp..txt",
+      "NameServer": "ns1.c00yen.xii.jp.",
+      "Origin": "c00yen.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/canaria.xii.jp..txt",
+      "NameServer": "ns1.canaria.xii.jp.",
+      "Origin": "canaria.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/cassette.xii.jp..txt",
+      "NameServer": "ns1.cassette.xii.jp.",
+      "Origin": "cassette.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/cd.xii.jp..txt",
+      "NameServer": "ns1.cd.xii.jp.",
+      "Origin": "cd.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/cent.xii.jp..txt",
+      "NameServer": "ns1.cent.xii.jp.",
+      "Origin": "cent.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/chiffon.xii.jp..txt",
+      "NameServer": "ns1.chiffon.xii.jp.",
+      "Origin": "chiffon.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/chiklo.xii.jp..txt",
+      "NameServer": "ns1.chiklo.xii.jp.",
+      "Origin": "chiklo.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/chikuwa.xii.jp..txt",
+      "NameServer": "ns1.chikuwa.xii.jp.",
+      "Origin": "chikuwa.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/chion.xii.jp..txt",
+      "NameServer": "ns1.chion.xii.jp.",
+      "Origin": "chion.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/coffea.xii.jp..txt",
+      "NameServer": "ns1.coffea.xii.jp.",
+      "Origin": "coffea.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/coffeekan.xii.jp..txt",
+      "NameServer": "ns1.coffeekan.xii.jp.",
+      "Origin": "coffeekan.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/crescent.xii.jp..txt",
+      "NameServer": "ns1.crescent.xii.jp.",
+      "Origin": "crescent.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/crosseaglet.xii.jp..txt",
+      "NameServer": "ns1.crosseaglet.xii.jp.",
+      "Origin": "crosseaglet.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/daejanggeum.xii.jp..txt",
+      "NameServer": "ns1.daejanggeum.xii.jp.",
+      "Origin": "daejanggeum.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/daichan.xii.jp..txt",
+      "NameServer": "ns1.daichan.xii.jp.",
+      "Origin": "daichan.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/deaimail.xii.jp..txt",
+      "NameServer": "ns1.deaimail.xii.jp.",
+      "Origin": "deaimail.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/dii.xii.jp..txt",
+      "NameServer": "ns1.dii.xii.jp.",
+      "Origin": "dii.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/doca.xii.jp..txt",
+      "NameServer": "ns1.doca.xii.jp.",
+      "Origin": "doca.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/doris.xii.jp..txt",
+      "NameServer": "ns1.doris.xii.jp.",
+      "Origin": "doris.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/e-doc.xii.jp..txt",
+      "NameServer": "ns1.e-doc.xii.jp.",
+      "Origin": "e-doc.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ef.xii.jp..txt",
+      "NameServer": "ns1.ef.xii.jp.",
+      "Origin": "ef.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/en.xii.jp..txt",
+      "NameServer": "ns1.en.xii.jp.",
+      "Origin": "en.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/enamel.xii.jp..txt",
+      "NameServer": "ns1.enamel.xii.jp.",
+      "Origin": "enamel.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/f5.xii.jp..txt",
+      "NameServer": "ns1.f5.xii.jp.",
+      "Origin": "f5.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/fazerock.xii.jp..txt",
+      "NameServer": "ns1.fazerock.xii.jp.",
+      "Origin": "fazerock.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/finger.xii.jp..txt",
+      "NameServer": "ns1.finger.xii.jp.",
+      "Origin": "finger.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/fiv.xii.jp..txt",
+      "NameServer": "ns1.fiv.xii.jp.",
+      "Origin": "fiv.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/fizz.xii.jp..txt",
+      "NameServer": "ns1.fizz.xii.jp.",
+      "Origin": "fizz.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/fkn69.xii.jp..txt",
+      "NameServer": "ns1.fkn69.xii.jp.",
+      "Origin": "fkn69.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/flake.xii.jp..txt",
+      "NameServer": "ns1.flake.xii.jp.",
+      "Origin": "flake.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/flamp.xii.jp..txt",
+      "NameServer": "ns1.flamp.xii.jp.",
+      "Origin": "flamp.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/fox.xii.jp..txt",
+      "NameServer": "ns1.fox.xii.jp.",
+      "Origin": "fox.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/fragment.xii.jp..txt",
+      "NameServer": "ns1.fragment.xii.jp.",
+      "Origin": "fragment.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/fruitmilk.xii.jp..txt",
+      "NameServer": "ns1.fruitmilk.xii.jp.",
+      "Origin": "fruitmilk.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/fukumitsu.xii.jp..txt",
+      "NameServer": "ns1.fukumitsu.xii.jp.",
+      "Origin": "fukumitsu.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/fushigi-project.xii.jp..txt",
+      "NameServer": "ns1.fushigi-project.xii.jp.",
+      "Origin": "fushigi-project.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/futaba-viewer.xii.jp..txt",
+      "NameServer": "ns1.futaba-viewer.xii.jp.",
+      "Origin": "futaba-viewer.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/gonza.xii.jp..txt",
+      "NameServer": "ns1.gonza.xii.jp.",
+      "Origin": "gonza.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/hanpen.xii.jp..txt",
+      "NameServer": "ns1.hanpen.xii.jp.",
+      "Origin": "hanpen.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/hashimoto.xii.jp..txt",
+      "NameServer": "ns1.hashimoto.xii.jp.",
+      "Origin": "hashimoto.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/hiha.xii.jp..txt",
+      "NameServer": "ns1.hiha.xii.jp.",
+      "Origin": "hiha.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/hikkoshi.xii.jp..txt",
+      "NameServer": "ns1.hikkoshi.xii.jp.",
+      "Origin": "hikkoshi.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/hints.xii.jp..txt",
+      "NameServer": "ns1.hints.xii.jp.",
+      "Origin": "hints.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ikarigaseki.xii.jp..txt",
+      "NameServer": "ns1.ikarigaseki.xii.jp.",
+      "Origin": "ikarigaseki.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/innisia.xii.jp..txt",
+      "NameServer": "ns1.innisia.xii.jp.",
+      "Origin": "innisia.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/interception.xii.jp..txt",
+      "NameServer": "ns1.interception.xii.jp.",
+      "Origin": "interception.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ipsenon.xii.jp..txt",
+      "NameServer": "ns1.ipsenon.xii.jp.",
+      "Origin": "ipsenon.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/item.xii.jp..txt",
+      "NameServer": "ns1.item.xii.jp.",
+      "Origin": "item.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/itotin.xii.jp..txt",
+      "NameServer": "ns1.itotin.xii.jp.",
+      "Origin": "itotin.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/jackpot.xii.jp..txt",
+      "NameServer": "ns1.jackpot.xii.jp.",
+      "Origin": "jackpot.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/japanos.xii.jp..txt",
+      "NameServer": "ns1.japanos.xii.jp.",
+      "Origin": "japanos.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/jiang-xiaoqing.xii.jp..txt",
+      "NameServer": "ns1.jiang-xiaoqing.xii.jp.",
+      "Origin": "jiang-xiaoqing.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/jiu.xii.jp..txt",
+      "NameServer": "ns1.jiu.xii.jp.",
+      "Origin": "jiu.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/jmu.xii.jp..txt",
+      "NameServer": "ns1.jmu.xii.jp.",
+      "Origin": "jmu.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/js.xii.jp..txt",
+      "NameServer": "ns1.js.xii.jp.",
+      "Origin": "js.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/junk-garage.xii.jp..txt",
+      "NameServer": "ns1.junk-garage.xii.jp.",
+      "Origin": "junk-garage.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/k-m.xii.jp..txt",
+      "NameServer": "ns1.k-m.xii.jp.",
+      "Origin": "k-m.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kaburobo.xii.jp..txt",
+      "NameServer": "ns1.kaburobo.xii.jp.",
+      "Origin": "kaburobo.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kamikobe.xii.jp..txt",
+      "NameServer": "ns1.kamikobe.xii.jp.",
+      "Origin": "kamikobe.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kannya.xii.jp..txt",
+      "NameServer": "ns1.kannya.xii.jp.",
+      "Origin": "kannya.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kasax.xii.jp..txt",
+      "NameServer": "ns1.kasax.xii.jp.",
+      "Origin": "kasax.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kensaku.xii.jp..txt",
+      "NameServer": "ns1.kensaku.xii.jp.",
+      "Origin": "kensaku.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kinokokaihatsu.xii.jp..txt",
+      "NameServer": "ns1.kinokokaihatsu.xii.jp.",
+      "Origin": "kinokokaihatsu.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kissho.xii.jp..txt",
+      "NameServer": "ns1.kissho.xii.jp.",
+      "Origin": "kissho.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/km.xii.jp..txt",
+      "NameServer": "ns1.km.xii.jp.",
+      "Origin": "km.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ktg.xii.jp..txt",
+      "NameServer": "ns1.ktg.xii.jp.",
+      "Origin": "ktg.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kururi.xii.jp..txt",
+      "NameServer": "ns1.kururi.xii.jp.",
+      "Origin": "kururi.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kwiki6.xii.jp..txt",
+      "NameServer": "ns1.kwiki6.xii.jp.",
+      "Origin": "kwiki6.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kwiki8.xii.jp..txt",
+      "NameServer": "ns1.kwiki8.xii.jp.",
+      "Origin": "kwiki8.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/kwiki9.xii.jp..txt",
+      "NameServer": "ns1.kwiki9.xii.jp.",
+      "Origin": "kwiki9.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/lame.xii.jp..txt",
+      "NameServer": "ns1.lame.xii.jp.",
+      "Origin": "lame.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ldsearch.xii.jp..txt",
+      "NameServer": "ns1.ldsearch.xii.jp.",
+      "Origin": "ldsearch.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/lea.xii.jp..txt",
+      "NameServer": "ns1.lea.xii.jp.",
+      "Origin": "lea.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/leikki.xii.jp..txt",
+      "NameServer": "ns1.leikki.xii.jp.",
+      "Origin": "leikki.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/lia.xii.jp..txt",
+      "NameServer": "ns1.lia.xii.jp.",
+      "Origin": "lia.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/liar.xii.jp..txt",
+      "NameServer": "ns1.liar.xii.jp.",
+      "Origin": "liar.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/libsquare.xii.jp..txt",
+      "NameServer": "ns1.libsquare.xii.jp.",
+      "Origin": "libsquare.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/little.xii.jp..txt",
+      "NameServer": "ns1.little.xii.jp.",
+      "Origin": "little.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/llwm.xii.jp..txt",
+      "NameServer": "ns1.llwm.xii.jp.",
+      "Origin": "llwm.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/loco.xii.jp..txt",
+      "NameServer": "ns1.loco.xii.jp.",
+      "Origin": "loco.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ltp.xii.jp..txt",
+      "NameServer": "ns1.ltp.xii.jp.",
+      "Origin": "ltp.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/lurgee.xii.jp..txt",
+      "NameServer": "ns1.lurgee.xii.jp.",
+      "Origin": "lurgee.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/m3-type.xii.jp..txt",
+      "NameServer": "ns1.m3-type.xii.jp.",
+      "Origin": "m3-type.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/matsuri.xii.jp..txt",
+      "NameServer": "ns1.matsuri.xii.jp.",
+      "Origin": "matsuri.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/mattz.xii.jp..txt",
+      "NameServer": "ns1.mattz.xii.jp.",
+      "Origin": "mattz.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/maya.xii.jp..txt",
+      "NameServer": "ns1.maya.xii.jp.",
+      "Origin": "maya.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/mco.xii.jp..txt",
+      "NameServer": "ns1.mco.xii.jp.",
+      "Origin": "mco.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/meisi.xii.jp..txt",
+      "NameServer": "ns1.meisi.xii.jp.",
+      "Origin": "meisi.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/menrepo.xii.jp..txt",
+      "NameServer": "ns1.menrepo.xii.jp.",
+      "Origin": "menrepo.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/midi-orchestra.xii.jp..txt",
+      "NameServer": "ns1.midi-orchestra.xii.jp.",
+      "Origin": "midi-orchestra.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/mishima.xii.jp..txt",
+      "NameServer": "ns1.mishima.xii.jp.",
+      "Origin": "mishima.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/mitarai.xii.jp..txt",
+      "NameServer": "ns1.mitarai.xii.jp.",
+      "Origin": "mitarai.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/mititune.xii.jp..txt",
+      "NameServer": "ns1.mititune.xii.jp.",
+      "Origin": "mititune.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/miyazaki.xii.jp..txt",
+      "NameServer": "ns1.miyazaki.xii.jp.",
+      "Origin": "miyazaki.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/mochiroco.xii.jp..txt",
+      "NameServer": "ns1.mochiroco.xii.jp.",
+      "Origin": "mochiroco.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/moco.xii.jp..txt",
+      "NameServer": "ns1.moco.xii.jp.",
+      "Origin": "moco.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/moecopy.xii.jp..txt",
+      "NameServer": "ns1.moecopy.xii.jp.",
+      "Origin": "moecopy.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/moi6.xii.jp..txt",
+      "NameServer": "ns1.moi6.xii.jp.",
+      "Origin": "moi6.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/moja.xii.jp..txt",
+      "NameServer": "ns1.moja.xii.jp.",
+      "Origin": "moja.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/momiji-tourou.xii.jp..txt",
+      "NameServer": "ns1.momiji-tourou.xii.jp.",
+      "Origin": "momiji-tourou.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/mono-sky.xii.jp..txt",
+      "NameServer": "ns1.mono-sky.xii.jp.",
+      "Origin": "mono-sky.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/monpemanpe.xii.jp..txt",
+      "NameServer": "ns1.monpemanpe.xii.jp.",
+      "Origin": "monpemanpe.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/motoyori0227.xii.jp..txt",
+      "NameServer": "ns1.motoyori0227.xii.jp.",
+      "Origin": "motoyori0227.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/mwp.xii.jp..txt",
+      "NameServer": "ns1.mwp.xii.jp.",
+      "Origin": "mwp.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/na.xii.jp..txt",
+      "NameServer": "ns1.na.xii.jp.",
+      "Origin": "na.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/nanakumattai.xii.jp..txt",
+      "NameServer": "ns1.nanakumattai.xii.jp.",
+      "Origin": "nanakumattai.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/nanana.xii.jp..txt",
+      "NameServer": "ns1.nanana.xii.jp.",
+      "Origin": "nanana.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/nanatuka.xii.jp..txt",
+      "NameServer": "ns1.nanatuka.xii.jp.",
+      "Origin": "nanatuka.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/narumiya.xii.jp..txt",
+      "NameServer": "ns1.narumiya.xii.jp.",
+      "Origin": "narumiya.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/neko.xii.jp..txt",
+      "NameServer": "ns1.neko.xii.jp.",
+      "Origin": "neko.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/network.xii.jp..txt",
+      "NameServer": "ns1.network.xii.jp.",
+      "Origin": "network.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/nex.xii.jp..txt",
+      "NameServer": "ns1.nex.xii.jp.",
+      "Origin": "nex.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/nico.xii.jp..txt",
+      "NameServer": "ns1.nico.xii.jp.",
+      "Origin": "nico.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/nikerabi.xii.jp..txt",
+      "NameServer": "ns1.nikerabi.xii.jp.",
+      "Origin": "nikerabi.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/no39.xii.jp..txt",
+      "NameServer": "ns1.no39.xii.jp.",
+      "Origin": "no39.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/nunonap.xii.jp..txt",
+      "NameServer": "ns1.nunonap.xii.jp.",
+      "Origin": "nunonap.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/o-planning.xii.jp..txt",
+      "NameServer": "ns1.o-planning.xii.jp.",
+      "Origin": "o-planning.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/o-s.xii.jp..txt",
+      "NameServer": "ns1.o-s.xii.jp.",
+      "Origin": "o-s.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/od7.xii.jp..txt",
+      "NameServer": "ns1.od7.xii.jp.",
+      "Origin": "od7.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/odd.xii.jp..txt",
+      "NameServer": "ns1.odd.xii.jp.",
+      "Origin": "odd.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/oneplus.xii.jp..txt",
+      "NameServer": "ns1.oneplus.xii.jp.",
+      "Origin": "oneplus.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/onsen.xii.jp..txt",
+      "NameServer": "ns1.onsen.xii.jp.",
+      "Origin": "onsen.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/opera.xii.jp..txt",
+      "NameServer": "ns1.opera.xii.jp.",
+      "Origin": "opera.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/orangeblue.xii.jp..txt",
+      "NameServer": "ns1.orangeblue.xii.jp.",
+      "Origin": "orangeblue.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/oratorio.xii.jp..txt",
+      "NameServer": "ns1.oratorio.xii.jp.",
+      "Origin": "oratorio.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/orz.xii.jp..txt",
+      "NameServer": "ns1.orz.xii.jp.",
+      "Origin": "orz.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/oxcx.xii.jp..txt",
+      "NameServer": "ns1.oxcx.xii.jp.",
+      "Origin": "oxcx.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/paper.xii.jp..txt",
+      "NameServer": "ns1.paper.xii.jp.",
+      "Origin": "paper.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/party.xii.jp..txt",
+      "NameServer": "ns1.party.xii.jp.",
+      "Origin": "party.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/peachy.xii.jp..txt",
+      "NameServer": "ns1.peachy.xii.jp.",
+      "Origin": "peachy.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/pf45665.xii.jp..txt",
+      "NameServer": "ns1.pf45665.xii.jp.",
+      "Origin": "pf45665.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/pluto.xii.jp..txt",
+      "NameServer": "ns1.pluto.xii.jp.",
+      "Origin": "pluto.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/pntown.xii.jp..txt",
+      "NameServer": "ns1.pntown.xii.jp.",
+      "Origin": "pntown.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/precurelove.xii.jp..txt",
+      "NameServer": "ns1.precurelove.xii.jp.",
+      "Origin": "precurelove.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ps.xii.jp..txt",
+      "NameServer": "ns1.ps.xii.jp.",
+      "Origin": "ps.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/psu.xii.jp..txt",
+      "NameServer": "ns1.psu.xii.jp.",
+      "Origin": "psu.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/pulla.xii.jp..txt",
+      "NameServer": "ns1.pulla.xii.jp.",
+      "Origin": "pulla.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/quicksilver.xii.jp..txt",
+      "NameServer": "ns1.quicksilver.xii.jp.",
+      "Origin": "quicksilver.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ra1.xii.jp..txt",
+      "NameServer": "ns1.ra1.xii.jp.",
+      "Origin": "ra1.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/rakutenichiban.xii.jp..txt",
+      "NameServer": "ns1.rakutenichiban.xii.jp.",
+      "Origin": "rakutenichiban.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/rats.xii.jp..txt",
+      "NameServer": "ns1.rats.xii.jp.",
+      "Origin": "rats.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/relog.xii.jp..txt",
+      "NameServer": "ns1.relog.xii.jp.",
+      "Origin": "relog.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/reqlo.xii.jp..txt",
+      "NameServer": "ns1.reqlo.xii.jp.",
+      "Origin": "reqlo.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/riskf.xii.jp..txt",
+      "NameServer": "ns1.riskf.xii.jp.",
+      "Origin": "riskf.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/riverman.xii.jp..txt",
+      "NameServer": "ns1.riverman.xii.jp.",
+      "Origin": "riverman.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/rock.xii.jp..txt",
+      "NameServer": "ns1.rock.xii.jp.",
+      "Origin": "rock.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/s2e.xii.jp..txt",
+      "NameServer": "ns1.s2e.xii.jp.",
+      "Origin": "s2e.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/saboten.xii.jp..txt",
+      "NameServer": "ns1.saboten.xii.jp.",
+      "Origin": "saboten.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/saikyou-batabase.xii.jp..txt",
+      "NameServer": "ns1.saikyou-batabase.xii.jp.",
+      "Origin": "saikyou-batabase.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/saikyou-batabases.xii.jp..txt",
+      "NameServer": "ns1.saikyou-batabases.xii.jp.",
+      "Origin": "saikyou-batabases.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/salt.xii.jp..txt",
+      "NameServer": "ns1.salt.xii.jp.",
+      "Origin": "salt.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/schalk.xii.jp..txt",
+      "NameServer": "ns1.schalk.xii.jp.",
+      "Origin": "schalk.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/seek.xii.jp..txt",
+      "NameServer": "ns1.seek.xii.jp.",
+      "Origin": "seek.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/serengeti-tar.xii.jp..txt",
+      "NameServer": "ns1.serengeti-tar.xii.jp.",
+      "Origin": "serengeti-tar.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/sg.xii.jp..txt",
+      "NameServer": "ns1.sg.xii.jp.",
+      "Origin": "sg.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/shopping-nekodama.xii.jp..txt",
+      "NameServer": "ns1.shopping-nekodama.xii.jp.",
+      "Origin": "shopping-nekodama.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/siratama.xii.jp..txt",
+      "NameServer": "ns1.siratama.xii.jp.",
+      "Origin": "siratama.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/sket.xii.jp..txt",
+      "NameServer": "ns1.sket.xii.jp.",
+      "Origin": "sket.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/sozai.xii.jp..txt",
+      "NameServer": "ns1.sozai.xii.jp.",
+      "Origin": "sozai.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/spqh.xii.jp..txt",
+      "NameServer": "ns1.spqh.xii.jp.",
+      "Origin": "spqh.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/stlavus.xii.jp..txt",
+      "NameServer": "ns1.stlavus.xii.jp.",
+      "Origin": "stlavus.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/succubus-eyes.xii.jp..txt",
+      "NameServer": "ns1.succubus-eyes.xii.jp.",
+      "Origin": "succubus-eyes.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/system-luna.xii.jp..txt",
+      "NameServer": "ns1.system-luna.xii.jp.",
+      "Origin": "system-luna.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/syz.xii.jp..txt",
+      "NameServer": "ns1.syz.xii.jp.",
+      "Origin": "syz.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/t3.xii.jp..txt",
+      "NameServer": "ns1.t3.xii.jp.",
+      "Origin": "t3.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/tales.xii.jp..txt",
+      "NameServer": "ns1.tales.xii.jp.",
+      "Origin": "tales.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/tamamo.xii.jp..txt",
+      "NameServer": "ns1.tamamo.xii.jp.",
+      "Origin": "tamamo.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/tankaloid.xii.jp..txt",
+      "NameServer": "ns1.tankaloid.xii.jp.",
+      "Origin": "tankaloid.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/team-otokomae.xii.jp..txt",
+      "NameServer": "ns1.team-otokomae.xii.jp.",
+      "Origin": "team-otokomae.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/technote.xii.jp..txt",
+      "NameServer": "ns1.technote.xii.jp.",
+      "Origin": "technote.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/tee.xii.jp..txt",
+      "NameServer": "ns1.tee.xii.jp.",
+      "Origin": "tee.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/terenparen.xii.jp..txt",
+      "NameServer": "ns1.terenparen.xii.jp.",
+      "Origin": "terenparen.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/tilde.xii.jp..txt",
+      "NameServer": "ns1.tilde.xii.jp.",
+      "Origin": "tilde.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/tmtk.xii.jp..txt",
+      "NameServer": "ns1.tmtk.xii.jp.",
+      "Origin": "tmtk.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/toxic.xii.jp..txt",
+      "NameServer": "ns1.toxic.xii.jp.",
+      "Origin": "toxic.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/travetter.xii.jp..txt",
+      "NameServer": "ns1.travetter.xii.jp.",
+      "Origin": "travetter.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/triaxialgate.xii.jp..txt",
+      "NameServer": "ns1.triaxialgate.xii.jp.",
+      "Origin": "triaxialgate.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ttls.xii.jp..txt",
+      "NameServer": "ns1.ttls.xii.jp.",
+      "Origin": "ttls.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/typista.xii.jp..txt",
+      "NameServer": "ns1.typista.xii.jp.",
+      "Origin": "typista.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/utukiyo.xii.jp..txt",
+      "NameServer": "ns1.utukiyo.xii.jp.",
+      "Origin": "utukiyo.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/vapor.xii.jp..txt",
+      "NameServer": "ns1.vapor.xii.jp.",
+      "Origin": "vapor.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/vdt.xii.jp..txt",
+      "NameServer": "ns1.vdt.xii.jp.",
+      "Origin": "vdt.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/vvv0.xii.jp..txt",
+      "NameServer": "ns1.vvv0.xii.jp.",
+      "Origin": "vvv0.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/vw.xii.jp..txt",
+      "NameServer": "ns1.vw.xii.jp.",
+      "Origin": "vw.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/w-mattz.xii.jp..txt",
+      "NameServer": "ns1.w-mattz.xii.jp.",
+      "Origin": "w-mattz.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/webdev-nekodama.xii.jp..txt",
+      "NameServer": "ns1.webdev-nekodama.xii.jp.",
+      "Origin": "webdev-nekodama.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/wzc.xii.jp..txt",
+      "NameServer": "ns1.wzc.xii.jp.",
+      "Origin": "wzc.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/xholic.xii.jp..txt",
+      "NameServer": "ns1.xholic.xii.jp.",
+      "Origin": "xholic.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/xii.jp..txt",
+      "NameServer": "ns1.xii.jp.",
+      "Origin": "xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/xix.xii.jp..txt",
+      "NameServer": "ns1.xix.xii.jp.",
+      "Origin": "xix.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/xn--vckta6cvfd6b1db3419g3s0a.xii.jp..txt",
+      "NameServer": "ns1.xn--vckta6cvfd6b1db3419g3s0a.xii.jp.",
+      "Origin": "xn--vckta6cvfd6b1db3419g3s0a.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/xx1595.xii.jp..txt",
+      "NameServer": "ns1.xx1595.xii.jp.",
+      "Origin": "xx1595.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/xxx774xxx.xii.jp..txt",
+      "NameServer": "ns1.xxx774xxx.xii.jp.",
+      "Origin": "xxx774xxx.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/y-3.xii.jp..txt",
+      "NameServer": "ns1.y-3.xii.jp.",
+      "Origin": "y-3.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/yasugii.xii.jp..txt",
+      "NameServer": "ns1.yasugii.xii.jp.",
+      "Origin": "yasugii.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/yomo.xii.jp..txt",
+      "NameServer": "ns1.yomo.xii.jp.",
+      "Origin": "yomo.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/yoshie.xii.jp..txt",
+      "NameServer": "ns1.yoshie.xii.jp.",
+      "Origin": "yoshie.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/yrrk.xii.jp..txt",
+      "NameServer": "ns1.yrrk.xii.jp.",
+      "Origin": "yrrk.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/ysk.xii.jp..txt",
+      "NameServer": "ns1.ysk.xii.jp.",
+      "Origin": "ysk.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/yumiking.xii.jp..txt",
+      "NameServer": "ns1.yumiking.xii.jp.",
+      "Origin": "yumiking.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/yuuko.xii.jp..txt",
+      "NameServer": "ns1.yuuko.xii.jp.",
+      "Origin": "yuuko.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/zk.xii.jp..txt",
+      "NameServer": "ns1.zk.xii.jp.",
+      "Origin": "zk.xii.jp."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xii.jp/zuboraya.xii.jp..txt",
+      "NameServer": "ns1.zuboraya.xii.jp.",
+      "Origin": "zuboraya.xii.jp."
+    }
+  ]
+}

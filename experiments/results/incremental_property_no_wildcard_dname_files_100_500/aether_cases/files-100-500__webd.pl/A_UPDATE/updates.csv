@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/webd.pl,1lokrasnystaw.webd.pl..txt,A_UPDATE,DEL,1lokrasnystaw.webd.pl.,A,94.75.225.18
+files-100-500/webd.pl,1lokrasnystaw.webd.pl..txt,A_UPDATE,ADD,1lokrasnystaw.webd.pl.,A,192.0.2.253

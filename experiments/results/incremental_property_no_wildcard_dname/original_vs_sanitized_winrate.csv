@@ -1,0 +1,9 @@
+dataset,scenario,cases,aether_faster,veridns_faster,aether_win_rate
+original,A_ADD,58,15,43,0.25862068965517243
+original,A_UPDATE,58,28,30,0.4827586206896552
+original,CNAME_UPDATE,32,28,4,0.875
+original,NS_UPDATE,59,32,27,0.5423728813559322
+no_wildcard_dname,A_ADD,58,17,41,0.29310344827586204
+no_wildcard_dname,A_UPDATE,58,28,30,0.4827586206896552
+no_wildcard_dname,CNAME_UPDATE,32,25,7,0.78125
+no_wildcard_dname,NS_UPDATE,59,29,30,0.4915254237288136

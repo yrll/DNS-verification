@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.ua,003.com.ua..txt,NS_UPDATE,DEL,003.com.ua.,NS,dns1.yandex.net.
+top-10/com.ua,003.com.ua..txt,NS_UPDATE,ADD,003.com.ua.,NS,ns-inc.003.com.ua.

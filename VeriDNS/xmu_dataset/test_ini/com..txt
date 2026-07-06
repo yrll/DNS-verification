@@ -1,0 +1,17 @@
+; <<>> DiG 9.11.3-1ubuntu1.11-Ubuntu <<>> AXFR com. @66.99.142.110
+;; global options: +cmd
+
+com.				      14400 IN SOA	us.illinois.net. us-domain.illinois.net. 2018083000 14400 3600 2419200 14400
+com.				      14400 IN NS	us1.illinois.net.
+com.				      14400 IN NS	us2.illinois.net.
+*.com.				      86400 IN A	91.144.20.76
+
+
+zdm.com.			      14400 IN NS	ns1.zdm.com.
+ns1.zdm.com.			      14400 IN A	10.166.21.14
+
+
+whois.com.				      14400 IN CNAME	us.illinois.net.
+
+
+

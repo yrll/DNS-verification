@@ -1,0 +1,3 @@
+dataset,cases,ok_cases,case_match_true,case_match_false,case_uncompared,verdict_rows,verdict_mismatches,mismatch_rewrite_blackholing,mismatch_lame_delegation,mismatch_rewrites
+original,240,207,95,112,33,1242,128,66,59,3
+no_wildcard_dname,240,207,95,112,33,1242,128,66,59,3

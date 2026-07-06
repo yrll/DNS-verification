@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wcpss.net,apexes.wcpss.net..txt,CNAME_UPDATE,DEL,apexes.wcpss.net.,CNAME,midgard.wcpss.net.
+files-100-500/wcpss.net,apexes.wcpss.net..txt,CNAME_UPDATE,ADD,apexes.wcpss.net.,CNAME,cname-inc.apexes.wcpss.net.

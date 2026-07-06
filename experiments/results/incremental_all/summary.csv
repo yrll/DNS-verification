@@ -1,0 +1,481 @@
+tool,group,dataset,dataset_id,scenario,status,zone_files,updated_zone_file,rr_count,initial_total_ms,incremental_ms,full_update_ms,delta_operations,affected_nodes,wall_ms,detail
+VeriDNS,files-100-500,virginia.edu,files-100-500/virginia.edu,A_ADD,ok,126,abcrc.virginia.edu..txt,1953,174.06774199999995,0.184018,0.724772,1,0,0.918492,
+Aether,files-100-500,virginia.edu,files-100-500/virginia.edu,A_ADD,ok,,abcrc.virginia.edu..txt,,194.57100000000003,0.635,,,,,num_lec=1479; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__virginia.edu/A_ADD/stderr.log
+VeriDNS,files-100-500,virginia.edu,files-100-500/virginia.edu,A_UPDATE,ok,126,abcrc.virginia.edu..txt,1953,174.06774199999995,0.493395,1.585811,2,6,2.104411,
+Aether,files-100-500,virginia.edu,files-100-500/virginia.edu,A_UPDATE,ok,,abcrc.virginia.edu..txt,,164.10699999999997,0.482,,,,,num_lec=1478; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__virginia.edu/A_UPDATE/stderr.log
+VeriDNS,files-100-500,virginia.edu,files-100-500/virginia.edu,NS_UPDATE,ok,126,abcrc.virginia.edu..txt,1953,174.06774199999995,0.591825,1.687753,2,6,2.310592,
+Aether,files-100-500,virginia.edu,files-100-500/virginia.edu,NS_UPDATE,ok,,abcrc.virginia.edu..txt,,179.14799999999997,0.524,,,,,num_lec=1478; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__virginia.edu/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,virginia.edu,files-100-500/virginia.edu,CNAME_UPDATE,ok,126,abcrc.virginia.edu..txt,1953,174.06774199999995,0.7449,3.057957,2,2,3.842204,
+Aether,files-100-500,virginia.edu,files-100-500/virginia.edu,CNAME_UPDATE,ok,,abcrc.virginia.edu..txt,,205.59500000000003,0.554,,,,,num_lec=1478; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__virginia.edu/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,vivilotz.com,files-100-500/vivilotz.com,A_ADD,ok,494,10-greatest-guitar-players.aoo.vivilotz.com..txt,2471,323.7802490000001,0.197341,0.378225,1,0,0.584687,
+Aether,files-100-500,vivilotz.com,files-100-500/vivilotz.com,A_ADD,ok,,10-greatest-guitar-players.aoo.vivilotz.com..txt,,177.70000000000002,0.618,,,,,num_lec=2470; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vivilotz.com/A_ADD/stderr.log
+VeriDNS,files-100-500,vivilotz.com,files-100-500/vivilotz.com,A_UPDATE,ok,494,10-greatest-guitar-players.aoo.vivilotz.com..txt,2471,323.7802490000001,0.370166,0.524688,2,4,0.915718,
+Aether,files-100-500,vivilotz.com,files-100-500/vivilotz.com,A_UPDATE,ok,,10-greatest-guitar-players.aoo.vivilotz.com..txt,,197.603,0.655,,,,,num_lec=2469; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vivilotz.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,vivilotz.com,files-100-500/vivilotz.com,NS_UPDATE,ok,494,10-greatest-guitar-players.aoo.vivilotz.com..txt,2471,323.7802490000001,0.398138,0.485972,2,4,0.904593,
+Aether,files-100-500,vivilotz.com,files-100-500/vivilotz.com,NS_UPDATE,ok,,10-greatest-guitar-players.aoo.vivilotz.com..txt,,204.659,0.591,,,,,num_lec=2469; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vivilotz.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,vivilotz.com,files-100-500/vivilotz.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,vivilotz.com,files-100-500/vivilotz.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,vn.ua,files-100-500/vn.ua,A_ADD,ok,252,09.vn.ua..txt,3876,237.69232000000008,0.198985,0.333859,1,0,0.541165,
+Aether,files-100-500,vn.ua,files-100-500/vn.ua,A_ADD,ok,,09.vn.ua..txt,,145.859,0.143,,,,,num_lec=1783; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vn.ua/A_ADD/stderr.log
+VeriDNS,files-100-500,vn.ua,files-100-500/vn.ua,A_UPDATE,ok,252,09.vn.ua..txt,3876,237.69232000000008,0.478213,0.462181,2,8,0.979813,
+Aether,files-100-500,vn.ua,files-100-500/vn.ua,A_UPDATE,ok,,09.vn.ua..txt,,157.843,0.008,,,,,num_lec=1782; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vn.ua/A_UPDATE/stderr.log
+VeriDNS,files-100-500,vn.ua,files-100-500/vn.ua,NS_UPDATE,ok,252,09.vn.ua..txt,3876,237.69232000000008,0.545501,0.580831,2,7,1.153863,
+Aether,files-100-500,vn.ua,files-100-500/vn.ua,NS_UPDATE,ok,,09.vn.ua..txt,,142.037,0.008,,,,,num_lec=1782; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vn.ua/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,vn.ua,files-100-500/vn.ua,CNAME_UPDATE,ok,252,4x4.vn.ua..txt,3876,237.69232000000008,0.962667,2.812313,2,7,3.81493,
+Aether,files-100-500,vn.ua,files-100-500/vn.ua,CNAME_UPDATE,ok,,4x4.vn.ua..txt,,151.668,0.084,,,,,num_lec=1782; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vn.ua/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,voxcdn.com,files-100-500/voxcdn.com,A_ADD,ok,137,1714.voxcdn.com..txt,621,199.59403099999997,0.232355,0.974084,1,0,1.216895,
+Aether,files-100-500,voxcdn.com,files-100-500/voxcdn.com,A_ADD,error,,,,,,,,,,exit=101; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__voxcdn.com/A_ADD/stderr.log
+VeriDNS,files-100-500,voxcdn.com,files-100-500/voxcdn.com,A_UPDATE,ok,137,1714.voxcdn.com..txt,621,199.59403099999997,0.657353,2.438113,2,5,3.129686,
+Aether,files-100-500,voxcdn.com,files-100-500/voxcdn.com,A_UPDATE,error,,,,,,,,,,exit=101; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__voxcdn.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,voxcdn.com,files-100-500/voxcdn.com,NS_UPDATE,ok,137,voxcdn.com..txt,621,199.59403099999997,1.318535,4.200895,2,4,5.608171,
+Aether,files-100-500,voxcdn.com,files-100-500/voxcdn.com,NS_UPDATE,ok,,voxcdn.com..txt,,20.744,0.761,,,,,num_lec=83; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__voxcdn.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,voxcdn.com,files-100-500/voxcdn.com,CNAME_UPDATE,ok,137,1714.voxcdn.com..txt,621,199.59403099999997,0.834836,1.25966,2,5,2.114664,
+Aether,files-100-500,voxcdn.com,files-100-500/voxcdn.com,CNAME_UPDATE,error,,,,,,,,,,exit=101; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__voxcdn.com/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,vrn.ru,files-100-500/vrn.ru,A_ADD,ok,193,1c.vrn.ru..txt,2685,173.0568779999999,0.215191,0.322688,1,0,0.546537,
+Aether,files-100-500,vrn.ru,files-100-500/vrn.ru,A_ADD,ok,,1c.vrn.ru..txt,,212.254,0.903,,,,,num_lec=2481; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vrn.ru/A_ADD/stderr.log
+VeriDNS,files-100-500,vrn.ru,files-100-500/vrn.ru,A_UPDATE,ok,193,1c.vrn.ru..txt,2685,173.0568779999999,0.487244,0.483175,2,8,1.013302,
+Aether,files-100-500,vrn.ru,files-100-500/vrn.ru,A_UPDATE,ok,,1c.vrn.ru..txt,,218.982,0.593,,,,,num_lec=2480; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vrn.ru/A_UPDATE/stderr.log
+VeriDNS,files-100-500,vrn.ru,files-100-500/vrn.ru,NS_UPDATE,ok,193,1c.vrn.ru..txt,2685,173.0568779999999,0.540117,0.71048,2,6,1.279005,
+Aether,files-100-500,vrn.ru,files-100-500/vrn.ru,NS_UPDATE,ok,,1c.vrn.ru..txt,,202.504,0.777,,,,,num_lec=2480; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vrn.ru/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,vrn.ru,files-100-500/vrn.ru,CNAME_UPDATE,ok,193,advecs.vrn.ru..txt,2685,173.0568779999999,0.814052,3.736341,2,4,4.596224,
+Aether,files-100-500,vrn.ru,files-100-500/vrn.ru,CNAME_UPDATE,ok,,advecs.vrn.ru..txt,,202.843,0.7999999999999999,,,,,num_lec=2480; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__vrn.ru/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,w3wb.com,files-100-500/w3wb.com,A_ADD,ok,148,aboutchristmas.w3wb.com..txt,590,115.17931699999994,0.15821,0.284094,1,0,0.450029,
+Aether,files-100-500,w3wb.com,files-100-500/w3wb.com,A_ADD,ok,,aboutchristmas.w3wb.com..txt,,57.524,0.592,,,,,num_lec=886; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__w3wb.com/A_ADD/stderr.log
+VeriDNS,files-100-500,w3wb.com,files-100-500/w3wb.com,A_UPDATE,ok,148,aboutchristmas.w3wb.com..txt,590,115.17931699999994,0.346278,0.45024,2,2,0.818217,
+Aether,files-100-500,w3wb.com,files-100-500/w3wb.com,A_UPDATE,ok,,aboutchristmas.w3wb.com..txt,,58.428000000000004,0.45,,,,,num_lec=885; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__w3wb.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,w3wb.com,files-100-500/w3wb.com,NS_UPDATE,ok,148,w3wb.com..txt,590,115.17931699999994,8.235491,14.241915,2,7,22.944604,
+Aether,files-100-500,w3wb.com,files-100-500/w3wb.com,NS_UPDATE,ok,,w3wb.com..txt,,64.927,4.772,,,,,num_lec=885; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__w3wb.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,w3wb.com,files-100-500/w3wb.com,CNAME_UPDATE,ok,148,w3wb.com..txt,590,115.17931699999994,10.677071,17.074139,2,7,28.27837,
+Aether,files-100-500,w3wb.com,files-100-500/w3wb.com,CNAME_UPDATE,ok,,w3wb.com..txt,,64.39800000000001,7.128000000000001,,,,,num_lec=885; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__w3wb.com/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,wa.gov,files-100-500/wa.gov,A_ADD,ok,135,agencymeddirectors.wa.gov..txt,1554,205.16317099999998,0.241523,0.909841,1,0,1.160591,
+Aether,files-100-500,wa.gov,files-100-500/wa.gov,A_ADD,ok,,agencymeddirectors.wa.gov..txt,,124.636,0.753,,,,,num_lec=1304; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wa.gov/A_ADD/stderr.log
+VeriDNS,files-100-500,wa.gov,files-100-500/wa.gov,A_UPDATE,ok,135,agencymeddirectors.wa.gov..txt,1554,205.16317099999998,0.552251,1.601596,2,7,2.18351,
+Aether,files-100-500,wa.gov,files-100-500/wa.gov,A_UPDATE,ok,,agencymeddirectors.wa.gov..txt,,120.782,0.752,,,,,num_lec=1303; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wa.gov/A_UPDATE/stderr.log
+VeriDNS,files-100-500,wa.gov,files-100-500/wa.gov,NS_UPDATE,ok,135,agencymeddirectors.wa.gov..txt,1554,205.16317099999998,1.014493,2.495026,2,7,3.553774,
+Aether,files-100-500,wa.gov,files-100-500/wa.gov,NS_UPDATE,ok,,agencymeddirectors.wa.gov..txt,,124.401,0.5660000000000001,,,,,num_lec=1303; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wa.gov/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,wa.gov,files-100-500/wa.gov,CNAME_UPDATE,ok,135,agencymeddirectors.wa.gov..txt,1554,205.16317099999998,0.776901,3.047707,2,2,3.866204,
+Aether,files-100-500,wa.gov,files-100-500/wa.gov,CNAME_UPDATE,ok,,agencymeddirectors.wa.gov..txt,,122.78,0.492,,,,,num_lec=1303; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wa.gov/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,warriorhall.com,files-100-500/warriorhall.com,A_ADD,ok,211,alimonyillinois.warriorhall.com..txt,1053,160.41838900000005,0.198855,0.39279,1,0,0.600856,
+Aether,files-100-500,warriorhall.com,files-100-500/warriorhall.com,A_ADD,ok,,alimonyillinois.warriorhall.com..txt,,56.327000000000005,0.833,,,,,num_lec=1055; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__warriorhall.com/A_ADD/stderr.log
+VeriDNS,files-100-500,warriorhall.com,files-100-500/warriorhall.com,A_UPDATE,ok,211,alimonyillinois.warriorhall.com..txt,1053,160.41838900000005,0.435558,0.495934,2,4,0.958022,
+Aether,files-100-500,warriorhall.com,files-100-500/warriorhall.com,A_UPDATE,ok,,alimonyillinois.warriorhall.com..txt,,51.964,0.519,,,,,num_lec=1054; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__warriorhall.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,warriorhall.com,files-100-500/warriorhall.com,NS_UPDATE,ok,211,alimonyillinois.warriorhall.com..txt,1053,160.41838900000005,0.436106,0.525952,2,4,0.985924,
+Aether,files-100-500,warriorhall.com,files-100-500/warriorhall.com,NS_UPDATE,ok,,alimonyillinois.warriorhall.com..txt,,52.506,0.453,,,,,num_lec=1054; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__warriorhall.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,warriorhall.com,files-100-500/warriorhall.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,warriorhall.com,files-100-500/warriorhall.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,warszawa.pl,files-100-500/warszawa.pl,A_ADD,ok,275,12lo.warszawa.pl..txt,5812,325.3555370000001,0.24867,1.024538,1,0,1.284209,
+Aether,files-100-500,warszawa.pl,files-100-500/warszawa.pl,A_ADD,ok,,12lo.warszawa.pl..txt,,450.114,1.4969999999999999,,,,,num_lec=3560; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__warszawa.pl/A_ADD/stderr.log
+VeriDNS,files-100-500,warszawa.pl,files-100-500/warszawa.pl,A_UPDATE,ok,275,12lo.warszawa.pl..txt,5812,325.3555370000001,0.586625,1.383336,2,7,2.005429,
+Aether,files-100-500,warszawa.pl,files-100-500/warszawa.pl,A_UPDATE,ok,,12lo.warszawa.pl..txt,,399.291,0.772,,,,,num_lec=3559; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__warszawa.pl/A_UPDATE/stderr.log
+VeriDNS,files-100-500,warszawa.pl,files-100-500/warszawa.pl,NS_UPDATE,ok,275,12lo.warszawa.pl..txt,5812,325.3555370000001,0.591967,1.797189,2,7,2.418813,
+Aether,files-100-500,warszawa.pl,files-100-500/warszawa.pl,NS_UPDATE,ok,,12lo.warszawa.pl..txt,,470.161,0.671,,,,,num_lec=3559; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__warszawa.pl/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,warszawa.pl,files-100-500/warszawa.pl,CNAME_UPDATE,ok,275,12lo.warszawa.pl..txt,5812,325.3555370000001,0.968399,2.575077,2,7,3.585374,
+Aether,files-100-500,warszawa.pl,files-100-500/warszawa.pl,CNAME_UPDATE,ok,,12lo.warszawa.pl..txt,,454.34,0.8340000000000001,,,,,num_lec=3559; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__warszawa.pl/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,washington.edu,files-100-500/washington.edu,A_ADD,ok,391,aa.washington.edu..txt,5484,592.3489610000003,0.452739,1.313688,1,0,1.780211,
+Aether,files-100-500,washington.edu,files-100-500/washington.edu,A_ADD,ok,,aa.washington.edu..txt,,525.443,1.1219999999999999,,,,,num_lec=4103; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__washington.edu/A_ADD/stderr.log
+VeriDNS,files-100-500,washington.edu,files-100-500/washington.edu,A_UPDATE,ok,391,aa.washington.edu..txt,5484,592.3489610000003,0.62503,2.051205,2,4,2.710704,
+Aether,files-100-500,washington.edu,files-100-500/washington.edu,A_UPDATE,ok,,aa.washington.edu..txt,,520.152,0.716,,,,,num_lec=4102; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__washington.edu/A_UPDATE/stderr.log
+VeriDNS,files-100-500,washington.edu,files-100-500/washington.edu,NS_UPDATE,ok,391,aa.washington.edu..txt,5484,592.3489610000003,1.464568,4.395117,2,9,5.914616,
+Aether,files-100-500,washington.edu,files-100-500/washington.edu,NS_UPDATE,ok,,aa.washington.edu..txt,,637.088,0.995,,,,,num_lec=4102; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__washington.edu/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,washington.edu,files-100-500/washington.edu,CNAME_UPDATE,ok,391,aa.washington.edu..txt,5484,592.3489610000003,1.12159,4.21092,2,3,5.387341,
+Aether,files-100-500,washington.edu,files-100-500/washington.edu,CNAME_UPDATE,ok,,aa.washington.edu..txt,,541.179,0.718,,,,,num_lec=4102; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__washington.edu/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,wayport.net,files-100-500/wayport.net,A_ADD,ok,111,anchoak.wayport.net..txt,811,89.78146599999998,0.197859,0.409368,1,0,0.615503,
+Aether,files-100-500,wayport.net,files-100-500/wayport.net,A_ADD,ok,,anchoak.wayport.net..txt,,47.895,0.11800000000000001,,,,,num_lec=464; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wayport.net/A_ADD/stderr.log
+VeriDNS,files-100-500,wayport.net,files-100-500/wayport.net,A_UPDATE,ok,111,attrtl128654.wichdal.wayport.net..txt,811,89.78146599999998,0.30032,0.447472,2,2,0.763572,
+Aether,files-100-500,wayport.net,files-100-500/wayport.net,A_UPDATE,ok,,attrtl128654.wichdal.wayport.net..txt,,41.403,0.008,,,,,num_lec=463; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wayport.net/A_UPDATE/stderr.log
+VeriDNS,files-100-500,wayport.net,files-100-500/wayport.net,NS_UPDATE,ok,111,anchoak.wayport.net..txt,811,89.78146599999998,0.398696,0.61029,2,5,1.029129,
+Aether,files-100-500,wayport.net,files-100-500/wayport.net,NS_UPDATE,ok,,anchoak.wayport.net..txt,,41.382999999999996,0.009000000000000001,,,,,num_lec=463; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wayport.net/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,wayport.net,files-100-500/wayport.net,CNAME_UPDATE,ok,111,corp.aus.wayport.net..txt,811,89.78146599999998,0.335277,1.211856,2,2,1.568396,
+Aether,files-100-500,wayport.net,files-100-500/wayport.net,CNAME_UPDATE,ok,,corp.aus.wayport.net..txt,,37.001000000000005,0.010000000000000002,,,,,num_lec=463; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wayport.net/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,wblogin.com,files-100-500/wblogin.com,A_ADD,ok,108,42ndstreet.wblogin.com..txt,183,52.10636900000001,0.162001,0.360182,1,0,0.530714,
+Aether,files-100-500,wblogin.com,files-100-500/wblogin.com,A_ADD,ok,,42ndstreet.wblogin.com..txt,,21.743999999999996,0.23299999999999998,,,,,num_lec=399; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wblogin.com/A_ADD/stderr.log
+VeriDNS,files-100-500,wblogin.com,files-100-500/wblogin.com,A_UPDATE,ok,108,42ndstreet.wblogin.com..txt,183,52.10636900000001,0.276084,0.360342,2,2,0.651445,
+Aether,files-100-500,wblogin.com,files-100-500/wblogin.com,A_UPDATE,ok,,42ndstreet.wblogin.com..txt,,24.076,0.258,,,,,num_lec=398; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wblogin.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,wblogin.com,files-100-500/wblogin.com,NS_UPDATE,ok,108,wblogin.com..txt,183,52.10636900000001,0.348944,0.409173,2,5,0.77739,
+Aether,files-100-500,wblogin.com,files-100-500/wblogin.com,NS_UPDATE,ok,,wblogin.com..txt,,24.295,0.245,,,,,num_lec=398; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wblogin.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,wblogin.com,files-100-500/wblogin.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,wblogin.com,files-100-500/wblogin.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,wcpss.net,files-100-500/wcpss.net,A_ADD,ok,101,aldertrootes.wcpss.net..txt,390,59.235845,0.13398,0.2713,1,0,0.412682,
+Aether,files-100-500,wcpss.net,files-100-500/wcpss.net,A_ADD,ok,,aldertrootes.wcpss.net..txt,,21.643000000000004,0.078,,,,,num_lec=246; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wcpss.net/A_ADD/stderr.log
+VeriDNS,files-100-500,wcpss.net,files-100-500/wcpss.net,A_UPDATE,ok,101,aldertrootes.wcpss.net..txt,390,59.235845,0.286975,0.370471,2,3,0.673688,
+Aether,files-100-500,wcpss.net,files-100-500/wcpss.net,A_UPDATE,ok,,aldertrootes.wcpss.net..txt,,18.893,0.006,,,,,num_lec=245; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wcpss.net/A_UPDATE/stderr.log
+VeriDNS,files-100-500,wcpss.net,files-100-500/wcpss.net,NS_UPDATE,ok,101,aldertrootes.wcpss.net..txt,390,59.235845,0.328583,0.442247,2,3,0.788521,
+Aether,files-100-500,wcpss.net,files-100-500/wcpss.net,NS_UPDATE,ok,,aldertrootes.wcpss.net..txt,,21.569,0.006,,,,,num_lec=245; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wcpss.net/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,wcpss.net,files-100-500/wcpss.net,CNAME_UPDATE,ok,101,apexes.wcpss.net..txt,390,59.235845,0.353353,1.273133,2,4,1.644652,
+Aether,files-100-500,wcpss.net,files-100-500/wcpss.net,CNAME_UPDATE,error,,,,,,,,,,exit=101; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wcpss.net/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,webd.pl,files-100-500/webd.pl,A_ADD,ok,287,1lokrasnystaw.webd.pl..txt,2164,223.17369399999984,0.164823,0.711475,1,0,0.884141,
+Aether,files-100-500,webd.pl,files-100-500/webd.pl,A_ADD,ok,,1lokrasnystaw.webd.pl..txt,,173.82899999999998,0.689,,,,,num_lec=2242; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webd.pl/A_ADD/stderr.log
+VeriDNS,files-100-500,webd.pl,files-100-500/webd.pl,A_UPDATE,ok,287,1lokrasnystaw.webd.pl..txt,2164,223.17369399999984,0.590283,1.04328,2,6,1.652786,
+Aether,files-100-500,webd.pl,files-100-500/webd.pl,A_UPDATE,ok,,1lokrasnystaw.webd.pl..txt,,166.358,1.071,,,,,num_lec=2241; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webd.pl/A_UPDATE/stderr.log
+VeriDNS,files-100-500,webd.pl,files-100-500/webd.pl,NS_UPDATE,ok,287,1lokrasnystaw.webd.pl..txt,2164,223.17369399999984,0.581219,1.686657,2,6,2.300236,
+Aether,files-100-500,webd.pl,files-100-500/webd.pl,NS_UPDATE,ok,,1lokrasnystaw.webd.pl..txt,,129.05599999999998,0.5630000000000001,,,,,num_lec=2241; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webd.pl/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,webd.pl,files-100-500/webd.pl,CNAME_UPDATE,ok,287,1lokrasnystaw.webd.pl..txt,2164,223.17369399999984,0.552628,1.709835,2,6,2.29231,
+Aether,files-100-500,webd.pl,files-100-500/webd.pl,CNAME_UPDATE,ok,,1lokrasnystaw.webd.pl..txt,,128.37,2.5029999999999997,,,,,num_lec=2241; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webd.pl/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,webng.com,files-100-500/webng.com,A_ADD,ok,270,a7lajram.webng.com..txt,513,130.090351,0.132527,0.297539,1,0,0.437456,
+Aether,files-100-500,webng.com,files-100-500/webng.com,A_ADD,ok,,a7lajram.webng.com..txt,,41.17999999999999,0.598,,,,,num_lec=824; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webng.com/A_ADD/stderr.log
+VeriDNS,files-100-500,webng.com,files-100-500/webng.com,A_UPDATE,ok,270,a7lajram.webng.com..txt,513,130.090351,0.289842,0.36704,2,3,0.672304,
+Aether,files-100-500,webng.com,files-100-500/webng.com,A_UPDATE,ok,,a7lajram.webng.com..txt,,46.67000000000001,0.28600000000000003,,,,,num_lec=823; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webng.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,webng.com,files-100-500/webng.com,NS_UPDATE,ok,270,webng.com..txt,513,130.090351,0.713496,0.977585,2,8,1.729955,
+Aether,files-100-500,webng.com,files-100-500/webng.com,NS_UPDATE,ok,,webng.com..txt,,41.119,0.41200000000000003,,,,,num_lec=823; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webng.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,webng.com,files-100-500/webng.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,webng.com,files-100-500/webng.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,webself.net,files-100-500/webself.net,A_ADD,ok,332,aspnetdevelopment.webself.net..txt,667,159.59426000000002,0.167284,0.342214,1,0,0.517515,
+Aether,files-100-500,webself.net,files-100-500/webself.net,A_ADD,ok,,aspnetdevelopment.webself.net..txt,,77.76399999999998,0.193,,,,,num_lec=1328; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webself.net/A_ADD/stderr.log
+VeriDNS,files-100-500,webself.net,files-100-500/webself.net,A_UPDATE,ok,332,aspnetdevelopment.webself.net..txt,667,159.59426000000002,0.329635,0.408495,2,3,0.757143,
+Aether,files-100-500,webself.net,files-100-500/webself.net,A_UPDATE,ok,,aspnetdevelopment.webself.net..txt,,89.13999999999999,0.167,,,,,num_lec=1327; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webself.net/A_UPDATE/stderr.log
+VeriDNS,files-100-500,webself.net,files-100-500/webself.net,NS_UPDATE,ok,332,webself.net..txt,667,159.59426000000002,0.51103,0.660756,2,8,1.194577,
+Aether,files-100-500,webself.net,files-100-500/webself.net,NS_UPDATE,ok,,webself.net..txt,,68.395,0.225,,,,,num_lec=1327; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webself.net/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,webself.net,files-100-500/webself.net,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,webself.net,files-100-500/webself.net,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,website-start.de,files-100-500/website-start.de,A_ADD,ok,341,s278642480.website-start.de..txt,1885,187.41335100000015,0.147256,0.301426,1,0,0.454871,
+Aether,files-100-500,website-start.de,files-100-500/website-start.de,A_ADD,ok,,s278642480.website-start.de..txt,,103.082,0.7919999999999999,,,,,num_lec=1900; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__website-start.de/A_ADD/stderr.log
+VeriDNS,files-100-500,website-start.de,files-100-500/website-start.de,A_UPDATE,ok,341,s278642480.website-start.de..txt,1885,187.41335100000015,0.307793,0.369002,2,4,0.709372,
+Aether,files-100-500,website-start.de,files-100-500/website-start.de,A_UPDATE,ok,,s278642480.website-start.de..txt,,118.06300000000002,1.1099999999999999,,,,,num_lec=1899; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__website-start.de/A_UPDATE/stderr.log
+VeriDNS,files-100-500,website-start.de,files-100-500/website-start.de,NS_UPDATE,ok,341,s278642480.website-start.de..txt,1885,187.41335100000015,0.322707,0.398654,2,4,0.739934,
+Aether,files-100-500,website-start.de,files-100-500/website-start.de,NS_UPDATE,ok,,s278642480.website-start.de..txt,,98.568,0.5650000000000001,,,,,num_lec=1899; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__website-start.de/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,website-start.de,files-100-500/website-start.de,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,website-start.de,files-100-500/website-start.de,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,webwealth.us,files-100-500/webwealth.us,A_ADD,ok,159,123freedom.webwealth.us..txt,291,87.61968399999998,0.144819,0.288807,1,0,0.440866,
+Aether,files-100-500,webwealth.us,files-100-500/webwealth.us,A_ADD,ok,,123freedom.webwealth.us..txt,,37.761,0.365,,,,,num_lec=607; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webwealth.us/A_ADD/stderr.log
+VeriDNS,files-100-500,webwealth.us,files-100-500/webwealth.us,A_UPDATE,ok,159,123freedom.webwealth.us..txt,291,87.61968399999998,0.302779,0.36028,2,3,0.678184,
+Aether,files-100-500,webwealth.us,files-100-500/webwealth.us,A_UPDATE,ok,,123freedom.webwealth.us..txt,,35.879999999999995,0.20600000000000002,,,,,num_lec=606; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webwealth.us/A_UPDATE/stderr.log
+VeriDNS,files-100-500,webwealth.us,files-100-500/webwealth.us,NS_UPDATE,ok,159,webwealth.us..txt,291,87.61968399999998,0.379948,0.530003,2,7,0.930483,
+Aether,files-100-500,webwealth.us,files-100-500/webwealth.us,NS_UPDATE,ok,,webwealth.us..txt,,35.031,0.16,,,,,num_lec=606; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__webwealth.us/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,webwealth.us,files-100-500/webwealth.us,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,webwealth.us,files-100-500/webwealth.us,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,wednet.edu,files-100-500/wednet.edu,A_ADD,ok,151,aasd.wednet.edu..txt,2282,127.17144900000004,0.213765,0.417721,1,0,0.638782,
+Aether,files-100-500,wednet.edu,files-100-500/wednet.edu,A_ADD,ok,,aasd.wednet.edu..txt,,129.904,0.743,,,,,num_lec=1425; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wednet.edu/A_ADD/stderr.log
+VeriDNS,files-100-500,wednet.edu,files-100-500/wednet.edu,A_UPDATE,ok,151,aasd.wednet.edu..txt,2282,127.17144900000004,0.535092,0.608162,2,9,1.168645,
+Aether,files-100-500,wednet.edu,files-100-500/wednet.edu,A_UPDATE,ok,,aasd.wednet.edu..txt,,133.205,0.441,,,,,num_lec=1424; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wednet.edu/A_UPDATE/stderr.log
+VeriDNS,files-100-500,wednet.edu,files-100-500/wednet.edu,NS_UPDATE,ok,151,aasd.wednet.edu..txt,2282,127.17144900000004,0.615478,0.713448,2,8,1.356537,
+Aether,files-100-500,wednet.edu,files-100-500/wednet.edu,NS_UPDATE,ok,,aasd.wednet.edu..txt,,115.399,0.803,,,,,num_lec=1424; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wednet.edu/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,wednet.edu,files-100-500/wednet.edu,CNAME_UPDATE,ok,151,bham.wednet.edu..txt,2282,127.17144900000004,0.877657,1.968936,2,11,2.881221,
+Aether,files-100-500,wednet.edu,files-100-500/wednet.edu,CNAME_UPDATE,ok,,bham.wednet.edu..txt,,130.049,1.303,,,,,num_lec=1424; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wednet.edu/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,wendellbennett.com,files-100-500/wendellbennett.com,A_ADD,ok,108,a-direct-consolidation-loan.wendellbennett.com..txt,647,106.52732,0.192993,0.397078,1,0,0.598521,
+Aether,files-100-500,wendellbennett.com,files-100-500/wendellbennett.com,A_ADD,ok,,a-direct-consolidation-loan.wendellbennett.com..txt,,39.588,0.598,,,,,num_lec=649; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wendellbennett.com/A_ADD/stderr.log
+VeriDNS,files-100-500,wendellbennett.com,files-100-500/wendellbennett.com,A_UPDATE,ok,108,a-direct-consolidation-loan.wendellbennett.com..txt,647,106.52732,0.381792,1.24474,2,5,1.646352,
+Aether,files-100-500,wendellbennett.com,files-100-500/wendellbennett.com,A_UPDATE,ok,,a-direct-consolidation-loan.wendellbennett.com..txt,,37.705000000000005,0.406,,,,,num_lec=648; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wendellbennett.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,wendellbennett.com,files-100-500/wendellbennett.com,NS_UPDATE,ok,108,a-direct-consolidation-loan.wendellbennett.com..txt,647,106.52732,0.464236,0.486951,2,5,0.974981,
+Aether,files-100-500,wendellbennett.com,files-100-500/wendellbennett.com,NS_UPDATE,ok,,a-direct-consolidation-loan.wendellbennett.com..txt,,40.956,0.468,,,,,num_lec=648; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wendellbennett.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,wendellbennett.com,files-100-500/wendellbennett.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,wendellbennett.com,files-100-500/wendellbennett.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,wertot.com,files-100-500/wertot.com,A_ADD,ok,220,0o8up.wertot.com..txt,349,96.111172,0.170489,0.348591,1,0,0.526511,
+Aether,files-100-500,wertot.com,files-100-500/wertot.com,A_ADD,ok,,0o8up.wertot.com..txt,,38.983,0.29800000000000004,,,,,num_lec=786; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wertot.com/A_ADD/stderr.log
+VeriDNS,files-100-500,wertot.com,files-100-500/wertot.com,A_UPDATE,ok,220,0o8up.wertot.com..txt,349,96.111172,0.348081,0.418292,2,3,0.783977,
+Aether,files-100-500,wertot.com,files-100-500/wertot.com,A_UPDATE,ok,,0o8up.wertot.com..txt,,39.111999999999995,0.12200000000000001,,,,,num_lec=785; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wertot.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,wertot.com,files-100-500/wertot.com,NS_UPDATE,ok,220,wertot.com..txt,349,96.111172,0.498571,0.51019,2,8,1.032897,
+Aether,files-100-500,wertot.com,files-100-500/wertot.com,NS_UPDATE,ok,,wertot.com..txt,,37.891,0.19,,,,,num_lec=785; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wertot.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,wertot.com,files-100-500/wertot.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,wertot.com,files-100-500/wertot.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,wo.tc,files-100-500/wo.tc,A_ADD,ok,256,10wonsoft.wo.tc..txt,3159,161.95788600000006,0.353158,0.484116,1,0,0.845268,
+Aether,files-100-500,wo.tc,files-100-500/wo.tc,A_ADD,ok,,10wonsoft.wo.tc..txt,,102.99600000000001,0.755,,,,,num_lec=1538; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wo.tc/A_ADD/stderr.log
+VeriDNS,files-100-500,wo.tc,files-100-500/wo.tc,A_UPDATE,ok,256,10wonsoft.wo.tc..txt,3159,161.95788600000006,0.607556,0.546055,2,13,1.181267,
+Aether,files-100-500,wo.tc,files-100-500/wo.tc,A_UPDATE,ok,,10wonsoft.wo.tc..txt,,92.167,0.764,,,,,num_lec=1537; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wo.tc/A_UPDATE/stderr.log
+VeriDNS,files-100-500,wo.tc,files-100-500/wo.tc,NS_UPDATE,ok,256,10wonsoft.wo.tc..txt,3159,161.95788600000006,0.713479,0.647654,2,13,1.391442,
+Aether,files-100-500,wo.tc,files-100-500/wo.tc,NS_UPDATE,ok,,10wonsoft.wo.tc..txt,,99.913,1.206,,,,,num_lec=1537; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wo.tc/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,wo.tc,files-100-500/wo.tc,CNAME_UPDATE,ok,256,noel.wo.tc..txt,3159,161.95788600000006,0.715551,2.427062,2,2,3.20011,
+Aether,files-100-500,wo.tc,files-100-500/wo.tc,CNAME_UPDATE,ok,,noel.wo.tc..txt,,100.366,0.74,,,,,num_lec=1537; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__wo.tc/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,www.de,files-100-500/www.de,A_ADD,ok,175,131840.kq.bpod.www.de..txt,873,139.59842300000003,0.241269,0.383736,1,0,0.633067,
+Aether,files-100-500,www.de,files-100-500/www.de,A_ADD,ok,,131840.kq.bpod.www.de..txt,,49.68200000000001,0.791,,,,,num_lec=875; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__www.de/A_ADD/stderr.log
+VeriDNS,files-100-500,www.de,files-100-500/www.de,A_UPDATE,ok,175,131840.kq.bpod.www.de..txt,873,139.59842300000003,0.363196,0.44773,2,4,0.828797,
+Aether,files-100-500,www.de,files-100-500/www.de,A_UPDATE,ok,,131840.kq.bpod.www.de..txt,,50.301,0.683,,,,,num_lec=874; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__www.de/A_UPDATE/stderr.log
+VeriDNS,files-100-500,www.de,files-100-500/www.de,NS_UPDATE,ok,175,131840.kq.bpod.www.de..txt,873,139.59842300000003,0.452959,0.580979,2,4,1.056645,
+Aether,files-100-500,www.de,files-100-500/www.de,NS_UPDATE,ok,,131840.kq.bpod.www.de..txt,,50.284,0.8,,,,,num_lec=874; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__www.de/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,www.de,files-100-500/www.de,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,www.de,files-100-500/www.de,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,x-y.net,files-100-500/x-y.net,A_ADD,ok,102,abcenglish.x-y.net..txt,637,55.21621299999999,0.190567,0.464263,1,0,0.662338,
+Aether,files-100-500,x-y.net,files-100-500/x-y.net,A_ADD,ok,,abcenglish.x-y.net..txt,,36.031000000000006,0.397,,,,,num_lec=637; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x-y.net/A_ADD/stderr.log
+VeriDNS,files-100-500,x-y.net,files-100-500/x-y.net,A_UPDATE,ok,102,abcenglish.x-y.net..txt,637,55.21621299999999,0.391689,0.454892,2,5,0.866911,
+Aether,files-100-500,x-y.net,files-100-500/x-y.net,A_UPDATE,ok,,abcenglish.x-y.net..txt,,35.480000000000004,0.993,,,,,num_lec=636; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x-y.net/A_UPDATE/stderr.log
+VeriDNS,files-100-500,x-y.net,files-100-500/x-y.net,NS_UPDATE,ok,102,abcenglish.x-y.net..txt,637,55.21621299999999,0.390914,0.463167,2,5,0.875038,
+Aether,files-100-500,x-y.net,files-100-500/x-y.net,NS_UPDATE,ok,,abcenglish.x-y.net..txt,,34.569,0.556,,,,,num_lec=636; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x-y.net/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,x-y.net,files-100-500/x-y.net,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,x-y.net,files-100-500/x-y.net,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,x0.com,files-100-500/x0.com,A_ADD,ok,322,0155.x0.com..txt,2015,198.0891520000001,0.149175,0.291292,1,0,0.447172,
+Aether,files-100-500,x0.com,files-100-500/x0.com,A_ADD,ok,,0155.x0.com..txt,,110.27900000000001,0.86,,,,,num_lec=2066; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x0.com/A_ADD/stderr.log
+VeriDNS,files-100-500,x0.com,files-100-500/x0.com,A_UPDATE,ok,322,0155.x0.com..txt,2015,198.0891520000001,0.341227,0.377649,2,5,0.747132,
+Aether,files-100-500,x0.com,files-100-500/x0.com,A_UPDATE,ok,,0155.x0.com..txt,,111.64500000000001,0.573,,,,,num_lec=2065; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x0.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,x0.com,files-100-500/x0.com,NS_UPDATE,ok,322,0155.x0.com..txt,2015,198.0891520000001,0.336428,0.503396,2,5,0.858096,
+Aether,files-100-500,x0.com,files-100-500/x0.com,NS_UPDATE,ok,,0155.x0.com..txt,,123.13000000000001,0.442,,,,,num_lec=2065; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x0.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,x0.com,files-100-500/x0.com,CNAME_UPDATE,ok,322,a-z.x0.com..txt,2015,198.0891520000001,0.708169,1.972394,2,6,2.709692,
+Aether,files-100-500,x0.com,files-100-500/x0.com,CNAME_UPDATE,ok,,a-z.x0.com..txt,,121.97400000000002,0.551,,,,,num_lec=2065; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x0.com/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,x10.mx,files-100-500/x10.mx,A_ADD,ok,107,1909.x10.mx..txt,746,128.651717,0.188296,0.387594,1,0,0.583481,
+Aether,files-100-500,x10.mx,files-100-500/x10.mx,A_ADD,ok,,1909.x10.mx..txt,,53.637,1.817,,,,,num_lec=724; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x10.mx/A_ADD/stderr.log
+VeriDNS,files-100-500,x10.mx,files-100-500/x10.mx,A_UPDATE,ok,107,1909.x10.mx..txt,746,128.651717,0.401555,0.594135,2,5,1.015189,
+Aether,files-100-500,x10.mx,files-100-500/x10.mx,A_UPDATE,ok,,1909.x10.mx..txt,,52.334,1.435,,,,,num_lec=723; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x10.mx/A_UPDATE/stderr.log
+VeriDNS,files-100-500,x10.mx,files-100-500/x10.mx,NS_UPDATE,ok,107,1909.x10.mx..txt,746,128.651717,0.509119,0.625132,2,5,1.158965,
+Aether,files-100-500,x10.mx,files-100-500/x10.mx,NS_UPDATE,ok,,1909.x10.mx..txt,,52.06699999999999,0.633,,,,,num_lec=723; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x10.mx/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,x10.mx,files-100-500/x10.mx,CNAME_UPDATE,ok,107,all4god.x10.mx..txt,746,128.651717,0.524766,1.24177,2,7,1.793885,
+Aether,files-100-500,x10.mx,files-100-500/x10.mx,CNAME_UPDATE,ok,,all4god.x10.mx..txt,,51.014,1.149,,,,,num_lec=723; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__x10.mx/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,xii.jp,files-100-500/xii.jp,A_ADD,ok,240,125.xii.jp..txt,1458,130.42353099999994,0.188949,0.38066,1,0,0.577074,
+Aether,files-100-500,xii.jp,files-100-500/xii.jp,A_ADD,ok,,125.xii.jp..txt,,68.80199999999999,0.919,,,,,num_lec=1457; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xii.jp/A_ADD/stderr.log
+VeriDNS,files-100-500,xii.jp,files-100-500/xii.jp,A_UPDATE,ok,240,125.xii.jp..txt,1458,130.42353099999994,0.39248,0.448718,2,5,0.861053,
+Aether,files-100-500,xii.jp,files-100-500/xii.jp,A_UPDATE,ok,,125.xii.jp..txt,,68.613,1.2619999999999998,,,,,num_lec=1456; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xii.jp/A_UPDATE/stderr.log
+VeriDNS,files-100-500,xii.jp,files-100-500/xii.jp,NS_UPDATE,ok,240,125.xii.jp..txt,1458,130.42353099999994,0.442443,0.528652,2,5,0.990258,
+Aether,files-100-500,xii.jp,files-100-500/xii.jp,NS_UPDATE,ok,,125.xii.jp..txt,,68.21,0.552,,,,,num_lec=1456; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xii.jp/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,xii.jp,files-100-500/xii.jp,CNAME_UPDATE,ok,240,chiklo.xii.jp..txt,1458,130.42353099999994,0.597983,1.840279,2,6,2.466018,
+Aether,files-100-500,xii.jp,files-100-500/xii.jp,CNAME_UPDATE,ok,,chiklo.xii.jp..txt,,68.31099999999999,0.737,,,,,num_lec=1456; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xii.jp/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,xitinblog.net,files-100-500/xitinblog.net,A_ADD,ok,269,125equity.xitinblog.net..txt,1343,164.59306200000012,0.189855,0.408604,1,0,0.607147,
+Aether,files-100-500,xitinblog.net,files-100-500/xitinblog.net,A_ADD,ok,,125equity.xitinblog.net..txt,,76.59899999999999,1.146,,,,,num_lec=1345; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xitinblog.net/A_ADD/stderr.log
+VeriDNS,files-100-500,xitinblog.net,files-100-500/xitinblog.net,A_UPDATE,ok,269,125equity.xitinblog.net..txt,1343,164.59306200000012,0.367974,0.449096,2,4,0.835164,
+Aether,files-100-500,xitinblog.net,files-100-500/xitinblog.net,A_UPDATE,ok,,125equity.xitinblog.net..txt,,73.793,0.979,,,,,num_lec=1344; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xitinblog.net/A_UPDATE/stderr.log
+VeriDNS,files-100-500,xitinblog.net,files-100-500/xitinblog.net,NS_UPDATE,ok,269,125equity.xitinblog.net..txt,1343,164.59306200000012,0.424446,0.55072,2,4,0.999932,
+Aether,files-100-500,xitinblog.net,files-100-500/xitinblog.net,NS_UPDATE,ok,,125equity.xitinblog.net..txt,,77.37,1.3569999999999998,,,,,num_lec=1344; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xitinblog.net/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,xitinblog.net,files-100-500/xitinblog.net,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,xitinblog.net,files-100-500/xitinblog.net,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,xoom.it,files-100-500/xoom.it,A_ADD,ok,281,acelocahujerii.xoom.it..txt,1451,192.4670579999999,0.16383,0.35993,1,0,0.530773,
+Aether,files-100-500,xoom.it,files-100-500/xoom.it,A_ADD,ok,,acelocahujerii.xoom.it..txt,,77.821,0.772,,,,,num_lec=1395; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xoom.it/A_ADD/stderr.log
+VeriDNS,files-100-500,xoom.it,files-100-500/xoom.it,A_UPDATE,ok,281,acnm.xoom.it..txt,1451,192.4670579999999,0.582943,0.903589,2,4,1.520121,
+Aether,files-100-500,xoom.it,files-100-500/xoom.it,A_UPDATE,ok,,acnm.xoom.it..txt,,76.181,1.365,,,,,num_lec=1394; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xoom.it/A_UPDATE/stderr.log
+VeriDNS,files-100-500,xoom.it,files-100-500/xoom.it,NS_UPDATE,ok,281,acelocahujerii.xoom.it..txt,1451,192.4670579999999,0.39841,0.526807,2,3,0.945706,
+Aether,files-100-500,xoom.it,files-100-500/xoom.it,NS_UPDATE,ok,,acelocahujerii.xoom.it..txt,,81.569,0.532,,,,,num_lec=1394; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xoom.it/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,xoom.it,files-100-500/xoom.it,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,xoom.it,files-100-500/xoom.it,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,xsrv.jp,files-100-500/xsrv.jp,A_ADD,ok,167,acs.xsrv.jp..txt,2227,108.016801,0.200826,0.467853,1,0,0.677297,
+Aether,files-100-500,xsrv.jp,files-100-500/xsrv.jp,A_ADD,ok,,acs.xsrv.jp..txt,,85.42099999999999,0.784,,,,,num_lec=1380; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xsrv.jp/A_ADD/stderr.log
+VeriDNS,files-100-500,xsrv.jp,files-100-500/xsrv.jp,A_UPDATE,ok,167,acs.xsrv.jp..txt,2227,108.016801,0.413557,0.464996,2,6,0.897512,
+Aether,files-100-500,xsrv.jp,files-100-500/xsrv.jp,A_UPDATE,ok,,acs.xsrv.jp..txt,,85.005,0.667,,,,,num_lec=1379; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xsrv.jp/A_UPDATE/stderr.log
+VeriDNS,files-100-500,xsrv.jp,files-100-500/xsrv.jp,NS_UPDATE,ok,167,acs.xsrv.jp..txt,2227,108.016801,0.481804,0.551011,2,6,1.054385,
+Aether,files-100-500,xsrv.jp,files-100-500/xsrv.jp,NS_UPDATE,ok,,acs.xsrv.jp..txt,,85.904,0.744,,,,,num_lec=1379; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__xsrv.jp/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,xsrv.jp,files-100-500/xsrv.jp,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,xsrv.jp,files-100-500/xsrv.jp,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,yahoo.com,files-100-500/yahoo.com,A_ADD,ok,151,a1.b.yahoo.com..txt,25823,1613.5974159999996,1.409453,3.219879,1,0,4.640762,
+Aether,files-100-500,yahoo.com,files-100-500/yahoo.com,A_ADD,ok,,a1.b.yahoo.com..txt,,1588.941,0.63,,,,,num_lec=4927; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yahoo.com/A_ADD/stderr.log
+VeriDNS,files-100-500,yahoo.com,files-100-500/yahoo.com,A_UPDATE,ok,151,a1.b.yahoo.com..txt,25823,1613.5974159999996,2.648935,4.207517,2,2,6.949891,
+Aether,files-100-500,yahoo.com,files-100-500/yahoo.com,A_UPDATE,ok,,a1.b.yahoo.com..txt,,1565.2,0.015,,,,,num_lec=4926; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yahoo.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,yahoo.com,files-100-500/yahoo.com,NS_UPDATE,ok,151,a1.b.yahoo.com..txt,25823,1613.5974159999996,4.232472,8.71693,2,3,13.095451,
+Aether,files-100-500,yahoo.com,files-100-500/yahoo.com,NS_UPDATE,ok,,a1.b.yahoo.com..txt,,1617.209,0.014000000000000002,,,,,num_lec=4926; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yahoo.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,yahoo.com,files-100-500/yahoo.com,CNAME_UPDATE,ok,151,a1.b.yahoo.com..txt,25823,1613.5974159999996,4.603673,10.234149,2,3,15.00107,
+Aether,files-100-500,yahoo.com,files-100-500/yahoo.com,CNAME_UPDATE,ok,,a1.b.yahoo.com..txt,,1625.231,0.742,,,,,num_lec=4926; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yahoo.com/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,yale.edu,files-100-500/yale.edu,A_ADD,ok,201,acir.yale.edu..txt,3156,465.2130689999998,0.200173,0.412892,1,0,0.620545,
+Aether,files-100-500,yale.edu,files-100-500/yale.edu,A_ADD,ok,,acir.yale.edu..txt,,181.499,0.15,,,,,num_lec=1916; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yale.edu/A_ADD/stderr.log
+VeriDNS,files-100-500,yale.edu,files-100-500/yale.edu,A_UPDATE,ok,201,acir.yale.edu..txt,3156,465.2130689999998,0.511894,0.594583,2,6,1.129195,
+Aether,files-100-500,yale.edu,files-100-500/yale.edu,A_UPDATE,ok,,acir.yale.edu..txt,,176.322,0.008,,,,,num_lec=1915; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yale.edu/A_UPDATE/stderr.log
+VeriDNS,files-100-500,yale.edu,files-100-500/yale.edu,NS_UPDATE,ok,201,acir.yale.edu..txt,3156,465.2130689999998,0.622996,1.476208,2,6,2.125978,
+Aether,files-100-500,yale.edu,files-100-500/yale.edu,NS_UPDATE,ok,,acir.yale.edu..txt,,239.2,0.007,,,,,num_lec=1915; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yale.edu/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,yale.edu,files-100-500/yale.edu,CNAME_UPDATE,ok,201,alumni.yale.edu..txt,3156,465.2130689999998,0.84513,2.082667,2,16,2.957857,
+Aether,files-100-500,yale.edu,files-100-500/yale.edu,CNAME_UPDATE,ok,,alumni.yale.edu..txt,,187.796,0.010000000000000002,,,,,num_lec=1915; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yale.edu/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,yorku.ca,files-100-500/yorku.ca,A_ADD,ok,108,abel.yorku.ca..txt,1306,170.28760399999996,0.297996,1.454977,1,0,1.761606,
+Aether,files-100-500,yorku.ca,files-100-500/yorku.ca,A_ADD,ok,,abel.yorku.ca..txt,,133.498,0.77,,,,,num_lec=1174; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yorku.ca/A_ADD/stderr.log
+VeriDNS,files-100-500,yorku.ca,files-100-500/yorku.ca,A_UPDATE,ok,108,abel.yorku.ca..txt,1306,170.28760399999996,1.301999,1.724435,2,7,3.051795,
+Aether,files-100-500,yorku.ca,files-100-500/yorku.ca,A_UPDATE,ok,,abel.yorku.ca..txt,,120.98400000000001,1.305,,,,,num_lec=1173; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yorku.ca/A_UPDATE/stderr.log
+VeriDNS,files-100-500,yorku.ca,files-100-500/yorku.ca,NS_UPDATE,ok,108,abel.yorku.ca..txt,1306,170.28760399999996,0.784034,2.034244,2,5,2.846865,
+Aether,files-100-500,yorku.ca,files-100-500/yorku.ca,NS_UPDATE,ok,,abel.yorku.ca..txt,,138.941,0.771,,,,,num_lec=1173; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yorku.ca/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,yorku.ca,files-100-500/yorku.ca,CNAME_UPDATE,ok,108,abel.yorku.ca..txt,1306,170.28760399999996,0.890873,3.636947,2,3,4.571675,
+Aether,files-100-500,yorku.ca,files-100-500/yorku.ca,CNAME_UPDATE,ok,,abel.yorku.ca..txt,,147.12099999999998,0.731,,,,,num_lec=1173; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yorku.ca/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,yourfreehosting.net,files-100-500/yourfreehosting.net,A_ADD,ok,287,accordion2.yourfreehosting.net..txt,1433,202.40456099999983,0.19495,0.375017,1,0,0.579078,
+Aether,files-100-500,yourfreehosting.net,files-100-500/yourfreehosting.net,A_ADD,ok,,accordion2.yourfreehosting.net..txt,,78.804,1.7959999999999998,,,,,num_lec=1435; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yourfreehosting.net/A_ADD/stderr.log
+VeriDNS,files-100-500,yourfreehosting.net,files-100-500/yourfreehosting.net,A_UPDATE,ok,287,accordion2.yourfreehosting.net..txt,1433,202.40456099999983,0.714043,0.928316,2,4,1.673539,
+Aether,files-100-500,yourfreehosting.net,files-100-500/yourfreehosting.net,A_UPDATE,ok,,accordion2.yourfreehosting.net..txt,,76.18299999999999,0.869,,,,,num_lec=1434; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yourfreehosting.net/A_UPDATE/stderr.log
+VeriDNS,files-100-500,yourfreehosting.net,files-100-500/yourfreehosting.net,NS_UPDATE,ok,287,accordion2.yourfreehosting.net..txt,1433,202.40456099999983,0.360101,0.452058,2,4,0.830428,
+Aether,files-100-500,yourfreehosting.net,files-100-500/yourfreehosting.net,NS_UPDATE,ok,,accordion2.yourfreehosting.net..txt,,77.14099999999999,0.744,,,,,num_lec=1434; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yourfreehosting.net/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,yourfreehosting.net,files-100-500/yourfreehosting.net,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,yourfreehosting.net,files-100-500/yourfreehosting.net,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,yourprospex.com,files-100-500/yourprospex.com,A_ADD,ok,175,aaronwroten.yourprospex.com..txt,182,111.53642199999993,0.159714,0.344263,1,0,0.511187,
+Aether,files-100-500,yourprospex.com,files-100-500/yourprospex.com,A_ADD,ok,,aaronwroten.yourprospex.com..txt,,32.413000000000004,0.14100000000000001,,,,,num_lec=528; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yourprospex.com/A_ADD/stderr.log
+VeriDNS,files-100-500,yourprospex.com,files-100-500/yourprospex.com,A_UPDATE,ok,175,aaronwroten.yourprospex.com..txt,182,111.53642199999993,0.295453,0.409538,2,2,0.720251,
+Aether,files-100-500,yourprospex.com,files-100-500/yourprospex.com,A_UPDATE,ok,,aaronwroten.yourprospex.com..txt,,30.532999999999998,0.159,,,,,num_lec=527; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yourprospex.com/A_UPDATE/stderr.log
+VeriDNS,files-100-500,yourprospex.com,files-100-500/yourprospex.com,NS_UPDATE,ok,175,yourprospex.com..txt,182,111.53642199999993,0.604462,0.510271,2,9,1.137936,
+Aether,files-100-500,yourprospex.com,files-100-500/yourprospex.com,NS_UPDATE,ok,,yourprospex.com..txt,,32.492999999999995,0.294,,,,,num_lec=527; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__yourprospex.com/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,yourprospex.com,files-100-500/yourprospex.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-100-500,yourprospex.com,files-100-500/yourprospex.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-100-500,za.net,files-100-500/za.net,A_ADD,ok,372,17loader.za.net..txt,4679,384.96777700000007,0.225534,0.438754,1,0,0.672665,
+Aether,files-100-500,za.net,files-100-500/za.net,A_ADD,ok,,17loader.za.net..txt,,341.54,0.832,,,,,num_lec=3320; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__za.net/A_ADD/stderr.log
+VeriDNS,files-100-500,za.net,files-100-500/za.net,A_UPDATE,ok,372,17loader.za.net..txt,4679,384.96777700000007,0.466754,0.664416,2,8,1.153671,
+Aether,files-100-500,za.net,files-100-500/za.net,A_UPDATE,ok,,17loader.za.net..txt,,302.765,0.641,,,,,num_lec=3319; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__za.net/A_UPDATE/stderr.log
+VeriDNS,files-100-500,za.net,files-100-500/za.net,NS_UPDATE,ok,372,17loader.za.net..txt,4679,384.96777700000007,0.662398,0.813246,2,6,1.506316,
+Aether,files-100-500,za.net,files-100-500/za.net,NS_UPDATE,ok,,17loader.za.net..txt,,309.21900000000005,0.543,,,,,num_lec=3319; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__za.net/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,za.net,files-100-500/za.net,CNAME_UPDATE,ok,372,acidmax.za.net..txt,4679,384.96777700000007,0.974128,2.575478,2,7,3.591794,
+Aether,files-100-500,za.net,files-100-500/za.net,CNAME_UPDATE,ok,,acidmax.za.net..txt,,272.404,0.737,,,,,num_lec=3319; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__za.net/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,zgora.pl,files-100-500/zgora.pl,A_ADD,ok,220,7liceum.zgora.pl..txt,3449,277.50768700000015,0.211824,0.874801,1,0,1.096334,
+Aether,files-100-500,zgora.pl,files-100-500/zgora.pl,A_ADD,ok,,7liceum.zgora.pl..txt,,130.842,0.12000000000000001,,,,,num_lec=1381; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__zgora.pl/A_ADD/stderr.log
+VeriDNS,files-100-500,zgora.pl,files-100-500/zgora.pl,A_UPDATE,ok,220,7liceum.zgora.pl..txt,3449,277.50768700000015,0.497399,1.300266,2,6,1.822436,
+Aether,files-100-500,zgora.pl,files-100-500/zgora.pl,A_UPDATE,ok,,7liceum.zgora.pl..txt,,112.852,0.007,,,,,num_lec=1380; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__zgora.pl/A_UPDATE/stderr.log
+VeriDNS,files-100-500,zgora.pl,files-100-500/zgora.pl,NS_UPDATE,ok,220,7liceum.zgora.pl..txt,3449,277.50768700000015,0.789537,1.437309,2,6,2.252624,
+Aether,files-100-500,zgora.pl,files-100-500/zgora.pl,NS_UPDATE,ok,,7liceum.zgora.pl..txt,,153.079,0.007,,,,,num_lec=1380; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__zgora.pl/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,zgora.pl,files-100-500/zgora.pl,CNAME_UPDATE,ok,220,7liceum.zgora.pl..txt,3449,277.50768700000015,0.461673,1.320469,2,6,1.803464,
+Aether,files-100-500,zgora.pl,files-100-500/zgora.pl,CNAME_UPDATE,ok,,7liceum.zgora.pl..txt,,129.03799999999998,0.056,,,,,num_lec=1380; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__zgora.pl/CNAME_UPDATE/stderr.log
+VeriDNS,files-100-500,zhp.pl,files-100-500/zhp.pl,A_ADD,ok,144,1procent.zhp.pl..txt,1120,144.58103400000005,0.248738,0.312534,1,0,0.569685,
+Aether,files-100-500,zhp.pl,files-100-500/zhp.pl,A_ADD,ok,,1procent.zhp.pl..txt,,60.638999999999996,0.553,,,,,num_lec=956; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__zhp.pl/A_ADD/stderr.log
+VeriDNS,files-100-500,zhp.pl,files-100-500/zhp.pl,A_UPDATE,ok,144,1procent.zhp.pl..txt,1120,144.58103400000005,0.433121,0.49075,2,6,0.943886,
+Aether,files-100-500,zhp.pl,files-100-500/zhp.pl,A_UPDATE,ok,,1procent.zhp.pl..txt,,67.08999999999999,1.2389999999999999,,,,,num_lec=955; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__zhp.pl/A_UPDATE/stderr.log
+VeriDNS,files-100-500,zhp.pl,files-100-500/zhp.pl,NS_UPDATE,ok,144,1procent.zhp.pl..txt,1120,144.58103400000005,0.41716,0.495939,2,6,0.935276,
+Aether,files-100-500,zhp.pl,files-100-500/zhp.pl,NS_UPDATE,ok,,1procent.zhp.pl..txt,,68.373,0.34700000000000003,,,,,num_lec=955; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__zhp.pl/NS_UPDATE/stderr.log
+VeriDNS,files-100-500,zhp.pl,files-100-500/zhp.pl,CNAME_UPDATE,ok,144,akademicy.zhp.pl..txt,1120,144.58103400000005,0.841793,2.221929,2,7,3.101057,
+Aether,files-100-500,zhp.pl,files-100-500/zhp.pl,CNAME_UPDATE,ok,,akademicy.zhp.pl..txt,,74.032,0.501,,,,,num_lec=955; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-100-500__zhp.pl/CNAME_UPDATE/stderr.log
+VeriDNS,files-500-1000,votesp.com,files-500-1000/votesp.com,A_ADD,ok,989,1018e.votesp.com..txt,1615,482.305592,0.184143,0.428013,1,0,0.620539,
+Aether,files-500-1000,votesp.com,files-500-1000/votesp.com,A_ADD,ok,,1018e.votesp.com..txt,,189.941,0.276,,,,,num_lec=3590; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__votesp.com/A_ADD/stderr.log
+VeriDNS,files-500-1000,votesp.com,files-500-1000/votesp.com,A_UPDATE,ok,989,1018e.votesp.com..txt,1615,482.305592,0.299387,0.382505,2,3,0.697883,
+Aether,files-500-1000,votesp.com,files-500-1000/votesp.com,A_UPDATE,ok,,1018e.votesp.com..txt,,157.926,0.109,,,,,num_lec=3589; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__votesp.com/A_UPDATE/stderr.log
+VeriDNS,files-500-1000,votesp.com,files-500-1000/votesp.com,NS_UPDATE,ok,989,votesp.com..txt,1615,482.305592,0.459412,0.506166,2,8,0.988374,
+Aether,files-500-1000,votesp.com,files-500-1000/votesp.com,NS_UPDATE,ok,,votesp.com..txt,,192.448,0.192,,,,,num_lec=3589; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__votesp.com/NS_UPDATE/stderr.log
+VeriDNS,files-500-1000,votesp.com,files-500-1000/votesp.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-500-1000,votesp.com,files-500-1000/votesp.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-500-1000,web.tr,files-500-1000/web.tr,A_ADD,ok,562,2k.web.tr..txt,8672,637.3508799999995,0.208989,0.790751,1,0,1.007852,
+Aether,files-500-1000,web.tr,files-500-1000/web.tr,A_ADD,ok,,2k.web.tr..txt,,365.62700000000007,0.216,,,,,num_lec=3654; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__web.tr/A_ADD/stderr.log
+VeriDNS,files-500-1000,web.tr,files-500-1000/web.tr,A_UPDATE,ok,562,2k.web.tr..txt,8672,637.3508799999995,0.70606,1.794106,2,6,2.530298,
+Aether,files-500-1000,web.tr,files-500-1000/web.tr,A_UPDATE,ok,,2k.web.tr..txt,,364.09899999999993,0.006,,,,,num_lec=3653; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__web.tr/A_UPDATE/stderr.log
+VeriDNS,files-500-1000,web.tr,files-500-1000/web.tr,NS_UPDATE,ok,562,2k.web.tr..txt,8672,637.3508799999995,0.469072,2.079703,2,6,2.575285,
+Aether,files-500-1000,web.tr,files-500-1000/web.tr,NS_UPDATE,ok,,2k.web.tr..txt,,327.54299999999995,0.008,,,,,num_lec=3653; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__web.tr/NS_UPDATE/stderr.log
+VeriDNS,files-500-1000,web.tr,files-500-1000/web.tr,CNAME_UPDATE,ok,562,2k.web.tr..txt,8672,637.3508799999995,0.953706,2.475926,2,6,3.471855,
+Aether,files-500-1000,web.tr,files-500-1000/web.tr,CNAME_UPDATE,ok,,2k.web.tr..txt,,329.46399999999994,0.117,,,,,num_lec=3653; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__web.tr/CNAME_UPDATE/stderr.log
+VeriDNS,files-500-1000,weblog.com,files-500-1000/weblog.com,A_ADD,ok,554,3cministries.weblog.com..txt,2827,296.61420799999973,0.144352,0.280454,1,0,0.431698,
+Aether,files-500-1000,weblog.com,files-500-1000/weblog.com,A_ADD,ok,,3cministries.weblog.com..txt,,138.105,0.741,,,,,num_lec=2830; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__weblog.com/A_ADD/stderr.log
+VeriDNS,files-500-1000,weblog.com,files-500-1000/weblog.com,A_UPDATE,ok,554,3cministries.weblog.com..txt,2827,296.61420799999973,0.311384,0.370585,2,4,0.714378,
+Aether,files-500-1000,weblog.com,files-500-1000/weblog.com,A_UPDATE,ok,,3cministries.weblog.com..txt,,150.287,0.715,,,,,num_lec=2829; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__weblog.com/A_UPDATE/stderr.log
+VeriDNS,files-500-1000,weblog.com,files-500-1000/weblog.com,NS_UPDATE,ok,554,3cministries.weblog.com..txt,2827,296.61420799999973,0.356251,0.44799,2,4,0.821924,
+Aether,files-500-1000,weblog.com,files-500-1000/weblog.com,NS_UPDATE,ok,,3cministries.weblog.com..txt,,129.795,0.514,,,,,num_lec=2829; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__weblog.com/NS_UPDATE/stderr.log
+VeriDNS,files-500-1000,weblog.com,files-500-1000/weblog.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-500-1000,weblog.com,files-500-1000/weblog.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-500-1000,wisc.edu,files-500-1000/wisc.edu,A_ADD,ok,579,333ecm.wisc.edu..txt,7910,417.0004410000001,0.15901,0.319967,1,0,0.485582,
+Aether,files-500-1000,wisc.edu,files-500-1000/wisc.edu,A_ADD,ok,,333ecm.wisc.edu..txt,,652.9990000000001,0.868,,,,,num_lec=5451; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wisc.edu/A_ADD/stderr.log
+VeriDNS,files-500-1000,wisc.edu,files-500-1000/wisc.edu,A_UPDATE,ok,579,333ecm.wisc.edu..txt,7910,417.0004410000001,0.323934,0.364939,2,5,0.719456,
+Aether,files-500-1000,wisc.edu,files-500-1000/wisc.edu,A_UPDATE,ok,,333ecm.wisc.edu..txt,,568.943,1.411,,,,,num_lec=5450; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wisc.edu/A_UPDATE/stderr.log
+VeriDNS,files-500-1000,wisc.edu,files-500-1000/wisc.edu,NS_UPDATE,ok,579,333ecm.wisc.edu..txt,7910,417.0004410000001,0.450678,0.51733,2,5,1.006485,
+Aether,files-500-1000,wisc.edu,files-500-1000/wisc.edu,NS_UPDATE,ok,,333ecm.wisc.edu..txt,,577.55,0.496,,,,,num_lec=5450; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wisc.edu/NS_UPDATE/stderr.log
+VeriDNS,files-500-1000,wisc.edu,files-500-1000/wisc.edu,CNAME_UPDATE,ok,579,aae.wisc.edu..txt,7910,417.0004410000001,1.267272,6.310015,2,3,7.6524,
+Aether,files-500-1000,wisc.edu,files-500-1000/wisc.edu,CNAME_UPDATE,error,,,,,,,,,,exit=101; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wisc.edu/CNAME_UPDATE/stderr.log
+VeriDNS,files-500-1000,wopert.com,files-500-1000/wopert.com,A_ADD,ok,554,0cob9yz.wopert.com..txt,903,200.34172000000004,0.168884,0.329125,1,0,0.507361,
+Aether,files-500-1000,wopert.com,files-500-1000/wopert.com,A_ADD,ok,,0cob9yz.wopert.com..txt,,109.041,0.19999999999999998,,,,,num_lec=2008; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wopert.com/A_ADD/stderr.log
+VeriDNS,files-500-1000,wopert.com,files-500-1000/wopert.com,A_UPDATE,ok,554,0cob9yz.wopert.com..txt,903,200.34172000000004,0.309557,0.373937,2,3,0.716108,
+Aether,files-500-1000,wopert.com,files-500-1000/wopert.com,A_UPDATE,ok,,0cob9yz.wopert.com..txt,,94.09500000000001,0.054000000000000006,,,,,num_lec=2007; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wopert.com/A_UPDATE/stderr.log
+VeriDNS,files-500-1000,wopert.com,files-500-1000/wopert.com,NS_UPDATE,ok,554,wopert.com..txt,903,200.34172000000004,0.507616,0.67221,2,8,1.206546,
+Aether,files-500-1000,wopert.com,files-500-1000/wopert.com,NS_UPDATE,ok,,wopert.com..txt,,94.272,0.15000000000000002,,,,,num_lec=2007; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wopert.com/NS_UPDATE/stderr.log
+VeriDNS,files-500-1000,wopert.com,files-500-1000/wopert.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-500-1000,wopert.com,files-500-1000/wopert.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-500-1000,wroc.pl,files-500-1000/wroc.pl,A_ADD,ok,550,2012.wroc.pl..txt,6103,549.5138960000005,0.33694,0.611765,1,0,0.965229,
+Aether,files-500-1000,wroc.pl,files-500-1000/wroc.pl,A_ADD,ok,,2012.wroc.pl..txt,,755.052,1.134,,,,,num_lec=5024; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wroc.pl/A_ADD/stderr.log
+VeriDNS,files-500-1000,wroc.pl,files-500-1000/wroc.pl,A_UPDATE,ok,550,2012.wroc.pl..txt,6103,549.5138960000005,0.44722,0.584398,2,2,1.080351,
+Aether,files-500-1000,wroc.pl,files-500-1000/wroc.pl,A_UPDATE,ok,,2012.wroc.pl..txt,,636.25,0.775,,,,,num_lec=5023; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wroc.pl/A_UPDATE/stderr.log
+VeriDNS,files-500-1000,wroc.pl,files-500-1000/wroc.pl,NS_UPDATE,ok,550,2012.wroc.pl..txt,6103,549.5138960000005,0.558066,1.437723,2,8,2.021826,
+Aether,files-500-1000,wroc.pl,files-500-1000/wroc.pl,NS_UPDATE,ok,,2012.wroc.pl..txt,,636.062,0.861,,,,,num_lec=5023; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wroc.pl/NS_UPDATE/stderr.log
+VeriDNS,files-500-1000,wroc.pl,files-500-1000/wroc.pl,CNAME_UPDATE,ok,550,accord.wroc.pl..txt,6103,549.5138960000005,0.751418,2.526308,2,2,3.322635,
+Aether,files-500-1000,wroc.pl,files-500-1000/wroc.pl,CNAME_UPDATE,ok,,accord.wroc.pl..txt,,647.654,1.036,,,,,num_lec=5023; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wroc.pl/CNAME_UPDATE/stderr.log
+VeriDNS,files-500-1000,wroclaw.pl,files-500-1000/wroclaw.pl,A_ADD,ok,509,2mserwis.wroclaw.pl..txt,9651,455.4539909999999,0.172887,0.325489,1,0,0.506045,
+Aether,files-500-1000,wroclaw.pl,files-500-1000/wroclaw.pl,A_ADD,ok,,2mserwis.wroclaw.pl..txt,,311.24199999999996,0.179,,,,,num_lec=3249; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wroclaw.pl/A_ADD/stderr.log
+VeriDNS,files-500-1000,wroclaw.pl,files-500-1000/wroclaw.pl,A_UPDATE,ok,509,2mserwis.wroclaw.pl..txt,9651,455.4539909999999,0.478547,0.512969,2,8,1.012153,
+Aether,files-500-1000,wroclaw.pl,files-500-1000/wroclaw.pl,A_UPDATE,ok,,2mserwis.wroclaw.pl..txt,,302.655,0.008,,,,,num_lec=3248; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wroclaw.pl/A_UPDATE/stderr.log
+VeriDNS,files-500-1000,wroclaw.pl,files-500-1000/wroclaw.pl,NS_UPDATE,ok,509,2mserwis.wroclaw.pl..txt,9651,455.4539909999999,0.76044,0.941335,2,6,1.735642,
+Aether,files-500-1000,wroclaw.pl,files-500-1000/wroclaw.pl,NS_UPDATE,ok,,2mserwis.wroclaw.pl..txt,,322.974,0.006,,,,,num_lec=3248; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wroclaw.pl/NS_UPDATE/stderr.log
+VeriDNS,files-500-1000,wroclaw.pl,files-500-1000/wroclaw.pl,CNAME_UPDATE,ok,509,accent.wroclaw.pl..txt,9651,455.4539909999999,0.742456,49.689583,2,6,50.466339,
+Aether,files-500-1000,wroclaw.pl,files-500-1000/wroclaw.pl,CNAME_UPDATE,ok,,accent.wroclaw.pl..txt,,346.59299999999996,0.053,,,,,num_lec=3248; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__wroclaw.pl/CNAME_UPDATE/stderr.log
+VeriDNS,files-500-1000,zp.ua,files-500-1000/zp.ua,A_ADD,ok,644,09.zp.ua..txt,9906,534.9493829999998,0.209034,0.43614,1,0,0.655555,
+Aether,files-500-1000,zp.ua,files-500-1000/zp.ua,A_ADD,ok,,09.zp.ua..txt,,384.03799999999995,0.196,,,,,num_lec=4481; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__zp.ua/A_ADD/stderr.log
+VeriDNS,files-500-1000,zp.ua,files-500-1000/zp.ua,A_UPDATE,ok,644,09.zp.ua..txt,9906,534.9493829999998,0.954963,1.097247,2,7,2.090905,
+Aether,files-500-1000,zp.ua,files-500-1000/zp.ua,A_UPDATE,ok,,09.zp.ua..txt,,419.808,0.007,,,,,num_lec=4480; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__zp.ua/A_UPDATE/stderr.log
+VeriDNS,files-500-1000,zp.ua,files-500-1000/zp.ua,NS_UPDATE,ok,644,09.zp.ua..txt,9906,534.9493829999998,0.839675,1.045819,2,6,1.924423,
+Aether,files-500-1000,zp.ua,files-500-1000/zp.ua,NS_UPDATE,ok,,09.zp.ua..txt,,379.52299999999997,0.008,,,,,num_lec=4480; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__zp.ua/NS_UPDATE/stderr.log
+VeriDNS,files-500-1000,zp.ua,files-500-1000/zp.ua,CNAME_UPDATE,ok,644,afisha.zp.ua..txt,9906,534.9493829999998,0.968016,2.523468,2,7,3.535601,
+Aether,files-500-1000,zp.ua,files-500-1000/zp.ua,CNAME_UPDATE,ok,,afisha.zp.ua..txt,,343.59899999999993,0.012,,,,,num_lec=4480; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-500-1000__zp.ua/CNAME_UPDATE/stderr.log
+VeriDNS,files-1000-plus,waw.pl,files-1000-plus/waw.pl,A_ADD,ok,2250,147break.waw.pl..txt,38726,2085.9784180000024,0.154722,0.302595,1,0,0.465163,
+Aether,files-1000-plus,waw.pl,files-1000-plus/waw.pl,A_ADD,ok,,147break.waw.pl..txt,,1738.08,0.28200000000000003,,,,,num_lec=14869; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__waw.pl/A_ADD/stderr.log
+VeriDNS,files-1000-plus,waw.pl,files-1000-plus/waw.pl,A_UPDATE,ok,2250,147break.waw.pl..txt,38726,2085.9784180000024,0.396487,0.615989,2,5,1.032936,
+Aether,files-1000-plus,waw.pl,files-1000-plus/waw.pl,A_UPDATE,ok,,147break.waw.pl..txt,,1707.9940000000001,0.008,,,,,num_lec=14868; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__waw.pl/A_UPDATE/stderr.log
+VeriDNS,files-1000-plus,waw.pl,files-1000-plus/waw.pl,NS_UPDATE,ok,2250,147break.waw.pl..txt,38726,2085.9784180000024,0.766163,0.974059,2,5,1.772972,
+Aether,files-1000-plus,waw.pl,files-1000-plus/waw.pl,NS_UPDATE,ok,,147break.waw.pl..txt,,1663.3840000000002,0.009000000000000001,,,,,num_lec=14868; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__waw.pl/NS_UPDATE/stderr.log
+VeriDNS,files-1000-plus,waw.pl,files-1000-plus/waw.pl,CNAME_UPDATE,ok,2250,26lo.waw.pl..txt,38726,2085.9784180000024,0.386732,1.036561,2,7,1.443114,
+Aether,files-1000-plus,waw.pl,files-1000-plus/waw.pl,CNAME_UPDATE,ok,,26lo.waw.pl..txt,,1698.532,0.11800000000000001,,,,,num_lec=14868; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__waw.pl/CNAME_UPDATE/stderr.log
+VeriDNS,files-1000-plus,web.id,files-1000-plus/web.id,A_ADD,ok,2368,4share.web.id..txt,38232,2728.4883780000046,0.172146,0.321568,1,0,0.500875,
+Aether,files-1000-plus,web.id,files-1000-plus/web.id,A_ADD,ok,,4share.web.id..txt,,1816.44,0.266,,,,,num_lec=16071; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__web.id/A_ADD/stderr.log
+VeriDNS,files-1000-plus,web.id,files-1000-plus/web.id,A_UPDATE,ok,2368,4share.web.id..txt,38232,2728.4883780000046,0.481083,0.559617,2,7,1.061494,
+Aether,files-1000-plus,web.id,files-1000-plus/web.id,A_UPDATE,ok,,4share.web.id..txt,,1845.499,0.008,,,,,num_lec=16070; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__web.id/A_UPDATE/stderr.log
+VeriDNS,files-1000-plus,web.id,files-1000-plus/web.id,NS_UPDATE,ok,2368,4share.web.id..txt,38232,2728.4883780000046,0.926192,1.296655,2,7,2.261439,
+Aether,files-1000-plus,web.id,files-1000-plus/web.id,NS_UPDATE,ok,,4share.web.id..txt,,1780.1360000000002,0.009000000000000001,,,,,num_lec=16070; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__web.id/NS_UPDATE/stderr.log
+VeriDNS,files-1000-plus,web.id,files-1000-plus/web.id,CNAME_UPDATE,ok,2368,a7x.web.id..txt,38232,2728.4883780000046,0.892183,2.346406,2,6,3.272354,
+Aether,files-1000-plus,web.id,files-1000-plus/web.id,CNAME_UPDATE,ok,,a7x.web.id..txt,,1844.363,0.081,,,,,num_lec=16070; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__web.id/CNAME_UPDATE/stderr.log
+VeriDNS,files-1000-plus,wp-studio.net,files-1000-plus/wp-studio.net,A_ADD,ok,1187,007.wp-studio.net..txt,6832,803.125016999999,0.154199,0.284664,1,0,0.445276,
+Aether,files-1000-plus,wp-studio.net,files-1000-plus/wp-studio.net,A_ADD,ok,,007.wp-studio.net..txt,,423.91299999999995,0.9530000000000001,,,,,num_lec=6834; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__wp-studio.net/A_ADD/stderr.log
+VeriDNS,files-1000-plus,wp-studio.net,files-1000-plus/wp-studio.net,A_UPDATE,ok,1187,007.wp-studio.net..txt,6832,803.125016999999,0.426336,0.366192,2,5,0.825065,
+Aether,files-1000-plus,wp-studio.net,files-1000-plus/wp-studio.net,A_UPDATE,ok,,007.wp-studio.net..txt,,367.926,0.851,,,,,num_lec=6833; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__wp-studio.net/A_UPDATE/stderr.log
+VeriDNS,files-1000-plus,wp-studio.net,files-1000-plus/wp-studio.net,NS_UPDATE,ok,1187,007.wp-studio.net..txt,6832,803.125016999999,0.397374,0.471356,2,5,0.889853,
+Aether,files-1000-plus,wp-studio.net,files-1000-plus/wp-studio.net,NS_UPDATE,ok,,007.wp-studio.net..txt,,368.092,0.733,,,,,num_lec=6833; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__wp-studio.net/NS_UPDATE/stderr.log
+VeriDNS,files-1000-plus,wp-studio.net,files-1000-plus/wp-studio.net,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-1000-plus,wp-studio.net,files-1000-plus/wp-studio.net,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,files-1000-plus,youaremighty.com,files-1000-plus/youaremighty.com,A_ADD,ok,3271,1337.youaremighty.com..txt,18568,1679.783863000003,0.169856,0.314881,1,0,0.49224,
+Aether,files-1000-plus,youaremighty.com,files-1000-plus/youaremighty.com,A_ADD,ok,,1337.youaremighty.com..txt,,2176.882,0.9430000000000001,,,,,num_lec=18570; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__youaremighty.com/A_ADD/stderr.log
+VeriDNS,files-1000-plus,youaremighty.com,files-1000-plus/youaremighty.com,A_UPDATE,ok,3271,1337.youaremighty.com..txt,18568,1679.783863000003,0.404253,0.582167,2,5,1.007868,
+Aether,files-1000-plus,youaremighty.com,files-1000-plus/youaremighty.com,A_UPDATE,ok,,1337.youaremighty.com..txt,,2207.234,0.793,,,,,num_lec=18569; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__youaremighty.com/A_UPDATE/stderr.log
+VeriDNS,files-1000-plus,youaremighty.com,files-1000-plus/youaremighty.com,NS_UPDATE,ok,3271,1337.youaremighty.com..txt,18568,1679.783863000003,0.434158,0.503137,2,6,0.959603,
+Aether,files-1000-plus,youaremighty.com,files-1000-plus/youaremighty.com,NS_UPDATE,ok,,1337.youaremighty.com..txt,,2139.5449999999996,0.839,,,,,num_lec=18569; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/files-1000-plus__youaremighty.com/NS_UPDATE/stderr.log
+VeriDNS,files-1000-plus,youaremighty.com,files-1000-plus/youaremighty.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+Aether,files-1000-plus,youaremighty.com,files-1000-plus/youaremighty.com,CNAME_UPDATE,skipped,,,,,,,,,,no CNAME record
+VeriDNS,top-10,co.kr,top-10/co.kr,A_ADD,error,,,,,,,,,,initial cache failed: TimeoutError('VeriDNS initial cache exceeded 60.0s after 67418/80209 zone files')
+Aether,top-10,co.kr,top-10/co.kr,A_ADD,error,,,,,,,,,,"TimeoutExpired(['/home/rulan_yang/DNS-verification/aether/dnsverify/target/release/dnsv', '--output', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/A_ADD/aether_raw.csv', '--trace', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/A_ADD/traces', '--updates', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/A_ADD/updates.csv', 'c', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/A_ADD/input.csv'], 60.0)"
+VeriDNS,top-10,co.kr,top-10/co.kr,A_UPDATE,error,,,,,,,,,,initial cache failed: TimeoutError('VeriDNS initial cache exceeded 60.0s after 67418/80209 zone files')
+Aether,top-10,co.kr,top-10/co.kr,A_UPDATE,error,,,,,,,,,,"TimeoutExpired(['/home/rulan_yang/DNS-verification/aether/dnsverify/target/release/dnsv', '--output', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/A_UPDATE/aether_raw.csv', '--trace', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/A_UPDATE/traces', '--updates', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/A_UPDATE/updates.csv', 'c', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/A_UPDATE/input.csv'], 60.0)"
+VeriDNS,top-10,co.kr,top-10/co.kr,NS_UPDATE,error,,,,,,,,,,initial cache failed: TimeoutError('VeriDNS initial cache exceeded 60.0s after 67418/80209 zone files')
+Aether,top-10,co.kr,top-10/co.kr,NS_UPDATE,error,,,,,,,,,,"TimeoutExpired(['/home/rulan_yang/DNS-verification/aether/dnsverify/target/release/dnsv', '--output', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/NS_UPDATE/aether_raw.csv', '--trace', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/NS_UPDATE/traces', '--updates', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/NS_UPDATE/updates.csv', 'c', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/NS_UPDATE/input.csv'], 60.0)"
+VeriDNS,top-10,co.kr,top-10/co.kr,CNAME_UPDATE,error,,,,,,,,,,initial cache failed: TimeoutError('VeriDNS initial cache exceeded 60.0s after 67418/80209 zone files')
+Aether,top-10,co.kr,top-10/co.kr,CNAME_UPDATE,error,,,,,,,,,,"TimeoutExpired(['/home/rulan_yang/DNS-verification/aether/dnsverify/target/release/dnsv', '--output', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/CNAME_UPDATE/aether_raw.csv', '--trace', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/CNAME_UPDATE/traces', '--updates', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/CNAME_UPDATE/updates.csv', 'c', '/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__co.kr/CNAME_UPDATE/input.csv'], 60.0)"
+VeriDNS,top-10,com.cn,top-10/com.cn,A_ADD,ok,46821,0-100.com.cn..txt,463126,35092.74971499992,0.168242,0.392421,1,0,0.568383,
+Aether,top-10,com.cn,top-10/com.cn,A_ADD,ok,,0-100.com.cn..txt,,37651.937999999995,0.654,,,,,num_lec=201195; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.cn/A_ADD/stderr.log
+VeriDNS,top-10,com.cn,top-10/com.cn,A_UPDATE,ok,46821,0-100.com.cn..txt,463126,35092.74971499992,0.830572,1.034231,2,6,1.899192,
+Aether,top-10,com.cn,top-10/com.cn,A_UPDATE,ok,,0-100.com.cn..txt,,37591.829,0.009000000000000001,,,,,num_lec=201194; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.cn/A_UPDATE/stderr.log
+VeriDNS,top-10,com.cn,top-10/com.cn,NS_UPDATE,ok,46821,0-100.com.cn..txt,463126,35092.74971499992,0.787109,1.046503,2,5,1.867906,
+Aether,top-10,com.cn,top-10/com.cn,NS_UPDATE,ok,,0-100.com.cn..txt,,37479.219999999994,0.010000000000000002,,,,,num_lec=201194; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.cn/NS_UPDATE/stderr.log
+VeriDNS,top-10,com.cn,top-10/com.cn,CNAME_UPDATE,ok,46821,002.com.cn..txt,463126,35092.74971499992,1.138166,2.510134,2,10,3.688127,
+Aether,top-10,com.cn,top-10/com.cn,CNAME_UPDATE,error,,,,,,,,,,exit=101; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.cn/CNAME_UPDATE/stderr.log
+VeriDNS,top-10,com.mx,top-10/com.mx,A_ADD,ok,32271,01dcpromo.com.mx..txt,495153,32199.51634000001,0.270887,0.678343,1,0,0.958727,
+Aether,top-10,com.mx,top-10/com.mx,A_ADD,ok,,01dcpromo.com.mx..txt,,39985.53899999999,0.595,,,,,num_lec=209941; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.mx/A_ADD/stderr.log
+VeriDNS,top-10,com.mx,top-10/com.mx,A_UPDATE,ok,32271,01dcpromo.com.mx..txt,495153,32199.51634000001,0.920126,2.345798,2,7,3.303479,
+Aether,top-10,com.mx,top-10/com.mx,A_UPDATE,ok,,01dcpromo.com.mx..txt,,40522.113,0.009000000000000001,,,,,num_lec=209940; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.mx/A_UPDATE/stderr.log
+VeriDNS,top-10,com.mx,top-10/com.mx,NS_UPDATE,ok,32271,01dcpromo.com.mx..txt,495153,32199.51634000001,0.751039,1.297491,2,7,2.073128,
+Aether,top-10,com.mx,top-10/com.mx,NS_UPDATE,ok,,01dcpromo.com.mx..txt,,39836.562999999995,0.011000000000000001,,,,,num_lec=209940; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.mx/NS_UPDATE/stderr.log
+VeriDNS,top-10,com.mx,top-10/com.mx,CNAME_UPDATE,ok,32271,01dcpromo.com.mx..txt,495153,32199.51634000001,0.90044,2.379729,2,7,3.31665,
+Aether,top-10,com.mx,top-10/com.mx,CNAME_UPDATE,ok,,01dcpromo.com.mx..txt,,40097.683000000005,0.013999999999999999,,,,,num_lec=209940; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.mx/CNAME_UPDATE/stderr.log
+VeriDNS,top-10,com.np,top-10/com.np,A_ADD,ok,11240,062civil.com.np..txt,94556,11250.815682000048,0.2588,0.351009,1,0,0.618515,
+Aether,top-10,com.np,top-10/com.np,A_ADD,ok,,062civil.com.np..txt,,12100.642,1.8899999999999997,,,,,num_lec=88900; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.np/A_ADD/stderr.log
+VeriDNS,top-10,com.np,top-10/com.np,A_UPDATE,ok,11240,062civil.com.np..txt,94556,11250.815682000048,1.035111,1.151923,2,9,2.227269,
+Aether,top-10,com.np,top-10/com.np,A_UPDATE,ok,,062civil.com.np..txt,,11907.239000000001,1.4689999999999999,,,,,num_lec=88899; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.np/A_UPDATE/stderr.log
+VeriDNS,top-10,com.np,top-10/com.np,NS_UPDATE,ok,11240,062civil.com.np..txt,94556,11250.815682000048,0.867769,0.829776,2,7,1.740082,
+Aether,top-10,com.np,top-10/com.np,NS_UPDATE,ok,,062civil.com.np..txt,,11803.365999999998,1.65,,,,,num_lec=88899; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.np/NS_UPDATE/stderr.log
+VeriDNS,top-10,com.np,top-10/com.np,CNAME_UPDATE,ok,11240,1130basan.com.np..txt,94556,11250.815682000048,0.940142,2.410969,2,7,3.390376,
+Aether,top-10,com.np,top-10/com.np,CNAME_UPDATE,ok,,1130basan.com.np..txt,,11968.379,3.346,,,,,num_lec=88899; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.np/CNAME_UPDATE/stderr.log
+VeriDNS,top-10,com.sg,top-10/com.sg,A_ADD,ok,11072,01computer.com.sg..txt,155913,9897.142489000014,0.19189,0.466537,1,0,0.667029,
+Aether,top-10,com.sg,top-10/com.sg,A_ADD,ok,,01computer.com.sg..txt,,9897.005,0.39,,,,,num_lec=67871; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.sg/A_ADD/stderr.log
+VeriDNS,top-10,com.sg,top-10/com.sg,A_UPDATE,ok,11072,01computer.com.sg..txt,155913,9897.142489000014,0.467532,0.549868,2,7,1.038056,
+Aether,top-10,com.sg,top-10/com.sg,A_UPDATE,ok,,01computer.com.sg..txt,,9939.988,0.010000000000000002,,,,,num_lec=67870; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.sg/A_UPDATE/stderr.log
+VeriDNS,top-10,com.sg,top-10/com.sg,NS_UPDATE,ok,11072,01computer.com.sg..txt,155913,9897.142489000014,0.913445,1.204302,2,6,2.155871,
+Aether,top-10,com.sg,top-10/com.sg,NS_UPDATE,ok,,01computer.com.sg..txt,,9831.867999999999,0.009000000000000001,,,,,num_lec=67870; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.sg/NS_UPDATE/stderr.log
+VeriDNS,top-10,com.sg,top-10/com.sg,CNAME_UPDATE,ok,11072,100hours.com.sg..txt,155913,9897.142489000014,0.902318,2.424244,2,7,3.360623,
+Aether,top-10,com.sg,top-10/com.sg,CNAME_UPDATE,ok,,100hours.com.sg..txt,,9856.919,0.046,,,,,num_lec=67870; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.sg/CNAME_UPDATE/stderr.log
+VeriDNS,top-10,com.tw,top-10/com.tw,A_ADD,ok,41847,000.com.tw..txt,414263,27999.281517000134,0.214399,0.368403,1,0,0.590798,
+Aether,top-10,com.tw,top-10/com.tw,A_ADD,ok,,000.com.tw..txt,,45058.511,0.583,,,,,num_lec=234210; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.tw/A_ADD/stderr.log
+VeriDNS,top-10,com.tw,top-10/com.tw,A_UPDATE,ok,41847,000.com.tw..txt,414263,27999.281517000134,0.673205,14.459739,2,2,15.168084,
+Aether,top-10,com.tw,top-10/com.tw,A_UPDATE,ok,,000.com.tw..txt,,45571.802,0.012,,,,,num_lec=234209; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.tw/A_UPDATE/stderr.log
+VeriDNS,top-10,com.tw,top-10/com.tw,NS_UPDATE,ok,41847,000.com.tw..txt,414263,27999.281517000134,0.772657,1.08215,2,3,1.88604,
+Aether,top-10,com.tw,top-10/com.tw,NS_UPDATE,ok,,000.com.tw..txt,,45076.94899999999,0.012,,,,,num_lec=234209; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.tw/NS_UPDATE/stderr.log
+VeriDNS,top-10,com.tw,top-10/com.tw,CNAME_UPDATE,ok,41847,001.com.tw..txt,414263,27999.281517000134,1.350803,2.841196,2,10,4.242065,
+Aether,top-10,com.tw,top-10/com.tw,CNAME_UPDATE,ok,,001.com.tw..txt,,45214.575999999994,0.268,,,,,num_lec=234209; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.tw/CNAME_UPDATE/stderr.log
+VeriDNS,top-10,com.ua,top-10/com.ua,A_ADD,ok,27966,003.com.ua..txt,495998,27037.33333300015,0.185937,0.411669,1,0,0.606474,
+Aether,top-10,com.ua,top-10/com.ua,A_ADD,ok,,003.com.ua..txt,,30676.155,0.463,,,,,num_lec=187626; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.ua/A_ADD/stderr.log
+VeriDNS,top-10,com.ua,top-10/com.ua,A_UPDATE,ok,27966,003.com.ua..txt,495998,27037.33333300015,0.958002,1.114916,2,7,2.109667,
+Aether,top-10,com.ua,top-10/com.ua,A_UPDATE,ok,,003.com.ua..txt,,30734.255,0.009000000000000001,,,,,num_lec=187625; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.ua/A_UPDATE/stderr.log
+VeriDNS,top-10,com.ua,top-10/com.ua,NS_UPDATE,ok,27966,003.com.ua..txt,495998,27037.33333300015,0.510865,0.631051,2,6,1.166611,
+Aether,top-10,com.ua,top-10/com.ua,NS_UPDATE,ok,,003.com.ua..txt,,30490.514000000003,0.010000000000000002,,,,,num_lec=187625; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.ua/NS_UPDATE/stderr.log
+VeriDNS,top-10,com.ua,top-10/com.ua,CNAME_UPDATE,ok,27966,0372.com.ua..txt,495998,27037.33333300015,0.455474,1.074347,2,9,1.551217,
+Aether,top-10,com.ua,top-10/com.ua,CNAME_UPDATE,error,,,,,,,,,,exit=101; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__com.ua/CNAME_UPDATE/stderr.log
+VeriDNS,top-10,gov.cn,top-10/gov.cn,A_ADD,ok,14580,0375.gov.cn..txt,98299,10023.560463000023,0.181759,0.325505,1,0,0.515097,
+Aether,top-10,gov.cn,top-10/gov.cn,A_ADD,ok,,0375.gov.cn..txt,,9859.068,0.456,,,,,num_lec=65961; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__gov.cn/A_ADD/stderr.log
+VeriDNS,top-10,gov.cn,top-10/gov.cn,A_UPDATE,ok,14580,0375.gov.cn..txt,98299,10023.560463000023,0.808204,0.891326,2,8,1.730047,
+Aether,top-10,gov.cn,top-10/gov.cn,A_UPDATE,ok,,0375.gov.cn..txt,,9824.381,0.007,,,,,num_lec=65960; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__gov.cn/A_UPDATE/stderr.log
+VeriDNS,top-10,gov.cn,top-10/gov.cn,NS_UPDATE,ok,14580,0375.gov.cn..txt,98299,10023.560463000023,0.929297,1.088755,2,7,2.054946,
+Aether,top-10,gov.cn,top-10/gov.cn,NS_UPDATE,ok,,0375.gov.cn..txt,,9888.038999999999,0.007,,,,,num_lec=65960; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__gov.cn/NS_UPDATE/stderr.log
+VeriDNS,top-10,gov.cn,top-10/gov.cn,CNAME_UPDATE,ok,14580,0437.gov.cn..txt,98299,10023.560463000023,0.864998,2.958732,2,4,3.86217,
+Aether,top-10,gov.cn,top-10/gov.cn,CNAME_UPDATE,error,,,,,,,,,,exit=101; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__gov.cn/CNAME_UPDATE/stderr.log
+VeriDNS,top-10,net.au,top-10/net.au,A_ADD,ok,13504,1001.net.au..txt,196531,12602.251543999979,0.327677,0.410661,1,0,0.746552,
+Aether,top-10,net.au,top-10/net.au,A_ADD,ok,,1001.net.au..txt,,14632.085,0.396,,,,,num_lec=92740; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__net.au/A_ADD/stderr.log
+VeriDNS,top-10,net.au,top-10/net.au,A_UPDATE,ok,13504,1001.net.au..txt,196531,12602.251543999979,0.743129,0.607667,2,11,1.394579,
+Aether,top-10,net.au,top-10/net.au,A_UPDATE,ok,,1001.net.au..txt,,14631.1,0.008,,,,,num_lec=92739; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__net.au/A_UPDATE/stderr.log
+VeriDNS,top-10,net.au,top-10/net.au,NS_UPDATE,ok,13504,1001.net.au..txt,196531,12602.251543999979,1.189763,0.706083,1,10,1.941526,
+Aether,top-10,net.au,top-10/net.au,NS_UPDATE,ok,,1001.net.au..txt,,14476.814999999999,0.008,,,,,num_lec=92739; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__net.au/NS_UPDATE/stderr.log
+VeriDNS,top-10,net.au,top-10/net.au,CNAME_UPDATE,ok,13504,108.net.au..txt,196531,12602.251543999979,0.377309,1.033954,2,7,1.430947,
+Aether,top-10,net.au,top-10/net.au,CNAME_UPDATE,ok,,108.net.au..txt,,14722.474,0.085,,,,,num_lec=92739; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__net.au/CNAME_UPDATE/stderr.log
+VeriDNS,top-10,org.br,top-10/org.br,A_ADD,ok,11285,123s.org.br..txt,160096,11761.408405000051,0.323931,0.717298,1,0,1.049626,
+Aether,top-10,org.br,top-10/org.br,A_ADD,ok,,123s.org.br..txt,,13868.042,0.524,,,,,num_lec=77607; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__org.br/A_ADD/stderr.log
+VeriDNS,top-10,org.br,top-10/org.br,A_UPDATE,ok,11285,15gemarj.org.br..txt,160096,11761.408405000051,1.090284,1.16094,2,10,2.290758,
+Aether,top-10,org.br,top-10/org.br,A_UPDATE,ok,,15gemarj.org.br..txt,,11966.328,0.008,,,,,num_lec=77606; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__org.br/A_UPDATE/stderr.log
+VeriDNS,top-10,org.br,top-10/org.br,NS_UPDATE,ok,11285,123s.org.br..txt,160096,11761.408405000051,1.167634,2.945839,2,10,4.167036,
+Aether,top-10,org.br,top-10/org.br,NS_UPDATE,ok,,123s.org.br..txt,,11989.675,0.010000000000000002,,,,,num_lec=77606; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__org.br/NS_UPDATE/stderr.log
+VeriDNS,top-10,org.br,top-10/org.br,CNAME_UPDATE,ok,11285,123s.org.br..txt,160096,11761.408405000051,0.512734,1.724042,2,3,2.265077,
+Aether,top-10,org.br,top-10/org.br,CNAME_UPDATE,ok,,123s.org.br..txt,,12062.24,0.061,,,,,num_lec=77606; stderr=/home/rulan_yang/DNS-verification/experiments/results/incremental_all/aether_cases/top-10__org.br/CNAME_UPDATE/stderr.log

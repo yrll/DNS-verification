@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/xitinblog.net,125equity.xitinblog.net..txt,A_UPDATE,DEL,125equity.xitinblog.net.,A,208.87.35.105
+files-100-500/xitinblog.net,125equity.xitinblog.net..txt,A_UPDATE,ADD,125equity.xitinblog.net.,A,192.0.2.253

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/warriorhall.com,alimonyillinois.warriorhall.com..txt,A_UPDATE,DEL,alimonyillinois.warriorhall.com.,A,82.98.86.169
+files-100-500/warriorhall.com,alimonyillinois.warriorhall.com..txt,A_UPDATE,ADD,alimonyillinois.warriorhall.com.,A,192.0.2.253

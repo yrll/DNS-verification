@@ -1,0 +1,16 @@
+### Minimum Ratio: 0.01
+Zone: vologda.ru
+Graph Building (s): 1574.143604
+Construction Time (ms): 134084.727
+
+
+### Maximum Ratio: 246302.77
+Zone: r9223.cn 
+Graph Building (s): 246.30276600000002 
+Construction Time (ms): 0.001
+
+### Number of ratios less than 1: 27
+90th Percentile : 4982.687920000001
+95th Percentile : 7174.612549999998
+99th Percentile : 14056.361529999966
+99.9th Percentile : 39355.11406520024

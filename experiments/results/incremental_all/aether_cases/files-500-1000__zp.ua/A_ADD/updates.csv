@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/zp.ua,09.zp.ua..txt,A_ADD,ADD,__aether_veridns_inc__.09.zp.ua.,A,192.0.2.254

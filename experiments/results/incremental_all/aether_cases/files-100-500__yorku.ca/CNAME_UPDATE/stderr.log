@@ -1,0 +1,4 @@
+[2026-06-30T05:21:20Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["ca", "yorku", "cs", "www"], rtype: A, rdata: "130.63.92.24" }
+[2026-06-30T05:21:20Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["ca", "yorku", "cse", "www"], rtype: A, rdata: "130.63.92.30" }
+[2026-06-30T05:21:20Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["ca", "yorku", "biol", "www"], rtype: A, rdata: "130.63.173.84" }
+[2026-06-30T05:21:20Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["ca", "yorku", "cvr", "dweller"], rtype: A, rdata: "130.63.40.232" }

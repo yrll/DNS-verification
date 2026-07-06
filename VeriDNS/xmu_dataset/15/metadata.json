@@ -1,0 +1,64 @@
+{
+    "ZoneFiles": [
+        {
+            "FileName": "www.nju.com..txt",
+            "NameServer": "ns1.www.nju.com.",
+            "Origin": "www.nju.com."
+        },
+        {
+            "FileName": "shu.com..txt",
+            "NameServer": "ns1.shu.com.",
+            "Origin": "shu.com."
+        },
+        {
+            "FileName": "zheshexi.lzu.com..txt",
+            "NameServer": "ns1.zheshexi.lzu.com.",
+            "Origin": "zheshexi.lzu.com."
+        },
+        {
+            "FileName": "cqu.com..txt",
+            "NameServer": "ns1.cqu.com.",
+            "Origin": "cqu.com."
+        },
+        {
+            "FileName": "pharm.whu.com..txt",
+            "NameServer": "ns1.pharm.whu.com.",
+            "Origin": "pharm.whu.com."
+        },
+        {
+            "FileName": "www.pku.com..txt",
+            "NameServer": "ns1.www.pku.com.",
+            "Origin": "www.pku.com."
+        },
+        {
+            "FileName": "wf.zdm.com..txt",
+            "NameServer": "ns1.wf.zdm.com.",
+            "Origin": "wf.zdm.com."
+        },
+        {
+            "FileName": "ftw.com..txt",
+            "NameServer": "ns1.ftw.com.",
+            "Origin": "ftw.com."
+        },
+        {
+            "FileName": "r.class.wlgc.com..txt",
+            "NameServer": "ns1.r.class.wlgc.com.",
+            "Origin": "r.class.wlgc.com."
+        },
+        {
+            "FileName": "sm.xmu.com..txt",
+            "NameServer": "ns1.sm.xmu.com.",
+            "Origin": "sm.xmu.com."
+        },
+        {
+            "FileName": "science.tju.com..txt",
+            "NameServer": "ns1.science.tju.com.",
+            "Origin": "science.tju.com."
+        },
+        {
+            "FileName": "r.child.xben.com.-2.txt",
+            "NameServer": "ns2.r.child.xben.com.",
+            "Origin": "r.child.xben.com."
+        }
+    ]
+}

@@ -1,0 +1,1062 @@
+{
+  "TopNameServers": [
+    "ns1.warriorhall.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/alimonyillinois.warriorhall.com..txt",
+      "NameServer": "ns1.alimonyillinois.warriorhall.com.",
+      "Origin": "alimonyillinois.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/amortizationtablemortgage.warriorhall.com..txt",
+      "NameServer": "ns1.amortizationtablemortgage.warriorhall.com.",
+      "Origin": "amortizationtablemortgage.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/annulmentdivorce.warriorhall.com..txt",
+      "NameServer": "ns1.annulmentdivorce.warriorhall.com.",
+      "Origin": "annulmentdivorce.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/antiquepostcards.warriorhall.com..txt",
+      "NameServer": "ns1.antiquepostcards.warriorhall.com.",
+      "Origin": "antiquepostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/ardcillinois.warriorhall.com..txt",
+      "NameServer": "ns1.ardcillinois.warriorhall.com.",
+      "Origin": "ardcillinois.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/articlesoforganizationllc.warriorhall.com..txt",
+      "NameServer": "ns1.articlesoforganizationllc.warriorhall.com.",
+      "Origin": "articlesoforganizationllc.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/attorneychildren.warriorhall.com..txt",
+      "NameServer": "ns1.attorneychildren.warriorhall.com.",
+      "Origin": "attorneychildren.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/attorneydupage.warriorhall.com..txt",
+      "NameServer": "ns1.attorneydupage.warriorhall.com.",
+      "Origin": "attorneydupage.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/attorneyillinoispower.warriorhall.com..txt",
+      "NameServer": "ns1.attorneyillinoispower.warriorhall.com.",
+      "Origin": "attorneyillinoispower.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/attorneyjobsinillinois.warriorhall.com..txt",
+      "NameServer": "ns1.attorneyjobsinillinois.warriorhall.com.",
+      "Origin": "attorneyjobsinillinois.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/attorneylicense.warriorhall.com..txt",
+      "NameServer": "ns1.attorneylicense.warriorhall.com.",
+      "Origin": "attorneylicense.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/bluecrossinsurance.warriorhall.com..txt",
+      "NameServer": "ns1.bluecrossinsurance.warriorhall.com.",
+      "Origin": "bluecrossinsurance.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/blueshieldchoice.warriorhall.com..txt",
+      "NameServer": "ns1.blueshieldchoice.warriorhall.com.",
+      "Origin": "blueshieldchoice.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/blueshielddental.warriorhall.com..txt",
+      "NameServer": "ns1.blueshielddental.warriorhall.com.",
+      "Origin": "blueshielddental.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/blueshieldinsurance.warriorhall.com..txt",
+      "NameServer": "ns1.blueshieldinsurance.warriorhall.com.",
+      "Origin": "blueshieldinsurance.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/blueshieldrates.warriorhall.com..txt",
+      "NameServer": "ns1.blueshieldrates.warriorhall.com.",
+      "Origin": "blueshieldrates.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/blushield.warriorhall.com..txt",
+      "NameServer": "ns1.blushield.warriorhall.com.",
+      "Origin": "blushield.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/businesspostcard.warriorhall.com..txt",
+      "NameServer": "ns1.businesspostcard.warriorhall.com.",
+      "Origin": "businesspostcard.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/businesspostcards.warriorhall.com..txt",
+      "NameServer": "ns1.businesspostcards.warriorhall.com.",
+      "Origin": "businesspostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/calculatepayroll.warriorhall.com..txt",
+      "NameServer": "ns1.calculatepayroll.warriorhall.com.",
+      "Origin": "calculatepayroll.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnavalcruise.warriorhall.com..txt",
+      "NameServer": "ns1.carnavalcruise.warriorhall.com.",
+      "Origin": "carnavalcruise.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalcruisedestiny.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalcruisedestiny.warriorhall.com.",
+      "Origin": "carnivalcruisedestiny.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalcruisefantasy.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalcruisefantasy.warriorhall.com.",
+      "Origin": "carnivalcruisefantasy.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalcruiseimagination.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalcruiseimagination.warriorhall.com.",
+      "Origin": "carnivalcruiseimagination.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalcruisejobs.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalcruisejobs.warriorhall.com.",
+      "Origin": "carnivalcruisejobs.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalcruisemiracle.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalcruisemiracle.warriorhall.com.",
+      "Origin": "carnivalcruisemiracle.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalcruiseparadise.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalcruiseparadise.warriorhall.com.",
+      "Origin": "carnivalcruiseparadise.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalcruisepride.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalcruisepride.warriorhall.com.",
+      "Origin": "carnivalcruisepride.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalcruisereview.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalcruisereview.warriorhall.com.",
+      "Origin": "carnivalcruisereview.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalcruisesfreedom.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalcruisesfreedom.warriorhall.com.",
+      "Origin": "carnivalcruisesfreedom.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalcruisespride.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalcruisespride.warriorhall.com.",
+      "Origin": "carnivalcruisespride.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivaldestinycruise.warriorhall.com..txt",
+      "NameServer": "ns1.carnivaldestinycruise.warriorhall.com.",
+      "Origin": "carnivaldestinycruise.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalglorycruises.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalglorycruises.warriorhall.com.",
+      "Origin": "carnivalglorycruises.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivaljobscruise.warriorhall.com..txt",
+      "NameServer": "ns1.carnivaljobscruise.warriorhall.com.",
+      "Origin": "carnivaljobscruise.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivallegendcruise.warriorhall.com..txt",
+      "NameServer": "ns1.carnivallegendcruise.warriorhall.com.",
+      "Origin": "carnivallegendcruise.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivalpridecruise.warriorhall.com..txt",
+      "NameServer": "ns1.carnivalpridecruise.warriorhall.com.",
+      "Origin": "carnivalpridecruise.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/carnivaltriumphcruise.warriorhall.com..txt",
+      "NameServer": "ns1.carnivaltriumphcruise.warriorhall.com.",
+      "Origin": "carnivaltriumphcruise.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/certifiedpayroll.warriorhall.com..txt",
+      "NameServer": "ns1.certifiedpayroll.warriorhall.com.",
+      "Origin": "certifiedpayroll.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/cheapdivorce.warriorhall.com..txt",
+      "NameServer": "ns1.cheapdivorce.warriorhall.com.",
+      "Origin": "cheapdivorce.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/cheappostcards.warriorhall.com..txt",
+      "NameServer": "ns1.cheappostcards.warriorhall.com.",
+      "Origin": "cheappostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/childrenclothingwholesale.warriorhall.com..txt",
+      "NameServer": "ns1.childrenclothingwholesale.warriorhall.com.",
+      "Origin": "childrenclothingwholesale.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/childrenswholesaleclothing.warriorhall.com..txt",
+      "NameServer": "ns1.childrenswholesaleclothing.warriorhall.com.",
+      "Origin": "childrenswholesaleclothing.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/christmaspostcard.warriorhall.com..txt",
+      "NameServer": "ns1.christmaspostcard.warriorhall.com.",
+      "Origin": "christmaspostcard.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/christmaspostcards.warriorhall.com..txt",
+      "NameServer": "ns1.christmaspostcards.warriorhall.com.",
+      "Origin": "christmaspostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/churchpostcards.warriorhall.com..txt",
+      "NameServer": "ns1.churchpostcards.warriorhall.com.",
+      "Origin": "churchpostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/coloradodivorceattorneys.warriorhall.com..txt",
+      "NameServer": "ns1.coloradodivorceattorneys.warriorhall.com.",
+      "Origin": "coloradodivorceattorneys.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/colorpostcards.warriorhall.com..txt",
+      "NameServer": "ns1.colorpostcards.warriorhall.com.",
+      "Origin": "colorpostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/comparehealthinsuranceplans.warriorhall.com..txt",
+      "NameServer": "ns1.comparehealthinsuranceplans.warriorhall.com.",
+      "Origin": "comparehealthinsuranceplans.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/contesteddivorce.warriorhall.com..txt",
+      "NameServer": "ns1.contesteddivorce.warriorhall.com.",
+      "Origin": "contesteddivorce.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/corporateregistration.warriorhall.com..txt",
+      "NameServer": "ns1.corporateregistration.warriorhall.com.",
+      "Origin": "corporateregistration.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/corporationfiling.warriorhall.com..txt",
+      "NameServer": "ns1.corporationfiling.warriorhall.com.",
+      "Origin": "corporationfiling.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/corporationincorporation.warriorhall.com..txt",
+      "NameServer": "ns1.corporationincorporation.warriorhall.com.",
+      "Origin": "corporationincorporation.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/corporationvsllc.warriorhall.com..txt",
+      "NameServer": "ns1.corporationvsllc.warriorhall.com.",
+      "Origin": "corporationvsllc.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/custompostcard.warriorhall.com..txt",
+      "NameServer": "ns1.custompostcard.warriorhall.com.",
+      "Origin": "custompostcard.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/custompostcards.warriorhall.com..txt",
+      "NameServer": "ns1.custompostcards.warriorhall.com.",
+      "Origin": "custompostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/designpostcards.warriorhall.com..txt",
+      "NameServer": "ns1.designpostcards.warriorhall.com.",
+      "Origin": "designpostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/distancelearninguniversities.warriorhall.com..txt",
+      "NameServer": "ns1.distancelearninguniversities.warriorhall.com.",
+      "Origin": "distancelearninguniversities.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcealimony.warriorhall.com..txt",
+      "NameServer": "ns1.divorcealimony.warriorhall.com.",
+      "Origin": "divorcealimony.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorceapplication.warriorhall.com..txt",
+      "NameServer": "ns1.divorceapplication.warriorhall.com.",
+      "Origin": "divorceapplication.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcecost.warriorhall.com..txt",
+      "NameServer": "ns1.divorcecost.warriorhall.com.",
+      "Origin": "divorcecost.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcecosts.warriorhall.com..txt",
+      "NameServer": "ns1.divorcecosts.warriorhall.com.",
+      "Origin": "divorcecosts.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcedocuments.warriorhall.com..txt",
+      "NameServer": "ns1.divorcedocuments.warriorhall.com.",
+      "Origin": "divorcedocuments.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcedoityourself.warriorhall.com..txt",
+      "NameServer": "ns1.divorcedoityourself.warriorhall.com.",
+      "Origin": "divorcedoityourself.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcefiling.warriorhall.com..txt",
+      "NameServer": "ns1.divorcefiling.warriorhall.com.",
+      "Origin": "divorcefiling.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorceformen.warriorhall.com..txt",
+      "NameServer": "ns1.divorceformen.warriorhall.com.",
+      "Origin": "divorceformen.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorceforms.warriorhall.com..txt",
+      "NameServer": "ns1.divorceforms.warriorhall.com.",
+      "Origin": "divorceforms.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcelawfirm.warriorhall.com..txt",
+      "NameServer": "ns1.divorcelawfirm.warriorhall.com.",
+      "Origin": "divorcelawfirm.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcemediator.warriorhall.com..txt",
+      "NameServer": "ns1.divorcemediator.warriorhall.com.",
+      "Origin": "divorcemediator.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcenamechange.warriorhall.com..txt",
+      "NameServer": "ns1.divorcenamechange.warriorhall.com.",
+      "Origin": "divorcenamechange.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcepapersonline.warriorhall.com..txt",
+      "NameServer": "ns1.divorcepapersonline.warriorhall.com.",
+      "Origin": "divorcepapersonline.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcepetition.warriorhall.com..txt",
+      "NameServer": "ns1.divorcepetition.warriorhall.com.",
+      "Origin": "divorcepetition.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorceprocedures.warriorhall.com..txt",
+      "NameServer": "ns1.divorceprocedures.warriorhall.com.",
+      "Origin": "divorceprocedures.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcequestions.warriorhall.com..txt",
+      "NameServer": "ns1.divorcequestions.warriorhall.com.",
+      "Origin": "divorcequestions.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorcerights.warriorhall.com..txt",
+      "NameServer": "ns1.divorcerights.warriorhall.com.",
+      "Origin": "divorcerights.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/divorceyourself.warriorhall.com..txt",
+      "NameServer": "ns1.divorceyourself.warriorhall.com.",
+      "Origin": "divorceyourself.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/doityourselfdivorce.warriorhall.com..txt",
+      "NameServer": "ns1.doityourselfdivorce.warriorhall.com.",
+      "Origin": "doityourselfdivorce.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/downloadnetmeetingxp.warriorhall.com..txt",
+      "NameServer": "ns1.downloadnetmeetingxp.warriorhall.com.",
+      "Origin": "downloadnetmeetingxp.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/downmortgagenopayment.warriorhall.com..txt",
+      "NameServer": "ns1.downmortgagenopayment.warriorhall.com.",
+      "Origin": "downmortgagenopayment.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/dropshipwholesalers.warriorhall.com..txt",
+      "NameServer": "ns1.dropshipwholesalers.warriorhall.com.",
+      "Origin": "dropshipwholesalers.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/easydivorce.warriorhall.com..txt",
+      "NameServer": "ns1.easydivorce.warriorhall.com.",
+      "Origin": "easydivorce.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/familymedicalinsurance.warriorhall.com..txt",
+      "NameServer": "ns1.familymedicalinsurance.warriorhall.com.",
+      "Origin": "familymedicalinsurance.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/faureciaautomotive.warriorhall.com..txt",
+      "NameServer": "ns1.faureciaautomotive.warriorhall.com.",
+      "Origin": "faureciaautomotive.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/federalpayroll.warriorhall.com..txt",
+      "NameServer": "ns1.federalpayroll.warriorhall.com.",
+      "Origin": "federalpayroll.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/formingallc.warriorhall.com..txt",
+      "NameServer": "ns1.formingallc.warriorhall.com.",
+      "Origin": "formingallc.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/formsfordivorce.warriorhall.com..txt",
+      "NameServer": "ns1.formsfordivorce.warriorhall.com.",
+      "Origin": "formsfordivorce.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/freedivorce.warriorhall.com..txt",
+      "NameServer": "ns1.freedivorce.warriorhall.com.",
+      "Origin": "freedivorce.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/freedivorceforms.warriorhall.com..txt",
+      "NameServer": "ns1.freedivorceforms.warriorhall.com.",
+      "Origin": "freedivorceforms.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/freepayroll.warriorhall.com..txt",
+      "NameServer": "ns1.freepayroll.warriorhall.com.",
+      "Origin": "freepayroll.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/getincorporated.warriorhall.com..txt",
+      "NameServer": "ns1.getincorporated.warriorhall.com.",
+      "Origin": "getincorporated.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/halloweenpostcards.warriorhall.com..txt",
+      "NameServer": "ns1.halloweenpostcards.warriorhall.com.",
+      "Origin": "halloweenpostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/healthinsuranceppo.warriorhall.com..txt",
+      "NameServer": "ns1.healthinsuranceppo.warriorhall.com.",
+      "Origin": "healthinsuranceppo.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/homeloanpayment.warriorhall.com..txt",
+      "NameServer": "ns1.homeloanpayment.warriorhall.com.",
+      "Origin": "homeloanpayment.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/householdautofinance.warriorhall.com..txt",
+      "NameServer": "ns1.householdautofinance.warriorhall.com.",
+      "Origin": "householdautofinance.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/householdautomotive.warriorhall.com..txt",
+      "NameServer": "ns1.householdautomotive.warriorhall.com.",
+      "Origin": "householdautomotive.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/householdcreditcard.warriorhall.com..txt",
+      "NameServer": "ns1.householdcreditcard.warriorhall.com.",
+      "Origin": "householdcreditcard.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/howtoformallc.warriorhall.com..txt",
+      "NameServer": "ns1.howtoformallc.warriorhall.com.",
+      "Origin": "howtoformallc.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/humanresourcemanagementsystem.warriorhall.com..txt",
+      "NameServer": "ns1.humanresourcemanagementsystem.warriorhall.com.",
+      "Origin": "humanresourcemanagementsystem.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/humanresourceoutsourcing.warriorhall.com..txt",
+      "NameServer": "ns1.humanresourceoutsourcing.warriorhall.com.",
+      "Origin": "humanresourceoutsourcing.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/humanresourcesoftware.warriorhall.com..txt",
+      "NameServer": "ns1.humanresourcesoftware.warriorhall.com.",
+      "Origin": "humanresourcesoftware.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/humanresourcespayroll.warriorhall.com..txt",
+      "NameServer": "ns1.humanresourcespayroll.warriorhall.com.",
+      "Origin": "humanresourcespayroll.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/humanresourcessystem.warriorhall.com..txt",
+      "NameServer": "ns1.humanresourcessystem.warriorhall.com.",
+      "Origin": "humanresourcessystem.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/humanresourcesystem.warriorhall.com..txt",
+      "NameServer": "ns1.humanresourcesystem.warriorhall.com.",
+      "Origin": "humanresourcesystem.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/humanresourcesystems.warriorhall.com..txt",
+      "NameServer": "ns1.humanresourcesystems.warriorhall.com.",
+      "Origin": "humanresourcesystems.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/illinoisaccidentattorney.warriorhall.com..txt",
+      "NameServer": "ns1.illinoisaccidentattorney.warriorhall.com.",
+      "Origin": "illinoisaccidentattorney.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/illinoisaccidentattorneys.warriorhall.com..txt",
+      "NameServer": "ns1.illinoisaccidentattorneys.warriorhall.com.",
+      "Origin": "illinoisaccidentattorneys.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/illinoisbankruptcyattorney.warriorhall.com..txt",
+      "NameServer": "ns1.illinoisbankruptcyattorney.warriorhall.com.",
+      "Origin": "illinoisbankruptcyattorney.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/illinoisbarassociation.warriorhall.com..txt",
+      "NameServer": "ns1.illinoisbarassociation.warriorhall.com.",
+      "Origin": "illinoisbarassociation.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/illinoiscle.warriorhall.com..txt",
+      "NameServer": "ns1.illinoiscle.warriorhall.com.",
+      "Origin": "illinoiscle.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/illinoisclerequirements.warriorhall.com..txt",
+      "NameServer": "ns1.illinoisclerequirements.warriorhall.com.",
+      "Origin": "illinoisclerequirements.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/illinoisdivorceattorney.warriorhall.com..txt",
+      "NameServer": "ns1.illinoisdivorceattorney.warriorhall.com.",
+      "Origin": "illinoisdivorceattorney.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/illinoisduiattorney.warriorhall.com..txt",
+      "NameServer": "ns1.illinoisduiattorney.warriorhall.com.",
+      "Origin": "illinoisduiattorney.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/illinoismalpracticeattorney.warriorhall.com..txt",
+      "NameServer": "ns1.illinoismalpracticeattorney.warriorhall.com.",
+      "Origin": "illinoismalpracticeattorney.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/illinoisstatesattorney.warriorhall.com..txt",
+      "NameServer": "ns1.illinoisstatesattorney.warriorhall.com.",
+      "Origin": "illinoisstatesattorney.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/imaginationcruise.warriorhall.com..txt",
+      "NameServer": "ns1.imaginationcruise.warriorhall.com.",
+      "Origin": "imaginationcruise.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/incorporatenonprofit.warriorhall.com..txt",
+      "NameServer": "ns1.incorporatenonprofit.warriorhall.com.",
+      "Origin": "incorporatenonprofit.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/incorporatingcompanies.warriorhall.com..txt",
+      "NameServer": "ns1.incorporatingcompanies.warriorhall.com.",
+      "Origin": "incorporatingcompanies.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/incorporatingyourbusiness.warriorhall.com..txt",
+      "NameServer": "ns1.incorporatingyourbusiness.warriorhall.com.",
+      "Origin": "incorporatingyourbusiness.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/incorporationattorney.warriorhall.com..txt",
+      "NameServer": "ns1.incorporationattorney.warriorhall.com.",
+      "Origin": "incorporationattorney.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/incorporationfiling.warriorhall.com..txt",
+      "NameServer": "ns1.incorporationfiling.warriorhall.com.",
+      "Origin": "incorporationfiling.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/incorporationforms.warriorhall.com..txt",
+      "NameServer": "ns1.incorporationforms.warriorhall.com.",
+      "Origin": "incorporationforms.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/incorporationsearch.warriorhall.com..txt",
+      "NameServer": "ns1.incorporationsearch.warriorhall.com.",
+      "Origin": "incorporationsearch.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/incorporationservice.warriorhall.com..txt",
+      "NameServer": "ns1.incorporationservice.warriorhall.com.",
+      "Origin": "incorporationservice.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/individualhealthinsuranceplan.warriorhall.com..txt",
+      "NameServer": "ns1.individualhealthinsuranceplan.warriorhall.com.",
+      "Origin": "individualhealthinsuranceplan.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/installnetmeeting.warriorhall.com..txt",
+      "NameServer": "ns1.installnetmeeting.warriorhall.com.",
+      "Origin": "installnetmeeting.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/interestonlypayment.warriorhall.com..txt",
+      "NameServer": "ns1.interestonlypayment.warriorhall.com.",
+      "Origin": "interestonlypayment.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/judgesillinois.warriorhall.com..txt",
+      "NameServer": "ns1.judgesillinois.warriorhall.com.",
+      "Origin": "judgesillinois.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/kidswholesaleclothes.warriorhall.com..txt",
+      "NameServer": "ns1.kidswholesaleclothes.warriorhall.com.",
+      "Origin": "kidswholesaleclothes.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/learautomotive.warriorhall.com..txt",
+      "NameServer": "ns1.learautomotive.warriorhall.com.",
+      "Origin": "learautomotive.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/lessonplanstudy.warriorhall.com..txt",
+      "NameServer": "ns1.lessonplanstudy.warriorhall.com.",
+      "Origin": "lessonplanstudy.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/limitedliabilitycompanyform.warriorhall.com..txt",
+      "NameServer": "ns1.limitedliabilitycompanyform.warriorhall.com.",
+      "Origin": "limitedliabilitycompanyform.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/limitedliabilitycorp.warriorhall.com..txt",
+      "NameServer": "ns1.limitedliabilitycorp.warriorhall.com.",
+      "Origin": "limitedliabilitycorp.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/limitedliabilitycorporations.warriorhall.com..txt",
+      "NameServer": "ns1.limitedliabilitycorporations.warriorhall.com.",
+      "Origin": "limitedliabilitycorporations.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/llcadvantages.warriorhall.com..txt",
+      "NameServer": "ns1.llcadvantages.warriorhall.com.",
+      "Origin": "llcadvantages.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/llccorporations.warriorhall.com..txt",
+      "NameServer": "ns1.llccorporations.warriorhall.com.",
+      "Origin": "llccorporations.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/makepostcards.warriorhall.com..txt",
+      "NameServer": "ns1.makepostcards.warriorhall.com.",
+      "Origin": "makepostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/marriagedissolution.warriorhall.com..txt",
+      "NameServer": "ns1.marriagedissolution.warriorhall.com.",
+      "Origin": "marriagedissolution.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/medicalinsuranceprovider.warriorhall.com..txt",
+      "NameServer": "ns1.medicalinsuranceprovider.warriorhall.com.",
+      "Origin": "medicalinsuranceprovider.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/mortgageamortizationschedule.warriorhall.com..txt",
+      "NameServer": "ns1.mortgageamortizationschedule.warriorhall.com.",
+      "Origin": "mortgageamortizationschedule.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/mortgageamortizationtable.warriorhall.com..txt",
+      "NameServer": "ns1.mortgageamortizationtable.warriorhall.com.",
+      "Origin": "mortgageamortizationtable.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/mortgagebankrate.warriorhall.com..txt",
+      "NameServer": "ns1.mortgagebankrate.warriorhall.com.",
+      "Origin": "mortgagebankrate.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/needdivorce.warriorhall.com..txt",
+      "NameServer": "ns1.needdivorce.warriorhall.com.",
+      "Origin": "needdivorce.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/netmeeting.warriorhall.com..txt",
+      "NameServer": "ns1.netmeeting.warriorhall.com.",
+      "Origin": "netmeeting.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/netmeetingcommand.warriorhall.com..txt",
+      "NameServer": "ns1.netmeetingcommand.warriorhall.com.",
+      "Origin": "netmeetingcommand.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/netmeetingfree.warriorhall.com..txt",
+      "NameServer": "ns1.netmeetingfree.warriorhall.com.",
+      "Origin": "netmeetingfree.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/netmeetingsharing.warriorhall.com..txt",
+      "NameServer": "ns1.netmeetingsharing.warriorhall.com.",
+      "Origin": "netmeetingsharing.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/netmeetingsharingdesktop.warriorhall.com..txt",
+      "NameServer": "ns1.netmeetingsharingdesktop.warriorhall.com.",
+      "Origin": "netmeetingsharingdesktop.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/netmeetingsoftware.warriorhall.com..txt",
+      "NameServer": "ns1.netmeetingsoftware.warriorhall.com.",
+      "Origin": "netmeetingsoftware.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/netmeetingwindowsxp.warriorhall.com..txt",
+      "NameServer": "ns1.netmeetingwindowsxp.warriorhall.com.",
+      "Origin": "netmeetingwindowsxp.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/netmeetingxp.warriorhall.com..txt",
+      "NameServer": "ns1.netmeetingxp.warriorhall.com.",
+      "Origin": "netmeetingxp.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/nonprofitincorporation.warriorhall.com..txt",
+      "NameServer": "ns1.nonprofitincorporation.warriorhall.com.",
+      "Origin": "nonprofitincorporation.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/onlineincorporating.warriorhall.com..txt",
+      "NameServer": "ns1.onlineincorporating.warriorhall.com.",
+      "Origin": "onlineincorporating.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/onlinepayroll.warriorhall.com..txt",
+      "NameServer": "ns1.onlinepayroll.warriorhall.com.",
+      "Origin": "onlinepayroll.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payroll1.warriorhall.com..txt",
+      "NameServer": "ns1.payroll1.warriorhall.com.",
+      "Origin": "payroll1.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollaccountingsoftware.warriorhall.com..txt",
+      "NameServer": "ns1.payrollaccountingsoftware.warriorhall.com.",
+      "Origin": "payrollaccountingsoftware.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollaccounts.warriorhall.com..txt",
+      "NameServer": "ns1.payrollaccounts.warriorhall.com.",
+      "Origin": "payrollaccounts.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollaudit.warriorhall.com..txt",
+      "NameServer": "ns1.payrollaudit.warriorhall.com.",
+      "Origin": "payrollaudit.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollbenefits.warriorhall.com..txt",
+      "NameServer": "ns1.payrollbenefits.warriorhall.com.",
+      "Origin": "payrollbenefits.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollbookkeeping.warriorhall.com..txt",
+      "NameServer": "ns1.payrollbookkeeping.warriorhall.com.",
+      "Origin": "payrollbookkeeping.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollbureau.warriorhall.com..txt",
+      "NameServer": "ns1.payrollbureau.warriorhall.com.",
+      "Origin": "payrollbureau.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollcalculator.warriorhall.com..txt",
+      "NameServer": "ns1.payrollcalculator.warriorhall.com.",
+      "Origin": "payrollcalculator.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollcompanies.warriorhall.com..txt",
+      "NameServer": "ns1.payrollcompanies.warriorhall.com.",
+      "Origin": "payrollcompanies.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollcompany.warriorhall.com..txt",
+      "NameServer": "ns1.payrollcompany.warriorhall.com.",
+      "Origin": "payrollcompany.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrolldirectdeposit.warriorhall.com..txt",
+      "NameServer": "ns1.payrolldirectdeposit.warriorhall.com.",
+      "Origin": "payrolldirectdeposit.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollemployer.warriorhall.com..txt",
+      "NameServer": "ns1.payrollemployer.warriorhall.com.",
+      "Origin": "payrollemployer.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollemployment.warriorhall.com..txt",
+      "NameServer": "ns1.payrollemployment.warriorhall.com.",
+      "Origin": "payrollemployment.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollform.warriorhall.com..txt",
+      "NameServer": "ns1.payrollform.warriorhall.com.",
+      "Origin": "payrollform.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollforms.warriorhall.com..txt",
+      "NameServer": "ns1.payrollforms.warriorhall.com.",
+      "Origin": "payrollforms.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrolloutsourcing.warriorhall.com..txt",
+      "NameServer": "ns1.payrolloutsourcing.warriorhall.com.",
+      "Origin": "payrolloutsourcing.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollprogram.warriorhall.com..txt",
+      "NameServer": "ns1.payrollprogram.warriorhall.com.",
+      "Origin": "payrollprogram.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrolltable.warriorhall.com..txt",
+      "NameServer": "ns1.payrolltable.warriorhall.com.",
+      "Origin": "payrolltable.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrolltables.warriorhall.com..txt",
+      "NameServer": "ns1.payrolltables.warriorhall.com.",
+      "Origin": "payrolltables.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrolltaxwithholding.warriorhall.com..txt",
+      "NameServer": "ns1.payrolltaxwithholding.warriorhall.com.",
+      "Origin": "payrolltaxwithholding.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollwithholding.warriorhall.com..txt",
+      "NameServer": "ns1.payrollwithholding.warriorhall.com.",
+      "Origin": "payrollwithholding.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/payrollwithholdingtax.warriorhall.com..txt",
+      "NameServer": "ns1.payrollwithholdingtax.warriorhall.com.",
+      "Origin": "payrollwithholdingtax.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/peoplesoftpayroll.warriorhall.com..txt",
+      "NameServer": "ns1.peoplesoftpayroll.warriorhall.com.",
+      "Origin": "peoplesoftpayroll.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/postcardadvertising.warriorhall.com..txt",
+      "NameServer": "ns1.postcardadvertising.warriorhall.com.",
+      "Origin": "postcardadvertising.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/postcarddesign.warriorhall.com..txt",
+      "NameServer": "ns1.postcarddesign.warriorhall.com.",
+      "Origin": "postcarddesign.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/postcardmailing.warriorhall.com..txt",
+      "NameServer": "ns1.postcardmailing.warriorhall.com.",
+      "Origin": "postcardmailing.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/postcardonline.warriorhall.com..txt",
+      "NameServer": "ns1.postcardonline.warriorhall.com.",
+      "Origin": "postcardonline.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/postcardsamples.warriorhall.com..txt",
+      "NameServer": "ns1.postcardsamples.warriorhall.com.",
+      "Origin": "postcardsamples.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/postcardsbirthday.warriorhall.com..txt",
+      "NameServer": "ns1.postcardsbirthday.warriorhall.com.",
+      "Origin": "postcardsbirthday.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/postcardsonline.warriorhall.com..txt",
+      "NameServer": "ns1.postcardsonline.warriorhall.com.",
+      "Origin": "postcardsonline.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/postcardsprinting.warriorhall.com..txt",
+      "NameServer": "ns1.postcardsprinting.warriorhall.com.",
+      "Origin": "postcardsprinting.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/ppohealthinsuranceplan.warriorhall.com..txt",
+      "NameServer": "ns1.ppohealthinsuranceplan.warriorhall.com.",
+      "Origin": "ppohealthinsuranceplan.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/quickdivorce.warriorhall.com..txt",
+      "NameServer": "ns1.quickdivorce.warriorhall.com.",
+      "Origin": "quickdivorce.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/quickiedivorce.warriorhall.com..txt",
+      "NameServer": "ns1.quickiedivorce.warriorhall.com.",
+      "Origin": "quickiedivorce.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/realphotopostcards.warriorhall.com..txt",
+      "NameServer": "ns1.realphotopostcards.warriorhall.com.",
+      "Origin": "realphotopostcards.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/registeredagentservices.warriorhall.com..txt",
+      "NameServer": "ns1.registeredagentservices.warriorhall.com.",
+      "Origin": "registeredagentservices.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/registeringcorporation.warriorhall.com..txt",
+      "NameServer": "ns1.registeringcorporation.warriorhall.com.",
+      "Origin": "registeringcorporation.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/samplepostcard.warriorhall.com..txt",
+      "NameServer": "ns1.samplepostcard.warriorhall.com.",
+      "Origin": "samplepostcard.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/selfemployedmedicalinsurance.warriorhall.com..txt",
+      "NameServer": "ns1.selfemployedmedicalinsurance.warriorhall.com.",
+      "Origin": "selfemployedmedicalinsurance.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/selfincorporation.warriorhall.com..txt",
+      "NameServer": "ns1.selfincorporation.warriorhall.com.",
+      "Origin": "selfincorporation.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/shouldiincorporate.warriorhall.com..txt",
+      "NameServer": "ns1.shouldiincorporate.warriorhall.com.",
+      "Origin": "shouldiincorporate.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/smallbusinessincorporating.warriorhall.com..txt",
+      "NameServer": "ns1.smallbusinessincorporating.warriorhall.com.",
+      "Origin": "smallbusinessincorporating.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/smallbusinessincorporation.warriorhall.com..txt",
+      "NameServer": "ns1.smallbusinessincorporation.warriorhall.com.",
+      "Origin": "smallbusinessincorporation.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/smallbusinesspayroll.warriorhall.com..txt",
+      "NameServer": "ns1.smallbusinesspayroll.warriorhall.com.",
+      "Origin": "smallbusinesspayroll.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/smallbusinesspayrollsoftware.warriorhall.com..txt",
+      "NameServer": "ns1.smallbusinesspayrollsoftware.warriorhall.com.",
+      "Origin": "smallbusinesspayrollsoftware.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/softwareforpayroll.warriorhall.com..txt",
+      "NameServer": "ns1.softwareforpayroll.warriorhall.com.",
+      "Origin": "softwareforpayroll.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/startingacorporation.warriorhall.com..txt",
+      "NameServer": "ns1.startingacorporation.warriorhall.com.",
+      "Origin": "startingacorporation.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/startingallc.warriorhall.com..txt",
+      "NameServer": "ns1.startingallc.warriorhall.com.",
+      "Origin": "startingallc.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/televisionwholesale.warriorhall.com..txt",
+      "NameServer": "ns1.televisionwholesale.warriorhall.com.",
+      "Origin": "televisionwholesale.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/visitationillinois.warriorhall.com..txt",
+      "NameServer": "ns1.visitationillinois.warriorhall.com.",
+      "Origin": "visitationillinois.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/warriorhall.com..txt",
+      "NameServer": "ns1.warriorhall.com.",
+      "Origin": "warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/wholesalecostumejewellery.warriorhall.com..txt",
+      "NameServer": "ns1.wholesalecostumejewellery.warriorhall.com.",
+      "Origin": "wholesalecostumejewellery.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/wholesaleglassware.warriorhall.com..txt",
+      "NameServer": "ns1.wholesaleglassware.warriorhall.com.",
+      "Origin": "wholesaleglassware.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/wholesalesoftware.warriorhall.com..txt",
+      "NameServer": "ns1.wholesalesoftware.warriorhall.com.",
+      "Origin": "wholesalesoftware.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/wholesalewomensclothing.warriorhall.com..txt",
+      "NameServer": "ns1.wholesalewomensclothing.warriorhall.com.",
+      "Origin": "wholesalewomensclothing.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/windows7netmeeting.warriorhall.com..txt",
+      "NameServer": "ns1.windows7netmeeting.warriorhall.com.",
+      "Origin": "windows7netmeeting.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/windowsnetmeetingdownload.warriorhall.com..txt",
+      "NameServer": "ns1.windowsnetmeetingdownload.warriorhall.com.",
+      "Origin": "windowsnetmeetingdownload.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/workerscompensationillinois.warriorhall.com..txt",
+      "NameServer": "ns1.workerscompensationillinois.warriorhall.com.",
+      "Origin": "workerscompensationillinois.warriorhall.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/warriorhall.com/www.warriorhall.com..txt",
+      "NameServer": "ns1.www.warriorhall.com.",
+      "Origin": "www.warriorhall.com."
+    }
+  ]
+}

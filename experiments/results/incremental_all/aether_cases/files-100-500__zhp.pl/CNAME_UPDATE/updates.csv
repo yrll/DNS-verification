@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/zhp.pl,akademicy.zhp.pl..txt,CNAME_UPDATE,DEL,www.akademicy.zhp.pl.,CNAME,akademicy.zhp.pl.
+files-100-500/zhp.pl,akademicy.zhp.pl..txt,CNAME_UPDATE,ADD,www.akademicy.zhp.pl.,CNAME,cname-inc.akademicy.zhp.pl.

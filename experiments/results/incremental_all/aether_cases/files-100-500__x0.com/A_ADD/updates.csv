@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/x0.com,0155.x0.com..txt,A_ADD,ADD,__aether_veridns_inc__.0155.x0.com.,A,192.0.2.254

@@ -1,0 +1,13 @@
+check_property:
+  - name: check_delegation_inconsistency
+
+#  - name: check_cyclic_zone_dependency
+#    # if the origin is TLD, the service should use client, else use server
+#    service: server
+socket_settings:
+  ip: 0.0.0.0
+  port: 55555
+
+local_info:
+  local_ip: 10.166.21.14
+  zonefile_path: /mnt/hdd1/allusers/bing_groot/sigcomm_workshop/xmu_dataset/14

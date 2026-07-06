@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/warriorhall.com,alimonyillinois.warriorhall.com..txt,NS_UPDATE,DEL,alimonyillinois.warriorhall.com.,NS,ns1.sedoparking.com.
+files-100-500/warriorhall.com,alimonyillinois.warriorhall.com..txt,NS_UPDATE,ADD,alimonyillinois.warriorhall.com.,NS,ns-inc.alimonyillinois.warriorhall.com.

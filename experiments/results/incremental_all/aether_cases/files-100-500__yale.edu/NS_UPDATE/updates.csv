@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yale.edu,acir.yale.edu..txt,NS_UPDATE,DEL,acir.yale.edu.,NS,serv1.net.yale.edu.
+files-100-500/yale.edu,acir.yale.edu..txt,NS_UPDATE,ADD,acir.yale.edu.,NS,ns-inc.acir.yale.edu.

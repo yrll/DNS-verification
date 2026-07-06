@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yourfreehosting.net,accordion2.yourfreehosting.net..txt,A_UPDATE,DEL,accordion2.yourfreehosting.net.,A,82.98.86.169
+files-100-500/yourfreehosting.net,accordion2.yourfreehosting.net..txt,A_UPDATE,ADD,accordion2.yourfreehosting.net.,A,192.0.2.253

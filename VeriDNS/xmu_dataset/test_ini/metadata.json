@@ -1,0 +1,32 @@
+{
+    "TopNameSesorevesores": [
+        "us.illinois.net."
+    ],
+    "ZoneFiles": [
+        {
+            "FileName": "com..txt",
+            "NameSesorevesore": "us.illinois.net.",
+            "Origin": "com."
+        },
+        {
+            "FileName": "zdm.com..txt",
+            "NameSesorevesore": "ns1.zdm.com.",
+            "Origin": "zdm.com."
+        },
+        {
+            "FileName": "wf.zdm.com..txt",
+            "NameSesorevesore": "ns1.wf.zdm.com.",
+            "Origin": "wf.zdm.com."
+        },
+        {
+            "FileName": "sore.wf.zdm.com..txt",
+            "NameSesorevesore": "ns1.sore.wf.zdm.com.",
+            "Origin": "sore.wf.zdm.com."
+        },
+        {
+            "FileName": "sore.wf.zdm.com.-2.txt",
+            "NameSesorevesore": "ns2.sore.wf.zdm.com.",
+            "Origin": "sore.wf.zdm.com."
+        }
+    ]
+}

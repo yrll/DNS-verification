@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/w3wb.com,w3wb.com..txt,NS_UPDATE,DEL,w3wb.com.,NS,ns69.domaincontrol.com.
+files-100-500/w3wb.com,w3wb.com..txt,NS_UPDATE,ADD,w3wb.com.,NS,ns-inc.w3wb.com.

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/wroc.pl,2012.wroc.pl..txt,A_UPDATE,DEL,mail.2012.wroc.pl.,A,193.0.128.55
+files-500-1000/wroc.pl,2012.wroc.pl..txt,A_UPDATE,ADD,mail.2012.wroc.pl.,A,192.0.2.253

@@ -1,0 +1,16 @@
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "aae", "www"], rtype: A, rdata: "144.92.122.72" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "cae", "cgi"], rtype: MX, rdata: "0 smtp.cae.wisc.edu" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "dces", "www"], rtype: A, rdata: "144.92.93.157" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "mrsec", "www"], rtype: A, rdata: "144.92.9.17" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "nsec", "www"], rtype: A, rdata: "144.92.9.17" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "pediatrics", "www"], rtype: A, rdata: "144.92.221.99" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "mbo", "www"], rtype: A, rdata: "144.92.175.177" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "pophealth", "www"], rtype: A, rdata: "128.104.99.130" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "neurology", "www"], rtype: MX, rdata: "0 www.neurology.wisc.edu" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "wempec", "www"], rtype: A, rdata: "144.92.13.123" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "engr", "tc"], rtype: MX, rdata: "0 epdmail.engr.wisc.edu" }
+[2026-07-03T07:10:09Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "wisc", "library", "forward"], rtype: A, rdata: "144.92.11.122" }
+
+thread 'main' (562) panicked at src/lib.rs:114:36:
+update zone file not found: aae.wisc.edu..txt
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.mx,01dcpromo.com.mx..txt,CNAME_UPDATE,DEL,www.01dcpromo.com.mx.,CNAME,01dcpromo.com.mx.
+top-10/com.mx,01dcpromo.com.mx..txt,CNAME_UPDATE,ADD,www.01dcpromo.com.mx.,CNAME,cname-inc.01dcpromo.com.mx.

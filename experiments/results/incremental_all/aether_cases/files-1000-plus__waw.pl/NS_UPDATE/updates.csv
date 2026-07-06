@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-1000-plus/waw.pl,147break.waw.pl..txt,NS_UPDATE,DEL,147break.waw.pl.,NS,ns1.kei.pl.
+files-1000-plus/waw.pl,147break.waw.pl..txt,NS_UPDATE,ADD,147break.waw.pl.,NS,ns-inc.147break.waw.pl.

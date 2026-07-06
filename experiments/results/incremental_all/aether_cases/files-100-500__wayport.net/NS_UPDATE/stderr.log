@@ -1,0 +1,2 @@
+[2026-06-30T05:21:02Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["net", "wayport", "sbc", "secure"], rtype: A, rdata: "216.12.231.19" }
+[2026-06-30T05:21:02Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["net", "wayport", "stage1-wwp"], rtype: A, rdata: "216.12.246.20" }

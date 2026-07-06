@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/vrn.ru,advecs.vrn.ru..txt,CNAME_UPDATE,DEL,intranet.advecs.vrn.ru.,CNAME,www.advecs.vrn.ru.
+files-100-500/vrn.ru,advecs.vrn.ru..txt,CNAME_UPDATE,ADD,intranet.advecs.vrn.ru.,CNAME,cname-inc.advecs.vrn.ru.

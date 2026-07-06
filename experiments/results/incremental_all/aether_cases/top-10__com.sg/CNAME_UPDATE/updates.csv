@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.sg,100hours.com.sg..txt,CNAME_UPDATE,DEL,www.100hours.com.sg.,CNAME,100hours.com.sg.
+top-10/com.sg,100hours.com.sg..txt,CNAME_UPDATE,ADD,www.100hours.com.sg.,CNAME,cname-inc.100hours.com.sg.

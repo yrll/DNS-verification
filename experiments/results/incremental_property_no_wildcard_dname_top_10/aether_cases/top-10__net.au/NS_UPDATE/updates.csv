@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/net.au,1001.net.au..txt,NS_UPDATE,DEL,1001.net.au.,NS,ns1.houseoflaudanum.com.
+top-10/net.au,1001.net.au..txt,NS_UPDATE,ADD,1001.net.au.,NS,ns-inc.1001.net.au.

@@ -1,0 +1,1442 @@
+{
+  "TopNameServers": [
+    "ns1.webd.pl."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/1lokrasnystaw.webd.pl..txt",
+      "NameServer": "ns1.1lokrasnystaw.webd.pl.",
+      "Origin": "1lokrasnystaw.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/adminjok.webd.pl..txt",
+      "NameServer": "ns1.adminjok.webd.pl.",
+      "Origin": "adminjok.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/air2ww.webd.pl..txt",
+      "NameServer": "ns1.air2ww.webd.pl.",
+      "Origin": "air2ww.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/angelus.webd.pl..txt",
+      "NameServer": "ns1.angelus.webd.pl.",
+      "Origin": "angelus.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/angernet.webd.pl..txt",
+      "NameServer": "ns1.angernet.webd.pl.",
+      "Origin": "angernet.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/araj.webd.pl..txt",
+      "NameServer": "ns1.araj.webd.pl.",
+      "Origin": "araj.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/art.webd.pl..txt",
+      "NameServer": "ns1.art.webd.pl.",
+      "Origin": "art.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/artex.webd.pl..txt",
+      "NameServer": "ns1.artex.webd.pl.",
+      "Origin": "artex.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/arturooo.webd.pl..txt",
+      "NameServer": "ns1.arturooo.webd.pl.",
+      "Origin": "arturooo.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/aru3000.webd.pl..txt",
+      "NameServer": "ns1.aru3000.webd.pl.",
+      "Origin": "aru3000.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/autosurf.webd.pl..txt",
+      "NameServer": "ns1.autosurf.webd.pl.",
+      "Origin": "autosurf.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/avengers.webd.pl..txt",
+      "NameServer": "ns1.avengers.webd.pl.",
+      "Origin": "avengers.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/baby.webd.pl..txt",
+      "NameServer": "ns1.baby.webd.pl.",
+      "Origin": "baby.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bagros.webd.pl..txt",
+      "NameServer": "ns1.bagros.webd.pl.",
+      "Origin": "bagros.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bariera.webd.pl..txt",
+      "NameServer": "ns1.bariera.webd.pl.",
+      "Origin": "bariera.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/berberysowe-ogrody.webd.pl..txt",
+      "NameServer": "ns1.berberysowe-ogrody.webd.pl.",
+      "Origin": "berberysowe-ogrody.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/berezows.webd.pl..txt",
+      "NameServer": "ns1.berezows.webd.pl.",
+      "Origin": "berezows.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bestmp3.webd.pl..txt",
+      "NameServer": "ns1.bestmp3.webd.pl.",
+      "Origin": "bestmp3.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bgzforum.webd.pl..txt",
+      "NameServer": "ns1.bgzforum.webd.pl.",
+      "Origin": "bgzforum.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bios.webd.pl..txt",
+      "NameServer": "ns1.bios.webd.pl.",
+      "Origin": "bios.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bks1920.webd.pl..txt",
+      "NameServer": "ns1.bks1920.webd.pl.",
+      "Origin": "bks1920.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/blade999.webd.pl..txt",
+      "NameServer": "ns1.blade999.webd.pl.",
+      "Origin": "blade999.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bn171.webd.pl..txt",
+      "NameServer": "ns1.bn171.webd.pl.",
+      "Origin": "bn171.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bodman.webd.pl..txt",
+      "NameServer": "ns1.bodman.webd.pl.",
+      "Origin": "bodman.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bogston.webd.pl..txt",
+      "NameServer": "ns1.bogston.webd.pl.",
+      "Origin": "bogston.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bolas.webd.pl..txt",
+      "NameServer": "ns1.bolas.webd.pl.",
+      "Origin": "bolas.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/briho.webd.pl..txt",
+      "NameServer": "ns1.briho.webd.pl.",
+      "Origin": "briho.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/brutalland.webd.pl..txt",
+      "NameServer": "ns1.brutalland.webd.pl.",
+      "Origin": "brutalland.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/buczar.webd.pl..txt",
+      "NameServer": "ns1.buczar.webd.pl.",
+      "Origin": "buczar.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/builder.webd.pl..txt",
+      "NameServer": "ns1.builder.webd.pl.",
+      "Origin": "builder.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bushii3.webd.pl..txt",
+      "NameServer": "ns1.bushii3.webd.pl.",
+      "Origin": "bushii3.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/bytom.webd.pl..txt",
+      "NameServer": "ns1.bytom.webd.pl.",
+      "Origin": "bytom.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/camino.webd.pl..txt",
+      "NameServer": "ns1.camino.webd.pl.",
+      "Origin": "camino.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/chavez.webd.pl..txt",
+      "NameServer": "ns1.chavez.webd.pl.",
+      "Origin": "chavez.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/chorea.webd.pl..txt",
+      "NameServer": "ns1.chorea.webd.pl.",
+      "Origin": "chorea.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ciezary.webd.pl..txt",
+      "NameServer": "ns1.ciezary.webd.pl.",
+      "Origin": "ciezary.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/cobra.webd.pl..txt",
+      "NameServer": "ns1.cobra.webd.pl.",
+      "Origin": "cobra.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/comx.webd.pl..txt",
+      "NameServer": "ns1.comx.webd.pl.",
+      "Origin": "comx.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/corral.webd.pl..txt",
+      "NameServer": "ns1.corral.webd.pl.",
+      "Origin": "corral.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/cportal.webd.pl..txt",
+      "NameServer": "ns1.cportal.webd.pl.",
+      "Origin": "cportal.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/criso.webd.pl..txt",
+      "NameServer": "ns1.criso.webd.pl.",
+      "Origin": "criso.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/cwr.webd.pl..txt",
+      "NameServer": "ns1.cwr.webd.pl.",
+      "Origin": "cwr.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/daniolek.webd.pl..txt",
+      "NameServer": "ns1.daniolek.webd.pl.",
+      "Origin": "daniolek.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/dannskee.webd.pl..txt",
+      "NameServer": "ns1.dannskee.webd.pl.",
+      "Origin": "dannskee.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/danzig.webd.pl..txt",
+      "NameServer": "ns1.danzig.webd.pl.",
+      "Origin": "danzig.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/debki.webd.pl..txt",
+      "NameServer": "ns1.debki.webd.pl.",
+      "Origin": "debki.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/deivos.webd.pl..txt",
+      "NameServer": "ns1.deivos.webd.pl.",
+      "Origin": "deivos.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/design.webd.pl..txt",
+      "NameServer": "ns1.design.webd.pl.",
+      "Origin": "design.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/digit.webd.pl..txt",
+      "NameServer": "ns1.digit.webd.pl.",
+      "Origin": "digit.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/dikof.webd.pl..txt",
+      "NameServer": "ns1.dikof.webd.pl.",
+      "Origin": "dikof.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/dolega.webd.pl..txt",
+      "NameServer": "ns1.dolega.webd.pl.",
+      "Origin": "dolega.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/donatag.webd.pl..txt",
+      "NameServer": "ns1.donatag.webd.pl.",
+      "Origin": "donatag.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/donmati.webd.pl..txt",
+      "NameServer": "ns1.donmati.webd.pl.",
+      "Origin": "donmati.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/dosforum.webd.pl..txt",
+      "NameServer": "ns1.dosforum.webd.pl.",
+      "Origin": "dosforum.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/drab.webd.pl..txt",
+      "NameServer": "ns1.drab.webd.pl.",
+      "Origin": "drab.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/drinki.webd.pl..txt",
+      "NameServer": "ns1.drinki.webd.pl.",
+      "Origin": "drinki.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/dsapala.webd.pl..txt",
+      "NameServer": "ns1.dsapala.webd.pl.",
+      "Origin": "dsapala.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/dudcom.webd.pl..txt",
+      "NameServer": "ns1.dudcom.webd.pl.",
+      "Origin": "dudcom.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/edwind.webd.pl..txt",
+      "NameServer": "ns1.edwind.webd.pl.",
+      "Origin": "edwind.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/egipt.webd.pl..txt",
+      "NameServer": "ns1.egipt.webd.pl.",
+      "Origin": "egipt.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ekotech.webd.pl..txt",
+      "NameServer": "ns1.ekotech.webd.pl.",
+      "Origin": "ekotech.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ekspert.webd.pl..txt",
+      "NameServer": "ns1.ekspert.webd.pl.",
+      "Origin": "ekspert.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/elblag.webd.pl..txt",
+      "NameServer": "ns1.elblag.webd.pl.",
+      "Origin": "elblag.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/eltin.webd.pl..txt",
+      "NameServer": "ns1.eltin.webd.pl.",
+      "Origin": "eltin.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/eltrans.webd.pl..txt",
+      "NameServer": "ns1.eltrans.webd.pl.",
+      "Origin": "eltrans.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/elzbieta.webd.pl..txt",
+      "NameServer": "ns1.elzbieta.webd.pl.",
+      "Origin": "elzbieta.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/emule.webd.pl..txt",
+      "NameServer": "ns1.emule.webd.pl.",
+      "Origin": "emule.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/epicpwn.webd.pl..txt",
+      "NameServer": "ns1.epicpwn.webd.pl.",
+      "Origin": "epicpwn.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/epifania.webd.pl..txt",
+      "NameServer": "ns1.epifania.webd.pl.",
+      "Origin": "epifania.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/equus.webd.pl..txt",
+      "NameServer": "ns1.equus.webd.pl.",
+      "Origin": "equus.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/erd2.webd.pl..txt",
+      "NameServer": "ns1.erd2.webd.pl.",
+      "Origin": "erd2.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/exertsc.webd.pl..txt",
+      "NameServer": "ns1.exertsc.webd.pl.",
+      "Origin": "exertsc.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/figbet.webd.pl..txt",
+      "NameServer": "ns1.figbet.webd.pl.",
+      "Origin": "figbet.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/floo.webd.pl..txt",
+      "NameServer": "ns1.floo.webd.pl.",
+      "Origin": "floo.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/fotbaron.webd.pl..txt",
+      "NameServer": "ns1.fotbaron.webd.pl.",
+      "Origin": "fotbaron.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/frantir.webd.pl..txt",
+      "NameServer": "ns1.frantir.webd.pl.",
+      "Origin": "frantir.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/gama.webd.pl..txt",
+      "NameServer": "ns1.gama.webd.pl.",
+      "Origin": "gama.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/geoforum.webd.pl..txt",
+      "NameServer": "ns1.geoforum.webd.pl.",
+      "Origin": "geoforum.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/gim5pozn.webd.pl..txt",
+      "NameServer": "ns1.gim5pozn.webd.pl.",
+      "Origin": "gim5pozn.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/gimnet.webd.pl..txt",
+      "NameServer": "ns1.gimnet.webd.pl.",
+      "Origin": "gimnet.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/gobuster.webd.pl..txt",
+      "NameServer": "ns1.gobuster.webd.pl.",
+      "Origin": "gobuster.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/godlana.webd.pl..txt",
+      "NameServer": "ns1.godlana.webd.pl.",
+      "Origin": "godlana.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/gokpiaski.webd.pl..txt",
+      "NameServer": "ns1.gokpiaski.webd.pl.",
+      "Origin": "gokpiaski.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/golddog.webd.pl..txt",
+      "NameServer": "ns1.golddog.webd.pl.",
+      "Origin": "golddog.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/goralzywiec.webd.pl..txt",
+      "NameServer": "ns1.goralzywiec.webd.pl.",
+      "Origin": "goralzywiec.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/gory.webd.pl..txt",
+      "NameServer": "ns1.gory.webd.pl.",
+      "Origin": "gory.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/gostomia.webd.pl..txt",
+      "NameServer": "ns1.gostomia.webd.pl.",
+      "Origin": "gostomia.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/grafit.webd.pl..txt",
+      "NameServer": "ns1.grafit.webd.pl.",
+      "Origin": "grafit.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/graflux.webd.pl..txt",
+      "NameServer": "ns1.graflux.webd.pl.",
+      "Origin": "graflux.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/gregi.webd.pl..txt",
+      "NameServer": "ns1.gregi.webd.pl.",
+      "Origin": "gregi.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/grinq1.webd.pl..txt",
+      "NameServer": "ns1.grinq1.webd.pl.",
+      "Origin": "grinq1.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/grodzio.webd.pl..txt",
+      "NameServer": "ns1.grodzio.webd.pl.",
+      "Origin": "grodzio.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/hase.webd.pl..txt",
+      "NameServer": "ns1.hase.webd.pl.",
+      "Origin": "hase.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/hazaja.webd.pl..txt",
+      "NameServer": "ns1.hazaja.webd.pl.",
+      "Origin": "hazaja.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/hedache.webd.pl..txt",
+      "NameServer": "ns1.hedache.webd.pl.",
+      "Origin": "hedache.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/helcia.webd.pl..txt",
+      "NameServer": "ns1.helcia.webd.pl.",
+      "Origin": "helcia.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/hitman3.webd.pl..txt",
+      "NameServer": "ns1.hitman3.webd.pl.",
+      "Origin": "hitman3.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/i.webd.pl..txt",
+      "NameServer": "ns1.i.webd.pl.",
+      "Origin": "i.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ibravos.webd.pl..txt",
+      "NameServer": "ns1.ibravos.webd.pl.",
+      "Origin": "ibravos.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/icc2.webd.pl..txt",
+      "NameServer": "ns1.icc2.webd.pl.",
+      "Origin": "icc2.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/icon.webd.pl..txt",
+      "NameServer": "ns1.icon.webd.pl.",
+      "Origin": "icon.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ifona.webd.pl..txt",
+      "NameServer": "ns1.ifona.webd.pl.",
+      "Origin": "ifona.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/infomar.webd.pl..txt",
+      "NameServer": "ns1.infomar.webd.pl.",
+      "Origin": "infomar.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/instsani.webd.pl..txt",
+      "NameServer": "ns1.instsani.webd.pl.",
+      "Origin": "instsani.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/intertap.webd.pl..txt",
+      "NameServer": "ns1.intertap.webd.pl.",
+      "Origin": "intertap.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ixlo.webd.pl..txt",
+      "NameServer": "ns1.ixlo.webd.pl.",
+      "Origin": "ixlo.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/jand.webd.pl..txt",
+      "NameServer": "ns1.jand.webd.pl.",
+      "Origin": "jand.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/jewishkr.webd.pl..txt",
+      "NameServer": "ns1.jewishkr.webd.pl.",
+      "Origin": "jewishkr.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/jezykotw.webd.pl..txt",
+      "NameServer": "ns1.jezykotw.webd.pl.",
+      "Origin": "jezykotw.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/jhartman.webd.pl..txt",
+      "NameServer": "ns1.jhartman.webd.pl.",
+      "Origin": "jhartman.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/joapio.webd.pl..txt",
+      "NameServer": "ns1.joapio.webd.pl.",
+      "Origin": "joapio.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/juliaaa.webd.pl..txt",
+      "NameServer": "ns1.juliaaa.webd.pl.",
+      "Origin": "juliaaa.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/karwiny.webd.pl..txt",
+      "NameServer": "ns1.karwiny.webd.pl.",
+      "Origin": "karwiny.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/klasa11.webd.pl..txt",
+      "NameServer": "ns1.klasa11.webd.pl.",
+      "Origin": "klasa11.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/kloder.webd.pl..txt",
+      "NameServer": "ns1.kloder.webd.pl.",
+      "Origin": "kloder.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/koleje.webd.pl..txt",
+      "NameServer": "ns1.koleje.webd.pl.",
+      "Origin": "koleje.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/koles.webd.pl..txt",
+      "NameServer": "ns1.koles.webd.pl.",
+      "Origin": "koles.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/kombialy.webd.pl..txt",
+      "NameServer": "ns1.kombialy.webd.pl.",
+      "Origin": "kombialy.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/konradb.webd.pl..txt",
+      "NameServer": "ns1.konradb.webd.pl.",
+      "Origin": "konradb.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/koral-dubicze.webd.pl..txt",
+      "NameServer": "ns1.koral-dubicze.webd.pl.",
+      "Origin": "koral-dubicze.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/kravmaga.webd.pl..txt",
+      "NameServer": "ns1.kravmaga.webd.pl.",
+      "Origin": "kravmaga.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ksgieblo.webd.pl..txt",
+      "NameServer": "ns1.ksgieblo.webd.pl.",
+      "Origin": "ksgieblo.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ksmelk1.webd.pl..txt",
+      "NameServer": "ns1.ksmelk1.webd.pl.",
+      "Origin": "ksmelk1.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ksrwsosn.webd.pl..txt",
+      "NameServer": "ns1.ksrwsosn.webd.pl.",
+      "Origin": "ksrwsosn.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/kurator.webd.pl..txt",
+      "NameServer": "ns1.kurator.webd.pl.",
+      "Origin": "kurator.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/kursy.webd.pl..txt",
+      "NameServer": "ns1.kursy.webd.pl.",
+      "Origin": "kursy.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/kustyk.webd.pl..txt",
+      "NameServer": "ns1.kustyk.webd.pl.",
+      "Origin": "kustyk.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/labiszyn.webd.pl..txt",
+      "NameServer": "ns1.labiszyn.webd.pl.",
+      "Origin": "labiszyn.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/lapajer.webd.pl..txt",
+      "NameServer": "ns1.lapajer.webd.pl.",
+      "Origin": "lapajer.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/lasko.webd.pl..txt",
+      "NameServer": "ns1.lasko.webd.pl.",
+      "Origin": "lasko.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/librae.webd.pl..txt",
+      "NameServer": "ns1.librae.webd.pl.",
+      "Origin": "librae.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/liceum.webd.pl..txt",
+      "NameServer": "ns1.liceum.webd.pl.",
+      "Origin": "liceum.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/lifesavi.webd.pl..txt",
+      "NameServer": "ns1.lifesavi.webd.pl.",
+      "Origin": "lifesavi.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/locke.webd.pl..txt",
+      "NameServer": "ns1.locke.webd.pl.",
+      "Origin": "locke.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/londyn.webd.pl..txt",
+      "NameServer": "ns1.londyn.webd.pl.",
+      "Origin": "londyn.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/loocky.webd.pl..txt",
+      "NameServer": "ns1.loocky.webd.pl.",
+      "Origin": "loocky.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/lotysz.webd.pl..txt",
+      "NameServer": "ns1.lotysz.webd.pl.",
+      "Origin": "lotysz.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/lublin.webd.pl..txt",
+      "NameServer": "ns1.lublin.webd.pl.",
+      "Origin": "lublin.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/lucom.webd.pl..txt",
+      "NameServer": "ns1.lucom.webd.pl.",
+      "Origin": "lucom.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/lucyna2.webd.pl..txt",
+      "NameServer": "ns1.lucyna2.webd.pl.",
+      "Origin": "lucyna2.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/luk44.webd.pl..txt",
+      "NameServer": "ns1.luk44.webd.pl.",
+      "Origin": "luk44.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/luteranie.webd.pl..txt",
+      "NameServer": "ns1.luteranie.webd.pl.",
+      "Origin": "luteranie.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/malawies.webd.pl..txt",
+      "NameServer": "ns1.malawies.webd.pl.",
+      "Origin": "malawies.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/markus1.webd.pl..txt",
+      "NameServer": "ns1.markus1.webd.pl.",
+      "Origin": "markus1.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/masaz.webd.pl..txt",
+      "NameServer": "ns1.masaz.webd.pl.",
+      "Origin": "masaz.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/mason.webd.pl..txt",
+      "NameServer": "ns1.mason.webd.pl.",
+      "Origin": "mason.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/master17.webd.pl..txt",
+      "NameServer": "ns1.master17.webd.pl.",
+      "Origin": "master17.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/maxfame.webd.pl..txt",
+      "NameServer": "ns1.maxfame.webd.pl.",
+      "Origin": "maxfame.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/met-plast.webd.pl..txt",
+      "NameServer": "ns1.met-plast.webd.pl.",
+      "Origin": "met-plast.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/metysowka.webd.pl..txt",
+      "NameServer": "ns1.metysowka.webd.pl.",
+      "Origin": "metysowka.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/micfor.webd.pl..txt",
+      "NameServer": "ns1.micfor.webd.pl.",
+      "Origin": "micfor.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/miken.webd.pl..txt",
+      "NameServer": "ns1.miken.webd.pl.",
+      "Origin": "miken.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/mio.webd.pl..txt",
+      "NameServer": "ns1.mio.webd.pl.",
+      "Origin": "mio.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/mkmlodz.webd.pl..txt",
+      "NameServer": "ns1.mkmlodz.webd.pl.",
+      "Origin": "mkmlodz.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/mkstkd.webd.pl..txt",
+      "NameServer": "ns1.mkstkd.webd.pl.",
+      "Origin": "mkstkd.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/mojaprac.webd.pl..txt",
+      "NameServer": "ns1.mojaprac.webd.pl.",
+      "Origin": "mojaprac.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/montignac.webd.pl..txt",
+      "NameServer": "ns1.montignac.webd.pl.",
+      "Origin": "montignac.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/morlok.webd.pl..txt",
+      "NameServer": "ns1.morlok.webd.pl.",
+      "Origin": "morlok.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/msi.webd.pl..txt",
+      "NameServer": "ns1.msi.webd.pl.",
+      "Origin": "msi.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/muzeumkrasnystaw.webd.pl..txt",
+      "NameServer": "ns1.muzeumkrasnystaw.webd.pl.",
+      "Origin": "muzeumkrasnystaw.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/muzmcz.webd.pl..txt",
+      "NameServer": "ns1.muzmcz.webd.pl.",
+      "Origin": "muzmcz.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/napro.webd.pl..txt",
+      "NameServer": "ns1.napro.webd.pl.",
+      "Origin": "napro.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/nemiloss.webd.pl..txt",
+      "NameServer": "ns1.nemiloss.webd.pl.",
+      "Origin": "nemiloss.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/nnmpwln.webd.pl..txt",
+      "NameServer": "ns1.nnmpwln.webd.pl.",
+      "Origin": "nnmpwln.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ns1.webd.pl..txt",
+      "NameServer": "ns1.ns1.webd.pl.",
+      "Origin": "ns1.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ns2.webd.pl..txt",
+      "NameServer": "ns1.ns2.webd.pl.",
+      "Origin": "ns2.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ns3.webd.pl..txt",
+      "NameServer": "ns1.ns3.webd.pl.",
+      "Origin": "ns3.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ns5.webd.pl..txt",
+      "NameServer": "ns1.ns5.webd.pl.",
+      "Origin": "ns5.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ns7.webd.pl..txt",
+      "NameServer": "ns1.ns7.webd.pl.",
+      "Origin": "ns7.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ofm.webd.pl..txt",
+      "NameServer": "ns1.ofm.webd.pl.",
+      "Origin": "ofm.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/oldtown.webd.pl..txt",
+      "NameServer": "ns1.oldtown.webd.pl.",
+      "Origin": "oldtown.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/oslj.webd.pl..txt",
+      "NameServer": "ns1.oslj.webd.pl.",
+      "Origin": "oslj.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ospopale.webd.pl..txt",
+      "NameServer": "ns1.ospopale.webd.pl.",
+      "Origin": "ospopale.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ouizzard.webd.pl..txt",
+      "NameServer": "ns1.ouizzard.webd.pl.",
+      "Origin": "ouizzard.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/owczarki.webd.pl..txt",
+      "NameServer": "ns1.owczarki.webd.pl.",
+      "Origin": "owczarki.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ozi.webd.pl..txt",
+      "NameServer": "ns1.ozi.webd.pl.",
+      "Origin": "ozi.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ozpnjar.webd.pl..txt",
+      "NameServer": "ns1.ozpnjar.webd.pl.",
+      "Origin": "ozpnjar.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/panczo.webd.pl..txt",
+      "NameServer": "ns1.panczo.webd.pl.",
+      "Origin": "panczo.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/papugi.webd.pl..txt",
+      "NameServer": "ns1.papugi.webd.pl.",
+      "Origin": "papugi.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/papuzki.webd.pl..txt",
+      "NameServer": "ns1.papuzki.webd.pl.",
+      "Origin": "papuzki.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/parafia-blizianka.webd.pl..txt",
+      "NameServer": "ns1.parafia-blizianka.webd.pl.",
+      "Origin": "parafia-blizianka.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/parafiawerynia.webd.pl..txt",
+      "NameServer": "ns1.parafiawerynia.webd.pl.",
+      "Origin": "parafiawerynia.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/paranoix.webd.pl..txt",
+      "NameServer": "ns1.paranoix.webd.pl.",
+      "Origin": "paranoix.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/pawtel.webd.pl..txt",
+      "NameServer": "ns1.pawtel.webd.pl.",
+      "Origin": "pawtel.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/pawud11.webd.pl..txt",
+      "NameServer": "ns1.pawud11.webd.pl.",
+      "Origin": "pawud11.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/pbp.webd.pl..txt",
+      "NameServer": "ns1.pbp.webd.pl.",
+      "Origin": "pbp.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/pchynal.webd.pl..txt",
+      "NameServer": "ns1.pchynal.webd.pl.",
+      "Origin": "pchynal.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/penniman.webd.pl..txt",
+      "NameServer": "ns1.penniman.webd.pl.",
+      "Origin": "penniman.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/pensjonatbukowina.webd.pl..txt",
+      "NameServer": "ns1.pensjonatbukowina.webd.pl.",
+      "Origin": "pensjonatbukowina.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/perkunas.webd.pl..txt",
+      "NameServer": "ns1.perkunas.webd.pl.",
+      "Origin": "perkunas.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/pikselui.webd.pl..txt",
+      "NameServer": "ns1.pikselui.webd.pl.",
+      "Origin": "pikselui.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/plastyk.webd.pl..txt",
+      "NameServer": "ns1.plastyk.webd.pl.",
+      "Origin": "plastyk.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/polanest.webd.pl..txt",
+      "NameServer": "ns1.polanest.webd.pl.",
+      "Origin": "polanest.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/posesja.webd.pl..txt",
+      "NameServer": "ns1.posesja.webd.pl.",
+      "Origin": "posesja.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ppnch.webd.pl..txt",
+      "NameServer": "ns1.ppnch.webd.pl.",
+      "Origin": "ppnch.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/pppkonst.webd.pl..txt",
+      "NameServer": "ns1.pppkonst.webd.pl.",
+      "Origin": "pppkonst.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/proforma.webd.pl..txt",
+      "NameServer": "ns1.proforma.webd.pl.",
+      "Origin": "proforma.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/przed.webd.pl..txt",
+      "NameServer": "ns1.przed.webd.pl.",
+      "Origin": "przed.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/przeds8.webd.pl..txt",
+      "NameServer": "ns1.przeds8.webd.pl.",
+      "Origin": "przeds8.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/przeprowadzki.webd.pl..txt",
+      "NameServer": "ns1.przeprowadzki.webd.pl.",
+      "Origin": "przeprowadzki.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/rabid.webd.pl..txt",
+      "NameServer": "ns1.rabid.webd.pl.",
+      "Origin": "rabid.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/raczejne.webd.pl..txt",
+      "NameServer": "ns1.raczejne.webd.pl.",
+      "Origin": "raczejne.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/radcagms.webd.pl..txt",
+      "NameServer": "ns1.radcagms.webd.pl.",
+      "Origin": "radcagms.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/radius.webd.pl..txt",
+      "NameServer": "ns1.radius.webd.pl.",
+      "Origin": "radius.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/rafafi.webd.pl..txt",
+      "NameServer": "ns1.rafafi.webd.pl.",
+      "Origin": "rafafi.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ramsko.webd.pl..txt",
+      "NameServer": "ns1.ramsko.webd.pl.",
+      "Origin": "ramsko.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/rbi.webd.pl..txt",
+      "NameServer": "ns1.rbi.webd.pl.",
+      "Origin": "rbi.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/reflex.webd.pl..txt",
+      "NameServer": "ns1.reflex.webd.pl.",
+      "Origin": "reflex.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/retsezc.webd.pl..txt",
+      "NameServer": "ns1.retsezc.webd.pl.",
+      "Origin": "retsezc.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/rjk.webd.pl..txt",
+      "NameServer": "ns1.rjk.webd.pl.",
+      "Origin": "rjk.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/roboyama.webd.pl..txt",
+      "NameServer": "ns1.roboyama.webd.pl.",
+      "Origin": "roboyama.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/rolada.webd.pl..txt",
+      "NameServer": "ns1.rolada.webd.pl.",
+      "Origin": "rolada.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/romanx.webd.pl..txt",
+      "NameServer": "ns1.romanx.webd.pl.",
+      "Origin": "romanx.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/rudniksp.webd.pl..txt",
+      "NameServer": "ns1.rudniksp.webd.pl.",
+      "Origin": "rudniksp.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/rzygacz.webd.pl..txt",
+      "NameServer": "ns1.rzygacz.webd.pl.",
+      "Origin": "rzygacz.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/s4ndm4n.webd.pl..txt",
+      "NameServer": "ns1.s4ndm4n.webd.pl.",
+      "Origin": "s4ndm4n.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/score.webd.pl..txt",
+      "NameServer": "ns1.score.webd.pl.",
+      "Origin": "score.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/sebas.webd.pl..txt",
+      "NameServer": "ns1.sebas.webd.pl.",
+      "Origin": "sebas.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/senderski.webd.pl..txt",
+      "NameServer": "ns1.senderski.webd.pl.",
+      "Origin": "senderski.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/serhij.webd.pl..txt",
+      "NameServer": "ns1.serhij.webd.pl.",
+      "Origin": "serhij.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/seveneo.webd.pl..txt",
+      "NameServer": "ns1.seveneo.webd.pl.",
+      "Origin": "seveneo.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/sieniu.webd.pl..txt",
+      "NameServer": "ns1.sieniu.webd.pl.",
+      "Origin": "sieniu.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/siwy010.webd.pl..txt",
+      "NameServer": "ns1.siwy010.webd.pl.",
+      "Origin": "siwy010.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/sk85.webd.pl..txt",
+      "NameServer": "ns1.sk85.webd.pl.",
+      "Origin": "sk85.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/skrzynie.webd.pl..txt",
+      "NameServer": "ns1.skrzynie.webd.pl.",
+      "Origin": "skrzynie.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/smoczek.webd.pl..txt",
+      "NameServer": "ns1.smoczek.webd.pl.",
+      "Origin": "smoczek.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/sniadek.webd.pl..txt",
+      "NameServer": "ns1.sniadek.webd.pl.",
+      "Origin": "sniadek.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/sow.webd.pl..txt",
+      "NameServer": "ns1.sow.webd.pl.",
+      "Origin": "sow.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/spi11debica.webd.pl..txt",
+      "NameServer": "ns1.spi11debica.webd.pl.",
+      "Origin": "spi11debica.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/spiker.webd.pl..txt",
+      "NameServer": "ns1.spiker.webd.pl.",
+      "Origin": "spiker.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/spk.webd.pl..txt",
+      "NameServer": "ns1.spk.webd.pl.",
+      "Origin": "spk.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/sunave.webd.pl..txt",
+      "NameServer": "ns1.sunave.webd.pl.",
+      "Origin": "sunave.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/surawka.webd.pl..txt",
+      "NameServer": "ns1.surawka.webd.pl.",
+      "Origin": "surawka.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/swrgzsip.webd.pl..txt",
+      "NameServer": "ns1.swrgzsip.webd.pl.",
+      "Origin": "swrgzsip.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/szczeb.webd.pl..txt",
+      "NameServer": "ns1.szczeb.webd.pl.",
+      "Origin": "szczeb.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/sztab.webd.pl..txt",
+      "NameServer": "ns1.sztab.webd.pl.",
+      "Origin": "sztab.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/tak.webd.pl..txt",
+      "NameServer": "ns1.tak.webd.pl.",
+      "Origin": "tak.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/techpuls.webd.pl..txt",
+      "NameServer": "ns1.techpuls.webd.pl.",
+      "Origin": "techpuls.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/teokryt.webd.pl..txt",
+      "NameServer": "ns1.teokryt.webd.pl.",
+      "Origin": "teokryt.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/testv.webd.pl..txt",
+      "NameServer": "ns1.testv.webd.pl.",
+      "Origin": "testv.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/tgv.webd.pl..txt",
+      "NameServer": "ns1.tgv.webd.pl.",
+      "Origin": "tgv.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/themovies.webd.pl..txt",
+      "NameServer": "ns1.themovies.webd.pl.",
+      "Origin": "themovies.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/tkztramp.webd.pl..txt",
+      "NameServer": "ns1.tkztramp.webd.pl.",
+      "Origin": "tkztramp.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/toolbar.webd.pl..txt",
+      "NameServer": "ns1.toolbar.webd.pl.",
+      "Origin": "toolbar.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/torun.webd.pl..txt",
+      "NameServer": "ns1.torun.webd.pl.",
+      "Origin": "torun.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/trango.webd.pl..txt",
+      "NameServer": "ns1.trango.webd.pl.",
+      "Origin": "trango.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/trelinsk.webd.pl..txt",
+      "NameServer": "ns1.trelinsk.webd.pl.",
+      "Origin": "trelinsk.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ukhk.webd.pl..txt",
+      "NameServer": "ns1.ukhk.webd.pl.",
+      "Origin": "ukhk.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ultteams.webd.pl..txt",
+      "NameServer": "ns1.ultteams.webd.pl.",
+      "Origin": "ultteams.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/uor.webd.pl..txt",
+      "NameServer": "ns1.uor.webd.pl.",
+      "Origin": "uor.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ustka.webd.pl..txt",
+      "NameServer": "ns1.ustka.webd.pl.",
+      "Origin": "ustka.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/valdaron.webd.pl..txt",
+      "NameServer": "ns1.valdaron.webd.pl.",
+      "Origin": "valdaron.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/varia.webd.pl..txt",
+      "NameServer": "ns1.varia.webd.pl.",
+      "Origin": "varia.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/vdborow.webd.pl..txt",
+      "NameServer": "ns1.vdborow.webd.pl.",
+      "Origin": "vdborow.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/w03.webd.pl..txt",
+      "NameServer": "ns1.w03.webd.pl.",
+      "Origin": "w03.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/w05.webd.pl..txt",
+      "NameServer": "ns1.w05.webd.pl.",
+      "Origin": "w05.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/wampnm.webd.pl..txt",
+      "NameServer": "ns1.wampnm.webd.pl.",
+      "Origin": "wampnm.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/wantek.webd.pl..txt",
+      "NameServer": "ns1.wantek.webd.pl.",
+      "Origin": "wantek.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/wch3lo.webd.pl..txt",
+      "NameServer": "ns1.wch3lo.webd.pl.",
+      "Origin": "wch3lo.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/webd.pl..txt",
+      "NameServer": "ns1.webd.pl.",
+      "Origin": "webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/webdesign.webd.pl..txt",
+      "NameServer": "ns1.webdesign.webd.pl.",
+      "Origin": "webdesign.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/westham.webd.pl..txt",
+      "NameServer": "ns1.westham.webd.pl.",
+      "Origin": "westham.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/wfeh.webd.pl..txt",
+      "NameServer": "ns1.wfeh.webd.pl.",
+      "Origin": "wfeh.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/widelka.webd.pl..txt",
+      "NameServer": "ns1.widelka.webd.pl.",
+      "Origin": "widelka.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/winow.webd.pl..txt",
+      "NameServer": "ns1.winow.webd.pl.",
+      "Origin": "winow.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/wiper.webd.pl..txt",
+      "NameServer": "ns1.wiper.webd.pl.",
+      "Origin": "wiper.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/wloclawek.webd.pl..txt",
+      "NameServer": "ns1.wloclawek.webd.pl.",
+      "Origin": "wloclawek.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/wolfwhit.webd.pl..txt",
+      "NameServer": "ns1.wolfwhit.webd.pl.",
+      "Origin": "wolfwhit.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/wyprawy.webd.pl..txt",
+      "NameServer": "ns1.wyprawy.webd.pl.",
+      "Origin": "wyprawy.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/wyzly.webd.pl..txt",
+      "NameServer": "ns1.wyzly.webd.pl.",
+      "Origin": "wyzly.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/xraylamp.webd.pl..txt",
+      "NameServer": "ns1.xraylamp.webd.pl.",
+      "Origin": "xraylamp.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/yogamaya.webd.pl..txt",
+      "NameServer": "ns1.yogamaya.webd.pl.",
+      "Origin": "yogamaya.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zapp.webd.pl..txt",
+      "NameServer": "ns1.zapp.webd.pl.",
+      "Origin": "zapp.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zbb.webd.pl..txt",
+      "NameServer": "ns1.zbb.webd.pl.",
+      "Origin": "zbb.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zdjecie.webd.pl..txt",
+      "NameServer": "ns1.zdjecie.webd.pl.",
+      "Origin": "zdjecie.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/ziemek.webd.pl..txt",
+      "NameServer": "ns1.ziemek.webd.pl.",
+      "Origin": "ziemek.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zoologia.webd.pl..txt",
+      "NameServer": "ns1.zoologia.webd.pl.",
+      "Origin": "zoologia.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zs15gdy.webd.pl..txt",
+      "NameServer": "ns1.zs15gdy.webd.pl.",
+      "Origin": "zs15gdy.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zsas.webd.pl..txt",
+      "NameServer": "ns1.zsas.webd.pl.",
+      "Origin": "zsas.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zsichorz.webd.pl..txt",
+      "NameServer": "ns1.zsichorz.webd.pl.",
+      "Origin": "zsichorz.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zskonieczkowa.webd.pl..txt",
+      "NameServer": "ns1.zskonieczkowa.webd.pl.",
+      "Origin": "zskonieczkowa.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zsmdar.webd.pl..txt",
+      "NameServer": "ns1.zsmdar.webd.pl.",
+      "Origin": "zsmdar.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zsp3.webd.pl..txt",
+      "NameServer": "ns1.zsp3.webd.pl.",
+      "Origin": "zsp3.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zspkd.webd.pl..txt",
+      "NameServer": "ns1.zspkd.webd.pl.",
+      "Origin": "zspkd.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zsweglowice.webd.pl..txt",
+      "NameServer": "ns1.zsweglowice.webd.pl.",
+      "Origin": "zsweglowice.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zuczek.webd.pl..txt",
+      "NameServer": "ns1.zuczek.webd.pl.",
+      "Origin": "zuczek.webd.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/webd.pl/zywiolak.webd.pl..txt",
+      "NameServer": "ns1.zywiolak.webd.pl.",
+      "Origin": "zywiolak.webd.pl."
+    }
+  ]
+}

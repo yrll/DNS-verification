@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/wroc.pl,2012.wroc.pl..txt,NS_UPDATE,DEL,2012.wroc.pl.,NS,ns1.2012.wroc.pl.
+files-500-1000/wroc.pl,2012.wroc.pl..txt,NS_UPDATE,ADD,2012.wroc.pl.,NS,ns-inc.2012.wroc.pl.

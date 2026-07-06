@@ -1,0 +1,2777 @@
+{
+  "TopNameServers": [
+    "ns1.wopert.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/0cob9yz.wopert.com..txt",
+      "NameServer": "ns1.0cob9yz.wopert.com.",
+      "Origin": "0cob9yz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/0e2ezq.wopert.com..txt",
+      "NameServer": "ns1.0e2ezq.wopert.com.",
+      "Origin": "0e2ezq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/0kvlb2w.wopert.com..txt",
+      "NameServer": "ns1.0kvlb2w.wopert.com.",
+      "Origin": "0kvlb2w.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/0q8grt7.wopert.com..txt",
+      "NameServer": "ns1.0q8grt7.wopert.com.",
+      "Origin": "0q8grt7.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/0rkb.wopert.com..txt",
+      "NameServer": "ns1.0rkb.wopert.com.",
+      "Origin": "0rkb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/1bjacy.wopert.com..txt",
+      "NameServer": "ns1.1bjacy.wopert.com.",
+      "Origin": "1bjacy.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/1cthr.wopert.com..txt",
+      "NameServer": "ns1.1cthr.wopert.com.",
+      "Origin": "1cthr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/1e7ya.wopert.com..txt",
+      "NameServer": "ns1.1e7ya.wopert.com.",
+      "Origin": "1e7ya.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/1fbj.wopert.com..txt",
+      "NameServer": "ns1.1fbj.wopert.com.",
+      "Origin": "1fbj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/1frsxwo.wopert.com..txt",
+      "NameServer": "ns1.1frsxwo.wopert.com.",
+      "Origin": "1frsxwo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/1n7pzm.wopert.com..txt",
+      "NameServer": "ns1.1n7pzm.wopert.com.",
+      "Origin": "1n7pzm.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/1toc.wopert.com..txt",
+      "NameServer": "ns1.1toc.wopert.com.",
+      "Origin": "1toc.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/25bo.wopert.com..txt",
+      "NameServer": "ns1.25bo.wopert.com.",
+      "Origin": "25bo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/25lhf.wopert.com..txt",
+      "NameServer": "ns1.25lhf.wopert.com.",
+      "Origin": "25lhf.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/2bngwqn.wopert.com..txt",
+      "NameServer": "ns1.2bngwqn.wopert.com.",
+      "Origin": "2bngwqn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/2dsr.wopert.com..txt",
+      "NameServer": "ns1.2dsr.wopert.com.",
+      "Origin": "2dsr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/2hzaz.wopert.com..txt",
+      "NameServer": "ns1.2hzaz.wopert.com.",
+      "Origin": "2hzaz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/2sk9ch.wopert.com..txt",
+      "NameServer": "ns1.2sk9ch.wopert.com.",
+      "Origin": "2sk9ch.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/2tov4.wopert.com..txt",
+      "NameServer": "ns1.2tov4.wopert.com.",
+      "Origin": "2tov4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/2wje.wopert.com..txt",
+      "NameServer": "ns1.2wje.wopert.com.",
+      "Origin": "2wje.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/2xmkdn.wopert.com..txt",
+      "NameServer": "ns1.2xmkdn.wopert.com.",
+      "Origin": "2xmkdn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/32dm.wopert.com..txt",
+      "NameServer": "ns1.32dm.wopert.com.",
+      "Origin": "32dm.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/39pvv.wopert.com..txt",
+      "NameServer": "ns1.39pvv.wopert.com.",
+      "Origin": "39pvv.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/3ain.wopert.com..txt",
+      "NameServer": "ns1.3ain.wopert.com.",
+      "Origin": "3ain.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/3drk0ok.wopert.com..txt",
+      "NameServer": "ns1.3drk0ok.wopert.com.",
+      "Origin": "3drk0ok.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/3jnj5h.wopert.com..txt",
+      "NameServer": "ns1.3jnj5h.wopert.com.",
+      "Origin": "3jnj5h.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/3p0xrbi.wopert.com..txt",
+      "NameServer": "ns1.3p0xrbi.wopert.com.",
+      "Origin": "3p0xrbi.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/3r9gfb.wopert.com..txt",
+      "NameServer": "ns1.3r9gfb.wopert.com.",
+      "Origin": "3r9gfb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/3wk5f.wopert.com..txt",
+      "NameServer": "ns1.3wk5f.wopert.com.",
+      "Origin": "3wk5f.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/3xt4.wopert.com..txt",
+      "NameServer": "ns1.3xt4.wopert.com.",
+      "Origin": "3xt4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/3xulip3.wopert.com..txt",
+      "NameServer": "ns1.3xulip3.wopert.com.",
+      "Origin": "3xulip3.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/3yot4r.wopert.com..txt",
+      "NameServer": "ns1.3yot4r.wopert.com.",
+      "Origin": "3yot4r.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/46t6.wopert.com..txt",
+      "NameServer": "ns1.46t6.wopert.com.",
+      "Origin": "46t6.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/48n9c.wopert.com..txt",
+      "NameServer": "ns1.48n9c.wopert.com.",
+      "Origin": "48n9c.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/4bhumo.wopert.com..txt",
+      "NameServer": "ns1.4bhumo.wopert.com.",
+      "Origin": "4bhumo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/4dxg.wopert.com..txt",
+      "NameServer": "ns1.4dxg.wopert.com.",
+      "Origin": "4dxg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/4m31f.wopert.com..txt",
+      "NameServer": "ns1.4m31f.wopert.com.",
+      "Origin": "4m31f.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/4rhxa.wopert.com..txt",
+      "NameServer": "ns1.4rhxa.wopert.com.",
+      "Origin": "4rhxa.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/4v43a.wopert.com..txt",
+      "NameServer": "ns1.4v43a.wopert.com.",
+      "Origin": "4v43a.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/4xwubwp.wopert.com..txt",
+      "NameServer": "ns1.4xwubwp.wopert.com.",
+      "Origin": "4xwubwp.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/504ee22.wopert.com..txt",
+      "NameServer": "ns1.504ee22.wopert.com.",
+      "Origin": "504ee22.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/53r4h.wopert.com..txt",
+      "NameServer": "ns1.53r4h.wopert.com.",
+      "Origin": "53r4h.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/59mivbl.wopert.com..txt",
+      "NameServer": "ns1.59mivbl.wopert.com.",
+      "Origin": "59mivbl.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/5eynpgj.wopert.com..txt",
+      "NameServer": "ns1.5eynpgj.wopert.com.",
+      "Origin": "5eynpgj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/5gmvlic.wopert.com..txt",
+      "NameServer": "ns1.5gmvlic.wopert.com.",
+      "Origin": "5gmvlic.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/5jruypr.wopert.com..txt",
+      "NameServer": "ns1.5jruypr.wopert.com.",
+      "Origin": "5jruypr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/5kctwrg.wopert.com..txt",
+      "NameServer": "ns1.5kctwrg.wopert.com.",
+      "Origin": "5kctwrg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/60g4.wopert.com..txt",
+      "NameServer": "ns1.60g4.wopert.com.",
+      "Origin": "60g4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/6aq5lny.wopert.com..txt",
+      "NameServer": "ns1.6aq5lny.wopert.com.",
+      "Origin": "6aq5lny.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/6asa.wopert.com..txt",
+      "NameServer": "ns1.6asa.wopert.com.",
+      "Origin": "6asa.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/6k8s.wopert.com..txt",
+      "NameServer": "ns1.6k8s.wopert.com.",
+      "Origin": "6k8s.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/75x2hr.wopert.com..txt",
+      "NameServer": "ns1.75x2hr.wopert.com.",
+      "Origin": "75x2hr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/78ued.wopert.com..txt",
+      "NameServer": "ns1.78ued.wopert.com.",
+      "Origin": "78ued.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/7bf6kd.wopert.com..txt",
+      "NameServer": "ns1.7bf6kd.wopert.com.",
+      "Origin": "7bf6kd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/7djanr.wopert.com..txt",
+      "NameServer": "ns1.7djanr.wopert.com.",
+      "Origin": "7djanr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/7ekilsl.wopert.com..txt",
+      "NameServer": "ns1.7ekilsl.wopert.com.",
+      "Origin": "7ekilsl.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/7gvwhc.wopert.com..txt",
+      "NameServer": "ns1.7gvwhc.wopert.com.",
+      "Origin": "7gvwhc.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/7hdp.wopert.com..txt",
+      "NameServer": "ns1.7hdp.wopert.com.",
+      "Origin": "7hdp.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/7rnn1.wopert.com..txt",
+      "NameServer": "ns1.7rnn1.wopert.com.",
+      "Origin": "7rnn1.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/80mrzr.wopert.com..txt",
+      "NameServer": "ns1.80mrzr.wopert.com.",
+      "Origin": "80mrzr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/85psndb.wopert.com..txt",
+      "NameServer": "ns1.85psndb.wopert.com.",
+      "Origin": "85psndb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/88mtb.wopert.com..txt",
+      "NameServer": "ns1.88mtb.wopert.com.",
+      "Origin": "88mtb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8bgh4.wopert.com..txt",
+      "NameServer": "ns1.8bgh4.wopert.com.",
+      "Origin": "8bgh4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8cvzsv.wopert.com..txt",
+      "NameServer": "ns1.8cvzsv.wopert.com.",
+      "Origin": "8cvzsv.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8d0q2.wopert.com..txt",
+      "NameServer": "ns1.8d0q2.wopert.com.",
+      "Origin": "8d0q2.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8g1t0g.wopert.com..txt",
+      "NameServer": "ns1.8g1t0g.wopert.com.",
+      "Origin": "8g1t0g.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8gsyus4.wopert.com..txt",
+      "NameServer": "ns1.8gsyus4.wopert.com.",
+      "Origin": "8gsyus4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8hige.wopert.com..txt",
+      "NameServer": "ns1.8hige.wopert.com.",
+      "Origin": "8hige.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8kwke.wopert.com..txt",
+      "NameServer": "ns1.8kwke.wopert.com.",
+      "Origin": "8kwke.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8m5kxe.wopert.com..txt",
+      "NameServer": "ns1.8m5kxe.wopert.com.",
+      "Origin": "8m5kxe.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8nwbb.wopert.com..txt",
+      "NameServer": "ns1.8nwbb.wopert.com.",
+      "Origin": "8nwbb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8pcr.wopert.com..txt",
+      "NameServer": "ns1.8pcr.wopert.com.",
+      "Origin": "8pcr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8roz.wopert.com..txt",
+      "NameServer": "ns1.8roz.wopert.com.",
+      "Origin": "8roz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8vkiwb.wopert.com..txt",
+      "NameServer": "ns1.8vkiwb.wopert.com.",
+      "Origin": "8vkiwb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8xldjeb.wopert.com..txt",
+      "NameServer": "ns1.8xldjeb.wopert.com.",
+      "Origin": "8xldjeb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8xw1w.wopert.com..txt",
+      "NameServer": "ns1.8xw1w.wopert.com.",
+      "Origin": "8xw1w.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/8z4vjek.wopert.com..txt",
+      "NameServer": "ns1.8z4vjek.wopert.com.",
+      "Origin": "8z4vjek.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/90wqom.wopert.com..txt",
+      "NameServer": "ns1.90wqom.wopert.com.",
+      "Origin": "90wqom.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/967z.wopert.com..txt",
+      "NameServer": "ns1.967z.wopert.com.",
+      "Origin": "967z.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/9trzr.wopert.com..txt",
+      "NameServer": "ns1.9trzr.wopert.com.",
+      "Origin": "9trzr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/9z1jzso.wopert.com..txt",
+      "NameServer": "ns1.9z1jzso.wopert.com.",
+      "Origin": "9z1jzso.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/9zuipaj.wopert.com..txt",
+      "NameServer": "ns1.9zuipaj.wopert.com.",
+      "Origin": "9zuipaj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/a0t3.wopert.com..txt",
+      "NameServer": "ns1.a0t3.wopert.com.",
+      "Origin": "a0t3.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/a46iet.wopert.com..txt",
+      "NameServer": "ns1.a46iet.wopert.com.",
+      "Origin": "a46iet.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/a6ym.wopert.com..txt",
+      "NameServer": "ns1.a6ym.wopert.com.",
+      "Origin": "a6ym.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/a7nmwlq.wopert.com..txt",
+      "NameServer": "ns1.a7nmwlq.wopert.com.",
+      "Origin": "a7nmwlq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/a9fhyu.wopert.com..txt",
+      "NameServer": "ns1.a9fhyu.wopert.com.",
+      "Origin": "a9fhyu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/a9wcy.wopert.com..txt",
+      "NameServer": "ns1.a9wcy.wopert.com.",
+      "Origin": "a9wcy.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/aaeifsxkifk.wopert.com..txt",
+      "NameServer": "ns1.aaeifsxkifk.wopert.com.",
+      "Origin": "aaeifsxkifk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ab46.wopert.com..txt",
+      "NameServer": "ns1.ab46.wopert.com.",
+      "Origin": "ab46.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ac9q.wopert.com..txt",
+      "NameServer": "ns1.ac9q.wopert.com.",
+      "Origin": "ac9q.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/adof44t.wopert.com..txt",
+      "NameServer": "ns1.adof44t.wopert.com.",
+      "Origin": "adof44t.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/afa6.wopert.com..txt",
+      "NameServer": "ns1.afa6.wopert.com.",
+      "Origin": "afa6.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/agsqr.wopert.com..txt",
+      "NameServer": "ns1.agsqr.wopert.com.",
+      "Origin": "agsqr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/an8dc.wopert.com..txt",
+      "NameServer": "ns1.an8dc.wopert.com.",
+      "Origin": "an8dc.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/aohs7yn.wopert.com..txt",
+      "NameServer": "ns1.aohs7yn.wopert.com.",
+      "Origin": "aohs7yn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/aonx.wopert.com..txt",
+      "NameServer": "ns1.aonx.wopert.com.",
+      "Origin": "aonx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/asapli.wopert.com..txt",
+      "NameServer": "ns1.asapli.wopert.com.",
+      "Origin": "asapli.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/at5cjyi.wopert.com..txt",
+      "NameServer": "ns1.at5cjyi.wopert.com.",
+      "Origin": "at5cjyi.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/at5ve.wopert.com..txt",
+      "NameServer": "ns1.at5ve.wopert.com.",
+      "Origin": "at5ve.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/aznby.wopert.com..txt",
+      "NameServer": "ns1.aznby.wopert.com.",
+      "Origin": "aznby.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/azvjfqm.wopert.com..txt",
+      "NameServer": "ns1.azvjfqm.wopert.com.",
+      "Origin": "azvjfqm.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/b1ur.wopert.com..txt",
+      "NameServer": "ns1.b1ur.wopert.com.",
+      "Origin": "b1ur.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/b7kzhs6.wopert.com..txt",
+      "NameServer": "ns1.b7kzhs6.wopert.com.",
+      "Origin": "b7kzhs6.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/baasgk.wopert.com..txt",
+      "NameServer": "ns1.baasgk.wopert.com.",
+      "Origin": "baasgk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bca6kz.wopert.com..txt",
+      "NameServer": "ns1.bca6kz.wopert.com.",
+      "Origin": "bca6kz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bdb1.wopert.com..txt",
+      "NameServer": "ns1.bdb1.wopert.com.",
+      "Origin": "bdb1.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bejqo.wopert.com..txt",
+      "NameServer": "ns1.bejqo.wopert.com.",
+      "Origin": "bejqo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bfln.wopert.com..txt",
+      "NameServer": "ns1.bfln.wopert.com.",
+      "Origin": "bfln.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bjk3tq.wopert.com..txt",
+      "NameServer": "ns1.bjk3tq.wopert.com.",
+      "Origin": "bjk3tq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bk5xmsq.wopert.com..txt",
+      "NameServer": "ns1.bk5xmsq.wopert.com.",
+      "Origin": "bk5xmsq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bkdfk.wopert.com..txt",
+      "NameServer": "ns1.bkdfk.wopert.com.",
+      "Origin": "bkdfk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bkvigmy.wopert.com..txt",
+      "NameServer": "ns1.bkvigmy.wopert.com.",
+      "Origin": "bkvigmy.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/blfl.wopert.com..txt",
+      "NameServer": "ns1.blfl.wopert.com.",
+      "Origin": "blfl.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/blmjqc3.wopert.com..txt",
+      "NameServer": "ns1.blmjqc3.wopert.com.",
+      "Origin": "blmjqc3.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bor9v.wopert.com..txt",
+      "NameServer": "ns1.bor9v.wopert.com.",
+      "Origin": "bor9v.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/brgqpsd.wopert.com..txt",
+      "NameServer": "ns1.brgqpsd.wopert.com.",
+      "Origin": "brgqpsd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/brr8k1.wopert.com..txt",
+      "NameServer": "ns1.brr8k1.wopert.com.",
+      "Origin": "brr8k1.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bs9nk.wopert.com..txt",
+      "NameServer": "ns1.bs9nk.wopert.com.",
+      "Origin": "bs9nk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/btieky.wopert.com..txt",
+      "NameServer": "ns1.btieky.wopert.com.",
+      "Origin": "btieky.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/btuq.wopert.com..txt",
+      "NameServer": "ns1.btuq.wopert.com.",
+      "Origin": "btuq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bucmn.wopert.com..txt",
+      "NameServer": "ns1.bucmn.wopert.com.",
+      "Origin": "bucmn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bw9vtp.wopert.com..txt",
+      "NameServer": "ns1.bw9vtp.wopert.com.",
+      "Origin": "bw9vtp.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/bxws3j.wopert.com..txt",
+      "NameServer": "ns1.bxws3j.wopert.com.",
+      "Origin": "bxws3j.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/c0gznci.wopert.com..txt",
+      "NameServer": "ns1.c0gznci.wopert.com.",
+      "Origin": "c0gznci.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/c0qipn.wopert.com..txt",
+      "NameServer": "ns1.c0qipn.wopert.com.",
+      "Origin": "c0qipn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/c5jmnh.wopert.com..txt",
+      "NameServer": "ns1.c5jmnh.wopert.com.",
+      "Origin": "c5jmnh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/c8pd.wopert.com..txt",
+      "NameServer": "ns1.c8pd.wopert.com.",
+      "Origin": "c8pd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ccdwo2v.wopert.com..txt",
+      "NameServer": "ns1.ccdwo2v.wopert.com.",
+      "Origin": "ccdwo2v.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/chlad.wopert.com..txt",
+      "NameServer": "ns1.chlad.wopert.com.",
+      "Origin": "chlad.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cixh.wopert.com..txt",
+      "NameServer": "ns1.cixh.wopert.com.",
+      "Origin": "cixh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cjeh.wopert.com..txt",
+      "NameServer": "ns1.cjeh.wopert.com.",
+      "Origin": "cjeh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cjsjot.wopert.com..txt",
+      "NameServer": "ns1.cjsjot.wopert.com.",
+      "Origin": "cjsjot.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cju29va.wopert.com..txt",
+      "NameServer": "ns1.cju29va.wopert.com.",
+      "Origin": "cju29va.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ck23ya4.wopert.com..txt",
+      "NameServer": "ns1.ck23ya4.wopert.com.",
+      "Origin": "ck23ya4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ckas52g.wopert.com..txt",
+      "NameServer": "ns1.ckas52g.wopert.com.",
+      "Origin": "ckas52g.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ckf3alx.wopert.com..txt",
+      "NameServer": "ns1.ckf3alx.wopert.com.",
+      "Origin": "ckf3alx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/clmxqh.wopert.com..txt",
+      "NameServer": "ns1.clmxqh.wopert.com.",
+      "Origin": "clmxqh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cmw6.wopert.com..txt",
+      "NameServer": "ns1.cmw6.wopert.com.",
+      "Origin": "cmw6.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/coutreh.wopert.com..txt",
+      "NameServer": "ns1.coutreh.wopert.com.",
+      "Origin": "coutreh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cq0r.wopert.com..txt",
+      "NameServer": "ns1.cq0r.wopert.com.",
+      "Origin": "cq0r.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cqmovvk.wopert.com..txt",
+      "NameServer": "ns1.cqmovvk.wopert.com.",
+      "Origin": "cqmovvk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cu4ceg.wopert.com..txt",
+      "NameServer": "ns1.cu4ceg.wopert.com.",
+      "Origin": "cu4ceg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cvzobg.wopert.com..txt",
+      "NameServer": "ns1.cvzobg.wopert.com.",
+      "Origin": "cvzobg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cw7he6j.wopert.com..txt",
+      "NameServer": "ns1.cw7he6j.wopert.com.",
+      "Origin": "cw7he6j.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cy5ffjz.wopert.com..txt",
+      "NameServer": "ns1.cy5ffjz.wopert.com.",
+      "Origin": "cy5ffjz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/cycrj.wopert.com..txt",
+      "NameServer": "ns1.cycrj.wopert.com.",
+      "Origin": "cycrj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/czojtn.wopert.com..txt",
+      "NameServer": "ns1.czojtn.wopert.com.",
+      "Origin": "czojtn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/d1gx.wopert.com..txt",
+      "NameServer": "ns1.d1gx.wopert.com.",
+      "Origin": "d1gx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/d1sx.wopert.com..txt",
+      "NameServer": "ns1.d1sx.wopert.com.",
+      "Origin": "d1sx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/d2kpvxx.wopert.com..txt",
+      "NameServer": "ns1.d2kpvxx.wopert.com.",
+      "Origin": "d2kpvxx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/d5e45.wopert.com..txt",
+      "NameServer": "ns1.d5e45.wopert.com.",
+      "Origin": "d5e45.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/d5hr.wopert.com..txt",
+      "NameServer": "ns1.d5hr.wopert.com.",
+      "Origin": "d5hr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/d8id.wopert.com..txt",
+      "NameServer": "ns1.d8id.wopert.com.",
+      "Origin": "d8id.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/dgrqk9.wopert.com..txt",
+      "NameServer": "ns1.dgrqk9.wopert.com.",
+      "Origin": "dgrqk9.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/dhnhvfj.wopert.com..txt",
+      "NameServer": "ns1.dhnhvfj.wopert.com.",
+      "Origin": "dhnhvfj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/donpmb.wopert.com..txt",
+      "NameServer": "ns1.donpmb.wopert.com.",
+      "Origin": "donpmb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/dqh6.wopert.com..txt",
+      "NameServer": "ns1.dqh6.wopert.com.",
+      "Origin": "dqh6.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/dqhm57j.wopert.com..txt",
+      "NameServer": "ns1.dqhm57j.wopert.com.",
+      "Origin": "dqhm57j.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/dsba.wopert.com..txt",
+      "NameServer": "ns1.dsba.wopert.com.",
+      "Origin": "dsba.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/dschu3.wopert.com..txt",
+      "NameServer": "ns1.dschu3.wopert.com.",
+      "Origin": "dschu3.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/dtsdukb.wopert.com..txt",
+      "NameServer": "ns1.dtsdukb.wopert.com.",
+      "Origin": "dtsdukb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/dywmz.wopert.com..txt",
+      "NameServer": "ns1.dywmz.wopert.com.",
+      "Origin": "dywmz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/e1xk.wopert.com..txt",
+      "NameServer": "ns1.e1xk.wopert.com.",
+      "Origin": "e1xk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/e9dt.wopert.com..txt",
+      "NameServer": "ns1.e9dt.wopert.com.",
+      "Origin": "e9dt.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ea9qdy.wopert.com..txt",
+      "NameServer": "ns1.ea9qdy.wopert.com.",
+      "Origin": "ea9qdy.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/earpug.wopert.com..txt",
+      "NameServer": "ns1.earpug.wopert.com.",
+      "Origin": "earpug.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/edxyzxnxfj.wopert.com..txt",
+      "NameServer": "ns1.edxyzxnxfj.wopert.com.",
+      "Origin": "edxyzxnxfj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ee26dx.wopert.com..txt",
+      "NameServer": "ns1.ee26dx.wopert.com.",
+      "Origin": "ee26dx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ehadmetolq.wopert.com..txt",
+      "NameServer": "ns1.ehadmetolq.wopert.com.",
+      "Origin": "ehadmetolq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/eklsz.wopert.com..txt",
+      "NameServer": "ns1.eklsz.wopert.com.",
+      "Origin": "eklsz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/enqnqw.wopert.com..txt",
+      "NameServer": "ns1.enqnqw.wopert.com.",
+      "Origin": "enqnqw.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/eqli.wopert.com..txt",
+      "NameServer": "ns1.eqli.wopert.com.",
+      "Origin": "eqli.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/eu6i72w.wopert.com..txt",
+      "NameServer": "ns1.eu6i72w.wopert.com.",
+      "Origin": "eu6i72w.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/eut1d72.wopert.com..txt",
+      "NameServer": "ns1.eut1d72.wopert.com.",
+      "Origin": "eut1d72.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/euuyzff.wopert.com..txt",
+      "NameServer": "ns1.euuyzff.wopert.com.",
+      "Origin": "euuyzff.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ex3nzxu.wopert.com..txt",
+      "NameServer": "ns1.ex3nzxu.wopert.com.",
+      "Origin": "ex3nzxu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/eyqq.wopert.com..txt",
+      "NameServer": "ns1.eyqq.wopert.com.",
+      "Origin": "eyqq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/f4ij.wopert.com..txt",
+      "NameServer": "ns1.f4ij.wopert.com.",
+      "Origin": "f4ij.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fc5ohd6.wopert.com..txt",
+      "NameServer": "ns1.fc5ohd6.wopert.com.",
+      "Origin": "fc5ohd6.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fcdjjktgpt.wopert.com..txt",
+      "NameServer": "ns1.fcdjjktgpt.wopert.com.",
+      "Origin": "fcdjjktgpt.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fcxg.wopert.com..txt",
+      "NameServer": "ns1.fcxg.wopert.com.",
+      "Origin": "fcxg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fgdaci.wopert.com..txt",
+      "NameServer": "ns1.fgdaci.wopert.com.",
+      "Origin": "fgdaci.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fjtvvi.wopert.com..txt",
+      "NameServer": "ns1.fjtvvi.wopert.com.",
+      "Origin": "fjtvvi.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fos8z.wopert.com..txt",
+      "NameServer": "ns1.fos8z.wopert.com.",
+      "Origin": "fos8z.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fpupc.wopert.com..txt",
+      "NameServer": "ns1.fpupc.wopert.com.",
+      "Origin": "fpupc.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fs60r.wopert.com..txt",
+      "NameServer": "ns1.fs60r.wopert.com.",
+      "Origin": "fs60r.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fsl3.wopert.com..txt",
+      "NameServer": "ns1.fsl3.wopert.com.",
+      "Origin": "fsl3.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ft9nt.wopert.com..txt",
+      "NameServer": "ns1.ft9nt.wopert.com.",
+      "Origin": "ft9nt.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fulu5t.wopert.com..txt",
+      "NameServer": "ns1.fulu5t.wopert.com.",
+      "Origin": "fulu5t.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fxglivj.wopert.com..txt",
+      "NameServer": "ns1.fxglivj.wopert.com.",
+      "Origin": "fxglivj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fy16q4r.wopert.com..txt",
+      "NameServer": "ns1.fy16q4r.wopert.com.",
+      "Origin": "fy16q4r.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fyrk3l.wopert.com..txt",
+      "NameServer": "ns1.fyrk3l.wopert.com.",
+      "Origin": "fyrk3l.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fyvdx.wopert.com..txt",
+      "NameServer": "ns1.fyvdx.wopert.com.",
+      "Origin": "fyvdx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/fzby.wopert.com..txt",
+      "NameServer": "ns1.fzby.wopert.com.",
+      "Origin": "fzby.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/g15rqlf.wopert.com..txt",
+      "NameServer": "ns1.g15rqlf.wopert.com.",
+      "Origin": "g15rqlf.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/g2r10.wopert.com..txt",
+      "NameServer": "ns1.g2r10.wopert.com.",
+      "Origin": "g2r10.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/g5fh.wopert.com..txt",
+      "NameServer": "ns1.g5fh.wopert.com.",
+      "Origin": "g5fh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/gan6dcq.wopert.com..txt",
+      "NameServer": "ns1.gan6dcq.wopert.com.",
+      "Origin": "gan6dcq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/gbxru.wopert.com..txt",
+      "NameServer": "ns1.gbxru.wopert.com.",
+      "Origin": "gbxru.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/gdbwbvjprq.wopert.com..txt",
+      "NameServer": "ns1.gdbwbvjprq.wopert.com.",
+      "Origin": "gdbwbvjprq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/gdgna7j.wopert.com..txt",
+      "NameServer": "ns1.gdgna7j.wopert.com.",
+      "Origin": "gdgna7j.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/gepipx.wopert.com..txt",
+      "NameServer": "ns1.gepipx.wopert.com.",
+      "Origin": "gepipx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ggowqecnft.wopert.com..txt",
+      "NameServer": "ns1.ggowqecnft.wopert.com.",
+      "Origin": "ggowqecnft.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/gmgu.wopert.com..txt",
+      "NameServer": "ns1.gmgu.wopert.com.",
+      "Origin": "gmgu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/goay.wopert.com..txt",
+      "NameServer": "ns1.goay.wopert.com.",
+      "Origin": "goay.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/grnj.wopert.com..txt",
+      "NameServer": "ns1.grnj.wopert.com.",
+      "Origin": "grnj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/gruzqe.wopert.com..txt",
+      "NameServer": "ns1.gruzqe.wopert.com.",
+      "Origin": "gruzqe.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/gxaq4ku.wopert.com..txt",
+      "NameServer": "ns1.gxaq4ku.wopert.com.",
+      "Origin": "gxaq4ku.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/h8kw22h.wopert.com..txt",
+      "NameServer": "ns1.h8kw22h.wopert.com.",
+      "Origin": "h8kw22h.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hdqfhii.wopert.com..txt",
+      "NameServer": "ns1.hdqfhii.wopert.com.",
+      "Origin": "hdqfhii.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hear.wopert.com..txt",
+      "NameServer": "ns1.hear.wopert.com.",
+      "Origin": "hear.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hejp.wopert.com..txt",
+      "NameServer": "ns1.hejp.wopert.com.",
+      "Origin": "hejp.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hgf6xif.wopert.com..txt",
+      "NameServer": "ns1.hgf6xif.wopert.com.",
+      "Origin": "hgf6xif.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hgs5exh.wopert.com..txt",
+      "NameServer": "ns1.hgs5exh.wopert.com.",
+      "Origin": "hgs5exh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hhcnn4s.wopert.com..txt",
+      "NameServer": "ns1.hhcnn4s.wopert.com.",
+      "Origin": "hhcnn4s.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hhuzq.wopert.com..txt",
+      "NameServer": "ns1.hhuzq.wopert.com.",
+      "Origin": "hhuzq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hoatf0h.wopert.com..txt",
+      "NameServer": "ns1.hoatf0h.wopert.com.",
+      "Origin": "hoatf0h.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hq3sn.wopert.com..txt",
+      "NameServer": "ns1.hq3sn.wopert.com.",
+      "Origin": "hq3sn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hun2ew.wopert.com..txt",
+      "NameServer": "ns1.hun2ew.wopert.com.",
+      "Origin": "hun2ew.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hwptfp.wopert.com..txt",
+      "NameServer": "ns1.hwptfp.wopert.com.",
+      "Origin": "hwptfp.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hwznn.wopert.com..txt",
+      "NameServer": "ns1.hwznn.wopert.com.",
+      "Origin": "hwznn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hxoyzvlyhzh.wopert.com..txt",
+      "NameServer": "ns1.hxoyzvlyhzh.wopert.com.",
+      "Origin": "hxoyzvlyhzh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/hxuliiprpac.wopert.com..txt",
+      "NameServer": "ns1.hxuliiprpac.wopert.com.",
+      "Origin": "hxuliiprpac.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/i4bo.wopert.com..txt",
+      "NameServer": "ns1.i4bo.wopert.com.",
+      "Origin": "i4bo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/i8njru.wopert.com..txt",
+      "NameServer": "ns1.i8njru.wopert.com.",
+      "Origin": "i8njru.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ia2l.wopert.com..txt",
+      "NameServer": "ns1.ia2l.wopert.com.",
+      "Origin": "ia2l.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/icivva.wopert.com..txt",
+      "NameServer": "ns1.icivva.wopert.com.",
+      "Origin": "icivva.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/iextp.wopert.com..txt",
+      "NameServer": "ns1.iextp.wopert.com.",
+      "Origin": "iextp.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/iffzfsvxoat.wopert.com..txt",
+      "NameServer": "ns1.iffzfsvxoat.wopert.com.",
+      "Origin": "iffzfsvxoat.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ig0wv.wopert.com..txt",
+      "NameServer": "ns1.ig0wv.wopert.com.",
+      "Origin": "ig0wv.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ihj36jo.wopert.com..txt",
+      "NameServer": "ns1.ihj36jo.wopert.com.",
+      "Origin": "ihj36jo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ii981p6.wopert.com..txt",
+      "NameServer": "ns1.ii981p6.wopert.com.",
+      "Origin": "ii981p6.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/iidxrqo.wopert.com..txt",
+      "NameServer": "ns1.iidxrqo.wopert.com.",
+      "Origin": "iidxrqo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ikdkjim.wopert.com..txt",
+      "NameServer": "ns1.ikdkjim.wopert.com.",
+      "Origin": "ikdkjim.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ikpzpi.wopert.com..txt",
+      "NameServer": "ns1.ikpzpi.wopert.com.",
+      "Origin": "ikpzpi.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/im0arzt.wopert.com..txt",
+      "NameServer": "ns1.im0arzt.wopert.com.",
+      "Origin": "im0arzt.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/iobufda.wopert.com..txt",
+      "NameServer": "ns1.iobufda.wopert.com.",
+      "Origin": "iobufda.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ioiovn.wopert.com..txt",
+      "NameServer": "ns1.ioiovn.wopert.com.",
+      "Origin": "ioiovn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/iokcrs.wopert.com..txt",
+      "NameServer": "ns1.iokcrs.wopert.com.",
+      "Origin": "iokcrs.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/iswpxi.wopert.com..txt",
+      "NameServer": "ns1.iswpxi.wopert.com.",
+      "Origin": "iswpxi.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/itejkiy.wopert.com..txt",
+      "NameServer": "ns1.itejkiy.wopert.com.",
+      "Origin": "itejkiy.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ivl3szt.wopert.com..txt",
+      "NameServer": "ns1.ivl3szt.wopert.com.",
+      "Origin": "ivl3szt.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/iyaxvk.wopert.com..txt",
+      "NameServer": "ns1.iyaxvk.wopert.com.",
+      "Origin": "iyaxvk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/iyhkj.wopert.com..txt",
+      "NameServer": "ns1.iyhkj.wopert.com.",
+      "Origin": "iyhkj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/j1blnr.wopert.com..txt",
+      "NameServer": "ns1.j1blnr.wopert.com.",
+      "Origin": "j1blnr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/j6xzrkw.wopert.com..txt",
+      "NameServer": "ns1.j6xzrkw.wopert.com.",
+      "Origin": "j6xzrkw.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/j7jd.wopert.com..txt",
+      "NameServer": "ns1.j7jd.wopert.com.",
+      "Origin": "j7jd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jaddf.wopert.com..txt",
+      "NameServer": "ns1.jaddf.wopert.com.",
+      "Origin": "jaddf.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jbo4yh0.wopert.com..txt",
+      "NameServer": "ns1.jbo4yh0.wopert.com.",
+      "Origin": "jbo4yh0.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jedyitl.wopert.com..txt",
+      "NameServer": "ns1.jedyitl.wopert.com.",
+      "Origin": "jedyitl.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jj87bo.wopert.com..txt",
+      "NameServer": "ns1.jj87bo.wopert.com.",
+      "Origin": "jj87bo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jk7avh.wopert.com..txt",
+      "NameServer": "ns1.jk7avh.wopert.com.",
+      "Origin": "jk7avh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jlscewb.wopert.com..txt",
+      "NameServer": "ns1.jlscewb.wopert.com.",
+      "Origin": "jlscewb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/joiscabmfnm.wopert.com..txt",
+      "NameServer": "ns1.joiscabmfnm.wopert.com.",
+      "Origin": "joiscabmfnm.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jowvk2.wopert.com..txt",
+      "NameServer": "ns1.jowvk2.wopert.com.",
+      "Origin": "jowvk2.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jpo2av.wopert.com..txt",
+      "NameServer": "ns1.jpo2av.wopert.com.",
+      "Origin": "jpo2av.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jvgkp9.wopert.com..txt",
+      "NameServer": "ns1.jvgkp9.wopert.com.",
+      "Origin": "jvgkp9.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jw56te0.wopert.com..txt",
+      "NameServer": "ns1.jw56te0.wopert.com.",
+      "Origin": "jw56te0.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jwug9.wopert.com..txt",
+      "NameServer": "ns1.jwug9.wopert.com.",
+      "Origin": "jwug9.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/jypwu.wopert.com..txt",
+      "NameServer": "ns1.jypwu.wopert.com.",
+      "Origin": "jypwu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/k137.wopert.com..txt",
+      "NameServer": "ns1.k137.wopert.com.",
+      "Origin": "k137.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/k3yit.wopert.com..txt",
+      "NameServer": "ns1.k3yit.wopert.com.",
+      "Origin": "k3yit.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kahtaoj.wopert.com..txt",
+      "NameServer": "ns1.kahtaoj.wopert.com.",
+      "Origin": "kahtaoj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kaplm.wopert.com..txt",
+      "NameServer": "ns1.kaplm.wopert.com.",
+      "Origin": "kaplm.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/katro1q.wopert.com..txt",
+      "NameServer": "ns1.katro1q.wopert.com.",
+      "Origin": "katro1q.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kb9evx.wopert.com..txt",
+      "NameServer": "ns1.kb9evx.wopert.com.",
+      "Origin": "kb9evx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kdld9x4.wopert.com..txt",
+      "NameServer": "ns1.kdld9x4.wopert.com.",
+      "Origin": "kdld9x4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kdn6b.wopert.com..txt",
+      "NameServer": "ns1.kdn6b.wopert.com.",
+      "Origin": "kdn6b.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kece0d.wopert.com..txt",
+      "NameServer": "ns1.kece0d.wopert.com.",
+      "Origin": "kece0d.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kef2wt.wopert.com..txt",
+      "NameServer": "ns1.kef2wt.wopert.com.",
+      "Origin": "kef2wt.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kfii.wopert.com..txt",
+      "NameServer": "ns1.kfii.wopert.com.",
+      "Origin": "kfii.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/khfna1.wopert.com..txt",
+      "NameServer": "ns1.khfna1.wopert.com.",
+      "Origin": "khfna1.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/khkdsm.wopert.com..txt",
+      "NameServer": "ns1.khkdsm.wopert.com.",
+      "Origin": "khkdsm.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/klvtyiz.wopert.com..txt",
+      "NameServer": "ns1.klvtyiz.wopert.com.",
+      "Origin": "klvtyiz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/knzekqz.wopert.com..txt",
+      "NameServer": "ns1.knzekqz.wopert.com.",
+      "Origin": "knzekqz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/komawza.wopert.com..txt",
+      "NameServer": "ns1.komawza.wopert.com.",
+      "Origin": "komawza.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/krnm3o0.wopert.com..txt",
+      "NameServer": "ns1.krnm3o0.wopert.com.",
+      "Origin": "krnm3o0.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/krzr.wopert.com..txt",
+      "NameServer": "ns1.krzr.wopert.com.",
+      "Origin": "krzr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kvmuglr.wopert.com..txt",
+      "NameServer": "ns1.kvmuglr.wopert.com.",
+      "Origin": "kvmuglr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kvse.wopert.com..txt",
+      "NameServer": "ns1.kvse.wopert.com.",
+      "Origin": "kvse.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/kwpay8v.wopert.com..txt",
+      "NameServer": "ns1.kwpay8v.wopert.com.",
+      "Origin": "kwpay8v.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/l4so8.wopert.com..txt",
+      "NameServer": "ns1.l4so8.wopert.com.",
+      "Origin": "l4so8.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lbcex.wopert.com..txt",
+      "NameServer": "ns1.lbcex.wopert.com.",
+      "Origin": "lbcex.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ld9oy.wopert.com..txt",
+      "NameServer": "ns1.ld9oy.wopert.com.",
+      "Origin": "ld9oy.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lffm0.wopert.com..txt",
+      "NameServer": "ns1.lffm0.wopert.com.",
+      "Origin": "lffm0.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lhm1e.wopert.com..txt",
+      "NameServer": "ns1.lhm1e.wopert.com.",
+      "Origin": "lhm1e.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ljjf.wopert.com..txt",
+      "NameServer": "ns1.ljjf.wopert.com.",
+      "Origin": "ljjf.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lmdg5.wopert.com..txt",
+      "NameServer": "ns1.lmdg5.wopert.com.",
+      "Origin": "lmdg5.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lncmg.wopert.com..txt",
+      "NameServer": "ns1.lncmg.wopert.com.",
+      "Origin": "lncmg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lqdjfah.wopert.com..txt",
+      "NameServer": "ns1.lqdjfah.wopert.com.",
+      "Origin": "lqdjfah.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lqjv.wopert.com..txt",
+      "NameServer": "ns1.lqjv.wopert.com.",
+      "Origin": "lqjv.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lrhz0a.wopert.com..txt",
+      "NameServer": "ns1.lrhz0a.wopert.com.",
+      "Origin": "lrhz0a.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lsatid.wopert.com..txt",
+      "NameServer": "ns1.lsatid.wopert.com.",
+      "Origin": "lsatid.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ltrow6.wopert.com..txt",
+      "NameServer": "ns1.ltrow6.wopert.com.",
+      "Origin": "ltrow6.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lxhmvko.wopert.com..txt",
+      "NameServer": "ns1.lxhmvko.wopert.com.",
+      "Origin": "lxhmvko.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lysw2.wopert.com..txt",
+      "NameServer": "ns1.lysw2.wopert.com.",
+      "Origin": "lysw2.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/lzcm7.wopert.com..txt",
+      "NameServer": "ns1.lzcm7.wopert.com.",
+      "Origin": "lzcm7.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/m1ojgs.wopert.com..txt",
+      "NameServer": "ns1.m1ojgs.wopert.com.",
+      "Origin": "m1ojgs.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/m26jj.wopert.com..txt",
+      "NameServer": "ns1.m26jj.wopert.com.",
+      "Origin": "m26jj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/m7dc0h.wopert.com..txt",
+      "NameServer": "ns1.m7dc0h.wopert.com.",
+      "Origin": "m7dc0h.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/m8mqu.wopert.com..txt",
+      "NameServer": "ns1.m8mqu.wopert.com.",
+      "Origin": "m8mqu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mbxp.wopert.com..txt",
+      "NameServer": "ns1.mbxp.wopert.com.",
+      "Origin": "mbxp.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mfrr0cb.wopert.com..txt",
+      "NameServer": "ns1.mfrr0cb.wopert.com.",
+      "Origin": "mfrr0cb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mg9r.wopert.com..txt",
+      "NameServer": "ns1.mg9r.wopert.com.",
+      "Origin": "mg9r.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mgin.wopert.com..txt",
+      "NameServer": "ns1.mgin.wopert.com.",
+      "Origin": "mgin.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mmgnx3.wopert.com..txt",
+      "NameServer": "ns1.mmgnx3.wopert.com.",
+      "Origin": "mmgnx3.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mnmii.wopert.com..txt",
+      "NameServer": "ns1.mnmii.wopert.com.",
+      "Origin": "mnmii.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mrlrsc.wopert.com..txt",
+      "NameServer": "ns1.mrlrsc.wopert.com.",
+      "Origin": "mrlrsc.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mv5k.wopert.com..txt",
+      "NameServer": "ns1.mv5k.wopert.com.",
+      "Origin": "mv5k.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mwrsrb.wopert.com..txt",
+      "NameServer": "ns1.mwrsrb.wopert.com.",
+      "Origin": "mwrsrb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mxdtb.wopert.com..txt",
+      "NameServer": "ns1.mxdtb.wopert.com.",
+      "Origin": "mxdtb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/mxn1h.wopert.com..txt",
+      "NameServer": "ns1.mxn1h.wopert.com.",
+      "Origin": "mxn1h.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/myon.wopert.com..txt",
+      "NameServer": "ns1.myon.wopert.com.",
+      "Origin": "myon.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/n1qd.wopert.com..txt",
+      "NameServer": "ns1.n1qd.wopert.com.",
+      "Origin": "n1qd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/n3sr.wopert.com..txt",
+      "NameServer": "ns1.n3sr.wopert.com.",
+      "Origin": "n3sr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/n6tb.wopert.com..txt",
+      "NameServer": "ns1.n6tb.wopert.com.",
+      "Origin": "n6tb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/n9fa.wopert.com..txt",
+      "NameServer": "ns1.n9fa.wopert.com.",
+      "Origin": "n9fa.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nbqghb.wopert.com..txt",
+      "NameServer": "ns1.nbqghb.wopert.com.",
+      "Origin": "nbqghb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ncjkis.wopert.com..txt",
+      "NameServer": "ns1.ncjkis.wopert.com.",
+      "Origin": "ncjkis.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nflwrqu.wopert.com..txt",
+      "NameServer": "ns1.nflwrqu.wopert.com.",
+      "Origin": "nflwrqu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nlbfk.wopert.com..txt",
+      "NameServer": "ns1.nlbfk.wopert.com.",
+      "Origin": "nlbfk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nlbrh.wopert.com..txt",
+      "NameServer": "ns1.nlbrh.wopert.com.",
+      "Origin": "nlbrh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nlos.wopert.com..txt",
+      "NameServer": "ns1.nlos.wopert.com.",
+      "Origin": "nlos.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nmdfw.wopert.com..txt",
+      "NameServer": "ns1.nmdfw.wopert.com.",
+      "Origin": "nmdfw.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nn4j.wopert.com..txt",
+      "NameServer": "ns1.nn4j.wopert.com.",
+      "Origin": "nn4j.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/noc0yn.wopert.com..txt",
+      "NameServer": "ns1.noc0yn.wopert.com.",
+      "Origin": "noc0yn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nojkcn.wopert.com..txt",
+      "NameServer": "ns1.nojkcn.wopert.com.",
+      "Origin": "nojkcn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nouliw.wopert.com..txt",
+      "NameServer": "ns1.nouliw.wopert.com.",
+      "Origin": "nouliw.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nthb.wopert.com..txt",
+      "NameServer": "ns1.nthb.wopert.com.",
+      "Origin": "nthb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ntlg.wopert.com..txt",
+      "NameServer": "ns1.ntlg.wopert.com.",
+      "Origin": "ntlg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nwguiiq.wopert.com..txt",
+      "NameServer": "ns1.nwguiiq.wopert.com.",
+      "Origin": "nwguiiq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nwk6.wopert.com..txt",
+      "NameServer": "ns1.nwk6.wopert.com.",
+      "Origin": "nwk6.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nwqbfx.wopert.com..txt",
+      "NameServer": "ns1.nwqbfx.wopert.com.",
+      "Origin": "nwqbfx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nx1xgup.wopert.com..txt",
+      "NameServer": "ns1.nx1xgup.wopert.com.",
+      "Origin": "nx1xgup.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nxcoydt.wopert.com..txt",
+      "NameServer": "ns1.nxcoydt.wopert.com.",
+      "Origin": "nxcoydt.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nyxwehd.wopert.com..txt",
+      "NameServer": "ns1.nyxwehd.wopert.com.",
+      "Origin": "nyxwehd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/nzgd.wopert.com..txt",
+      "NameServer": "ns1.nzgd.wopert.com.",
+      "Origin": "nzgd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/o0awmr.wopert.com..txt",
+      "NameServer": "ns1.o0awmr.wopert.com.",
+      "Origin": "o0awmr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/o4p4.wopert.com..txt",
+      "NameServer": "ns1.o4p4.wopert.com.",
+      "Origin": "o4p4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ocoft.wopert.com..txt",
+      "NameServer": "ns1.ocoft.wopert.com.",
+      "Origin": "ocoft.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/oem3ts.wopert.com..txt",
+      "NameServer": "ns1.oem3ts.wopert.com.",
+      "Origin": "oem3ts.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/offltsq.wopert.com..txt",
+      "NameServer": "ns1.offltsq.wopert.com.",
+      "Origin": "offltsq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ol8y.wopert.com..txt",
+      "NameServer": "ns1.ol8y.wopert.com.",
+      "Origin": "ol8y.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/omfo1in.wopert.com..txt",
+      "NameServer": "ns1.omfo1in.wopert.com.",
+      "Origin": "omfo1in.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/opx0.wopert.com..txt",
+      "NameServer": "ns1.opx0.wopert.com.",
+      "Origin": "opx0.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/oq0453f.wopert.com..txt",
+      "NameServer": "ns1.oq0453f.wopert.com.",
+      "Origin": "oq0453f.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/orpld.wopert.com..txt",
+      "NameServer": "ns1.orpld.wopert.com.",
+      "Origin": "orpld.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/oukovytvioc.wopert.com..txt",
+      "NameServer": "ns1.oukovytvioc.wopert.com.",
+      "Origin": "oukovytvioc.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/oxskmee.wopert.com..txt",
+      "NameServer": "ns1.oxskmee.wopert.com.",
+      "Origin": "oxskmee.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/oy3z6.wopert.com..txt",
+      "NameServer": "ns1.oy3z6.wopert.com.",
+      "Origin": "oy3z6.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/oysv.wopert.com..txt",
+      "NameServer": "ns1.oysv.wopert.com.",
+      "Origin": "oysv.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/p3d5tgd.wopert.com..txt",
+      "NameServer": "ns1.p3d5tgd.wopert.com.",
+      "Origin": "p3d5tgd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/p4brb.wopert.com..txt",
+      "NameServer": "ns1.p4brb.wopert.com.",
+      "Origin": "p4brb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/p524hdd.wopert.com..txt",
+      "NameServer": "ns1.p524hdd.wopert.com.",
+      "Origin": "p524hdd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/p5bo.wopert.com..txt",
+      "NameServer": "ns1.p5bo.wopert.com.",
+      "Origin": "p5bo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/p6dbuf.wopert.com..txt",
+      "NameServer": "ns1.p6dbuf.wopert.com.",
+      "Origin": "p6dbuf.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/p9qj9.wopert.com..txt",
+      "NameServer": "ns1.p9qj9.wopert.com.",
+      "Origin": "p9qj9.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/p9wb1ml.wopert.com..txt",
+      "NameServer": "ns1.p9wb1ml.wopert.com.",
+      "Origin": "p9wb1ml.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/papn582.wopert.com..txt",
+      "NameServer": "ns1.papn582.wopert.com.",
+      "Origin": "papn582.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pcodto.wopert.com..txt",
+      "NameServer": "ns1.pcodto.wopert.com.",
+      "Origin": "pcodto.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pcvekk.wopert.com..txt",
+      "NameServer": "ns1.pcvekk.wopert.com.",
+      "Origin": "pcvekk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pgo3b5.wopert.com..txt",
+      "NameServer": "ns1.pgo3b5.wopert.com.",
+      "Origin": "pgo3b5.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pijnvk.wopert.com..txt",
+      "NameServer": "ns1.pijnvk.wopert.com.",
+      "Origin": "pijnvk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pir3.wopert.com..txt",
+      "NameServer": "ns1.pir3.wopert.com.",
+      "Origin": "pir3.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pixuc.wopert.com..txt",
+      "NameServer": "ns1.pixuc.wopert.com.",
+      "Origin": "pixuc.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pjfho.wopert.com..txt",
+      "NameServer": "ns1.pjfho.wopert.com.",
+      "Origin": "pjfho.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pm9g.wopert.com..txt",
+      "NameServer": "ns1.pm9g.wopert.com.",
+      "Origin": "pm9g.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pnnf.wopert.com..txt",
+      "NameServer": "ns1.pnnf.wopert.com.",
+      "Origin": "pnnf.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pph6wna.wopert.com..txt",
+      "NameServer": "ns1.pph6wna.wopert.com.",
+      "Origin": "pph6wna.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pqwxsl0.wopert.com..txt",
+      "NameServer": "ns1.pqwxsl0.wopert.com.",
+      "Origin": "pqwxsl0.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/prp9qly.wopert.com..txt",
+      "NameServer": "ns1.prp9qly.wopert.com.",
+      "Origin": "prp9qly.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pucnrtk.wopert.com..txt",
+      "NameServer": "ns1.pucnrtk.wopert.com.",
+      "Origin": "pucnrtk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/puufb.wopert.com..txt",
+      "NameServer": "ns1.puufb.wopert.com.",
+      "Origin": "puufb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pvjog.wopert.com..txt",
+      "NameServer": "ns1.pvjog.wopert.com.",
+      "Origin": "pvjog.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pvqortb.wopert.com..txt",
+      "NameServer": "ns1.pvqortb.wopert.com.",
+      "Origin": "pvqortb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pxaua.wopert.com..txt",
+      "NameServer": "ns1.pxaua.wopert.com.",
+      "Origin": "pxaua.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pxyixi.wopert.com..txt",
+      "NameServer": "ns1.pxyixi.wopert.com.",
+      "Origin": "pxyixi.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/pzl1d.wopert.com..txt",
+      "NameServer": "ns1.pzl1d.wopert.com.",
+      "Origin": "pzl1d.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/q2dtt3.wopert.com..txt",
+      "NameServer": "ns1.q2dtt3.wopert.com.",
+      "Origin": "q2dtt3.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/q4fny.wopert.com..txt",
+      "NameServer": "ns1.q4fny.wopert.com.",
+      "Origin": "q4fny.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/q4gj8.wopert.com..txt",
+      "NameServer": "ns1.q4gj8.wopert.com.",
+      "Origin": "q4gj8.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/q5az1.wopert.com..txt",
+      "NameServer": "ns1.q5az1.wopert.com.",
+      "Origin": "q5az1.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/q7dkg.wopert.com..txt",
+      "NameServer": "ns1.q7dkg.wopert.com.",
+      "Origin": "q7dkg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/q7vguk.wopert.com..txt",
+      "NameServer": "ns1.q7vguk.wopert.com.",
+      "Origin": "q7vguk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/q9esyny.wopert.com..txt",
+      "NameServer": "ns1.q9esyny.wopert.com.",
+      "Origin": "q9esyny.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qa9rcf.wopert.com..txt",
+      "NameServer": "ns1.qa9rcf.wopert.com.",
+      "Origin": "qa9rcf.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qdcd0q.wopert.com..txt",
+      "NameServer": "ns1.qdcd0q.wopert.com.",
+      "Origin": "qdcd0q.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qeksn.wopert.com..txt",
+      "NameServer": "ns1.qeksn.wopert.com.",
+      "Origin": "qeksn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qnhsu.wopert.com..txt",
+      "NameServer": "ns1.qnhsu.wopert.com.",
+      "Origin": "qnhsu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qnrdx.wopert.com..txt",
+      "NameServer": "ns1.qnrdx.wopert.com.",
+      "Origin": "qnrdx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qo0w.wopert.com..txt",
+      "NameServer": "ns1.qo0w.wopert.com.",
+      "Origin": "qo0w.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qobu.wopert.com..txt",
+      "NameServer": "ns1.qobu.wopert.com.",
+      "Origin": "qobu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qqutl.wopert.com..txt",
+      "NameServer": "ns1.qqutl.wopert.com.",
+      "Origin": "qqutl.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qqvvi4h.wopert.com..txt",
+      "NameServer": "ns1.qqvvi4h.wopert.com.",
+      "Origin": "qqvvi4h.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qrhet.wopert.com..txt",
+      "NameServer": "ns1.qrhet.wopert.com.",
+      "Origin": "qrhet.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qtzviei.wopert.com..txt",
+      "NameServer": "ns1.qtzviei.wopert.com.",
+      "Origin": "qtzviei.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/quqfr.wopert.com..txt",
+      "NameServer": "ns1.quqfr.wopert.com.",
+      "Origin": "quqfr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/qw4ez.wopert.com..txt",
+      "NameServer": "ns1.qw4ez.wopert.com.",
+      "Origin": "qw4ez.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/r0sl0m.wopert.com..txt",
+      "NameServer": "ns1.r0sl0m.wopert.com.",
+      "Origin": "r0sl0m.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/r0zljx.wopert.com..txt",
+      "NameServer": "ns1.r0zljx.wopert.com.",
+      "Origin": "r0zljx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/r3onl.wopert.com..txt",
+      "NameServer": "ns1.r3onl.wopert.com.",
+      "Origin": "r3onl.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/r5ai.wopert.com..txt",
+      "NameServer": "ns1.r5ai.wopert.com.",
+      "Origin": "r5ai.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/r7bfw.wopert.com..txt",
+      "NameServer": "ns1.r7bfw.wopert.com.",
+      "Origin": "r7bfw.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/r9brnl.wopert.com..txt",
+      "NameServer": "ns1.r9brnl.wopert.com.",
+      "Origin": "r9brnl.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/raa87.wopert.com..txt",
+      "NameServer": "ns1.raa87.wopert.com.",
+      "Origin": "raa87.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rbo3g.wopert.com..txt",
+      "NameServer": "ns1.rbo3g.wopert.com.",
+      "Origin": "rbo3g.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rfwpkq.wopert.com..txt",
+      "NameServer": "ns1.rfwpkq.wopert.com.",
+      "Origin": "rfwpkq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ri6c1d.wopert.com..txt",
+      "NameServer": "ns1.ri6c1d.wopert.com.",
+      "Origin": "ri6c1d.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rlfdhbk.wopert.com..txt",
+      "NameServer": "ns1.rlfdhbk.wopert.com.",
+      "Origin": "rlfdhbk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rp5wwig.wopert.com..txt",
+      "NameServer": "ns1.rp5wwig.wopert.com.",
+      "Origin": "rp5wwig.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rqqq.wopert.com..txt",
+      "NameServer": "ns1.rqqq.wopert.com.",
+      "Origin": "rqqq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rr7y.wopert.com..txt",
+      "NameServer": "ns1.rr7y.wopert.com.",
+      "Origin": "rr7y.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rtzpih.wopert.com..txt",
+      "NameServer": "ns1.rtzpih.wopert.com.",
+      "Origin": "rtzpih.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ru4iljt.wopert.com..txt",
+      "NameServer": "ns1.ru4iljt.wopert.com.",
+      "Origin": "ru4iljt.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ruzamintob.wopert.com..txt",
+      "NameServer": "ns1.ruzamintob.wopert.com.",
+      "Origin": "ruzamintob.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rw44r.wopert.com..txt",
+      "NameServer": "ns1.rw44r.wopert.com.",
+      "Origin": "rw44r.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rwqc00p.wopert.com..txt",
+      "NameServer": "ns1.rwqc00p.wopert.com.",
+      "Origin": "rwqc00p.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rzid.wopert.com..txt",
+      "NameServer": "ns1.rzid.wopert.com.",
+      "Origin": "rzid.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/rzrqq.wopert.com..txt",
+      "NameServer": "ns1.rzrqq.wopert.com.",
+      "Origin": "rzrqq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/s1nxr.wopert.com..txt",
+      "NameServer": "ns1.s1nxr.wopert.com.",
+      "Origin": "s1nxr.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/s38g.wopert.com..txt",
+      "NameServer": "ns1.s38g.wopert.com.",
+      "Origin": "s38g.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/s8kc.wopert.com..txt",
+      "NameServer": "ns1.s8kc.wopert.com.",
+      "Origin": "s8kc.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/sbmx.wopert.com..txt",
+      "NameServer": "ns1.sbmx.wopert.com.",
+      "Origin": "sbmx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/sbqdpiadywn.wopert.com..txt",
+      "NameServer": "ns1.sbqdpiadywn.wopert.com.",
+      "Origin": "sbqdpiadywn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/scbudg.wopert.com..txt",
+      "NameServer": "ns1.scbudg.wopert.com.",
+      "Origin": "scbudg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/sdjzxly.wopert.com..txt",
+      "NameServer": "ns1.sdjzxly.wopert.com.",
+      "Origin": "sdjzxly.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/sebg.wopert.com..txt",
+      "NameServer": "ns1.sebg.wopert.com.",
+      "Origin": "sebg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/sepigz.wopert.com..txt",
+      "NameServer": "ns1.sepigz.wopert.com.",
+      "Origin": "sepigz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/shgmq.wopert.com..txt",
+      "NameServer": "ns1.shgmq.wopert.com.",
+      "Origin": "shgmq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/siijt7.wopert.com..txt",
+      "NameServer": "ns1.siijt7.wopert.com.",
+      "Origin": "siijt7.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/sjs2j8a.wopert.com..txt",
+      "NameServer": "ns1.sjs2j8a.wopert.com.",
+      "Origin": "sjs2j8a.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/sjuk9.wopert.com..txt",
+      "NameServer": "ns1.sjuk9.wopert.com.",
+      "Origin": "sjuk9.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/slo66ha.wopert.com..txt",
+      "NameServer": "ns1.slo66ha.wopert.com.",
+      "Origin": "slo66ha.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/slsr10.wopert.com..txt",
+      "NameServer": "ns1.slsr10.wopert.com.",
+      "Origin": "slsr10.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/so1mu.wopert.com..txt",
+      "NameServer": "ns1.so1mu.wopert.com.",
+      "Origin": "so1mu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/spkm.wopert.com..txt",
+      "NameServer": "ns1.spkm.wopert.com.",
+      "Origin": "spkm.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/sqp2mre.wopert.com..txt",
+      "NameServer": "ns1.sqp2mre.wopert.com.",
+      "Origin": "sqp2mre.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ssc1.wopert.com..txt",
+      "NameServer": "ns1.ssc1.wopert.com.",
+      "Origin": "ssc1.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/stgc.wopert.com..txt",
+      "NameServer": "ns1.stgc.wopert.com.",
+      "Origin": "stgc.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/swqy.wopert.com..txt",
+      "NameServer": "ns1.swqy.wopert.com.",
+      "Origin": "swqy.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/sxykqpb.wopert.com..txt",
+      "NameServer": "ns1.sxykqpb.wopert.com.",
+      "Origin": "sxykqpb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/szqp.wopert.com..txt",
+      "NameServer": "ns1.szqp.wopert.com.",
+      "Origin": "szqp.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/t0aex.wopert.com..txt",
+      "NameServer": "ns1.t0aex.wopert.com.",
+      "Origin": "t0aex.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/t0pl.wopert.com..txt",
+      "NameServer": "ns1.t0pl.wopert.com.",
+      "Origin": "t0pl.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/t6hip8.wopert.com..txt",
+      "NameServer": "ns1.t6hip8.wopert.com.",
+      "Origin": "t6hip8.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tbjgt.wopert.com..txt",
+      "NameServer": "ns1.tbjgt.wopert.com.",
+      "Origin": "tbjgt.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tcjbj.wopert.com..txt",
+      "NameServer": "ns1.tcjbj.wopert.com.",
+      "Origin": "tcjbj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tcmk.wopert.com..txt",
+      "NameServer": "ns1.tcmk.wopert.com.",
+      "Origin": "tcmk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tfpx1nn.wopert.com..txt",
+      "NameServer": "ns1.tfpx1nn.wopert.com.",
+      "Origin": "tfpx1nn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tgjoufearlg.wopert.com..txt",
+      "NameServer": "ns1.tgjoufearlg.wopert.com.",
+      "Origin": "tgjoufearlg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/thna.wopert.com..txt",
+      "NameServer": "ns1.thna.wopert.com.",
+      "Origin": "thna.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tjew.wopert.com..txt",
+      "NameServer": "ns1.tjew.wopert.com.",
+      "Origin": "tjew.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tk0h6w0.wopert.com..txt",
+      "NameServer": "ns1.tk0h6w0.wopert.com.",
+      "Origin": "tk0h6w0.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tnfu.wopert.com..txt",
+      "NameServer": "ns1.tnfu.wopert.com.",
+      "Origin": "tnfu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tsdu.wopert.com..txt",
+      "NameServer": "ns1.tsdu.wopert.com.",
+      "Origin": "tsdu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ttgqw.wopert.com..txt",
+      "NameServer": "ns1.ttgqw.wopert.com.",
+      "Origin": "ttgqw.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tv15xb.wopert.com..txt",
+      "NameServer": "ns1.tv15xb.wopert.com.",
+      "Origin": "tv15xb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/tye2.wopert.com..txt",
+      "NameServer": "ns1.tye2.wopert.com.",
+      "Origin": "tye2.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/u1acb9.wopert.com..txt",
+      "NameServer": "ns1.u1acb9.wopert.com.",
+      "Origin": "u1acb9.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/u3atvjo.wopert.com..txt",
+      "NameServer": "ns1.u3atvjo.wopert.com.",
+      "Origin": "u3atvjo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/u3pmhxq.wopert.com..txt",
+      "NameServer": "ns1.u3pmhxq.wopert.com.",
+      "Origin": "u3pmhxq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/u5fmm.wopert.com..txt",
+      "NameServer": "ns1.u5fmm.wopert.com.",
+      "Origin": "u5fmm.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/u7ie.wopert.com..txt",
+      "NameServer": "ns1.u7ie.wopert.com.",
+      "Origin": "u7ie.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/u9k2.wopert.com..txt",
+      "NameServer": "ns1.u9k2.wopert.com.",
+      "Origin": "u9k2.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ubstpg.wopert.com..txt",
+      "NameServer": "ns1.ubstpg.wopert.com.",
+      "Origin": "ubstpg.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/uddha.wopert.com..txt",
+      "NameServer": "ns1.uddha.wopert.com.",
+      "Origin": "uddha.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/udwc1.wopert.com..txt",
+      "NameServer": "ns1.udwc1.wopert.com.",
+      "Origin": "udwc1.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ugb0f6q.wopert.com..txt",
+      "NameServer": "ns1.ugb0f6q.wopert.com.",
+      "Origin": "ugb0f6q.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ugjdul.wopert.com..txt",
+      "NameServer": "ns1.ugjdul.wopert.com.",
+      "Origin": "ugjdul.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/uivuyem.wopert.com..txt",
+      "NameServer": "ns1.uivuyem.wopert.com.",
+      "Origin": "uivuyem.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ul5zv.wopert.com..txt",
+      "NameServer": "ns1.ul5zv.wopert.com.",
+      "Origin": "ul5zv.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/um2kszh.wopert.com..txt",
+      "NameServer": "ns1.um2kszh.wopert.com.",
+      "Origin": "um2kszh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/uocftqd.wopert.com..txt",
+      "NameServer": "ns1.uocftqd.wopert.com.",
+      "Origin": "uocftqd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/upls3l.wopert.com..txt",
+      "NameServer": "ns1.upls3l.wopert.com.",
+      "Origin": "upls3l.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/uqwzwy.wopert.com..txt",
+      "NameServer": "ns1.uqwzwy.wopert.com.",
+      "Origin": "uqwzwy.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/uuiy.wopert.com..txt",
+      "NameServer": "ns1.uuiy.wopert.com.",
+      "Origin": "uuiy.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/uv4ggvw.wopert.com..txt",
+      "NameServer": "ns1.uv4ggvw.wopert.com.",
+      "Origin": "uv4ggvw.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/uvmiyh.wopert.com..txt",
+      "NameServer": "ns1.uvmiyh.wopert.com.",
+      "Origin": "uvmiyh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/uxe5.wopert.com..txt",
+      "NameServer": "ns1.uxe5.wopert.com.",
+      "Origin": "uxe5.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/v01uu9z.wopert.com..txt",
+      "NameServer": "ns1.v01uu9z.wopert.com.",
+      "Origin": "v01uu9z.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/v46p.wopert.com..txt",
+      "NameServer": "ns1.v46p.wopert.com.",
+      "Origin": "v46p.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/v5wk8.wopert.com..txt",
+      "NameServer": "ns1.v5wk8.wopert.com.",
+      "Origin": "v5wk8.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ve3j.wopert.com..txt",
+      "NameServer": "ns1.ve3j.wopert.com.",
+      "Origin": "ve3j.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/vfvgifd.wopert.com..txt",
+      "NameServer": "ns1.vfvgifd.wopert.com.",
+      "Origin": "vfvgifd.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/vgfz8.wopert.com..txt",
+      "NameServer": "ns1.vgfz8.wopert.com.",
+      "Origin": "vgfz8.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/vj9ls1.wopert.com..txt",
+      "NameServer": "ns1.vj9ls1.wopert.com.",
+      "Origin": "vj9ls1.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/vnwg4.wopert.com..txt",
+      "NameServer": "ns1.vnwg4.wopert.com.",
+      "Origin": "vnwg4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/vohjq.wopert.com..txt",
+      "NameServer": "ns1.vohjq.wopert.com.",
+      "Origin": "vohjq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/vw8i6e.wopert.com..txt",
+      "NameServer": "ns1.vw8i6e.wopert.com.",
+      "Origin": "vw8i6e.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/vxpp.wopert.com..txt",
+      "NameServer": "ns1.vxpp.wopert.com.",
+      "Origin": "vxpp.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/vygv.wopert.com..txt",
+      "NameServer": "ns1.vygv.wopert.com.",
+      "Origin": "vygv.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/w7ur.wopert.com..txt",
+      "NameServer": "ns1.w7ur.wopert.com.",
+      "Origin": "w7ur.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wdtlqk.wopert.com..txt",
+      "NameServer": "ns1.wdtlqk.wopert.com.",
+      "Origin": "wdtlqk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wfefeuk.wopert.com..txt",
+      "NameServer": "ns1.wfefeuk.wopert.com.",
+      "Origin": "wfefeuk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wi2l.wopert.com..txt",
+      "NameServer": "ns1.wi2l.wopert.com.",
+      "Origin": "wi2l.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wjhwmv.wopert.com..txt",
+      "NameServer": "ns1.wjhwmv.wopert.com.",
+      "Origin": "wjhwmv.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wmoiz5u.wopert.com..txt",
+      "NameServer": "ns1.wmoiz5u.wopert.com.",
+      "Origin": "wmoiz5u.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wofgiaj.wopert.com..txt",
+      "NameServer": "ns1.wofgiaj.wopert.com.",
+      "Origin": "wofgiaj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wopert.com..txt",
+      "NameServer": "ns1.wopert.com.",
+      "Origin": "wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wpwzl.wopert.com..txt",
+      "NameServer": "ns1.wpwzl.wopert.com.",
+      "Origin": "wpwzl.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wqcsa4m.wopert.com..txt",
+      "NameServer": "ns1.wqcsa4m.wopert.com.",
+      "Origin": "wqcsa4m.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wqihz.wopert.com..txt",
+      "NameServer": "ns1.wqihz.wopert.com.",
+      "Origin": "wqihz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wrbdj.wopert.com..txt",
+      "NameServer": "ns1.wrbdj.wopert.com.",
+      "Origin": "wrbdj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/wwfc4t5.wopert.com..txt",
+      "NameServer": "ns1.wwfc4t5.wopert.com.",
+      "Origin": "wwfc4t5.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/x01sex9.wopert.com..txt",
+      "NameServer": "ns1.x01sex9.wopert.com.",
+      "Origin": "x01sex9.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/x0kj8.wopert.com..txt",
+      "NameServer": "ns1.x0kj8.wopert.com.",
+      "Origin": "x0kj8.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/x2mk.wopert.com..txt",
+      "NameServer": "ns1.x2mk.wopert.com.",
+      "Origin": "x2mk.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xeas6v2.wopert.com..txt",
+      "NameServer": "ns1.xeas6v2.wopert.com.",
+      "Origin": "xeas6v2.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xeipqek.wopert.com..txt",
+      "NameServer": "ns1.xeipqek.wopert.com.",
+      "Origin": "xeipqek.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xfhouws.wopert.com..txt",
+      "NameServer": "ns1.xfhouws.wopert.com.",
+      "Origin": "xfhouws.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xfjy.wopert.com..txt",
+      "NameServer": "ns1.xfjy.wopert.com.",
+      "Origin": "xfjy.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xfuqbs.wopert.com..txt",
+      "NameServer": "ns1.xfuqbs.wopert.com.",
+      "Origin": "xfuqbs.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xfxstelkluo.wopert.com..txt",
+      "NameServer": "ns1.xfxstelkluo.wopert.com.",
+      "Origin": "xfxstelkluo.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xgirb.wopert.com..txt",
+      "NameServer": "ns1.xgirb.wopert.com.",
+      "Origin": "xgirb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xgvpj.wopert.com..txt",
+      "NameServer": "ns1.xgvpj.wopert.com.",
+      "Origin": "xgvpj.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xlfpik.wopert.com..txt",
+      "NameServer": "ns1.xlfpik.wopert.com.",
+      "Origin": "xlfpik.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xmw2j4.wopert.com..txt",
+      "NameServer": "ns1.xmw2j4.wopert.com.",
+      "Origin": "xmw2j4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xnjv3.wopert.com..txt",
+      "NameServer": "ns1.xnjv3.wopert.com.",
+      "Origin": "xnjv3.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xp0ht.wopert.com..txt",
+      "NameServer": "ns1.xp0ht.wopert.com.",
+      "Origin": "xp0ht.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xp6hi3.wopert.com..txt",
+      "NameServer": "ns1.xp6hi3.wopert.com.",
+      "Origin": "xp6hi3.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xqllu.wopert.com..txt",
+      "NameServer": "ns1.xqllu.wopert.com.",
+      "Origin": "xqllu.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xs6g.wopert.com..txt",
+      "NameServer": "ns1.xs6g.wopert.com.",
+      "Origin": "xs6g.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xstng.wopert.com..txt",
+      "NameServer": "ns1.xstng.wopert.com.",
+      "Origin": "xstng.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xtddtm.wopert.com..txt",
+      "NameServer": "ns1.xtddtm.wopert.com.",
+      "Origin": "xtddtm.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xugjpvt.wopert.com..txt",
+      "NameServer": "ns1.xugjpvt.wopert.com.",
+      "Origin": "xugjpvt.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xyuw.wopert.com..txt",
+      "NameServer": "ns1.xyuw.wopert.com.",
+      "Origin": "xyuw.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/xz5r.wopert.com..txt",
+      "NameServer": "ns1.xz5r.wopert.com.",
+      "Origin": "xz5r.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/y4kc1.wopert.com..txt",
+      "NameServer": "ns1.y4kc1.wopert.com.",
+      "Origin": "y4kc1.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/y9qds9.wopert.com..txt",
+      "NameServer": "ns1.y9qds9.wopert.com.",
+      "Origin": "y9qds9.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/y9qxl.wopert.com..txt",
+      "NameServer": "ns1.y9qxl.wopert.com.",
+      "Origin": "y9qxl.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ya162.wopert.com..txt",
+      "NameServer": "ns1.ya162.wopert.com.",
+      "Origin": "ya162.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/yaaptv.wopert.com..txt",
+      "NameServer": "ns1.yaaptv.wopert.com.",
+      "Origin": "yaaptv.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ybdx.wopert.com..txt",
+      "NameServer": "ns1.ybdx.wopert.com.",
+      "Origin": "ybdx.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ydk5.wopert.com..txt",
+      "NameServer": "ns1.ydk5.wopert.com.",
+      "Origin": "ydk5.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/yezzsrqcml.wopert.com..txt",
+      "NameServer": "ns1.yezzsrqcml.wopert.com.",
+      "Origin": "yezzsrqcml.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/yiyq5x.wopert.com..txt",
+      "NameServer": "ns1.yiyq5x.wopert.com.",
+      "Origin": "yiyq5x.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ykjumb.wopert.com..txt",
+      "NameServer": "ns1.ykjumb.wopert.com.",
+      "Origin": "ykjumb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/yl1xbv.wopert.com..txt",
+      "NameServer": "ns1.yl1xbv.wopert.com.",
+      "Origin": "yl1xbv.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/yojqxwdbgq.wopert.com..txt",
+      "NameServer": "ns1.yojqxwdbgq.wopert.com.",
+      "Origin": "yojqxwdbgq.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/yrvy4.wopert.com..txt",
+      "NameServer": "ns1.yrvy4.wopert.com.",
+      "Origin": "yrvy4.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ytd9.wopert.com..txt",
+      "NameServer": "ns1.ytd9.wopert.com.",
+      "Origin": "ytd9.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/ytk0b2v.wopert.com..txt",
+      "NameServer": "ns1.ytk0b2v.wopert.com.",
+      "Origin": "ytk0b2v.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/yvoswzh.wopert.com..txt",
+      "NameServer": "ns1.yvoswzh.wopert.com.",
+      "Origin": "yvoswzh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/z7cv4d.wopert.com..txt",
+      "NameServer": "ns1.z7cv4d.wopert.com.",
+      "Origin": "z7cv4d.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/zawwmz.wopert.com..txt",
+      "NameServer": "ns1.zawwmz.wopert.com.",
+      "Origin": "zawwmz.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/zbm0.wopert.com..txt",
+      "NameServer": "ns1.zbm0.wopert.com.",
+      "Origin": "zbm0.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/zbvi.wopert.com..txt",
+      "NameServer": "ns1.zbvi.wopert.com.",
+      "Origin": "zbvi.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/zdtsrhh.wopert.com..txt",
+      "NameServer": "ns1.zdtsrhh.wopert.com.",
+      "Origin": "zdtsrhh.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/zgnb.wopert.com..txt",
+      "NameServer": "ns1.zgnb.wopert.com.",
+      "Origin": "zgnb.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/zicn.wopert.com..txt",
+      "NameServer": "ns1.zicn.wopert.com.",
+      "Origin": "zicn.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/zo2e.wopert.com..txt",
+      "NameServer": "ns1.zo2e.wopert.com.",
+      "Origin": "zo2e.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/zugw.wopert.com..txt",
+      "NameServer": "ns1.zugw.wopert.com.",
+      "Origin": "zugw.wopert.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-500-1000/wopert.com/zzkef.wopert.com..txt",
+      "NameServer": "ns1.zzkef.wopert.com.",
+      "Origin": "zzkef.wopert.com."
+    }
+  ]
+}

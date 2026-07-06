@@ -1,0 +1,28 @@
+### Max Matsu###
+zone: co.kr
+setime of Matsu: 4427508.771 ms
+
+### Max Groot###
+zone: co.kr
+setime of Groot: 41351.130892999994 ms
+
+
+### Min Matsu###
+zone: 0751ly.net
+setime of Matsu: 0.007 ms
+
+### Min Groot###
+zone: armz.com
+setime of Groot: 1.464297 ms
+
+Matsu Symbolic Execution Times Quantiles (90%, 95%, 99%, 99.9%):
+90%: 0.226 ms
+95%: 0.262 ms
+99%: 0.639 ms
+99.9%: 15.112256000000983 ms
+
+Groot Symbolic Execution Times Quantiles (90%, 95%, 99%, 99.9%):
+90%: 25.728667599999998 ms
+95%: 33.46248799999998 ms
+99%: 64.30075908 ms
+99.9%: 213.82454180400188 ms

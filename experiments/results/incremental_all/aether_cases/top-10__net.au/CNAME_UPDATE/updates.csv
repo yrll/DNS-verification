@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/net.au,108.net.au..txt,CNAME_UPDATE,DEL,www.108.net.au.,CNAME,108.net.au.
+top-10/net.au,108.net.au..txt,CNAME_UPDATE,ADD,www.108.net.au.,CNAME,cname-inc.108.net.au.

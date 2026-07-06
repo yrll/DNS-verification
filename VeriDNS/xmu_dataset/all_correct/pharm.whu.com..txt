@@ -1,0 +1,6 @@
+pharm.whu.com.	14400	IN	SOA	ns1.pharm.whu.com. james.whu.edu. 19122302 14400 3600 2419200 14400
+pharm.whu.com.		    IN	NS ns1.pharm.whu.com.
+ns1.pharm.whu.com.	    IN	A	10.166.21.15
+
+pharm.whu.com.		    IN	A	6.6.6.6
+

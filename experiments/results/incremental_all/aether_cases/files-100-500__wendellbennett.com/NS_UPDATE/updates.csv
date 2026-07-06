@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wendellbennett.com,a-direct-consolidation-loan.wendellbennett.com..txt,NS_UPDATE,DEL,a-direct-consolidation-loan.wendellbennett.com.,NS,ns1.namebrightdns.com.
+files-100-500/wendellbennett.com,a-direct-consolidation-loan.wendellbennett.com..txt,NS_UPDATE,ADD,a-direct-consolidation-loan.wendellbennett.com.,NS,ns-inc.a-direct-consolidation-loan.wendellbennett.com.

@@ -1,0 +1,2 @@
+group,dataset,dataset_id,metadata,zone_file_count,rr_count,A,AAAA,NS,SOA,MX,TXT,CNAME,DNAME,PTR,wildcard,rewrite_rr,rewrite_density,delegation_rr,delegation_density,avg_rr_per_file,max_rr_per_file
+top-10,co.kr,top-10/co.kr,/home/rulan_yang/DNS-verification/experiments/results/aether_revision_smoke/datasets/top-10/co.kr/metadata.json,80209,1090861,336586,275,540337,80209,67158,23593,42698,5,0,0,42703,0.039146142359108994,620546,0.5688589105303059,13.600231894176463,543982

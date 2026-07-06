@@ -1,0 +1,17 @@
+group,dataset,dataset_id,scenario,status,skipped_reason
+files-100-500,vivilotz.com,files-100-500/vivilotz.com,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,warriorhall.com,files-100-500/warriorhall.com,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,wblogin.com,files-100-500/wblogin.com,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,webng.com,files-100-500/webng.com,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,webself.net,files-100-500/webself.net,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,website-start.de,files-100-500/website-start.de,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,webwealth.us,files-100-500/webwealth.us,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,wendellbennett.com,files-100-500/wendellbennett.com,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,wertot.com,files-100-500/wertot.com,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,www.de,files-100-500/www.de,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,x-y.net,files-100-500/x-y.net,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,xitinblog.net,files-100-500/xitinblog.net,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,xoom.it,files-100-500/xoom.it,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,xsrv.jp,files-100-500/xsrv.jp,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,yourfreehosting.net,files-100-500/yourfreehosting.net,CNAME_UPDATE,skipped,no CNAME record
+files-100-500,yourprospex.com,files-100-500/yourprospex.com,CNAME_UPDATE,skipped,no CNAME record

@@ -1,0 +1,18 @@
+Number of rows where ratio < 1: 51
+
+### Maximum Ratio ###
+Constructing ActionTrie for zone: www.nationalcenterformen.org.
+Groot: 64135.371467 
+Matsu: 0.009 
+cttime Ratio: 7126152.385222223
+
+### Minimum Ratio ###
+Constructing ActionTrie for zone: vologda.ru.
+Groot: 1694.795571 
+Matsu: 134084.727 
+cttime Ratio: 0.012639736149815183
+Ratio Quantiles (90%, 95%, 99%, 99.9%):
+90%: 12630.296099999998
+95%: 17664.709399999992
+99%: 36307.303159999996
+99.9%: 120252.16702402821

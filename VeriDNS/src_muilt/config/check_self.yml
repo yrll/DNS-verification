@@ -1,0 +1,8 @@
+# 默认检查属性有：hops、rewrites、delegation_consistency、lame_delegation、query_rewrite、RewriteBlackholing
+check_domain_overflow: True
+check_miss_glue_record: True
+check_lame_delegation: False
+check_non_existent_domain: False
+# rewrite_blackholing 会自检查 rewrite loop
+check_rewrite_blackholing: True
+check_rewrite_loop: True

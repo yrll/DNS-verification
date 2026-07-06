@@ -1,0 +1,64 @@
+{
+    "ZoneFiles": [
+        {
+            "FileName": "www.xmu.com..txt",
+            "NameServer": "ns1.www.xmu.com.",
+            "Origin": "www.xmu.com."
+        },
+        {
+            "FileName": "wlgc.com..txt",
+            "NameServer": "ns1.wlgc.com.",
+            "Origin": "wlgc.com."
+        },
+        {
+            "FileName": "wc.hlt.ftw.com..txt",
+            "NameServer": "ns1.wc.hlt.ftw.com.",
+            "Origin": "wc.hlt.ftw.com."
+        },
+        {
+            "FileName": "sci.cqu.com..txt",
+            "NameServer": "ns1.sci.cqu.com.",
+            "Origin": "sci.cqu.com."
+        },
+        {
+            "FileName": "sore.wf.zdm.com.-2.txt",
+            "NameServer": "ns2.sore.wf.zdm.com.",
+            "Origin": "sore.wf.zdm.com."
+        },
+        {
+            "FileName": "www.lzu.com..txt",
+            "NameServer": "ns1.www.lzu.com.",
+            "Origin": "www.lzu.com."
+        },
+        {
+            "FileName": "law.nju.com..txt",
+            "NameServer": "ns1.law.nju.com.",
+            "Origin": "law.nju.com."
+        },
+        {
+            "FileName": "child.xben.com..txt",
+            "NameServer": "ns1.child.xben.com.",
+            "Origin": "child.xben.com."
+        },
+        {
+            "FileName": "ai.shu.com..txt",
+            "NameServer": "ns1.ai.shu.com.",
+            "Origin": "ai.shu.com."
+        },
+        {
+            "FileName": "whu.com..txt",
+            "NameServer": "ns1.whu.com.",
+            "Origin": "whu.com."
+        },
+        {
+            "FileName": "tju.com..txt",
+            "NameServer": "ns1.tju.com.",
+            "Origin": "tju.com."
+        },
+        {
+            "FileName": "hist.pku.com..txt",
+            "NameServer": "ns1.hist.pku.com.",
+            "Origin": "hist.pku.com."
+        }
+    ]
+}

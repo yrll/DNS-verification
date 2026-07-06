@@ -1,0 +1,1412 @@
+{
+  "TopNameServers": [
+    "ns1.xoom.it."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/acelocahujerii.xoom.it..txt",
+      "NameServer": "ns1.acelocahujerii.xoom.it.",
+      "Origin": "acelocahujerii.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/acnm.xoom.it..txt",
+      "NameServer": "ns1.acnm.xoom.it.",
+      "Origin": "acnm.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/aegftggf.xoom.it..txt",
+      "NameServer": "ns1.aegftggf.xoom.it.",
+      "Origin": "aegftggf.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/agenziabonola.xoom.it..txt",
+      "NameServer": "ns1.agenziabonola.xoom.it.",
+      "Origin": "agenziabonola.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/alampis.xoom.it..txt",
+      "NameServer": "ns1.alampis.xoom.it.",
+      "Origin": "alampis.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/albergino.xoom.it..txt",
+      "NameServer": "ns1.albergino.xoom.it.",
+      "Origin": "albergino.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/alifpqt.xoom.it..txt",
+      "NameServer": "ns1.alifpqt.xoom.it.",
+      "Origin": "alifpqt.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/allanon71.xoom.it..txt",
+      "NameServer": "ns1.allanon71.xoom.it.",
+      "Origin": "allanon71.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/alliancefrlecce.xoom.it..txt",
+      "NameServer": "ns1.alliancefrlecce.xoom.it.",
+      "Origin": "alliancefrlecce.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/altremuse.xoom.it..txt",
+      "NameServer": "ns1.altremuse.xoom.it.",
+      "Origin": "altremuse.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/andrybong.xoom.it..txt",
+      "NameServer": "ns1.andrybong.xoom.it.",
+      "Origin": "andrybong.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/animasogni.xoom.it..txt",
+      "NameServer": "ns1.animasogni.xoom.it.",
+      "Origin": "animasogni.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/animedia.xoom.it..txt",
+      "NameServer": "ns1.animedia.xoom.it.",
+      "Origin": "animedia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/annunziata.xoom.it..txt",
+      "NameServer": "ns1.annunziata.xoom.it.",
+      "Origin": "annunziata.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/antinoantani.xoom.it..txt",
+      "NameServer": "ns1.antinoantani.xoom.it.",
+      "Origin": "antinoantani.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/antologialetteraria.xoom.it..txt",
+      "NameServer": "ns1.antologialetteraria.xoom.it.",
+      "Origin": "antologialetteraria.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/appaday.xoom.it..txt",
+      "NameServer": "ns1.appaday.xoom.it.",
+      "Origin": "appaday.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/appunti.xoom.it..txt",
+      "NameServer": "ns1.appunti.xoom.it.",
+      "Origin": "appunti.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/araldicarutigliano.xoom.it..txt",
+      "NameServer": "ns1.araldicarutigliano.xoom.it.",
+      "Origin": "araldicarutigliano.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/arciguks.xoom.it..txt",
+      "NameServer": "ns1.arciguks.xoom.it.",
+      "Origin": "arciguks.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/arupinum.xoom.it..txt",
+      "NameServer": "ns1.arupinum.xoom.it.",
+      "Origin": "arupinum.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/asciatopo.xoom.it..txt",
+      "NameServer": "ns1.asciatopo.xoom.it.",
+      "Origin": "asciatopo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ascnavigando.xoom.it..txt",
+      "NameServer": "ns1.ascnavigando.xoom.it.",
+      "Origin": "ascnavigando.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/assistentimuseali.xoom.it..txt",
+      "NameServer": "ns1.assistentimuseali.xoom.it.",
+      "Origin": "assistentimuseali.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/assistenze.xoom.it..txt",
+      "NameServer": "ns1.assistenze.xoom.it.",
+      "Origin": "assistenze.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/associazionebonazzi.xoom.it..txt",
+      "NameServer": "ns1.associazionebonazzi.xoom.it.",
+      "Origin": "associazionebonazzi.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/associazionelagrange.xoom.it..txt",
+      "NameServer": "ns1.associazionelagrange.xoom.it.",
+      "Origin": "associazionelagrange.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/associazmarcofassero.xoom.it..txt",
+      "NameServer": "ns1.associazmarcofassero.xoom.it.",
+      "Origin": "associazmarcofassero.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/astrohack.xoom.it..txt",
+      "NameServer": "ns1.astrohack.xoom.it.",
+      "Origin": "astrohack.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/aurini.xoom.it..txt",
+      "NameServer": "ns1.aurini.xoom.it.",
+      "Origin": "aurini.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/autonoleggioalghero.xoom.it..txt",
+      "NameServer": "ns1.autonoleggioalghero.xoom.it.",
+      "Origin": "autonoleggioalghero.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/avventuretestuali.xoom.it..txt",
+      "NameServer": "ns1.avventuretestuali.xoom.it.",
+      "Origin": "avventuretestuali.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/avxx.xoom.it..txt",
+      "NameServer": "ns1.avxx.xoom.it.",
+      "Origin": "avxx.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/awrfsf.xoom.it..txt",
+      "NameServer": "ns1.awrfsf.xoom.it.",
+      "Origin": "awrfsf.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/bandadicuringa.xoom.it..txt",
+      "NameServer": "ns1.bandadicuringa.xoom.it.",
+      "Origin": "bandadicuringa.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/bandsabaude.xoom.it..txt",
+      "NameServer": "ns1.bandsabaude.xoom.it.",
+      "Origin": "bandsabaude.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/bbunker.xoom.it..txt",
+      "NameServer": "ns1.bbunker.xoom.it.",
+      "Origin": "bbunker.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/bibangelica.xoom.it..txt",
+      "NameServer": "ns1.bibangelica.xoom.it.",
+      "Origin": "bibangelica.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/bilalizik.xoom.it..txt",
+      "NameServer": "ns1.bilalizik.xoom.it.",
+      "Origin": "bilalizik.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/bladionehost.xoom.it..txt",
+      "NameServer": "ns1.bladionehost.xoom.it.",
+      "Origin": "bladionehost.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/blasonariocremonese.xoom.it..txt",
+      "NameServer": "ns1.blasonariocremonese.xoom.it.",
+      "Origin": "blasonariocremonese.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/blasonariopiemontese.xoom.it..txt",
+      "NameServer": "ns1.blasonariopiemontese.xoom.it.",
+      "Origin": "blasonariopiemontese.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/bonarrigo.xoom.it..txt",
+      "NameServer": "ns1.bonarrigo.xoom.it.",
+      "Origin": "bonarrigo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/bt1.xoom.it..txt",
+      "NameServer": "ns1.bt1.xoom.it.",
+      "Origin": "bt1.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/capolettera.xoom.it..txt",
+      "NameServer": "ns1.capolettera.xoom.it.",
+      "Origin": "capolettera.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/capricchiaestate.xoom.it..txt",
+      "NameServer": "ns1.capricchiaestate.xoom.it.",
+      "Origin": "capricchiaestate.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/carmelo.xoom.it..txt",
+      "NameServer": "ns1.carmelo.xoom.it.",
+      "Origin": "carmelo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/cartunia80.xoom.it..txt",
+      "NameServer": "ns1.cartunia80.xoom.it.",
+      "Origin": "cartunia80.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/casaventuri.xoom.it..txt",
+      "NameServer": "ns1.casaventuri.xoom.it.",
+      "Origin": "casaventuri.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/cavejaromagnola.xoom.it..txt",
+      "NameServer": "ns1.cavejaromagnola.xoom.it.",
+      "Origin": "cavejaromagnola.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ccsvisicilia.xoom.it..txt",
+      "NameServer": "ns1.ccsvisicilia.xoom.it.",
+      "Origin": "ccsvisicilia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ccsvism.xoom.it..txt",
+      "NameServer": "ns1.ccsvism.xoom.it.",
+      "Origin": "ccsvism.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/cebrizio.xoom.it..txt",
+      "NameServer": "ns1.cebrizio.xoom.it.",
+      "Origin": "cebrizio.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/cinetrailer.xoom.it..txt",
+      "NameServer": "ns1.cinetrailer.xoom.it.",
+      "Origin": "cinetrailer.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/cirosparano.xoom.it..txt",
+      "NameServer": "ns1.cirosparano.xoom.it.",
+      "Origin": "cirosparano.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/claudioforte.xoom.it..txt",
+      "NameServer": "ns1.claudioforte.xoom.it.",
+      "Origin": "claudioforte.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/cmondl.xoom.it..txt",
+      "NameServer": "ns1.cmondl.xoom.it.",
+      "Origin": "cmondl.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/cnscc.xoom.it..txt",
+      "NameServer": "ns1.cnscc.xoom.it.",
+      "Origin": "cnscc.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/colapesce.xoom.it..txt",
+      "NameServer": "ns1.colapesce.xoom.it.",
+      "Origin": "colapesce.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/colledipinzano.xoom.it..txt",
+      "NameServer": "ns1.colledipinzano.xoom.it.",
+      "Origin": "colledipinzano.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/collezionismoa.xoom.it..txt",
+      "NameServer": "ns1.collezionismoa.xoom.it.",
+      "Origin": "collezionismoa.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/comitatosanterenzo.xoom.it..txt",
+      "NameServer": "ns1.comitatosanterenzo.xoom.it.",
+      "Origin": "comitatosanterenzo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/consulenzaaziendale.xoom.it..txt",
+      "NameServer": "ns1.consulenzaaziendale.xoom.it.",
+      "Origin": "consulenzaaziendale.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/coralesanfilipponeri.xoom.it..txt",
+      "NameServer": "ns1.coralesanfilipponeri.xoom.it.",
+      "Origin": "coralesanfilipponeri.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/coroscordia.xoom.it..txt",
+      "NameServer": "ns1.coroscordia.xoom.it.",
+      "Origin": "coroscordia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/cristianodane.xoom.it..txt",
+      "NameServer": "ns1.cristianodane.xoom.it.",
+      "Origin": "cristianodane.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/cristodellastrada.xoom.it..txt",
+      "NameServer": "ns1.cristodellastrada.xoom.it.",
+      "Origin": "cristodellastrada.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/crivels1.xoom.it..txt",
+      "NameServer": "ns1.crivels1.xoom.it.",
+      "Origin": "crivels1.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/croceazzurrafegino.xoom.it..txt",
+      "NameServer": "ns1.croceazzurrafegino.xoom.it.",
+      "Origin": "croceazzurrafegino.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/dafefd.xoom.it..txt",
+      "NameServer": "ns1.dafefd.xoom.it.",
+      "Origin": "dafefd.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/daikarate.xoom.it..txt",
+      "NameServer": "ns1.daikarate.xoom.it.",
+      "Origin": "daikarate.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/dampyr.xoom.it..txt",
+      "NameServer": "ns1.dampyr.xoom.it.",
+      "Origin": "dampyr.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/danc.xoom.it..txt",
+      "NameServer": "ns1.danc.xoom.it.",
+      "Origin": "danc.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/darkvinx.xoom.it..txt",
+      "NameServer": "ns1.darkvinx.xoom.it.",
+      "Origin": "darkvinx.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/davidecaps.xoom.it..txt",
+      "NameServer": "ns1.davidecaps.xoom.it.",
+      "Origin": "davidecaps.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/demosweb.xoom.it..txt",
+      "NameServer": "ns1.demosweb.xoom.it.",
+      "Origin": "demosweb.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/dhgkijg.xoom.it..txt",
+      "NameServer": "ns1.dhgkijg.xoom.it.",
+      "Origin": "dhgkijg.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/dhikhjg.xoom.it..txt",
+      "NameServer": "ns1.dhikhjg.xoom.it.",
+      "Origin": "dhikhjg.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/dhuhf.xoom.it..txt",
+      "NameServer": "ns1.dhuhf.xoom.it.",
+      "Origin": "dhuhf.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/dichalrwf.xoom.it..txt",
+      "NameServer": "ns1.dichalrwf.xoom.it.",
+      "Origin": "dichalrwf.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/disclaimer.xoom.it..txt",
+      "NameServer": "ns1.disclaimer.xoom.it.",
+      "Origin": "disclaimer.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/djojvfdg.xoom.it..txt",
+      "NameServer": "ns1.djojvfdg.xoom.it.",
+      "Origin": "djojvfdg.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/dragologia.xoom.it..txt",
+      "NameServer": "ns1.dragologia.xoom.it.",
+      "Origin": "dragologia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ecomusia.xoom.it..txt",
+      "NameServer": "ns1.ecomusia.xoom.it.",
+      "Origin": "ecomusia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/efisiocarrube.xoom.it..txt",
+      "NameServer": "ns1.efisiocarrube.xoom.it.",
+      "Origin": "efisiocarrube.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ematqar.xoom.it..txt",
+      "NameServer": "ns1.ematqar.xoom.it.",
+      "Origin": "ematqar.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/enfapqv.xoom.it..txt",
+      "NameServer": "ns1.enfapqv.xoom.it.",
+      "Origin": "enfapqv.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/enio000.xoom.it..txt",
+      "NameServer": "ns1.enio000.xoom.it.",
+      "Origin": "enio000.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/erwftg.xoom.it..txt",
+      "NameServer": "ns1.erwftg.xoom.it.",
+      "Origin": "erwftg.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/etruria.xoom.it..txt",
+      "NameServer": "ns1.etruria.xoom.it.",
+      "Origin": "etruria.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/eugeniomontale.xoom.it..txt",
+      "NameServer": "ns1.eugeniomontale.xoom.it.",
+      "Origin": "eugeniomontale.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/federbaseballrsm.xoom.it..txt",
+      "NameServer": "ns1.federbaseballrsm.xoom.it.",
+      "Origin": "federbaseballrsm.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/fergie.xoom.it..txt",
+      "NameServer": "ns1.fergie.xoom.it.",
+      "Origin": "fergie.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ferrim.xoom.it..txt",
+      "NameServer": "ns1.ferrim.xoom.it.",
+      "Origin": "ferrim.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/fiat124.xoom.it..txt",
+      "NameServer": "ns1.fiat124.xoom.it.",
+      "Origin": "fiat124.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/figurahumana.xoom.it..txt",
+      "NameServer": "ns1.figurahumana.xoom.it.",
+      "Origin": "figurahumana.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/fmgiannini.xoom.it..txt",
+      "NameServer": "ns1.fmgiannini.xoom.it.",
+      "Origin": "fmgiannini.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/forblender.xoom.it..txt",
+      "NameServer": "ns1.forblender.xoom.it.",
+      "Origin": "forblender.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/fortunadrago.xoom.it..txt",
+      "NameServer": "ns1.fortunadrago.xoom.it.",
+      "Origin": "fortunadrago.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/fratricidio.xoom.it..txt",
+      "NameServer": "ns1.fratricidio.xoom.it.",
+      "Origin": "fratricidio.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/freeime.xoom.it..txt",
+      "NameServer": "ns1.freeime.xoom.it.",
+      "Origin": "freeime.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/gabrieledaquila.xoom.it..txt",
+      "NameServer": "ns1.gabrieledaquila.xoom.it.",
+      "Origin": "gabrieledaquila.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ghidoniautoredialetto.xoom.it..txt",
+      "NameServer": "ns1.ghidoniautoredialetto.xoom.it.",
+      "Origin": "ghidoniautoredialetto.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ghmj.xoom.it..txt",
+      "NameServer": "ns1.ghmj.xoom.it.",
+      "Origin": "ghmj.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/gianninamilli.xoom.it..txt",
+      "NameServer": "ns1.gianninamilli.xoom.it.",
+      "Origin": "gianninamilli.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/giggino47.xoom.it..txt",
+      "NameServer": "ns1.giggino47.xoom.it.",
+      "Origin": "giggino47.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/gilniwvf.xoom.it..txt",
+      "NameServer": "ns1.gilniwvf.xoom.it.",
+      "Origin": "gilniwvf.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/gmg.xoom.it..txt",
+      "NameServer": "ns1.gmg.xoom.it.",
+      "Origin": "gmg.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/gmso.xoom.it..txt",
+      "NameServer": "ns1.gmso.xoom.it.",
+      "Origin": "gmso.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/gommescontate.xoom.it..txt",
+      "NameServer": "ns1.gommescontate.xoom.it.",
+      "Origin": "gommescontate.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/graficamaria.xoom.it..txt",
+      "NameServer": "ns1.graficamaria.xoom.it.",
+      "Origin": "graficamaria.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/guidematt.xoom.it..txt",
+      "NameServer": "ns1.guidematt.xoom.it.",
+      "Origin": "guidematt.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/guidoleonardi.xoom.it..txt",
+      "NameServer": "ns1.guidoleonardi.xoom.it.",
+      "Origin": "guidoleonardi.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/hacksper.xoom.it..txt",
+      "NameServer": "ns1.hacksper.xoom.it.",
+      "Origin": "hacksper.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/hilepls.xoom.it..txt",
+      "NameServer": "ns1.hilepls.xoom.it.",
+      "Origin": "hilepls.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/hkijhff.xoom.it..txt",
+      "NameServer": "ns1.hkijhff.xoom.it.",
+      "Origin": "hkijhff.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/hkloog.xoom.it..txt",
+      "NameServer": "ns1.hkloog.xoom.it.",
+      "Origin": "hkloog.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/homti1.xoom.it..txt",
+      "NameServer": "ns1.homti1.xoom.it.",
+      "Origin": "homti1.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ichenxoh.xoom.it..txt",
+      "NameServer": "ns1.ichenxoh.xoom.it.",
+      "Origin": "ichenxoh.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ilcarducci.xoom.it..txt",
+      "NameServer": "ns1.ilcarducci.xoom.it.",
+      "Origin": "ilcarducci.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ilcavalcanti.xoom.it..txt",
+      "NameServer": "ns1.ilcavalcanti.xoom.it.",
+      "Origin": "ilcavalcanti.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ildeamicis.xoom.it..txt",
+      "NameServer": "ns1.ildeamicis.xoom.it.",
+      "Origin": "ildeamicis.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ildiariodiciro.xoom.it..txt",
+      "NameServer": "ns1.ildiariodiciro.xoom.it.",
+      "Origin": "ildiariodiciro.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ilfoscolo.xoom.it..txt",
+      "NameServer": "ns1.ilfoscolo.xoom.it.",
+      "Origin": "ilfoscolo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ilgalilei.xoom.it..txt",
+      "NameServer": "ns1.ilgalilei.xoom.it.",
+      "Origin": "ilgalilei.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ilguinizelli.xoom.it..txt",
+      "NameServer": "ns1.ilguinizelli.xoom.it.",
+      "Origin": "ilguinizelli.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ilmachiavelli.xoom.it..txt",
+      "NameServer": "ns1.ilmachiavelli.xoom.it.",
+      "Origin": "ilmachiavelli.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ilpascoli.xoom.it..txt",
+      "NameServer": "ns1.ilpascoli.xoom.it.",
+      "Origin": "ilpascoli.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ilpassaparola.xoom.it..txt",
+      "NameServer": "ns1.ilpassaparola.xoom.it.",
+      "Origin": "ilpassaparola.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ilpirandello.xoom.it..txt",
+      "NameServer": "ns1.ilpirandello.xoom.it.",
+      "Origin": "ilpirandello.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/indy.xoom.it..txt",
+      "NameServer": "ns1.indy.xoom.it.",
+      "Origin": "indy.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/informazionerossa.xoom.it..txt",
+      "NameServer": "ns1.informazionerossa.xoom.it.",
+      "Origin": "informazionerossa.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/informazioninelweb.xoom.it..txt",
+      "NameServer": "ns1.informazioninelweb.xoom.it.",
+      "Origin": "informazioninelweb.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/inutvnt.xoom.it..txt",
+      "NameServer": "ns1.inutvnt.xoom.it.",
+      "Origin": "inutvnt.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/irsmarbae.xoom.it..txt",
+      "NameServer": "ns1.irsmarbae.xoom.it.",
+      "Origin": "irsmarbae.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/iw3sgt.xoom.it..txt",
+      "NameServer": "ns1.iw3sgt.xoom.it.",
+      "Origin": "iw3sgt.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/jkdroma.xoom.it..txt",
+      "NameServer": "ns1.jkdroma.xoom.it.",
+      "Origin": "jkdroma.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/jmurat.xoom.it..txt",
+      "NameServer": "ns1.jmurat.xoom.it.",
+      "Origin": "jmurat.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/jun27.xoom.it..txt",
+      "NameServer": "ns1.jun27.xoom.it.",
+      "Origin": "jun27.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/kars.xoom.it..txt",
+      "NameServer": "ns1.kars.xoom.it.",
+      "Origin": "kars.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/kat.xoom.it..txt",
+      "NameServer": "ns1.kat.xoom.it.",
+      "Origin": "kat.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/koeconver.xoom.it..txt",
+      "NameServer": "ns1.koeconver.xoom.it.",
+      "Origin": "koeconver.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/lavocedei3msul2012.xoom.it..txt",
+      "NameServer": "ns1.lavocedei3msul2012.xoom.it.",
+      "Origin": "lavocedei3msul2012.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/learningsources.xoom.it..txt",
+      "NameServer": "ns1.learningsources.xoom.it.",
+      "Origin": "learningsources.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/leguarag.xoom.it..txt",
+      "NameServer": "ns1.leguarag.xoom.it.",
+      "Origin": "leguarag.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/libervolucris.xoom.it..txt",
+      "NameServer": "ns1.libervolucris.xoom.it.",
+      "Origin": "libervolucris.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/lookafabrik.xoom.it..txt",
+      "NameServer": "ns1.lookafabrik.xoom.it.",
+      "Origin": "lookafabrik.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/lorzero.xoom.it..txt",
+      "NameServer": "ns1.lorzero.xoom.it.",
+      "Origin": "lorzero.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/madevil.xoom.it..txt",
+      "NameServer": "ns1.madevil.xoom.it.",
+      "Origin": "madevil.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/magicmaic.xoom.it..txt",
+      "NameServer": "ns1.magicmaic.xoom.it.",
+      "Origin": "magicmaic.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/maideqat.xoom.it..txt",
+      "NameServer": "ns1.maideqat.xoom.it.",
+      "Origin": "maideqat.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/malevolti.xoom.it..txt",
+      "NameServer": "ns1.malevolti.xoom.it.",
+      "Origin": "malevolti.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/manifestostorico.xoom.it..txt",
+      "NameServer": "ns1.manifestostorico.xoom.it.",
+      "Origin": "manifestostorico.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/marebalestrate.xoom.it..txt",
+      "NameServer": "ns1.marebalestrate.xoom.it.",
+      "Origin": "marebalestrate.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/mariapaolavannucchi.xoom.it..txt",
+      "NameServer": "ns1.mariapaolavannucchi.xoom.it.",
+      "Origin": "mariapaolavannucchi.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/mariolamberto.xoom.it..txt",
+      "NameServer": "ns1.mariolamberto.xoom.it.",
+      "Origin": "mariolamberto.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/marketingaziende.xoom.it..txt",
+      "NameServer": "ns1.marketingaziende.xoom.it.",
+      "Origin": "marketingaziende.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/matteoceccarini.xoom.it..txt",
+      "NameServer": "ns1.matteoceccarini.xoom.it.",
+      "Origin": "matteoceccarini.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/matteomarzoli.xoom.it..txt",
+      "NameServer": "ns1.matteomarzoli.xoom.it.",
+      "Origin": "matteomarzoli.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/maxsestini.xoom.it..txt",
+      "NameServer": "ns1.maxsestini.xoom.it.",
+      "Origin": "maxsestini.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/meolomarteggialosson.xoom.it..txt",
+      "NameServer": "ns1.meolomarteggialosson.xoom.it.",
+      "Origin": "meolomarteggialosson.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/meridiesvariensis.xoom.it..txt",
+      "NameServer": "ns1.meridiesvariensis.xoom.it.",
+      "Origin": "meridiesvariensis.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/merton.xoom.it..txt",
+      "NameServer": "ns1.merton.xoom.it.",
+      "Origin": "merton.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/metalmilizia.xoom.it..txt",
+      "NameServer": "ns1.metalmilizia.xoom.it.",
+      "Origin": "metalmilizia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/metropalermo.xoom.it..txt",
+      "NameServer": "ns1.metropalermo.xoom.it.",
+      "Origin": "metropalermo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/miloleoelia.xoom.it..txt",
+      "NameServer": "ns1.miloleoelia.xoom.it.",
+      "Origin": "miloleoelia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/monsoddostocco.xoom.it..txt",
+      "NameServer": "ns1.monsoddostocco.xoom.it.",
+      "Origin": "monsoddostocco.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/monumentiroma.xoom.it..txt",
+      "NameServer": "ns1.monumentiroma.xoom.it.",
+      "Origin": "monumentiroma.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/mpalamara.xoom.it..txt",
+      "NameServer": "ns1.mpalamara.xoom.it.",
+      "Origin": "mpalamara.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/mrpepe.xoom.it..txt",
+      "NameServer": "ns1.mrpepe.xoom.it.",
+      "Origin": "mrpepe.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/musicadicariolani.xoom.it..txt",
+      "NameServer": "ns1.musicadicariolani.xoom.it.",
+      "Origin": "musicadicariolani.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/nardelli.xoom.it..txt",
+      "NameServer": "ns1.nardelli.xoom.it.",
+      "Origin": "nardelli.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/navitirrenia.xoom.it..txt",
+      "NameServer": "ns1.navitirrenia.xoom.it.",
+      "Origin": "navitirrenia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ngcompany.xoom.it..txt",
+      "NameServer": "ns1.ngcompany.xoom.it.",
+      "Origin": "ngcompany.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/nicosia-italia.xoom.it..txt",
+      "NameServer": "ns1.nicosia-italia.xoom.it.",
+      "Origin": "nicosia-italia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/nightatmeknes.xoom.it..txt",
+      "NameServer": "ns1.nightatmeknes.xoom.it.",
+      "Origin": "nightatmeknes.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/nolaforever.xoom.it..txt",
+      "NameServer": "ns1.nolaforever.xoom.it.",
+      "Origin": "nolaforever.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/nonasinfonia.xoom.it..txt",
+      "NameServer": "ns1.nonasinfonia.xoom.it.",
+      "Origin": "nonasinfonia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/noscontkmq.xoom.it..txt",
+      "NameServer": "ns1.noscontkmq.xoom.it.",
+      "Origin": "noscontkmq.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/olfiktj.xoom.it..txt",
+      "NameServer": "ns1.olfiktj.xoom.it.",
+      "Origin": "olfiktj.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/operadoncalabria.xoom.it..txt",
+      "NameServer": "ns1.operadoncalabria.xoom.it.",
+      "Origin": "operadoncalabria.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/orbs.xoom.it..txt",
+      "NameServer": "ns1.orbs.xoom.it.",
+      "Origin": "orbs.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/organnews.xoom.it..txt",
+      "NameServer": "ns1.organnews.xoom.it.",
+      "Origin": "organnews.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/oseyavedo.xoom.it..txt",
+      "NameServer": "ns1.oseyavedo.xoom.it.",
+      "Origin": "oseyavedo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/osyaverdonav.xoom.it..txt",
+      "NameServer": "ns1.osyaverdonav.xoom.it.",
+      "Origin": "osyaverdonav.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ottoboni.xoom.it..txt",
+      "NameServer": "ns1.ottoboni.xoom.it.",
+      "Origin": "ottoboni.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ozedugn.xoom.it..txt",
+      "NameServer": "ns1.ozedugn.xoom.it.",
+      "Origin": "ozedugn.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/paolamarone.xoom.it..txt",
+      "NameServer": "ns1.paolamarone.xoom.it.",
+      "Origin": "paolamarone.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/pattyconnoi.xoom.it..txt",
+      "NameServer": "ns1.pattyconnoi.xoom.it.",
+      "Origin": "pattyconnoi.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/pcalefato.xoom.it..txt",
+      "NameServer": "ns1.pcalefato.xoom.it.",
+      "Origin": "pcalefato.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/peatagllu.xoom.it..txt",
+      "NameServer": "ns1.peatagllu.xoom.it.",
+      "Origin": "peatagllu.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/pensieroitaliano.xoom.it..txt",
+      "NameServer": "ns1.pensieroitaliano.xoom.it.",
+      "Origin": "pensieroitaliano.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/pesdotto.xoom.it..txt",
+      "NameServer": "ns1.pesdotto.xoom.it.",
+      "Origin": "pesdotto.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/phidia.xoom.it..txt",
+      "NameServer": "ns1.phidia.xoom.it.",
+      "Origin": "phidia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/piemonteis.xoom.it..txt",
+      "NameServer": "ns1.piemonteis.xoom.it.",
+      "Origin": "piemonteis.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/piemonteisancheuj.xoom.it..txt",
+      "NameServer": "ns1.piemonteisancheuj.xoom.it.",
+      "Origin": "piemonteisancheuj.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/pierolizzi.xoom.it..txt",
+      "NameServer": "ns1.pierolizzi.xoom.it.",
+      "Origin": "pierolizzi.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/pietroselli.xoom.it..txt",
+      "NameServer": "ns1.pietroselli.xoom.it.",
+      "Origin": "pietroselli.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/piopas.xoom.it..txt",
+      "NameServer": "ns1.piopas.xoom.it.",
+      "Origin": "piopas.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/pippogoal.xoom.it..txt",
+      "NameServer": "ns1.pippogoal.xoom.it.",
+      "Origin": "pippogoal.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/pistoiascacchi.xoom.it..txt",
+      "NameServer": "ns1.pistoiascacchi.xoom.it.",
+      "Origin": "pistoiascacchi.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/placidoandriolo.xoom.it..txt",
+      "NameServer": "ns1.placidoandriolo.xoom.it.",
+      "Origin": "placidoandriolo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/plagueriot.xoom.it..txt",
+      "NameServer": "ns1.plagueriot.xoom.it.",
+      "Origin": "plagueriot.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/playahonda.xoom.it..txt",
+      "NameServer": "ns1.playahonda.xoom.it.",
+      "Origin": "playahonda.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/pompierinisseni.xoom.it..txt",
+      "NameServer": "ns1.pompierinisseni.xoom.it.",
+      "Origin": "pompierinisseni.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/probafalconia.xoom.it..txt",
+      "NameServer": "ns1.probafalconia.xoom.it.",
+      "Origin": "probafalconia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/prolocovillarbasse.xoom.it..txt",
+      "NameServer": "ns1.prolocovillarbasse.xoom.it.",
+      "Origin": "prolocovillarbasse.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/proppentrecker.xoom.it..txt",
+      "NameServer": "ns1.proppentrecker.xoom.it.",
+      "Origin": "proppentrecker.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/qrfygfh.xoom.it..txt",
+      "NameServer": "ns1.qrfygfh.xoom.it.",
+      "Origin": "qrfygfh.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/qrss.xoom.it..txt",
+      "NameServer": "ns1.qrss.xoom.it.",
+      "Origin": "qrss.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/radiocalifornia.xoom.it..txt",
+      "NameServer": "ns1.radiocalifornia.xoom.it.",
+      "Origin": "radiocalifornia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/rapdshare.xoom.it..txt",
+      "NameServer": "ns1.rapdshare.xoom.it.",
+      "Origin": "rapdshare.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/rapisarda.xoom.it..txt",
+      "NameServer": "ns1.rapisarda.xoom.it.",
+      "Origin": "rapisarda.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/raudiscnff.xoom.it..txt",
+      "NameServer": "ns1.raudiscnff.xoom.it.",
+      "Origin": "raudiscnff.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ravagliaventuri.xoom.it..txt",
+      "NameServer": "ns1.ravagliaventuri.xoom.it.",
+      "Origin": "ravagliaventuri.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/riminicalcio.storia.xoom.it..txt",
+      "NameServer": "ns1.riminicalcio.storia.xoom.it.",
+      "Origin": "riminicalcio.storia.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/robertobo.xoom.it..txt",
+      "NameServer": "ns1.robertobo.xoom.it.",
+      "Origin": "robertobo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/robevan.xoom.it..txt",
+      "NameServer": "ns1.robevan.xoom.it.",
+      "Origin": "robevan.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/roccapreturo.xoom.it..txt",
+      "NameServer": "ns1.roccapreturo.xoom.it.",
+      "Origin": "roccapreturo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/roccoditommaso.xoom.it..txt",
+      "NameServer": "ns1.roccoditommaso.xoom.it.",
+      "Origin": "roccoditommaso.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/rofolho.xoom.it..txt",
+      "NameServer": "ns1.rofolho.xoom.it.",
+      "Origin": "rofolho.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/rosarioterranova.xoom.it..txt",
+      "NameServer": "ns1.rosarioterranova.xoom.it.",
+      "Origin": "rosarioterranova.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ryikbf.xoom.it..txt",
+      "NameServer": "ns1.ryikbf.xoom.it.",
+      "Origin": "ryikbf.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/salvosoftware.xoom.it..txt",
+      "NameServer": "ns1.salvosoftware.xoom.it.",
+      "Origin": "salvosoftware.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sangennarovesuviano.xoom.it..txt",
+      "NameServer": "ns1.sangennarovesuviano.xoom.it.",
+      "Origin": "sangennarovesuviano.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sanmarcoinlamis.xoom.it..txt",
+      "NameServer": "ns1.sanmarcoinlamis.xoom.it.",
+      "Origin": "sanmarcoinlamis.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sanremo.xoom.it..txt",
+      "NameServer": "ns1.sanremo.xoom.it.",
+      "Origin": "sanremo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sauroavezza.xoom.it..txt",
+      "NameServer": "ns1.sauroavezza.xoom.it.",
+      "Origin": "sauroavezza.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sauroavezza4.xoom.it..txt",
+      "NameServer": "ns1.sauroavezza4.xoom.it.",
+      "Origin": "sauroavezza4.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/scuolamediastrozzi.xoom.it..txt",
+      "NameServer": "ns1.scuolamediastrozzi.xoom.it.",
+      "Origin": "scuolamediastrozzi.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/security.xoom.it..txt",
+      "NameServer": "ns1.security.xoom.it.",
+      "Origin": "security.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sentence.xoom.it..txt",
+      "NameServer": "ns1.sentence.xoom.it.",
+      "Origin": "sentence.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sergiodemitri.xoom.it..txt",
+      "NameServer": "ns1.sergiodemitri.xoom.it.",
+      "Origin": "sergiodemitri.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sfgett.xoom.it..txt",
+      "NameServer": "ns1.sfgett.xoom.it.",
+      "Origin": "sfgett.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sharapova.xoom.it..txt",
+      "NameServer": "ns1.sharapova.xoom.it.",
+      "Origin": "sharapova.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sickhalcg.xoom.it..txt",
+      "NameServer": "ns1.sickhalcg.xoom.it.",
+      "Origin": "sickhalcg.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sistemasolare.xoom.it..txt",
+      "NameServer": "ns1.sistemasolare.xoom.it.",
+      "Origin": "sistemasolare.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sitoaurora.xoom.it..txt",
+      "NameServer": "ns1.sitoaurora.xoom.it.",
+      "Origin": "sitoaurora.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sitoaurora2.xoom.it..txt",
+      "NameServer": "ns1.sitoaurora2.xoom.it.",
+      "Origin": "sitoaurora2.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/smdaem.xoom.it..txt",
+      "NameServer": "ns1.smdaem.xoom.it.",
+      "Origin": "smdaem.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/smettidifum.xoom.it..txt",
+      "NameServer": "ns1.smettidifum.xoom.it.",
+      "Origin": "smettidifum.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/speedclick.xoom.it..txt",
+      "NameServer": "ns1.speedclick.xoom.it.",
+      "Origin": "speedclick.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/sport.xoom.it..txt",
+      "NameServer": "ns1.sport.xoom.it.",
+      "Origin": "sport.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/stitocrza.xoom.it..txt",
+      "NameServer": "ns1.stitocrza.xoom.it.",
+      "Origin": "stitocrza.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/storiapiacenza1919.xoom.it..txt",
+      "NameServer": "ns1.storiapiacenza1919.xoom.it.",
+      "Origin": "storiapiacenza1919.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/storicavaldelsa.xoom.it..txt",
+      "NameServer": "ns1.storicavaldelsa.xoom.it.",
+      "Origin": "storicavaldelsa.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/streamingsportivo.xoom.it..txt",
+      "NameServer": "ns1.streamingsportivo.xoom.it.",
+      "Origin": "streamingsportivo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/stunhk.xoom.it..txt",
+      "NameServer": "ns1.stunhk.xoom.it.",
+      "Origin": "stunhk.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/taccuini.xoom.it..txt",
+      "NameServer": "ns1.taccuini.xoom.it.",
+      "Origin": "taccuini.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/tatianaalquati.xoom.it..txt",
+      "NameServer": "ns1.tatianaalquati.xoom.it.",
+      "Origin": "tatianaalquati.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/teatrolmetto.xoom.it..txt",
+      "NameServer": "ns1.teatrolmetto.xoom.it.",
+      "Origin": "teatrolmetto.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/tergovzs.xoom.it..txt",
+      "NameServer": "ns1.tergovzs.xoom.it.",
+      "Origin": "tergovzs.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/termignoni.xoom.it..txt",
+      "NameServer": "ns1.termignoni.xoom.it.",
+      "Origin": "termignoni.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/terradelsole.xoom.it..txt",
+      "NameServer": "ns1.terradelsole.xoom.it.",
+      "Origin": "terradelsole.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/theitalianrover.xoom.it..txt",
+      "NameServer": "ns1.theitalianrover.xoom.it.",
+      "Origin": "theitalianrover.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/thereef.xoom.it..txt",
+      "NameServer": "ns1.thereef.xoom.it.",
+      "Origin": "thereef.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/tinggasrl.xoom.it..txt",
+      "NameServer": "ns1.tinggasrl.xoom.it.",
+      "Origin": "tinggasrl.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/tittibenvenuto.xoom.it..txt",
+      "NameServer": "ns1.tittibenvenuto.xoom.it.",
+      "Origin": "tittibenvenuto.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/tootoo1993.xoom.it..txt",
+      "NameServer": "ns1.tootoo1993.xoom.it.",
+      "Origin": "tootoo1993.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/trahtrah.xoom.it..txt",
+      "NameServer": "ns1.trahtrah.xoom.it.",
+      "Origin": "trahtrah.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/trattoriadelporto.xoom.it..txt",
+      "NameServer": "ns1.trattoriadelporto.xoom.it.",
+      "Origin": "trattoriadelporto.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/trovaprezzo.xoom.it..txt",
+      "NameServer": "ns1.trovaprezzo.xoom.it.",
+      "Origin": "trovaprezzo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/twn.xoom.it..txt",
+      "NameServer": "ns1.twn.xoom.it.",
+      "Origin": "twn.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ultrasalbenga.xoom.it..txt",
+      "NameServer": "ns1.ultrasalbenga.xoom.it.",
+      "Origin": "ultrasalbenga.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/unospazionellarete.xoom.it..txt",
+      "NameServer": "ns1.unospazionellarete.xoom.it.",
+      "Origin": "unospazionellarete.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/ussquinzano.xoom.it..txt",
+      "NameServer": "ns1.ussquinzano.xoom.it.",
+      "Origin": "ussquinzano.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/vitagallo.xoom.it..txt",
+      "NameServer": "ns1.vitagallo.xoom.it.",
+      "Origin": "vitagallo.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/vnujol.xoom.it..txt",
+      "NameServer": "ns1.vnujol.xoom.it.",
+      "Origin": "vnujol.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/volapuk.xoom.it..txt",
+      "NameServer": "ns1.volapuk.xoom.it.",
+      "Origin": "volapuk.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/vulandra.xoom.it..txt",
+      "NameServer": "ns1.vulandra.xoom.it.",
+      "Origin": "vulandra.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/vvfcavareno.xoom.it..txt",
+      "NameServer": "ns1.vvfcavareno.xoom.it.",
+      "Origin": "vvfcavareno.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/www.xoom.it..txt",
+      "NameServer": "ns1.www.xoom.it.",
+      "Origin": "www.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/xcan.xoom.it..txt",
+      "NameServer": "ns1.xcan.xoom.it.",
+      "Origin": "xcan.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/xfafgbn.xoom.it..txt",
+      "NameServer": "ns1.xfafgbn.xoom.it.",
+      "Origin": "xfafgbn.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/xoom.it..txt",
+      "NameServer": "ns1.xoom.it.",
+      "Origin": "xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/xtrdvfh.xoom.it..txt",
+      "NameServer": "ns1.xtrdvfh.xoom.it.",
+      "Origin": "xtrdvfh.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/xvmkoh.xoom.it..txt",
+      "NameServer": "ns1.xvmkoh.xoom.it.",
+      "Origin": "xvmkoh.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/xvnmki.xoom.it..txt",
+      "NameServer": "ns1.xvnmki.xoom.it.",
+      "Origin": "xvnmki.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/zadewf.xoom.it..txt",
+      "NameServer": "ns1.zadewf.xoom.it.",
+      "Origin": "zadewf.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/zairoferrante.xoom.it..txt",
+      "NameServer": "ns1.zairoferrante.xoom.it.",
+      "Origin": "zairoferrante.xoom.it."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/xoom.it/zumi.xoom.it..txt",
+      "NameServer": "ns1.zumi.xoom.it.",
+      "Origin": "zumi.xoom.it."
+    }
+  ]
+}

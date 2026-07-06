@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/webd.pl,1lokrasnystaw.webd.pl..txt,NS_UPDATE,DEL,1lokrasnystaw.webd.pl.,NS,ns5.webd.pl.
+files-100-500/webd.pl,1lokrasnystaw.webd.pl..txt,NS_UPDATE,ADD,1lokrasnystaw.webd.pl.,NS,ns-inc.1lokrasnystaw.webd.pl.

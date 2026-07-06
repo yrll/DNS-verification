@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yourfreehosting.net,accordion2.yourfreehosting.net..txt,A_ADD,ADD,__aether_veridns_inc__.accordion2.yourfreehosting.net.,A,192.0.2.254

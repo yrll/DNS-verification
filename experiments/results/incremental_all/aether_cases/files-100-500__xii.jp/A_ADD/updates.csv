@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/xii.jp,125.xii.jp..txt,A_ADD,ADD,__aether_veridns_inc__.125.xii.jp.,A,192.0.2.254

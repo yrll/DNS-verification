@@ -1,0 +1,18 @@
+### Maximum Ratio ###
+Constructing ActionTrie for zone: postmaster.dene.com.dene.com.dene.com.dene.com.dene.com.dene.com.dene.com.dene.com.dene.com.dene.com.dene.com.dene.com.dene.com.
+ECs of Groot: 440.0 
+ECs of Matsu: 1.0 
+ECs Ratio: 440.0
+
+### Minimum Ratio ###
+Constructing ActionTrie for zone: l2.l1.l0.nyucd.net.
+ECs of Groot: 185880.0 
+ECs of Matsu: 46152.0 
+ECs Ratio: 4.027561102444098
+Ratio Quantiles (90%, 95%, 99%, 99.9%):
+
+### Quantile ###
+90%: 28.0
+95%: 28.0
+99%: 56.0
+99.9%: 72.0

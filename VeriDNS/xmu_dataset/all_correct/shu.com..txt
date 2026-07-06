@@ -1,0 +1,18 @@
+; <<>> DiG 9.11.3-1ubuntu1.11-Ubuntu <<>> AXFR shu.com. @ns2.shu.edu.
+;; global options: +cmd
+
+@               			      14400 IN SOA	ns1.shu.com. james.shu.edu. 19122302 14400 3600 2419200 14400
+shu.com.			      14400 IN NS	ns1.shu.com.
+ns1.shu.com.			      14400 IN A	10.166.21.15
+
+www.shu.com.		      14400 IN NS	ns1.www.shu.com.
+ns1.www.shu.com.		      14400 IN A		10.166.21.12
+
+ai.shu.com.		      14400 IN NS	ns1.ai.shu.com.
+ns1.ai.shu.com.		      14400 IN A		10.166.21.13
+
+sociology.shu.com.		      14400 IN NS	ns1.sociology.shu.com.
+ns1.sociology.shu.com.		      14400 IN A		10.166.21.14
+
+shu.com.			      14400 IN MX	10 sociologytp.shu.edu.
+shu.com.			      14400 IN TXT	"v=spf1 a mx ~all"

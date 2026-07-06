@@ -1,0 +1,1867 @@
+{
+  "TopNameServers": [
+    "ns1.za.net."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/17loader.za.net..txt",
+      "NameServer": "ns1.17loader.za.net.",
+      "Origin": "17loader.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/200sx.za.net..txt",
+      "NameServer": "ns1.200sx.za.net.",
+      "Origin": "200sx.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/acidmax.za.net..txt",
+      "NameServer": "ns1.acidmax.za.net.",
+      "Origin": "acidmax.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/aikido.za.net..txt",
+      "NameServer": "ns1.aikido.za.net.",
+      "Origin": "aikido.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/aking.za.net..txt",
+      "NameServer": "ns1.aking.za.net.",
+      "Origin": "aking.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/alchamy.za.net..txt",
+      "NameServer": "ns1.alchamy.za.net.",
+      "Origin": "alchamy.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/alm.za.net..txt",
+      "NameServer": "ns1.alm.za.net.",
+      "Origin": "alm.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/alter.za.net..txt",
+      "NameServer": "ns1.alter.za.net.",
+      "Origin": "alter.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/andrevanderschyff.za.net..txt",
+      "NameServer": "ns1.andrevanderschyff.za.net.",
+      "Origin": "andrevanderschyff.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/andreweb.za.net..txt",
+      "NameServer": "ns1.andreweb.za.net.",
+      "Origin": "andreweb.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/andronin.za.net..txt",
+      "NameServer": "ns1.andronin.za.net.",
+      "Origin": "andronin.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/andyk.za.net..txt",
+      "NameServer": "ns1.andyk.za.net.",
+      "Origin": "andyk.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/aneesdollie.za.net..txt",
+      "NameServer": "ns1.aneesdollie.za.net.",
+      "Origin": "aneesdollie.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/angela.za.net..txt",
+      "NameServer": "ns1.angela.za.net.",
+      "Origin": "angela.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/anonymousproxies.za.net..txt",
+      "NameServer": "ns1.anonymousproxies.za.net.",
+      "Origin": "anonymousproxies.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/antibody.za.net..txt",
+      "NameServer": "ns1.antibody.za.net.",
+      "Origin": "antibody.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/aquarat.za.net..txt",
+      "NameServer": "ns1.aquarat.za.net.",
+      "Origin": "aquarat.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/aquaria.za.net..txt",
+      "NameServer": "ns1.aquaria.za.net.",
+      "Origin": "aquaria.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/arcade.za.net..txt",
+      "NameServer": "ns1.arcade.za.net.",
+      "Origin": "arcade.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/artschool.za.net..txt",
+      "NameServer": "ns1.artschool.za.net.",
+      "Origin": "artschool.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/awd.za.net..txt",
+      "NameServer": "ns1.awd.za.net.",
+      "Origin": "awd.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/axtempi.za.net..txt",
+      "NameServer": "ns1.axtempi.za.net.",
+      "Origin": "axtempi.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/aytos.za.net..txt",
+      "NameServer": "ns1.aytos.za.net.",
+      "Origin": "aytos.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/babel.za.net..txt",
+      "NameServer": "ns1.babel.za.net.",
+      "Origin": "babel.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/backpackers.za.net..txt",
+      "NameServer": "ns1.backpackers.za.net.",
+      "Origin": "backpackers.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/befound.za.net..txt",
+      "NameServer": "ns1.befound.za.net.",
+      "Origin": "befound.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/belaire.za.net..txt",
+      "NameServer": "ns1.belaire.za.net.",
+      "Origin": "belaire.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ben.za.net..txt",
+      "NameServer": "ns1.ben.za.net.",
+      "Origin": "ben.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/bestinsurance.za.net..txt",
+      "NameServer": "ns1.bestinsurance.za.net.",
+      "Origin": "bestinsurance.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/biblegateway.za.net..txt",
+      "NameServer": "ns1.biblegateway.za.net.",
+      "Origin": "biblegateway.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/bigblue.za.net..txt",
+      "NameServer": "ns1.bigblue.za.net.",
+      "Origin": "bigblue.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/birkenhead.za.net..txt",
+      "NameServer": "ns1.birkenhead.za.net.",
+      "Origin": "birkenhead.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/bkcomp.za.net..txt",
+      "NameServer": "ns1.bkcomp.za.net.",
+      "Origin": "bkcomp.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/bluegray.za.net..txt",
+      "NameServer": "ns1.bluegray.za.net.",
+      "Origin": "bluegray.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/borbet.za.net..txt",
+      "NameServer": "ns1.borbet.za.net.",
+      "Origin": "borbet.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/boskak.za.net..txt",
+      "NameServer": "ns1.boskak.za.net.",
+      "Origin": "boskak.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/boyswillbeboys.za.net..txt",
+      "NameServer": "ns1.boyswillbeboys.za.net.",
+      "Origin": "boyswillbeboys.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/brendan.za.net..txt",
+      "NameServer": "ns1.brendan.za.net.",
+      "Origin": "brendan.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/burgersdorp.za.net..txt",
+      "NameServer": "ns1.burgersdorp.za.net.",
+      "Origin": "burgersdorp.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/business-cards.za.net..txt",
+      "NameServer": "ns1.business-cards.za.net.",
+      "Origin": "business-cards.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/businesssolutions.za.net..txt",
+      "NameServer": "ns1.businesssolutions.za.net.",
+      "Origin": "businesssolutions.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/buyflowersbouquet.za.net..txt",
+      "NameServer": "ns1.buyflowersbouquet.za.net.",
+      "Origin": "buyflowersbouquet.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/canimambo.za.net..txt",
+      "NameServer": "ns1.canimambo.za.net.",
+      "Origin": "canimambo.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/car-specs.za.net..txt",
+      "NameServer": "ns1.car-specs.za.net.",
+      "Origin": "car-specs.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/cb22.za.net..txt",
+      "NameServer": "ns1.cb22.za.net.",
+      "Origin": "cb22.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/chaimchaikin.za.net..txt",
+      "NameServer": "ns1.chaimchaikin.za.net.",
+      "Origin": "chaimchaikin.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/changeover.za.net..txt",
+      "NameServer": "ns1.changeover.za.net.",
+      "Origin": "changeover.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/chanstats.za.net..txt",
+      "NameServer": "ns1.chanstats.za.net.",
+      "Origin": "chanstats.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/chat.za.net..txt",
+      "NameServer": "ns1.chat.za.net.",
+      "Origin": "chat.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/chatsubo.za.net..txt",
+      "NameServer": "ns1.chatsubo.za.net.",
+      "Origin": "chatsubo.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/cis.za.net..txt",
+      "NameServer": "ns1.cis.za.net.",
+      "Origin": "cis.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/cit.za.net..txt",
+      "NameServer": "ns1.cit.za.net.",
+      "Origin": "cit.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/citizenb.za.net..txt",
+      "NameServer": "ns1.citizenb.za.net.",
+      "Origin": "citizenb.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/claws.za.net..txt",
+      "NameServer": "ns1.claws.za.net.",
+      "Origin": "claws.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/clements.za.net..txt",
+      "NameServer": "ns1.clements.za.net.",
+      "Origin": "clements.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/clicktracker.za.net..txt",
+      "NameServer": "ns1.clicktracker.za.net.",
+      "Origin": "clicktracker.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/climbel.za.net..txt",
+      "NameServer": "ns1.climbel.za.net.",
+      "Origin": "climbel.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/cliviaforum.za.net..txt",
+      "NameServer": "ns1.cliviaforum.za.net.",
+      "Origin": "cliviaforum.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/cliviawiki.za.net..txt",
+      "NameServer": "ns1.cliviawiki.za.net.",
+      "Origin": "cliviawiki.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/clovelly.za.net..txt",
+      "NameServer": "ns1.clovelly.za.net.",
+      "Origin": "clovelly.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/cocaine.za.net..txt",
+      "NameServer": "ns1.cocaine.za.net.",
+      "Origin": "cocaine.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/cockatiel.za.net..txt",
+      "NameServer": "ns1.cockatiel.za.net.",
+      "Origin": "cockatiel.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/coetzer.za.net..txt",
+      "NameServer": "ns1.coetzer.za.net.",
+      "Origin": "coetzer.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/communicate.za.net..txt",
+      "NameServer": "ns1.communicate.za.net.",
+      "Origin": "communicate.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/confluence.za.net..txt",
+      "NameServer": "ns1.confluence.za.net.",
+      "Origin": "confluence.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/conradandcandi.za.net..txt",
+      "NameServer": "ns1.conradandcandi.za.net.",
+      "Origin": "conradandcandi.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/controlc.za.net..txt",
+      "NameServer": "ns1.controlc.za.net.",
+      "Origin": "controlc.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/crc.za.net..txt",
+      "NameServer": "ns1.crc.za.net.",
+      "Origin": "crc.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/croquet.za.net..txt",
+      "NameServer": "ns1.croquet.za.net.",
+      "Origin": "croquet.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/crossingpoint.za.net..txt",
+      "NameServer": "ns1.crossingpoint.za.net.",
+      "Origin": "crossingpoint.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/crywolf.za.net..txt",
+      "NameServer": "ns1.crywolf.za.net.",
+      "Origin": "crywolf.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ctwug.za.net..txt",
+      "NameServer": "ns1.ctwug.za.net.",
+      "Origin": "ctwug.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/cullinan.za.net..txt",
+      "NameServer": "ns1.cullinan.za.net.",
+      "Origin": "cullinan.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/currin.za.net..txt",
+      "NameServer": "ns1.currin.za.net.",
+      "Origin": "currin.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/currycup.za.net..txt",
+      "NameServer": "ns1.currycup.za.net.",
+      "Origin": "currycup.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/cypherpunk.za.net..txt",
+      "NameServer": "ns1.cypherpunk.za.net.",
+      "Origin": "cypherpunk.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/dabchick.za.net..txt",
+      "NameServer": "ns1.dabchick.za.net.",
+      "Origin": "dabchick.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/daffy.za.net..txt",
+      "NameServer": "ns1.daffy.za.net.",
+      "Origin": "daffy.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/daleshkowlesar.za.net..txt",
+      "NameServer": "ns1.daleshkowlesar.za.net.",
+      "Origin": "daleshkowlesar.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/darkskies.za.net..txt",
+      "NameServer": "ns1.darkskies.za.net.",
+      "Origin": "darkskies.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/daserver.za.net..txt",
+      "NameServer": "ns1.daserver.za.net.",
+      "Origin": "daserver.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/davenportstud.za.net..txt",
+      "NameServer": "ns1.davenportstud.za.net.",
+      "Origin": "davenportstud.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/davidsmit.za.net..txt",
+      "NameServer": "ns1.davidsmit.za.net.",
+      "Origin": "davidsmit.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/dawes.za.net..txt",
+      "NameServer": "ns1.dawes.za.net.",
+      "Origin": "dawes.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ddsl.za.net..txt",
+      "NameServer": "ns1.ddsl.za.net.",
+      "Origin": "ddsl.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/debeer.za.net..txt",
+      "NameServer": "ns1.debeer.za.net.",
+      "Origin": "debeer.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/debtconsolidation.za.net..txt",
+      "NameServer": "ns1.debtconsolidation.za.net.",
+      "Origin": "debtconsolidation.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/defirence.za.net..txt",
+      "NameServer": "ns1.defirence.za.net.",
+      "Origin": "defirence.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/delos.za.net..txt",
+      "NameServer": "ns1.delos.za.net.",
+      "Origin": "delos.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/democraticleft.za.net..txt",
+      "NameServer": "ns1.democraticleft.za.net.",
+      "Origin": "democraticleft.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/demonsandwizards.za.net..txt",
+      "NameServer": "ns1.demonsandwizards.za.net.",
+      "Origin": "demonsandwizards.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/devilliers.za.net..txt",
+      "NameServer": "ns1.devilliers.za.net.",
+      "Origin": "devilliers.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/dhiren.za.net..txt",
+      "NameServer": "ns1.dhiren.za.net.",
+      "Origin": "dhiren.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/dieheuwelsfantasties.za.net..txt",
+      "NameServer": "ns1.dieheuwelsfantasties.za.net.",
+      "Origin": "dieheuwelsfantasties.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/dmdhost.za.net..txt",
+      "NameServer": "ns1.dmdhost.za.net.",
+      "Origin": "dmdhost.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/dvdripper.za.net..txt",
+      "NameServer": "ns1.dvdripper.za.net.",
+      "Origin": "dvdripper.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/dwc.za.net..txt",
+      "NameServer": "ns1.dwc.za.net.",
+      "Origin": "dwc.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/eclipse.za.net..txt",
+      "NameServer": "ns1.eclipse.za.net.",
+      "Origin": "eclipse.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ecozone.za.net..txt",
+      "NameServer": "ns1.ecozone.za.net.",
+      "Origin": "ecozone.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/edd.za.net..txt",
+      "NameServer": "ns1.edd.za.net.",
+      "Origin": "edd.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/edenvale.za.net..txt",
+      "NameServer": "ns1.edenvale.za.net.",
+      "Origin": "edenvale.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/efarm.za.net..txt",
+      "NameServer": "ns1.efarm.za.net.",
+      "Origin": "efarm.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/eis.za.net..txt",
+      "NameServer": "ns1.eis.za.net.",
+      "Origin": "eis.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/electro.za.net..txt",
+      "NameServer": "ns1.electro.za.net.",
+      "Origin": "electro.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/elegua.za.net..txt",
+      "NameServer": "ns1.elegua.za.net.",
+      "Origin": "elegua.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/elizium.za.net..txt",
+      "NameServer": "ns1.elizium.za.net.",
+      "Origin": "elizium.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/english.za.net..txt",
+      "NameServer": "ns1.english.za.net.",
+      "Origin": "english.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/epos-beheer.za.net..txt",
+      "NameServer": "ns1.epos-beheer.za.net.",
+      "Origin": "epos-beheer.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/esportsa.za.net..txt",
+      "NameServer": "ns1.esportsa.za.net.",
+      "Origin": "esportsa.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/europe2010.currin.za.net..txt",
+      "NameServer": "ns1.europe2010.currin.za.net.",
+      "Origin": "europe2010.currin.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/fatserv.za.net..txt",
+      "NameServer": "ns1.fatserv.za.net.",
+      "Origin": "fatserv.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/faxplatform.za.net..txt",
+      "NameServer": "ns1.faxplatform.za.net.",
+      "Origin": "faxplatform.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/findarticles.za.net..txt",
+      "NameServer": "ns1.findarticles.za.net.",
+      "Origin": "findarticles.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/fisherfamily.za.net..txt",
+      "NameServer": "ns1.fisherfamily.za.net.",
+      "Origin": "fisherfamily.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/flashingbeauties.za.net..txt",
+      "NameServer": "ns1.flashingbeauties.za.net.",
+      "Origin": "flashingbeauties.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/flightplan.za.net..txt",
+      "NameServer": "ns1.flightplan.za.net.",
+      "Origin": "flightplan.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/fnc.za.net..txt",
+      "NameServer": "ns1.fnc.za.net.",
+      "Origin": "fnc.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/foad.za.net..txt",
+      "NameServer": "ns1.foad.za.net.",
+      "Origin": "foad.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/foamz.za.net..txt",
+      "NameServer": "ns1.foamz.za.net.",
+      "Origin": "foamz.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/fokofpolisiekar.za.net..txt",
+      "NameServer": "ns1.fokofpolisiekar.za.net.",
+      "Origin": "fokofpolisiekar.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/freakshow.za.net..txt",
+      "NameServer": "ns1.freakshow.za.net.",
+      "Origin": "freakshow.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/frog.za.net..txt",
+      "NameServer": "ns1.frog.za.net.",
+      "Origin": "frog.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/fruit.za.net..txt",
+      "NameServer": "ns1.fruit.za.net.",
+      "Origin": "fruit.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ftpserver.za.net..txt",
+      "NameServer": "ns1.ftpserver.za.net.",
+      "Origin": "ftpserver.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/funeral-plan.za.net..txt",
+      "NameServer": "ns1.funeral-plan.za.net.",
+      "Origin": "funeral-plan.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/funeralplans.za.net..txt",
+      "NameServer": "ns1.funeralplans.za.net.",
+      "Origin": "funeralplans.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/geekz.za.net..txt",
+      "NameServer": "ns1.geekz.za.net.",
+      "Origin": "geekz.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/gendac.za.net..txt",
+      "NameServer": "ns1.gendac.za.net.",
+      "Origin": "gendac.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/geo.ctwug.za.net..txt",
+      "NameServer": "ns1.geo.ctwug.za.net.",
+      "Origin": "geo.ctwug.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/globedesign.za.net..txt",
+      "NameServer": "ns1.globedesign.za.net.",
+      "Origin": "globedesign.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/gluon.za.net..txt",
+      "NameServer": "ns1.gluon.za.net.",
+      "Origin": "gluon.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/goodtimes.za.net..txt",
+      "NameServer": "ns1.goodtimes.za.net.",
+      "Origin": "goodtimes.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/gorven.za.net..txt",
+      "NameServer": "ns1.gorven.za.net.",
+      "Origin": "gorven.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/gothica.za.net..txt",
+      "NameServer": "ns1.gothica.za.net.",
+      "Origin": "gothica.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/grondpad.za.net..txt",
+      "NameServer": "ns1.grondpad.za.net.",
+      "Origin": "grondpad.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/guide-southafrica.za.net..txt",
+      "NameServer": "ns1.guide-southafrica.za.net.",
+      "Origin": "guide-southafrica.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/guppies.za.net..txt",
+      "NameServer": "ns1.guppies.za.net.",
+      "Origin": "guppies.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/habex.za.net..txt",
+      "NameServer": "ns1.habex.za.net.",
+      "Origin": "habex.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/hagan.za.net..txt",
+      "NameServer": "ns1.hagan.za.net.",
+      "Origin": "hagan.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/haxxor.za.net..txt",
+      "NameServer": "ns1.haxxor.za.net.",
+      "Origin": "haxxor.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/henkins.za.net..txt",
+      "NameServer": "ns1.henkins.za.net.",
+      "Origin": "henkins.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/herbalisthealer.za.net..txt",
+      "NameServer": "ns1.herbalisthealer.za.net.",
+      "Origin": "herbalisthealer.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/hexdream.za.net..txt",
+      "NameServer": "ns1.hexdream.za.net.",
+      "Origin": "hexdream.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/hoerskoolburgersdorp.za.net..txt",
+      "NameServer": "ns1.hoerskoolburgersdorp.za.net.",
+      "Origin": "hoerskoolburgersdorp.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/hospitalplans.za.net..txt",
+      "NameServer": "ns1.hospitalplans.za.net.",
+      "Origin": "hospitalplans.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/humphrey.za.net..txt",
+      "NameServer": "ns1.humphrey.za.net.",
+      "Origin": "humphrey.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/hypn.za.net..txt",
+      "NameServer": "ns1.hypn.za.net.",
+      "Origin": "hypn.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/i-man.za.net..txt",
+      "NameServer": "ns1.i-man.za.net.",
+      "Origin": "i-man.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/iancoetzee.za.net..txt",
+      "NameServer": "ns1.iancoetzee.za.net.",
+      "Origin": "iancoetzee.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/iglob.za.net..txt",
+      "NameServer": "ns1.iglob.za.net.",
+      "Origin": "iglob.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/impossible.za.net..txt",
+      "NameServer": "ns1.impossible.za.net.",
+      "Origin": "impossible.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/income.za.net..txt",
+      "NameServer": "ns1.income.za.net.",
+      "Origin": "income.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/inkwell.za.net..txt",
+      "NameServer": "ns1.inkwell.za.net.",
+      "Origin": "inkwell.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/insync.za.net..txt",
+      "NameServer": "ns1.insync.za.net.",
+      "Origin": "insync.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/internetadvertiseonline.za.net..txt",
+      "NameServer": "ns1.internetadvertiseonline.za.net.",
+      "Origin": "internetadvertiseonline.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/interprise.za.net..txt",
+      "NameServer": "ns1.interprise.za.net.",
+      "Origin": "interprise.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/iqretail.za.net..txt",
+      "NameServer": "ns1.iqretail.za.net.",
+      "Origin": "iqretail.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ircservices.za.net..txt",
+      "NameServer": "ns1.ircservices.za.net.",
+      "Origin": "ircservices.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/italy.currin.za.net..txt",
+      "NameServer": "ns1.italy.currin.za.net.",
+      "Origin": "italy.currin.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/itworks.za.net..txt",
+      "NameServer": "ns1.itworks.za.net.",
+      "Origin": "itworks.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/jasa.za.net..txt",
+      "NameServer": "ns1.jasa.za.net.",
+      "Origin": "jasa.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/jawug.za.net..txt",
+      "NameServer": "ns1.jawug.za.net.",
+      "Origin": "jawug.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/jerith.za.net..txt",
+      "NameServer": "ns1.jerith.za.net.",
+      "Origin": "jerith.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/jue.za.net..txt",
+      "NameServer": "ns1.jue.za.net.",
+      "Origin": "jue.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/jvd.za.net..txt",
+      "NameServer": "ns1.jvd.za.net.",
+      "Origin": "jvd.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/kamffer.za.net..txt",
+      "NameServer": "ns1.kamffer.za.net.",
+      "Origin": "kamffer.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/karnaugh.za.net..txt",
+      "NameServer": "ns1.karnaugh.za.net.",
+      "Origin": "karnaugh.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/kbk.za.net..txt",
+      "NameServer": "ns1.kbk.za.net.",
+      "Origin": "kbk.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/kenya.za.net..txt",
+      "NameServer": "ns1.kenya.za.net.",
+      "Origin": "kenya.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/khetan.za.net..txt",
+      "NameServer": "ns1.khetan.za.net.",
+      "Origin": "khetan.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/killarney.za.net..txt",
+      "NameServer": "ns1.killarney.za.net.",
+      "Origin": "killarney.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/kilps.za.net..txt",
+      "NameServer": "ns1.kilps.za.net.",
+      "Origin": "kilps.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/kit.za.net..txt",
+      "NameServer": "ns1.kit.za.net.",
+      "Origin": "kit.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/kloon.za.net..txt",
+      "NameServer": "ns1.kloon.za.net.",
+      "Origin": "kloon.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/koshtan.za.net..txt",
+      "NameServer": "ns1.koshtan.za.net.",
+      "Origin": "koshtan.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/kosibay.za.net..txt",
+      "NameServer": "ns1.kosibay.za.net.",
+      "Origin": "kosibay.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/laerskoolburgersdorp.za.net..txt",
+      "NameServer": "ns1.laerskoolburgersdorp.za.net.",
+      "Origin": "laerskoolburgersdorp.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/lagged.za.net..txt",
+      "NameServer": "ns1.lagged.za.net.",
+      "Origin": "lagged.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/learn-programming.za.net..txt",
+      "NameServer": "ns1.learn-programming.za.net.",
+      "Origin": "learn-programming.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/leathercouches.za.net..txt",
+      "NameServer": "ns1.leathercouches.za.net.",
+      "Origin": "leathercouches.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/leeuwspruit.za.net..txt",
+      "NameServer": "ns1.leeuwspruit.za.net.",
+      "Origin": "leeuwspruit.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/lensbox.za.net..txt",
+      "NameServer": "ns1.lensbox.za.net.",
+      "Origin": "lensbox.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/lifecoach.za.net..txt",
+      "NameServer": "ns1.lifecoach.za.net.",
+      "Origin": "lifecoach.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/lifecover.za.net..txt",
+      "NameServer": "ns1.lifecover.za.net.",
+      "Origin": "lifecover.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/listenup.za.net..txt",
+      "NameServer": "ns1.listenup.za.net.",
+      "Origin": "listenup.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/local.tim.za.net..txt",
+      "NameServer": "ns1.local.tim.za.net.",
+      "Origin": "local.tim.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/lovebirds.za.net..txt",
+      "NameServer": "ns1.lovebirds.za.net.",
+      "Origin": "lovebirds.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/lulizhu.za.net..txt",
+      "NameServer": "ns1.lulizhu.za.net.",
+      "Origin": "lulizhu.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/lunch.za.net..txt",
+      "NameServer": "ns1.lunch.za.net.",
+      "Origin": "lunch.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/maddog.za.net..txt",
+      "NameServer": "ns1.maddog.za.net.",
+      "Origin": "maddog.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/maggie.za.net..txt",
+      "NameServer": "ns1.maggie.za.net.",
+      "Origin": "maggie.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mail.ecozone.za.net..txt",
+      "NameServer": "ns1.mail.ecozone.za.net.",
+      "Origin": "mail.ecozone.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/manguzihospital.za.net..txt",
+      "NameServer": "ns1.manguzihospital.za.net.",
+      "Origin": "manguzihospital.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mardin.za.net..txt",
+      "NameServer": "ns1.mardin.za.net.",
+      "Origin": "mardin.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/marius.za.net..txt",
+      "NameServer": "ns1.marius.za.net.",
+      "Origin": "marius.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/matthewfritz.za.net..txt",
+      "NameServer": "ns1.matthewfritz.za.net.",
+      "Origin": "matthewfritz.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mcdev.za.net..txt",
+      "NameServer": "ns1.mcdev.za.net.",
+      "Origin": "mcdev.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mcsa.za.net..txt",
+      "NameServer": "ns1.mcsa.za.net.",
+      "Origin": "mcsa.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/medicalaidplans.za.net..txt",
+      "NameServer": "ns1.medicalaidplans.za.net.",
+      "Origin": "medicalaidplans.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/megamax.za.net..txt",
+      "NameServer": "ns1.megamax.za.net.",
+      "Origin": "megamax.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mene.za.net..txt",
+      "NameServer": "ns1.mene.za.net.",
+      "Origin": "mene.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mentat.za.net..txt",
+      "NameServer": "ns1.mentat.za.net.",
+      "Origin": "mentat.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/michael.za.net..txt",
+      "NameServer": "ns1.michael.za.net.",
+      "Origin": "michael.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/miragechat.za.net..txt",
+      "NameServer": "ns1.miragechat.za.net.",
+      "Origin": "miragechat.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/misseddesigns.za.net..txt",
+      "NameServer": "ns1.misseddesigns.za.net.",
+      "Origin": "misseddesigns.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mpama.za.net..txt",
+      "NameServer": "ns1.mpama.za.net.",
+      "Origin": "mpama.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mrg.za.net..txt",
+      "NameServer": "ns1.mrg.za.net.",
+      "Origin": "mrg.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mufasa.za.net..txt",
+      "NameServer": "ns1.mufasa.za.net.",
+      "Origin": "mufasa.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/multimicro.za.net..txt",
+      "NameServer": "ns1.multimicro.za.net.",
+      "Origin": "multimicro.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/murray.za.net..txt",
+      "NameServer": "ns1.murray.za.net.",
+      "Origin": "murray.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/museum.za.net..txt",
+      "NameServer": "ns1.museum.za.net.",
+      "Origin": "museum.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mxia.za.net..txt",
+      "NameServer": "ns1.mxia.za.net.",
+      "Origin": "mxia.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mxrc.za.net..txt",
+      "NameServer": "ns1.mxrc.za.net.",
+      "Origin": "mxrc.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/myimtools.za.net..txt",
+      "NameServer": "ns1.myimtools.za.net.",
+      "Origin": "myimtools.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/mynews24.za.net..txt",
+      "NameServer": "ns1.mynews24.za.net.",
+      "Origin": "mynews24.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/netlinx.za.net..txt",
+      "NameServer": "ns1.netlinx.za.net.",
+      "Origin": "netlinx.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/netsurfers.za.net..txt",
+      "NameServer": "ns1.netsurfers.za.net.",
+      "Origin": "netsurfers.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/neumical.za.net..txt",
+      "NameServer": "ns1.neumical.za.net.",
+      "Origin": "neumical.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/newshost.za.net..txt",
+      "NameServer": "ns1.newshost.za.net.",
+      "Origin": "newshost.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/newwave.za.net..txt",
+      "NameServer": "ns1.newwave.za.net.",
+      "Origin": "newwave.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ngkconstantia.za.net..txt",
+      "NameServer": "ns1.ngkconstantia.za.net.",
+      "Origin": "ngkconstantia.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ninjacentral.za.net..txt",
+      "NameServer": "ns1.ninjacentral.za.net.",
+      "Origin": "ninjacentral.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/nivacity.za.net..txt",
+      "NameServer": "ns1.nivacity.za.net.",
+      "Origin": "nivacity.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/nolte-schamm.za.net..txt",
+      "NameServer": "ns1.nolte-schamm.za.net.",
+      "Origin": "nolte-schamm.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/npp.za.net..txt",
+      "NameServer": "ns1.npp.za.net.",
+      "Origin": "npp.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/obscura.za.net..txt",
+      "NameServer": "ns1.obscura.za.net.",
+      "Origin": "obscura.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/observatory.za.net..txt",
+      "NameServer": "ns1.observatory.za.net.",
+      "Origin": "observatory.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/omnia.za.net..txt",
+      "NameServer": "ns1.omnia.za.net.",
+      "Origin": "omnia.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/omt.za.net..txt",
+      "NameServer": "ns1.omt.za.net.",
+      "Origin": "omt.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/onlinesolutions.za.net..txt",
+      "NameServer": "ns1.onlinesolutions.za.net.",
+      "Origin": "onlinesolutions.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ontheradio.za.net..txt",
+      "NameServer": "ns1.ontheradio.za.net.",
+      "Origin": "ontheradio.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ooba.za.net..txt",
+      "NameServer": "ns1.ooba.za.net.",
+      "Origin": "ooba.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/opencircle.za.net..txt",
+      "NameServer": "ns1.opencircle.za.net.",
+      "Origin": "opencircle.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/opensores.za.net..txt",
+      "NameServer": "ns1.opensores.za.net.",
+      "Origin": "opensores.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/opperman.za.net..txt",
+      "NameServer": "ns1.opperman.za.net.",
+      "Origin": "opperman.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/orionspur.za.net..txt",
+      "NameServer": "ns1.orionspur.za.net.",
+      "Origin": "orionspur.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/owkkuri.za.net..txt",
+      "NameServer": "ns1.owkkuri.za.net.",
+      "Origin": "owkkuri.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/palmiet.za.net..txt",
+      "NameServer": "ns1.palmiet.za.net.",
+      "Origin": "palmiet.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/parklife.za.net..txt",
+      "NameServer": "ns1.parklife.za.net.",
+      "Origin": "parklife.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/pathfinder.za.net..txt",
+      "NameServer": "ns1.pathfinder.za.net.",
+      "Origin": "pathfinder.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/paulscott.za.net..txt",
+      "NameServer": "ns1.paulscott.za.net.",
+      "Origin": "paulscott.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/pcn.za.net..txt",
+      "NameServer": "ns1.pcn.za.net.",
+      "Origin": "pcn.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/pictureframes.za.net..txt",
+      "NameServer": "ns1.pictureframes.za.net.",
+      "Origin": "pictureframes.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/politics.za.net..txt",
+      "NameServer": "ns1.politics.za.net.",
+      "Origin": "politics.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ppr.za.net..txt",
+      "NameServer": "ns1.ppr.za.net.",
+      "Origin": "ppr.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/professionalspeaker.za.net..txt",
+      "NameServer": "ns1.professionalspeaker.za.net.",
+      "Origin": "professionalspeaker.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/psichron.za.net..txt",
+      "NameServer": "ns1.psichron.za.net.",
+      "Origin": "psichron.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/purspyk.za.net..txt",
+      "NameServer": "ns1.purspyk.za.net.",
+      "Origin": "purspyk.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/pwp.za.net..txt",
+      "NameServer": "ns1.pwp.za.net.",
+      "Origin": "pwp.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/quad-atv.za.net..txt",
+      "NameServer": "ns1.quad-atv.za.net.",
+      "Origin": "quad-atv.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/radadsl.cis.za.net..txt",
+      "NameServer": "ns1.radadsl.cis.za.net.",
+      "Origin": "radadsl.cis.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/rage-game-engine.za.net..txt",
+      "NameServer": "ns1.rage-game-engine.za.net.",
+      "Origin": "rage-game-engine.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/raven.za.net..txt",
+      "NameServer": "ns1.raven.za.net.",
+      "Origin": "raven.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/realityofthings.za.net..txt",
+      "NameServer": "ns1.realityofthings.za.net.",
+      "Origin": "realityofthings.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/receptionservices.za.net..txt",
+      "NameServer": "ns1.receptionservices.za.net.",
+      "Origin": "receptionservices.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/recreate.za.net..txt",
+      "NameServer": "ns1.recreate.za.net.",
+      "Origin": "recreate.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/redpathmedia.za.net..txt",
+      "NameServer": "ns1.redpathmedia.za.net.",
+      "Origin": "redpathmedia.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/reelix.za.net..txt",
+      "NameServer": "ns1.reelix.za.net.",
+      "Origin": "reelix.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/remotemail.za.net..txt",
+      "NameServer": "ns1.remotemail.za.net.",
+      "Origin": "remotemail.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/rhodesrun.za.net..txt",
+      "NameServer": "ns1.rhodesrun.za.net.",
+      "Origin": "rhodesrun.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ripley.za.net..txt",
+      "NameServer": "ns1.ripley.za.net.",
+      "Origin": "ripley.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/rise.za.net..txt",
+      "NameServer": "ns1.rise.za.net.",
+      "Origin": "rise.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/rivera.za.net..txt",
+      "NameServer": "ns1.rivera.za.net.",
+      "Origin": "rivera.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/rnc.za.net..txt",
+      "NameServer": "ns1.rnc.za.net.",
+      "Origin": "rnc.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/robstokes.za.net..txt",
+      "NameServer": "ns1.robstokes.za.net.",
+      "Origin": "robstokes.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/rodent.za.net..txt",
+      "NameServer": "ns1.rodent.za.net.",
+      "Origin": "rodent.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ron2k.za.net..txt",
+      "NameServer": "ns1.ron2k.za.net.",
+      "Origin": "ron2k.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/rossouws.za.net..txt",
+      "NameServer": "ns1.rossouws.za.net.",
+      "Origin": "rossouws.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/roweru.za.net..txt",
+      "NameServer": "ns1.roweru.za.net.",
+      "Origin": "roweru.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sa-passenger-list.za.net..txt",
+      "NameServer": "ns1.sa-passenger-list.za.net.",
+      "Origin": "sa-passenger-list.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sachan.za.net..txt",
+      "NameServer": "ns1.sachan.za.net.",
+      "Origin": "sachan.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/safa.za.net..txt",
+      "NameServer": "ns1.safa.za.net.",
+      "Origin": "safa.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sagen.za.net..txt",
+      "NameServer": "ns1.sagen.za.net.",
+      "Origin": "sagen.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sainfodigest.za.net..txt",
+      "NameServer": "ns1.sainfodigest.za.net.",
+      "Origin": "sainfodigest.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sama.za.net..txt",
+      "NameServer": "ns1.sama.za.net.",
+      "Origin": "sama.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sapostalcodes.za.net..txt",
+      "NameServer": "ns1.sapostalcodes.za.net.",
+      "Origin": "sapostalcodes.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sasda.za.net..txt",
+      "NameServer": "ns1.sasda.za.net.",
+      "Origin": "sasda.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sasproductions.za.net..txt",
+      "NameServer": "ns1.sasproductions.za.net.",
+      "Origin": "sasproductions.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sautech.za.net..txt",
+      "NameServer": "ns1.sautech.za.net.",
+      "Origin": "sautech.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sawyer.za.net..txt",
+      "NameServer": "ns1.sawyer.za.net.",
+      "Origin": "sawyer.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/schalkburger.za.net..txt",
+      "NameServer": "ns1.schalkburger.za.net.",
+      "Origin": "schalkburger.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/schooltech.za.net..txt",
+      "NameServer": "ns1.schooltech.za.net.",
+      "Origin": "schooltech.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/schroder.za.net..txt",
+      "NameServer": "ns1.schroder.za.net.",
+      "Origin": "schroder.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/scn.za.net..txt",
+      "NameServer": "ns1.scn.za.net.",
+      "Origin": "scn.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/searchengineoptimization.za.net..txt",
+      "NameServer": "ns1.searchengineoptimization.za.net.",
+      "Origin": "searchengineoptimization.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/seben.za.net..txt",
+      "NameServer": "ns1.seben.za.net.",
+      "Origin": "seben.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sehnsucht.za.net..txt",
+      "NameServer": "ns1.sehnsucht.za.net.",
+      "Origin": "sehnsucht.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sharonknowles.za.net..txt",
+      "NameServer": "ns1.sharonknowles.za.net.",
+      "Origin": "sharonknowles.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/shift.za.net..txt",
+      "NameServer": "ns1.shift.za.net.",
+      "Origin": "shift.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/shrimpworks.za.net..txt",
+      "NameServer": "ns1.shrimpworks.za.net.",
+      "Origin": "shrimpworks.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/silentwind.za.net..txt",
+      "NameServer": "ns1.silentwind.za.net.",
+      "Origin": "silentwind.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sinead.za.net..txt",
+      "NameServer": "ns1.sinead.za.net.",
+      "Origin": "sinead.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/singe.za.net..txt",
+      "NameServer": "ns1.singe.za.net.",
+      "Origin": "singe.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/siyabonga.za.net..txt",
+      "NameServer": "ns1.siyabonga.za.net.",
+      "Origin": "siyabonga.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/skydivecapetown.za.net..txt",
+      "NameServer": "ns1.skydivecapetown.za.net.",
+      "Origin": "skydivecapetown.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/slipgate.za.net..txt",
+      "NameServer": "ns1.slipgate.za.net.",
+      "Origin": "slipgate.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/slotsportal.freeblog.za.net..txt",
+      "NameServer": "ns1.slotsportal.freeblog.za.net.",
+      "Origin": "slotsportal.freeblog.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/slx.za.net..txt",
+      "NameServer": "ns1.slx.za.net.",
+      "Origin": "slx.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/slyfox.za.net..txt",
+      "NameServer": "ns1.slyfox.za.net.",
+      "Origin": "slyfox.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/smartcube.za.net..txt",
+      "NameServer": "ns1.smartcube.za.net.",
+      "Origin": "smartcube.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/smitte.za.net..txt",
+      "NameServer": "ns1.smitte.za.net.",
+      "Origin": "smitte.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/smoke.za.net..txt",
+      "NameServer": "ns1.smoke.za.net.",
+      "Origin": "smoke.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sob.za.net..txt",
+      "NameServer": "ns1.sob.za.net.",
+      "Origin": "sob.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/softwaresolutions.za.net..txt",
+      "NameServer": "ns1.softwaresolutions.za.net.",
+      "Origin": "softwaresolutions.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/southafrican.za.net..txt",
+      "NameServer": "ns1.southafrican.za.net.",
+      "Origin": "southafrican.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/southside.za.net..txt",
+      "NameServer": "ns1.southside.za.net.",
+      "Origin": "southside.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/spin.za.net..txt",
+      "NameServer": "ns1.spin.za.net.",
+      "Origin": "spin.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sputnik.za.net..txt",
+      "NameServer": "ns1.sputnik.za.net.",
+      "Origin": "sputnik.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/stangeria.za.net..txt",
+      "NameServer": "ns1.stangeria.za.net.",
+      "Origin": "stangeria.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/stellenbosch.za.net..txt",
+      "NameServer": "ns1.stellenbosch.za.net.",
+      "Origin": "stellenbosch.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/sting-ray.za.net..txt",
+      "NameServer": "ns1.sting-ray.za.net.",
+      "Origin": "sting-ray.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/stormer.za.net..txt",
+      "NameServer": "ns1.stormer.za.net.",
+      "Origin": "stormer.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/suteka.za.net..txt",
+      "NameServer": "ns1.suteka.za.net.",
+      "Origin": "suteka.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/swim.za.net..txt",
+      "NameServer": "ns1.swim.za.net.",
+      "Origin": "swim.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/swop-shop.za.net..txt",
+      "NameServer": "ns1.swop-shop.za.net.",
+      "Origin": "swop-shop.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/swug.za.net..txt",
+      "NameServer": "ns1.swug.za.net.",
+      "Origin": "swug.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/techtalk.za.net..txt",
+      "NameServer": "ns1.techtalk.za.net.",
+      "Origin": "techtalk.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/telkom.za.net..txt",
+      "NameServer": "ns1.telkom.za.net.",
+      "Origin": "telkom.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/teos.za.net..txt",
+      "NameServer": "ns1.teos.za.net.",
+      "Origin": "teos.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/the-gbu.za.net..txt",
+      "NameServer": "ns1.the-gbu.za.net.",
+      "Origin": "the-gbu.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/thebookcauldron.za.net..txt",
+      "NameServer": "ns1.thebookcauldron.za.net.",
+      "Origin": "thebookcauldron.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/thedietsolution.za.net..txt",
+      "NameServer": "ns1.thedietsolution.za.net.",
+      "Origin": "thedietsolution.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/thefuzzy0ne.za.net..txt",
+      "NameServer": "ns1.thefuzzy0ne.za.net.",
+      "Origin": "thefuzzy0ne.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/thegreentree.za.net..txt",
+      "NameServer": "ns1.thegreentree.za.net.",
+      "Origin": "thegreentree.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/thiart.za.net..txt",
+      "NameServer": "ns1.thiart.za.net.",
+      "Origin": "thiart.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/tikal.za.net..txt",
+      "NameServer": "ns1.tikal.za.net.",
+      "Origin": "tikal.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/tim.za.net..txt",
+      "NameServer": "ns1.tim.za.net.",
+      "Origin": "tim.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/tle.za.net..txt",
+      "NameServer": "ns1.tle.za.net.",
+      "Origin": "tle.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/toltec.za.net..txt",
+      "NameServer": "ns1.toltec.za.net.",
+      "Origin": "toltec.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/toolbox.za.net..txt",
+      "NameServer": "ns1.toolbox.za.net.",
+      "Origin": "toolbox.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/topdog.za.net..txt",
+      "NameServer": "ns1.topdog.za.net.",
+      "Origin": "topdog.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/tormo.za.net..txt",
+      "NameServer": "ns1.tormo.za.net.",
+      "Origin": "tormo.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/tracy.za.net..txt",
+      "NameServer": "ns1.tracy.za.net.",
+      "Origin": "tracy.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/transpaco.za.net..txt",
+      "NameServer": "ns1.transpaco.za.net.",
+      "Origin": "transpaco.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/travel.za.net..txt",
+      "NameServer": "ns1.travel.za.net.",
+      "Origin": "travel.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/tresblue.za.net..txt",
+      "NameServer": "ns1.tresblue.za.net.",
+      "Origin": "tresblue.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/trooth.za.net..txt",
+      "NameServer": "ns1.trooth.za.net.",
+      "Origin": "trooth.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/truths.za.net..txt",
+      "NameServer": "ns1.truths.za.net.",
+      "Origin": "truths.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ultitude.za.net..txt",
+      "NameServer": "ns1.ultitude.za.net.",
+      "Origin": "ultitude.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/ultralord.za.net..txt",
+      "NameServer": "ns1.ultralord.za.net.",
+      "Origin": "ultralord.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/unittrusts.za.net..txt",
+      "NameServer": "ns1.unittrusts.za.net.",
+      "Origin": "unittrusts.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/unix.za.net..txt",
+      "NameServer": "ns1.unix.za.net.",
+      "Origin": "unix.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/unoturbo.za.net..txt",
+      "NameServer": "ns1.unoturbo.za.net.",
+      "Origin": "unoturbo.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/uns.za.net..txt",
+      "NameServer": "ns1.uns.za.net.",
+      "Origin": "uns.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/urbanshield.za.net..txt",
+      "NameServer": "ns1.urbanshield.za.net.",
+      "Origin": "urbanshield.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/vaero.za.net..txt",
+      "NameServer": "ns1.vaero.za.net.",
+      "Origin": "vaero.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/vandyk.za.net..txt",
+      "NameServer": "ns1.vandyk.za.net.",
+      "Origin": "vandyk.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/veldtalk.za.net..txt",
+      "NameServer": "ns1.veldtalk.za.net.",
+      "Origin": "veldtalk.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/villa.za.net..txt",
+      "NameServer": "ns1.villa.za.net.",
+      "Origin": "villa.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/virtualrides.za.net..txt",
+      "NameServer": "ns1.virtualrides.za.net.",
+      "Origin": "virtualrides.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/vriende.za.net..txt",
+      "NameServer": "ns1.vriende.za.net.",
+      "Origin": "vriende.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/vudu.za.net..txt",
+      "NameServer": "ns1.vudu.za.net.",
+      "Origin": "vudu.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/wealthshift.za.net..txt",
+      "NameServer": "ns1.wealthshift.za.net.",
+      "Origin": "wealthshift.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/webant.za.net..txt",
+      "NameServer": "ns1.webant.za.net.",
+      "Origin": "webant.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/weddingspeech.za.net..txt",
+      "NameServer": "ns1.weddingspeech.za.net.",
+      "Origin": "weddingspeech.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/welshman.za.net..txt",
+      "NameServer": "ns1.welshman.za.net.",
+      "Origin": "welshman.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/werner.za.net..txt",
+      "NameServer": "ns1.werner.za.net.",
+      "Origin": "werner.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/wfeet.za.net..txt",
+      "NameServer": "ns1.wfeet.za.net.",
+      "Origin": "wfeet.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/wilddog.za.net..txt",
+      "NameServer": "ns1.wilddog.za.net.",
+      "Origin": "wilddog.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/wilmar.za.net..txt",
+      "NameServer": "ns1.wilmar.za.net.",
+      "Origin": "wilmar.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/wug.za.net..txt",
+      "NameServer": "ns1.wug.za.net.",
+      "Origin": "wug.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/www.ecozone.za.net..txt",
+      "NameServer": "ns1.www.ecozone.za.net.",
+      "Origin": "www.ecozone.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/xbox-360-repairs.za.net..txt",
+      "NameServer": "ns1.xbox-360-repairs.za.net.",
+      "Origin": "xbox-360-repairs.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/xboxfix.za.net..txt",
+      "NameServer": "ns1.xboxfix.za.net.",
+      "Origin": "xboxfix.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/xcmail.za.net..txt",
+      "NameServer": "ns1.xcmail.za.net.",
+      "Origin": "xcmail.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/xmpp.za.net..txt",
+      "NameServer": "ns1.xmpp.za.net.",
+      "Origin": "xmpp.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/yourisp.za.net..txt",
+      "NameServer": "ns1.yourisp.za.net.",
+      "Origin": "yourisp.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/yusufk.za.net..txt",
+      "NameServer": "ns1.yusufk.za.net.",
+      "Origin": "yusufk.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/za.net..txt",
+      "NameServer": "ns1.za.net.",
+      "Origin": "za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/zagamers.za.net..txt",
+      "NameServer": "ns1.zagamers.za.net.",
+      "Origin": "zagamers.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/zeitgeist.za.net..txt",
+      "NameServer": "ns1.zeitgeist.za.net.",
+      "Origin": "zeitgeist.za.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/za.net/zs6kmd.za.net..txt",
+      "NameServer": "ns1.zs6kmd.za.net.",
+      "Origin": "zs6kmd.za.net."
+    }
+  ]
+}

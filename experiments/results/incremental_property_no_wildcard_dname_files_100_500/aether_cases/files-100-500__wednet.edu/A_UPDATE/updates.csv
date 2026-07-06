@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wednet.edu,aasd.wednet.edu..txt,A_UPDATE,DEL,aasd.wednet.edu.,A,207.54.156.1
+files-100-500/wednet.edu,aasd.wednet.edu..txt,A_UPDATE,ADD,aasd.wednet.edu.,A,192.0.2.253

@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/xoom.it,acnm.xoom.it..txt,A_UPDATE,DEL,acnm.xoom.it.,A,212.48.16.126
+files-100-500/xoom.it,acnm.xoom.it..txt,A_UPDATE,ADD,acnm.xoom.it.,A,192.0.2.253

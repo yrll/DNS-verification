@@ -1,0 +1,18 @@
+; <<>> DiG 9.11.3-1ubuntu1.11-Ubuntu <<>> AXFR lzu.com. @ns2.lzu.edu.
+;; global options: +cmd
+
+@               			      14400 IN SOA	ns1.lzu.com. james.lzu.edu. 19122302 14400 3600 2419200 14400
+lzu.com.			      14400 IN NS	ns1.lzu.com.
+ns1.lzu.com.			      14400 IN A	10.166.21.12
+
+www.lzu.com.		      14400 IN NS	ns1.www.lzu.com.
+ns1.www.lzu.com.		      14400 IN A		10.166.21.13
+
+xw.lzu.com.		      14400 IN NS	ns1.xw.lzu.com.
+ns1.xw.lzu.com.		      14400 IN A		10.166.21.14
+
+zheshexi.lzu.com.		      14400 IN NS	ns1.zheshexi.lzu.com.
+ns1.zheshexi.lzu.com.		      14400 IN A		10.166.21.15
+
+lzu.com.			      14400 IN MX	10 zheshexitp.lzu.edu.
+lzu.com.			      14400 IN TXT	"v=spf1 a mx ~all"

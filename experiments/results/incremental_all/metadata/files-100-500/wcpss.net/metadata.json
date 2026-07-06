@@ -1,0 +1,512 @@
+{
+  "TopNameServers": [
+    "ns1.wcpss.net."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/aldertrootes.wcpss.net..txt",
+      "NameServer": "ns1.aldertrootes.wcpss.net.",
+      "Origin": "aldertrootes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/apexes.wcpss.net..txt",
+      "NameServer": "ns1.apexes.wcpss.net.",
+      "Origin": "apexes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/apexhs.wcpss.net..txt",
+      "NameServer": "ns1.apexhs.wcpss.net.",
+      "Origin": "apexhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/apexms.wcpss.net..txt",
+      "NameServer": "ns1.apexms.wcpss.net.",
+      "Origin": "apexms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/athensdrivehs.wcpss.net..txt",
+      "NameServer": "ns1.athensdrivehs.wcpss.net.",
+      "Origin": "athensdrivehs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/barwellroades.wcpss.net..txt",
+      "NameServer": "ns1.barwellroades.wcpss.net.",
+      "Origin": "barwellroades.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/baucomes.wcpss.net..txt",
+      "NameServer": "ns1.baucomes.wcpss.net.",
+      "Origin": "baucomes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/brentwoodes.wcpss.net..txt",
+      "NameServer": "ns1.brentwoodes.wcpss.net.",
+      "Origin": "brentwoodes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/briarcliffes.wcpss.net..txt",
+      "NameServer": "ns1.briarcliffes.wcpss.net.",
+      "Origin": "briarcliffes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/broughton.wcpss.net..txt",
+      "NameServer": "ns1.broughton.wcpss.net.",
+      "Origin": "broughton.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/bugges.wcpss.net..txt",
+      "NameServer": "ns1.bugges.wcpss.net.",
+      "Origin": "bugges.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/carnagems.wcpss.net..txt",
+      "NameServer": "ns1.carnagems.wcpss.net.",
+      "Origin": "carnagems.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/carpenteres.wcpss.net..txt",
+      "NameServer": "ns1.carpenteres.wcpss.net.",
+      "Origin": "carpenteres.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/carveres.wcpss.net..txt",
+      "NameServer": "ns1.carveres.wcpss.net.",
+      "Origin": "carveres.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/caryes.wcpss.net..txt",
+      "NameServer": "ns1.caryes.wcpss.net.",
+      "Origin": "caryes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/caryhs.wcpss.net..txt",
+      "NameServer": "ns1.caryhs.wcpss.net.",
+      "Origin": "caryhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/ccms.wcpss.net..txt",
+      "NameServer": "ns1.ccms.wcpss.net.",
+      "Origin": "ccms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/cedarforkes.wcpss.net..txt",
+      "NameServer": "ns1.cedarforkes.wcpss.net.",
+      "Origin": "cedarforkes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/combses.wcpss.net..txt",
+      "NameServer": "ns1.combses.wcpss.net.",
+      "Origin": "combses.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/connes.wcpss.net..txt",
+      "NameServer": "ns1.connes.wcpss.net.",
+      "Origin": "connes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/danielsms.wcpss.net..txt",
+      "NameServer": "ns1.danielsms.wcpss.net.",
+      "Origin": "danielsms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/davisdrive.wcpss.net..txt",
+      "NameServer": "ns1.davisdrive.wcpss.net.",
+      "Origin": "davisdrive.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/davisdrivems.wcpss.net..txt",
+      "NameServer": "ns1.davisdrivems.wcpss.net.",
+      "Origin": "davisdrivems.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/durantroadms.wcpss.net..txt",
+      "NameServer": "ns1.durantroadms.wcpss.net.",
+      "Origin": "durantroadms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/eastcaryms.wcpss.net..txt",
+      "NameServer": "ns1.eastcaryms.wcpss.net.",
+      "Origin": "eastcaryms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/eastwakems.wcpss.net..txt",
+      "NameServer": "ns1.eastwakems.wcpss.net.",
+      "Origin": "eastwakems.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/enloehs.wcpss.net..txt",
+      "NameServer": "ns1.enloehs.wcpss.net.",
+      "Origin": "enloehs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/ewhs.wcpss.net..txt",
+      "NameServer": "ns1.ewhs.wcpss.net.",
+      "Origin": "ewhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/forestvillees.wcpss.net..txt",
+      "NameServer": "ns1.forestvillees.wcpss.net.",
+      "Origin": "forestvillees.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/fulleres.wcpss.net..txt",
+      "NameServer": "ns1.fulleres.wcpss.net.",
+      "Origin": "fulleres.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/fuquayes.wcpss.net..txt",
+      "NameServer": "ns1.fuquayes.wcpss.net.",
+      "Origin": "fuquayes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/fvhs.wcpss.net..txt",
+      "NameServer": "ns1.fvhs.wcpss.net.",
+      "Origin": "fvhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/fvms.wcpss.net..txt",
+      "NameServer": "ns1.fvms.wcpss.net.",
+      "Origin": "fvms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/fwes.wcpss.net..txt",
+      "NameServer": "ns1.fwes.wcpss.net.",
+      "Origin": "fwes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/garnerhs.wcpss.net..txt",
+      "NameServer": "ns1.garnerhs.wcpss.net.",
+      "Origin": "garnerhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/greenhopees.wcpss.net..txt",
+      "NameServer": "ns1.greenhopees.wcpss.net.",
+      "Origin": "greenhopees.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/greenhopehigh.wcpss.net..txt",
+      "NameServer": "ns1.greenhopehigh.wcpss.net.",
+      "Origin": "greenhopehigh.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/healthscienceec.wcpss.net..txt",
+      "NameServer": "ns1.healthscienceec.wcpss.net.",
+      "Origin": "healthscienceec.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/heritagehs.wcpss.net..txt",
+      "NameServer": "ns1.heritagehs.wcpss.net.",
+      "Origin": "heritagehs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/highcroftes.wcpss.net..txt",
+      "NameServer": "ns1.highcroftes.wcpss.net.",
+      "Origin": "highcroftes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/hodgeroades.wcpss.net..txt",
+      "NameServer": "ns1.hodgeroades.wcpss.net.",
+      "Origin": "hodgeroades.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/hollygrovees.wcpss.net..txt",
+      "NameServer": "ns1.hollygrovees.wcpss.net.",
+      "Origin": "hollygrovees.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/hollygrovems.wcpss.net..txt",
+      "NameServer": "ns1.hollygrovems.wcpss.net.",
+      "Origin": "hollygrovems.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/hollyridgees.wcpss.net..txt",
+      "NameServer": "ns1.hollyridgees.wcpss.net.",
+      "Origin": "hollyridgees.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/hollyridgems.wcpss.net..txt",
+      "NameServer": "ns1.hollyridgems.wcpss.net.",
+      "Origin": "hollyridgems.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/hollyspringses.wcpss.net..txt",
+      "NameServer": "ns1.hollyspringses.wcpss.net.",
+      "Origin": "hollyspringses.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/hollyspringshs.wcpss.net..txt",
+      "NameServer": "ns1.hollyspringshs.wcpss.net.",
+      "Origin": "hollyspringshs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/kingswoodes.wcpss.net..txt",
+      "NameServer": "ns1.kingswoodes.wcpss.net.",
+      "Origin": "kingswoodes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/knightdalees.wcpss.net..txt",
+      "NameServer": "ns1.knightdalees.wcpss.net.",
+      "Origin": "knightdalees.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/knightdalehs.wcpss.net..txt",
+      "NameServer": "ns1.knightdalehs.wcpss.net.",
+      "Origin": "knightdalehs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/lakemyraes.wcpss.net..txt",
+      "NameServer": "ns1.lakemyraes.wcpss.net.",
+      "Origin": "lakemyraes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/laurelparkes.wcpss.net..txt",
+      "NameServer": "ns1.laurelparkes.wcpss.net.",
+      "Origin": "laurelparkes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/leesvillems.wcpss.net..txt",
+      "NameServer": "ns1.leesvillems.wcpss.net.",
+      "Origin": "leesvillems.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/les.wcpss.net..txt",
+      "NameServer": "ns1.les.wcpss.net.",
+      "Origin": "les.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/ligon.wcpss.net..txt",
+      "NameServer": "ns1.ligon.wcpss.net.",
+      "Origin": "ligon.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/lincolnheightses.wcpss.net..txt",
+      "NameServer": "ns1.lincolnheightses.wcpss.net.",
+      "Origin": "lincolnheightses.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/literacyconnection.wcpss.net..txt",
+      "NameServer": "ns1.literacyconnection.wcpss.net.",
+      "Origin": "literacyconnection.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/lockhartes.wcpss.net..txt",
+      "NameServer": "ns1.lockhartes.wcpss.net.",
+      "Origin": "lockhartes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/lufkinroad.wcpss.net..txt",
+      "NameServer": "ns1.lufkinroad.wcpss.net.",
+      "Origin": "lufkinroad.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/martinms.wcpss.net..txt",
+      "NameServer": "ns1.martinms.wcpss.net.",
+      "Origin": "martinms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/mhs.wcpss.net..txt",
+      "NameServer": "ns1.mhs.wcpss.net.",
+      "Origin": "mhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/middlecreekes.wcpss.net..txt",
+      "NameServer": "ns1.middlecreekes.wcpss.net.",
+      "Origin": "middlecreekes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/middlecreekhs.wcpss.net..txt",
+      "NameServer": "ns1.middlecreekhs.wcpss.net.",
+      "Origin": "middlecreekhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/millsparkes.wcpss.net..txt",
+      "NameServer": "ns1.millsparkes.wcpss.net.",
+      "Origin": "millsparkes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/morrisvillees.wcpss.net..txt",
+      "NameServer": "ns1.morrisvillees.wcpss.net.",
+      "Origin": "morrisvillees.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/netacad.wcpss.net..txt",
+      "NameServer": "ns1.netacad.wcpss.net.",
+      "Origin": "netacad.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/northgarnerms.wcpss.net..txt",
+      "NameServer": "ns1.northgarnerms.wcpss.net.",
+      "Origin": "northgarnerms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/northwoodses.wcpss.net..txt",
+      "NameServer": "ns1.northwoodses.wcpss.net.",
+      "Origin": "northwoodses.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/olivechapeles.wcpss.net..txt",
+      "NameServer": "ns1.olivechapeles.wcpss.net.",
+      "Origin": "olivechapeles.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/panthercreekhs.wcpss.net..txt",
+      "NameServer": "ns1.panthercreekhs.wcpss.net.",
+      "Origin": "panthercreekhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/pennyroades.wcpss.net..txt",
+      "NameServer": "ns1.pennyroades.wcpss.net.",
+      "Origin": "pennyroades.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/phillipshs.wcpss.net..txt",
+      "NameServer": "ns1.phillipshs.wcpss.net.",
+      "Origin": "phillipshs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/pleasantuniones.wcpss.net..txt",
+      "NameServer": "ns1.pleasantuniones.wcpss.net.",
+      "Origin": "pleasantuniones.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/projectenlightenment.wcpss.net..txt",
+      "NameServer": "ns1.projectenlightenment.wcpss.net.",
+      "Origin": "projectenlightenment.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/reedycreekes.wcpss.net..txt",
+      "NameServer": "ns1.reedycreekes.wcpss.net.",
+      "Origin": "reedycreekes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/reedycreekms.wcpss.net..txt",
+      "NameServer": "ns1.reedycreekms.wcpss.net.",
+      "Origin": "reedycreekms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/salemes.wcpss.net..txt",
+      "NameServer": "ns1.salemes.wcpss.net.",
+      "Origin": "salemes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/salemms.wcpss.net..txt",
+      "NameServer": "ns1.salemms.wcpss.net.",
+      "Origin": "salemms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/sandersonhs.wcpss.net..txt",
+      "NameServer": "ns1.sandersonhs.wcpss.net.",
+      "Origin": "sandersonhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/sanfordcreekes.wcpss.net..txt",
+      "NameServer": "ns1.sanfordcreekes.wcpss.net.",
+      "Origin": "sanfordcreekes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/sycamorecreekes.wcpss.net..txt",
+      "NameServer": "ns1.sycamorecreekes.wcpss.net.",
+      "Origin": "sycamorecreekes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/timberdrivees.wcpss.net..txt",
+      "NameServer": "ns1.timberdrivees.wcpss.net.",
+      "Origin": "timberdrivees.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/turnercreekes.wcpss.net..txt",
+      "NameServer": "ns1.turnercreekes.wcpss.net.",
+      "Origin": "turnercreekes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/wakefieldes.wcpss.net..txt",
+      "NameServer": "ns1.wakefieldes.wcpss.net.",
+      "Origin": "wakefieldes.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/wakefieldhs.wcpss.net..txt",
+      "NameServer": "ns1.wakefieldhs.wcpss.net.",
+      "Origin": "wakefieldhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/wakefieldms.wcpss.net..txt",
+      "NameServer": "ns1.wakefieldms.wcpss.net.",
+      "Origin": "wakefieldms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/wakelones.wcpss.net..txt",
+      "NameServer": "ns1.wakelones.wcpss.net.",
+      "Origin": "wakelones.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/washingtones.wcpss.net..txt",
+      "NameServer": "ns1.washingtones.wcpss.net.",
+      "Origin": "washingtones.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/wcpss.net..txt",
+      "NameServer": "ns1.wcpss.net.",
+      "Origin": "wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/weatherstonees.wcpss.net..txt",
+      "NameServer": "ns1.weatherstonees.wcpss.net.",
+      "Origin": "weatherstonees.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/wendelles.wcpss.net..txt",
+      "NameServer": "ns1.wendelles.wcpss.net.",
+      "Origin": "wendelles.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/wendellms.wcpss.net..txt",
+      "NameServer": "ns1.wendellms.wcpss.net.",
+      "Origin": "wendellms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/westcaryms.wcpss.net..txt",
+      "NameServer": "ns1.westcaryms.wcpss.net.",
+      "Origin": "westcaryms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/westlakees.wcpss.net..txt",
+      "NameServer": "ns1.westlakees.wcpss.net.",
+      "Origin": "westlakees.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/westlakems.wcpss.net..txt",
+      "NameServer": "ns1.westlakems.wcpss.net.",
+      "Origin": "westlakems.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/wfrhs.wcpss.net..txt",
+      "NameServer": "ns1.wfrhs.wcpss.net.",
+      "Origin": "wfrhs.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/wfrms.wcpss.net..txt",
+      "NameServer": "ns1.wfrms.wcpss.net.",
+      "Origin": "wfrms.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/willowsprings.wcpss.net..txt",
+      "NameServer": "ns1.willowsprings.wcpss.net.",
+      "Origin": "willowsprings.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/yatesmilles.wcpss.net..txt",
+      "NameServer": "ns1.yatesmilles.wcpss.net.",
+      "Origin": "yatesmilles.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/zebulones.wcpss.net..txt",
+      "NameServer": "ns1.zebulones.wcpss.net.",
+      "Origin": "zebulones.wcpss.net."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wcpss.net/zebulonms.wcpss.net..txt",
+      "NameServer": "ns1.zebulonms.wcpss.net.",
+      "Origin": "zebulonms.wcpss.net."
+    }
+  ]
+}

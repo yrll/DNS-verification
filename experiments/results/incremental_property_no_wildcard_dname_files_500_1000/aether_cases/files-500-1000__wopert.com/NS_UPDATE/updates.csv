@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/wopert.com,wopert.com..txt,NS_UPDATE,DEL,wopert.com.,NS,dns1.name-services.com.
+files-500-1000/wopert.com,wopert.com..txt,NS_UPDATE,ADD,wopert.com.,NS,ns-inc.wopert.com.

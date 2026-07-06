@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/wisc.edu,333ecm.wisc.edu..txt,A_UPDATE,DEL,333ecm.wisc.edu.,A,128.104.72.38
+files-500-1000/wisc.edu,333ecm.wisc.edu..txt,A_UPDATE,ADD,333ecm.wisc.edu.,A,192.0.2.253

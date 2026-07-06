@@ -1,0 +1,6 @@
+www.tju.com. 	14400	IN	SOA	ns1.www.tju.com. james.tju.edu. 19122302 14400 3600 2419200 14400
+www.tju.com.		    IN	NS ns1.www.tju.com.
+ns1.www.tju.com.	    IN	A	10.166.21.14
+
+www.tju.com.		    IN	A	6.6.6.6
+

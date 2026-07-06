@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/wertot.com,wertot.com..txt,NS_UPDATE,DEL,wertot.com.,NS,dns1.name-services.com.
+files-100-500/wertot.com,wertot.com..txt,NS_UPDATE,ADD,wertot.com.,NS,ns-inc.wertot.com.

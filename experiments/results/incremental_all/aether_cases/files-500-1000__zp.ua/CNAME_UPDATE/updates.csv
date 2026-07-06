@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/zp.ua,afisha.zp.ua..txt,CNAME_UPDATE,DEL,www.afisha.zp.ua.,CNAME,afisha.zp.ua.
+files-500-1000/zp.ua,afisha.zp.ua..txt,CNAME_UPDATE,ADD,www.afisha.zp.ua.,CNAME,cname-inc.afisha.zp.ua.

@@ -1,0 +1,17 @@
+hops	
+resolution trace 中跨 zone / nameserver hop 数超过阈值
+
+rewrites	
+CNAME/DNAME rewrite 次数超过阈值
+
+lame_delegation	
+delegation 后出现异常，例如 refuse / 无法继续解析
+
+rewrite_blackholing	
+rewrite 后进入 NXDOMAIN / refuse / blackhole
+
+rewrite_loop	
+rewrite 或 resolution trace 中出现 loop
+
+delegation_consistency	1. 
+父子 zone 的 delegation answer 不一致

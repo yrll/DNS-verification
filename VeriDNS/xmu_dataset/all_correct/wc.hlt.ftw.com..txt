@@ -1,0 +1,8 @@
+wc.hlt.ftw.com. 	14400	IN	SOA	ns1.wc.hlt.ftw.com. 19122302 14400 3600 2419200 14400
+wc.hlt.ftw.com.		    IN	NS ns1.wc.hlt.ftw.com.
+wc.hlt.ftw.com.		    IN	NS ns2.wc.hlt.ftw.com.
+ns1.wc.hlt.ftw.com.	    IN	A	10.166.10.13
+ns2.wc.hlt.ftw.com.	    IN	A 	10.166.10.14
+
+
+

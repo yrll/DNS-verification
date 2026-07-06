@@ -1,0 +1,727 @@
+{
+  "TopNameServers": [
+    "ns1.zhp.pl."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/1procent.zhp.pl..txt",
+      "NameServer": "ns1.1procent.zhp.pl.",
+      "Origin": "1procent.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/3pdh.pruszkow.zhp.pl..txt",
+      "NameServer": "ns1.3pdh.pruszkow.zhp.pl.",
+      "Origin": "3pdh.pruszkow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/akademicy.zhp.pl..txt",
+      "NameServer": "ns1.akademicy.zhp.pl.",
+      "Origin": "akademicy.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/arsenal.zhp.pl..txt",
+      "NameServer": "ns1.arsenal.zhp.pl.",
+      "Origin": "arsenal.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/badania.zhp.pl..txt",
+      "NameServer": "ns1.badania.zhp.pl.",
+      "Origin": "badania.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/beskidzki.zhp.pl..txt",
+      "NameServer": "ns1.beskidzki.zhp.pl.",
+      "Origin": "beskidzki.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/bialostocka.zhp.pl..txt",
+      "NameServer": "ns1.bialostocka.zhp.pl.",
+      "Origin": "bialostocka.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/bialystok.zhp.pl..txt",
+      "NameServer": "ns1.bialystok.zhp.pl.",
+      "Origin": "bialystok.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/bochnia.zhp.pl..txt",
+      "NameServer": "ns1.bochnia.zhp.pl.",
+      "Origin": "bochnia.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/bohater.opolska.zhp.pl..txt",
+      "NameServer": "ns1.bohater.opolska.zhp.pl.",
+      "Origin": "bohater.opolska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/bydgoszcz.zhp.pl..txt",
+      "NameServer": "ns1.bydgoszcz.zhp.pl.",
+      "Origin": "bydgoszcz.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/bytom.zhp.pl..txt",
+      "NameServer": "ns1.bytom.zhp.pl.",
+      "Origin": "bytom.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/chojnice.zhp.pl..txt",
+      "NameServer": "ns1.chojnice.zhp.pl.",
+      "Origin": "chojnice.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/chrzanow.zhp.pl..txt",
+      "NameServer": "ns1.chrzanow.zhp.pl.",
+      "Origin": "chrzanow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/cieszyn.zhp.pl..txt",
+      "NameServer": "ns1.cieszyn.zhp.pl.",
+      "Origin": "cieszyn.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/ckr.zhp.pl..txt",
+      "NameServer": "ns1.ckr.zhp.pl.",
+      "Origin": "ckr.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/cwm.zhp.pl..txt",
+      "NameServer": "ns1.cwm.zhp.pl.",
+      "Origin": "cwm.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/czechowice-dziedzice.zhp.pl..txt",
+      "NameServer": "ns1.czechowice-dziedzice.zhp.pl.",
+      "Origin": "czechowice-dziedzice.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/czestochowa.zhp.pl..txt",
+      "NameServer": "ns1.czestochowa.zhp.pl.",
+      "Origin": "czestochowa.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/czuwaj.zhp.pl..txt",
+      "NameServer": "ns1.czuwaj.zhp.pl.",
+      "Origin": "czuwaj.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/dabrowagornicza.zhp.pl..txt",
+      "NameServer": "ns1.dabrowagornicza.zhp.pl.",
+      "Origin": "dabrowagornicza.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/dhkielce.zhp.pl..txt",
+      "NameServer": "ns1.dhkielce.zhp.pl.",
+      "Origin": "dhkielce.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/dokumenty.zhp.pl..txt",
+      "NameServer": "ns1.dokumenty.zhp.pl.",
+      "Origin": "dokumenty.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/dolnoslaska.zhp.pl..txt",
+      "NameServer": "ns1.dolnoslaska.zhp.pl.",
+      "Origin": "dolnoslaska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/enklawa.nysa.zhp.pl..txt",
+      "NameServer": "ns1.enklawa.nysa.zhp.pl.",
+      "Origin": "enklawa.nysa.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/festiwal-kielce.zhp.pl..txt",
+      "NameServer": "ns1.festiwal-kielce.zhp.pl.",
+      "Origin": "festiwal-kielce.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/forum.zhp.pl..txt",
+      "NameServer": "ns1.forum.zhp.pl.",
+      "Origin": "forum.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/foto-serwis.zhp.pl..txt",
+      "NameServer": "ns1.foto-serwis.zhp.pl.",
+      "Origin": "foto-serwis.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/garwolin.zhp.pl..txt",
+      "NameServer": "ns1.garwolin.zhp.pl.",
+      "Origin": "garwolin.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/gdansk.zhp.pl..txt",
+      "NameServer": "ns1.gdansk.zhp.pl.",
+      "Origin": "gdansk.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/gliwice.zhp.pl..txt",
+      "NameServer": "ns1.gliwice.zhp.pl.",
+      "Origin": "gliwice.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/goleniow.zhp.pl..txt",
+      "NameServer": "ns1.goleniow.zhp.pl.",
+      "Origin": "goleniow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/grunwald.zhp.pl..txt",
+      "NameServer": "ns1.grunwald.zhp.pl.",
+      "Origin": "grunwald.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/harcerze.zhp.pl..txt",
+      "NameServer": "ns1.harcerze.zhp.pl.",
+      "Origin": "harcerze.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/harcerzestarsi.zhp.pl..txt",
+      "NameServer": "ns1.harcerzestarsi.zhp.pl.",
+      "Origin": "harcerzestarsi.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/historia.pruszkow.zhp.pl..txt",
+      "NameServer": "ns1.historia.pruszkow.zhp.pl.",
+      "Origin": "historia.pruszkow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/hme.zhp.pl..txt",
+      "NameServer": "ns1.hme.zhp.pl.",
+      "Origin": "hme.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/hsr.zhp.pl..txt",
+      "NameServer": "ns1.hsr.zhp.pl.",
+      "Origin": "hsr.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/instruktor.zhp.pl..txt",
+      "NameServer": "ns1.instruktor.zhp.pl.",
+      "Origin": "instruktor.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/iskry.nysa.zhp.pl..txt",
+      "NameServer": "ns1.iskry.nysa.zhp.pl.",
+      "Origin": "iskry.nysa.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/izba.wolomin.zhp.pl..txt",
+      "NameServer": "ns1.izba.wolomin.zhp.pl.",
+      "Origin": "izba.wolomin.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/jastrzebiezdroj.zhp.pl..txt",
+      "NameServer": "ns1.jastrzebiezdroj.zhp.pl.",
+      "Origin": "jastrzebiezdroj.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/kielcepoludnie.zhp.pl..txt",
+      "NameServer": "ns1.kielcepoludnie.zhp.pl.",
+      "Origin": "kielcepoludnie.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/kielecka.zhp.pl..txt",
+      "NameServer": "ns1.kielecka.zhp.pl.",
+      "Origin": "kielecka.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/konstancin.zhp.pl..txt",
+      "NameServer": "ns1.konstancin.zhp.pl.",
+      "Origin": "konstancin.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/koronowo.zhp.pl..txt",
+      "NameServer": "ns1.koronowo.zhp.pl.",
+      "Origin": "koronowo.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/kp.zhp.pl..txt",
+      "NameServer": "ns1.kp.zhp.pl.",
+      "Origin": "kp.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/krakowkrowodrza.zhp.pl..txt",
+      "NameServer": "ns1.krakowkrowodrza.zhp.pl.",
+      "Origin": "krakowkrowodrza.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/krakownowahuta.zhp.pl..txt",
+      "NameServer": "ns1.krakownowahuta.zhp.pl.",
+      "Origin": "krakownowahuta.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/krakowpodgorze.zhp.pl..txt",
+      "NameServer": "ns1.krakowpodgorze.zhp.pl.",
+      "Origin": "krakowpodgorze.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/krakowska.zhp.pl..txt",
+      "NameServer": "ns1.krakowska.zhp.pl.",
+      "Origin": "krakowska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/krosno.zhp.pl..txt",
+      "NameServer": "ns1.krosno.zhp.pl.",
+      "Origin": "krosno.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/ksztalcenie.zhp.pl..txt",
+      "NameServer": "ns1.ksztalcenie.zhp.pl.",
+      "Origin": "ksztalcenie.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/kutno.zhp.pl..txt",
+      "NameServer": "ns1.kutno.zhp.pl.",
+      "Origin": "kutno.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/kuzniaraciborska.zhp.pl..txt",
+      "NameServer": "ns1.kuzniaraciborska.zhp.pl.",
+      "Origin": "kuzniaraciborska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lask.zhp.pl..txt",
+      "NameServer": "ns1.lask.zhp.pl.",
+      "Origin": "lask.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lebork.zhp.pl..txt",
+      "NameServer": "ns1.lebork.zhp.pl.",
+      "Origin": "lebork.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/legnica.zhp.pl..txt",
+      "NameServer": "ns1.legnica.zhp.pl.",
+      "Origin": "legnica.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lodzgorna.zhp.pl..txt",
+      "NameServer": "ns1.lodzgorna.zhp.pl.",
+      "Origin": "lodzgorna.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lodzka.zhp.pl..txt",
+      "NameServer": "ns1.lodzka.zhp.pl.",
+      "Origin": "lodzka.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lodzpolesie.zhp.pl..txt",
+      "NameServer": "ns1.lodzpolesie.zhp.pl.",
+      "Origin": "lodzpolesie.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lodzsrodmiescie.zhp.pl..txt",
+      "NameServer": "ns1.lodzsrodmiescie.zhp.pl.",
+      "Origin": "lodzsrodmiescie.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lotnictwo.zhp.pl..txt",
+      "NameServer": "ns1.lotnictwo.zhp.pl.",
+      "Origin": "lotnictwo.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lubelska.zhp.pl..txt",
+      "NameServer": "ns1.lubelska.zhp.pl.",
+      "Origin": "lubelska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lubin.zhp.pl..txt",
+      "NameServer": "ns1.lubin.zhp.pl.",
+      "Origin": "lubin.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lublin.zhp.pl..txt",
+      "NameServer": "ns1.lublin.zhp.pl.",
+      "Origin": "lublin.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lubliniec.zhp.pl..txt",
+      "NameServer": "ns1.lubliniec.zhp.pl.",
+      "Origin": "lubliniec.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lubuska.zhp.pl..txt",
+      "NameServer": "ns1.lubuska.zhp.pl.",
+      "Origin": "lubuska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/lukow.zhp.pl..txt",
+      "NameServer": "ns1.lukow.zhp.pl.",
+      "Origin": "lukow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/mazowiecka.zhp.pl..txt",
+      "NameServer": "ns1.mazowiecka.zhp.pl.",
+      "Origin": "mazowiecka.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/media.zhp.pl..txt",
+      "NameServer": "ns1.media.zhp.pl.",
+      "Origin": "media.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/mikolow.zhp.pl..txt",
+      "NameServer": "ns1.mikolow.zhp.pl.",
+      "Origin": "mikolow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/minsk.zhp.pl..txt",
+      "NameServer": "ns1.minsk.zhp.pl.",
+      "Origin": "minsk.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/mlawa.zhp.pl..txt",
+      "NameServer": "ns1.mlawa.zhp.pl.",
+      "Origin": "mlawa.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/mokotow.zhp.pl..txt",
+      "NameServer": "ns1.mokotow.zhp.pl.",
+      "Origin": "mokotow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/natropie.zhp.pl..txt",
+      "NameServer": "ns1.natropie.zhp.pl.",
+      "Origin": "natropie.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/nsh.zhp.pl..txt",
+      "NameServer": "ns1.nsh.zhp.pl.",
+      "Origin": "nsh.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/nysa.zhp.pl..txt",
+      "NameServer": "ns1.nysa.zhp.pl.",
+      "Origin": "nysa.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/olawa.zhp.pl..txt",
+      "NameServer": "ns1.olawa.zhp.pl.",
+      "Origin": "olawa.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/opolska.zhp.pl..txt",
+      "NameServer": "ns1.opolska.zhp.pl.",
+      "Origin": "opolska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/oswiecim.zhp.pl..txt",
+      "NameServer": "ns1.oswiecim.zhp.pl.",
+      "Origin": "oswiecim.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/papiez.zhp.pl..txt",
+      "NameServer": "ns1.papiez.zhp.pl.",
+      "Origin": "papiez.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/perkoz.zhp.pl..txt",
+      "NameServer": "ns1.perkoz.zhp.pl.",
+      "Origin": "perkoz.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/piastow.zhp.pl..txt",
+      "NameServer": "ns1.piastow.zhp.pl.",
+      "Origin": "piastow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/piotrkow.zhp.pl..txt",
+      "NameServer": "ns1.piotrkow.zhp.pl.",
+      "Origin": "piotrkow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/pragapolnoc.zhp.pl..txt",
+      "NameServer": "ns1.pragapolnoc.zhp.pl.",
+      "Origin": "pragapolnoc.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/pragapoludnie.zhp.pl..txt",
+      "NameServer": "ns1.pragapoludnie.zhp.pl.",
+      "Origin": "pragapoludnie.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/prasa.zhp.pl..txt",
+      "NameServer": "ns1.prasa.zhp.pl.",
+      "Origin": "prasa.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/program.zhp.pl..txt",
+      "NameServer": "ns1.program.zhp.pl.",
+      "Origin": "program.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/promocja.zhp.pl..txt",
+      "NameServer": "ns1.promocja.zhp.pl.",
+      "Origin": "promocja.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/pulawy.zhp.pl..txt",
+      "NameServer": "ns1.pulawy.zhp.pl.",
+      "Origin": "pulawy.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/rajdgrunwaldzki.zhp.pl..txt",
+      "NameServer": "ns1.rajdgrunwaldzki.zhp.pl.",
+      "Origin": "rajdgrunwaldzki.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/regiony.zhp.pl..txt",
+      "NameServer": "ns1.regiony.zhp.pl.",
+      "Origin": "regiony.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/rn.zhp.pl..txt",
+      "NameServer": "ns1.rn.zhp.pl.",
+      "Origin": "rn.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/rudaslaska.zhp.pl..txt",
+      "NameServer": "ns1.rudaslaska.zhp.pl.",
+      "Origin": "rudaslaska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/rybnik.zhp.pl..txt",
+      "NameServer": "ns1.rybnik.zhp.pl.",
+      "Origin": "rybnik.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/silniduchem.zhp.pl..txt",
+      "NameServer": "ns1.silniduchem.zhp.pl.",
+      "Origin": "silniduchem.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/skauting.zhp.pl..txt",
+      "NameServer": "ns1.skauting.zhp.pl.",
+      "Origin": "skauting.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/slaska.zhp.pl..txt",
+      "NameServer": "ns1.slaska.zhp.pl.",
+      "Origin": "slaska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/sopot.zhp.pl..txt",
+      "NameServer": "ns1.sopot.zhp.pl.",
+      "Origin": "sopot.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/sosnowiec.zhp.pl..txt",
+      "NameServer": "ns1.sosnowiec.zhp.pl.",
+      "Origin": "sosnowiec.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/sp5zdh.otwock.zhp.pl..txt",
+      "NameServer": "ns1.sp5zdh.otwock.zhp.pl.",
+      "Origin": "sp5zdh.otwock.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/spadochroniarze.zhp.pl..txt",
+      "NameServer": "ns1.spadochroniarze.zhp.pl.",
+      "Origin": "spadochroniarze.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/specjalnosci.zhp.pl..txt",
+      "NameServer": "ns1.specjalnosci.zhp.pl.",
+      "Origin": "specjalnosci.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/spis2007.zhp.pl..txt",
+      "NameServer": "ns1.spis2007.zhp.pl.",
+      "Origin": "spis2007.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/sprawozdania.zhp.pl..txt",
+      "NameServer": "ns1.sprawozdania.zhp.pl.",
+      "Origin": "sprawozdania.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/srodaslaska.zhp.pl..txt",
+      "NameServer": "ns1.srodaslaska.zhp.pl.",
+      "Origin": "srodaslaska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/starszyzna.zhp.pl..txt",
+      "NameServer": "ns1.starszyzna.zhp.pl.",
+      "Origin": "starszyzna.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/stoleczna.zhp.pl..txt",
+      "NameServer": "ns1.stoleczna.zhp.pl.",
+      "Origin": "stoleczna.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/suwalki.zhp.pl..txt",
+      "NameServer": "ns1.suwalki.zhp.pl.",
+      "Origin": "suwalki.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/swiatlo.zhp.pl..txt",
+      "NameServer": "ns1.swiatlo.zhp.pl.",
+      "Origin": "swiatlo.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/swidnica.zhp.pl..txt",
+      "NameServer": "ns1.swidnica.zhp.pl.",
+      "Origin": "swidnica.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/szczecin.zhp.pl..txt",
+      "NameServer": "ns1.szczecin.zhp.pl.",
+      "Origin": "szczecin.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/szczecindabie.zhp.pl..txt",
+      "NameServer": "ns1.szczecindabie.zhp.pl.",
+      "Origin": "szczecindabie.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/szczecinek.zhp.pl..txt",
+      "NameServer": "ns1.szczecinek.zhp.pl.",
+      "Origin": "szczecinek.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/szczecinpogodno.zhp.pl..txt",
+      "NameServer": "ns1.szczecinpogodno.zhp.pl.",
+      "Origin": "szczecinpogodno.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/szprotawa.zhp.pl..txt",
+      "NameServer": "ns1.szprotawa.zhp.pl.",
+      "Origin": "szprotawa.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/tarnow.zhp.pl..txt",
+      "NameServer": "ns1.tarnow.zhp.pl.",
+      "Origin": "tarnow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/tomaszowlubelski.zhp.pl..txt",
+      "NameServer": "ns1.tomaszowlubelski.zhp.pl.",
+      "Origin": "tomaszowlubelski.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/torun.zhp.pl..txt",
+      "NameServer": "ns1.torun.zhp.pl.",
+      "Origin": "torun.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/warminskomazurska.zhp.pl..txt",
+      "NameServer": "ns1.warminskomazurska.zhp.pl.",
+      "Origin": "warminskomazurska.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/warszawacentrum.zhp.pl..txt",
+      "NameServer": "ns1.warszawacentrum.zhp.pl.",
+      "Origin": "warszawacentrum.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/warszawaochota.zhp.pl..txt",
+      "NameServer": "ns1.warszawaochota.zhp.pl.",
+      "Origin": "warszawaochota.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/warszawaursynow.zhp.pl..txt",
+      "NameServer": "ns1.warszawaursynow.zhp.pl.",
+      "Origin": "warszawaursynow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/warszawazoliborz.zhp.pl..txt",
+      "NameServer": "ns1.warszawazoliborz.zhp.pl.",
+      "Origin": "warszawazoliborz.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/wejherowo.zhp.pl..txt",
+      "NameServer": "ns1.wejherowo.zhp.pl.",
+      "Origin": "wejherowo.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/wladze.zhp.pl..txt",
+      "NameServer": "ns1.wladze.zhp.pl.",
+      "Origin": "wladze.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/wm.zhp.pl..txt",
+      "NameServer": "ns1.wm.zhp.pl.",
+      "Origin": "wm.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/wodniacy.zhp.pl..txt",
+      "NameServer": "ns1.wodniacy.zhp.pl.",
+      "Origin": "wodniacy.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/wola.zhp.pl..txt",
+      "NameServer": "ns1.wola.zhp.pl.",
+      "Origin": "wola.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/wolomin.zhp.pl..txt",
+      "NameServer": "ns1.wolomin.zhp.pl.",
+      "Origin": "wolomin.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/www.pragapoludnie.zhp.pl..txt",
+      "NameServer": "ns1.www.pragapoludnie.zhp.pl.",
+      "Origin": "www.pragapoludnie.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zabrze.zhp.pl..txt",
+      "NameServer": "ns1.zabrze.zhp.pl.",
+      "Origin": "zabrze.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zachpom.zhp.pl..txt",
+      "NameServer": "ns1.zachpom.zhp.pl.",
+      "Origin": "zachpom.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zalecze.zhp.pl..txt",
+      "NameServer": "ns1.zalecze.zhp.pl.",
+      "Origin": "zalecze.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zgierz.zhp.pl..txt",
+      "NameServer": "ns1.zgierz.zhp.pl.",
+      "Origin": "zgierz.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zhp.pl..txt",
+      "NameServer": "ns1.zhp.pl.",
+      "Origin": "zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zjazd.zhp.pl..txt",
+      "NameServer": "ns1.zjazd.zhp.pl.",
+      "Origin": "zjazd.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zlot.grunwald.zhp.pl..txt",
+      "NameServer": "ns1.zlot.grunwald.zhp.pl.",
+      "Origin": "zlot.grunwald.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zlotdruzynowych.zhp.pl..txt",
+      "NameServer": "ns1.zlotdruzynowych.zhp.pl.",
+      "Origin": "zlotdruzynowych.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zlotkadry.zhp.pl..txt",
+      "NameServer": "ns1.zlotkadry.zhp.pl.",
+      "Origin": "zlotkadry.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zlotkrakow.zhp.pl..txt",
+      "NameServer": "ns1.zlotkrakow.zhp.pl.",
+      "Origin": "zlotkrakow.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zuchy.zhp.pl..txt",
+      "NameServer": "ns1.zuchy.zhp.pl.",
+      "Origin": "zuchy.zhp.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/zhp.pl/zychlin.zhp.pl..txt",
+      "NameServer": "ns1.zychlin.zhp.pl.",
+      "Origin": "zychlin.zhp.pl."
+    }
+  ]
+}

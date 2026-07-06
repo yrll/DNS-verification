@@ -1,0 +1,1107 @@
+{
+  "TopNameServers": [
+    "ns1.zgora.pl."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/7liceum.zgora.pl..txt",
+      "NameServer": "ns1.7liceum.zgora.pl.",
+      "Origin": "7liceum.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/abc.zgora.pl..txt",
+      "NameServer": "ns1.abc.zgora.pl.",
+      "Origin": "abc.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/adastra.zgora.pl..txt",
+      "NameServer": "ns1.adastra.zgora.pl.",
+      "Origin": "adastra.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/adm.uz.zgora.pl..txt",
+      "NameServer": "ns1.adm.uz.zgora.pl.",
+      "Origin": "adm.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/aikido.zgora.pl..txt",
+      "NameServer": "ns1.aikido.zgora.pl.",
+      "Origin": "aikido.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/airport-lotnisko.zgora.pl..txt",
+      "NameServer": "ns1.airport-lotnisko.zgora.pl.",
+      "Origin": "airport-lotnisko.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/akademia.zgora.pl..txt",
+      "NameServer": "ns1.akademia.zgora.pl.",
+      "Origin": "akademia.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/albert.zgora.pl..txt",
+      "NameServer": "ns1.albert.zgora.pl.",
+      "Origin": "albert.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/amfiteatr.zgora.pl..txt",
+      "NameServer": "ns1.amfiteatr.zgora.pl.",
+      "Origin": "amfiteatr.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/apol.zgora.pl..txt",
+      "NameServer": "ns1.apol.zgora.pl.",
+      "Origin": "apol.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/aquarius.zgora.pl..txt",
+      "NameServer": "ns1.aquarius.zgora.pl.",
+      "Origin": "aquarius.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/archeologia.zgora.pl..txt",
+      "NameServer": "ns1.archeologia.zgora.pl.",
+      "Origin": "archeologia.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/archiwum.zgora.pl..txt",
+      "NameServer": "ns1.archiwum.zgora.pl.",
+      "Origin": "archiwum.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/autyzm.zgora.pl..txt",
+      "NameServer": "ns1.autyzm.zgora.pl.",
+      "Origin": "autyzm.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/basketliga.zgora.pl..txt",
+      "NameServer": "ns1.basketliga.zgora.pl.",
+      "Origin": "basketliga.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/beautyexpert.zgora.pl..txt",
+      "NameServer": "ns1.beautyexpert.zgora.pl.",
+      "Origin": "beautyexpert.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/bezpiecznemiasto.zgora.pl..txt",
+      "NameServer": "ns1.bezpiecznemiasto.zgora.pl.",
+      "Origin": "bezpiecznemiasto.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/bhe.zgora.pl..txt",
+      "NameServer": "ns1.bhe.zgora.pl.",
+      "Origin": "bhe.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/biegusy.zgora.pl..txt",
+      "NameServer": "ns1.biegusy.zgora.pl.",
+      "Origin": "biegusy.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/bilans.zgora.pl..txt",
+      "NameServer": "ns1.bilans.zgora.pl.",
+      "Origin": "bilans.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/biostudio.zgora.pl..txt",
+      "NameServer": "ns1.biostudio.zgora.pl.",
+      "Origin": "biostudio.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/bip.zdw.zgora.pl..txt",
+      "NameServer": "ns1.bip.zdw.zgora.pl.",
+      "Origin": "bip.zdw.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/biuroewa.zgora.pl..txt",
+      "NameServer": "ns1.biuroewa.zgora.pl.",
+      "Origin": "biuroewa.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/bk.pz.zgora.pl..txt",
+      "NameServer": "ns1.bk.pz.zgora.pl.",
+      "Origin": "bk.pz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/bk.uz.zgora.pl..txt",
+      "NameServer": "ns1.bk.uz.zgora.pl.",
+      "Origin": "bk.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/brd.zgora.pl..txt",
+      "NameServer": "ns1.brd.zgora.pl.",
+      "Origin": "brd.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/bsb.zgora.pl..txt",
+      "NameServer": "ns1.bsb.zgora.pl.",
+      "Origin": "bsb.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/bu.uz.zgora.pl..txt",
+      "NameServer": "ns1.bu.uz.zgora.pl.",
+      "Origin": "bu.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/caritas.zgora.pl..txt",
+      "NameServer": "ns1.caritas.zgora.pl.",
+      "Origin": "caritas.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/casamia.zgora.pl..txt",
+      "NameServer": "ns1.casamia.zgora.pl.",
+      "Origin": "casamia.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/cembe.zgora.pl..txt",
+      "NameServer": "ns1.cembe.zgora.pl.",
+      "Origin": "cembe.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/cerkiew.zgora.pl..txt",
+      "NameServer": "ns1.cerkiew.zgora.pl.",
+      "Origin": "cerkiew.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/cezas.zgora.pl..txt",
+      "NameServer": "ns1.cezas.zgora.pl.",
+      "Origin": "cezas.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/chynow.zgora.pl..txt",
+      "NameServer": "ns1.chynow.zgora.pl.",
+      "Origin": "chynow.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ck.uz.zgora.pl..txt",
+      "NameServer": "ns1.ck.uz.zgora.pl.",
+      "Origin": "ck.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/cku.zgora.pl..txt",
+      "NameServer": "ns1.cku.zgora.pl.",
+      "Origin": "cku.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/complex.zgora.pl..txt",
+      "NameServer": "ns1.complex.zgora.pl.",
+      "Origin": "complex.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/cuo.zgora.pl..txt",
+      "NameServer": "ns1.cuo.zgora.pl.",
+      "Origin": "cuo.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/dastodola.zgora.pl..txt",
+      "NameServer": "ns1.dastodola.zgora.pl.",
+      "Origin": "dastodola.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/delta.zgora.pl..txt",
+      "NameServer": "ns1.delta.zgora.pl.",
+      "Origin": "delta.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/diecezja.zgora.pl..txt",
+      "NameServer": "ns1.diecezja.zgora.pl.",
+      "Origin": "diecezja.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/doradztwo.zgora.pl..txt",
+      "NameServer": "ns1.doradztwo.zgora.pl.",
+      "Origin": "doradztwo.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/dorfin.zgora.pl..txt",
+      "NameServer": "ns1.dorfin.zgora.pl.",
+      "Origin": "dorfin.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ec.zgora.pl..txt",
+      "NameServer": "ns1.ec.zgora.pl.",
+      "Origin": "ec.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/elita.zgora.pl..txt",
+      "NameServer": "ns1.elita.zgora.pl.",
+      "Origin": "elita.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/elka.zgora.pl..txt",
+      "NameServer": "ns1.elka.zgora.pl.",
+      "Origin": "elka.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/els.zgora.pl..txt",
+      "NameServer": "ns1.els.zgora.pl.",
+      "Origin": "els.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/emaus.zgora.pl..txt",
+      "NameServer": "ns1.emaus.zgora.pl.",
+      "Origin": "emaus.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/eureka.zgora.pl..txt",
+      "NameServer": "ns1.eureka.zgora.pl.",
+      "Origin": "eureka.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/euro.zgora.pl..txt",
+      "NameServer": "ns1.euro.zgora.pl.",
+      "Origin": "euro.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/fast.zgora.pl..txt",
+      "NameServer": "ns1.fast.zgora.pl.",
+      "Origin": "fast.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/fireshow.zgora.pl..txt",
+      "NameServer": "ns1.fireshow.zgora.pl.",
+      "Origin": "fireshow.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/freedom.zgora.pl..txt",
+      "NameServer": "ns1.freedom.zgora.pl.",
+      "Origin": "freedom.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/gamp.zgora.pl..txt",
+      "NameServer": "ns1.gamp.zgora.pl.",
+      "Origin": "gamp.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/geoprojekt.zgora.pl..txt",
+      "NameServer": "ns1.geoprojekt.zgora.pl.",
+      "Origin": "geoprojekt.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/gioconda.zgora.pl..txt",
+      "NameServer": "ns1.gioconda.zgora.pl.",
+      "Origin": "gioconda.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/grono.zgora.pl..txt",
+      "NameServer": "ns1.grono.zgora.pl.",
+      "Origin": "grono.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/hallo-taxi.zgora.pl..txt",
+      "NameServer": "ns1.hallo-taxi.zgora.pl.",
+      "Origin": "hallo-taxi.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ia.uz.zgora.pl..txt",
+      "NameServer": "ns1.ia.uz.zgora.pl.",
+      "Origin": "ia.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ibr.zgora.pl..txt",
+      "NameServer": "ns1.ibr.zgora.pl.",
+      "Origin": "ibr.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/if.uz.zgora.pl..txt",
+      "NameServer": "ns1.if.uz.zgora.pl.",
+      "Origin": "if.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ifil.uz.zgora.pl..txt",
+      "NameServer": "ns1.ifil.uz.zgora.pl.",
+      "Origin": "ifil.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ift.zgora.pl..txt",
+      "NameServer": "ns1.ift.zgora.pl.",
+      "Origin": "ift.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/iie.pz.zgora.pl..txt",
+      "NameServer": "ns1.iie.pz.zgora.pl.",
+      "Origin": "iie.pz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/iie.uz.zgora.pl..txt",
+      "NameServer": "ns1.iie.uz.zgora.pl.",
+      "Origin": "iie.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ime.uz.zgora.pl..txt",
+      "NameServer": "ns1.ime.uz.zgora.pl.",
+      "Origin": "ime.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/index.uz.zgora.pl..txt",
+      "NameServer": "ns1.index.uz.zgora.pl.",
+      "Origin": "index.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/index.zgora.pl..txt",
+      "NameServer": "ns1.index.zgora.pl.",
+      "Origin": "index.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/inicjatywa.zgora.pl..txt",
+      "NameServer": "ns1.inicjatywa.zgora.pl.",
+      "Origin": "inicjatywa.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/inmac.zgora.pl..txt",
+      "NameServer": "ns1.inmac.zgora.pl.",
+      "Origin": "inmac.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/internet.zgora.pl..txt",
+      "NameServer": "ns1.internet.zgora.pl.",
+      "Origin": "internet.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/issi.uz.zgora.pl..txt",
+      "NameServer": "ns1.issi.uz.zgora.pl.",
+      "Origin": "issi.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/jedynka.zgora.pl..txt",
+      "NameServer": "ns1.jedynka.zgora.pl.",
+      "Origin": "jedynka.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/kancelaria-prawna.zgora.pl..txt",
+      "NameServer": "ns1.kancelaria-prawna.zgora.pl.",
+      "Origin": "kancelaria-prawna.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/kancelaria.radcaprawny.zgora.pl..txt",
+      "NameServer": "ns1.kancelaria.radcaprawny.zgora.pl.",
+      "Origin": "kancelaria.radcaprawny.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/kancelaria.zgora.pl..txt",
+      "NameServer": "ns1.kancelaria.zgora.pl.",
+      "Origin": "kancelaria.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/kawon.zgora.pl..txt",
+      "NameServer": "ns1.kawon.zgora.pl.",
+      "Origin": "kawon.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/keypol.zgora.pl..txt",
+      "NameServer": "ns1.keypol.zgora.pl.",
+      "Origin": "keypol.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/kkf.zgora.pl..txt",
+      "NameServer": "ns1.kkf.zgora.pl.",
+      "Origin": "kkf.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/koloseum.zgora.pl..txt",
+      "NameServer": "ns1.koloseum.zgora.pl.",
+      "Origin": "koloseum.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/koma.zgora.pl..txt",
+      "NameServer": "ns1.koma.zgora.pl.",
+      "Origin": "koma.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/konsulat-ukraina.zgora.pl..txt",
+      "NameServer": "ns1.konsulat-ukraina.zgora.pl.",
+      "Origin": "konsulat-ukraina.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/kostka.zgora.pl..txt",
+      "NameServer": "ns1.kostka.zgora.pl.",
+      "Origin": "kostka.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/kravmaga.zgora.pl..txt",
+      "NameServer": "ns1.kravmaga.zgora.pl.",
+      "Origin": "kravmaga.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/lambda.zgora.pl..txt",
+      "NameServer": "ns1.lambda.zgora.pl.",
+      "Origin": "lambda.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/lechia.zgora.pl..txt",
+      "NameServer": "ns1.lechia.zgora.pl.",
+      "Origin": "lechia.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/lfs.zgora.pl..txt",
+      "NameServer": "ns1.lfs.zgora.pl.",
+      "Origin": "lfs.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/lo4.zgora.pl..txt",
+      "NameServer": "ns1.lo4.zgora.pl.",
+      "Origin": "lo4.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/locum.zgora.pl..txt",
+      "NameServer": "ns1.locum.zgora.pl.",
+      "Origin": "locum.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/lonowasol.zgora.pl..txt",
+      "NameServer": "ns1.lonowasol.zgora.pl.",
+      "Origin": "lonowasol.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/lons.zgora.pl..txt",
+      "NameServer": "ns1.lons.zgora.pl.",
+      "Origin": "lons.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/lubuskiprzedsiebiorca.zgora.pl..txt",
+      "NameServer": "ns1.lubuskiprzedsiebiorca.zgora.pl.",
+      "Origin": "lubuskiprzedsiebiorca.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/lwkz.zgora.pl..txt",
+      "NameServer": "ns1.lwkz.zgora.pl.",
+      "Origin": "lwkz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/lzla.zgora.pl..txt",
+      "NameServer": "ns1.lzla.zgora.pl.",
+      "Origin": "lzla.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/man.zgora.pl..txt",
+      "NameServer": "ns1.man.zgora.pl.",
+      "Origin": "man.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/marbo.zgora.pl..txt",
+      "NameServer": "ns1.marbo.zgora.pl.",
+      "Origin": "marbo.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/market.zgora.pl..txt",
+      "NameServer": "ns1.market.zgora.pl.",
+      "Origin": "market.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/marketingwpolityce.zgora.pl..txt",
+      "NameServer": "ns1.marketingwpolityce.zgora.pl.",
+      "Origin": "marketingwpolityce.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/marvel.zgora.pl..txt",
+      "NameServer": "ns1.marvel.zgora.pl.",
+      "Origin": "marvel.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/masaze.zgora.pl..txt",
+      "NameServer": "ns1.masaze.zgora.pl.",
+      "Origin": "masaze.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/medycynanaturalna.zgora.pl..txt",
+      "NameServer": "ns1.medycynanaturalna.zgora.pl.",
+      "Origin": "medycynanaturalna.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/medyk.zgora.pl..txt",
+      "NameServer": "ns1.medyk.zgora.pl.",
+      "Origin": "medyk.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/modus.zgora.pl..txt",
+      "NameServer": "ns1.modus.zgora.pl.",
+      "Origin": "modus.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/mops.zgora.pl..txt",
+      "NameServer": "ns1.mops.zgora.pl.",
+      "Origin": "mops.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/mosir.zgora.pl..txt",
+      "NameServer": "ns1.mosir.zgora.pl.",
+      "Origin": "mosir.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/mzk.zgora.pl..txt",
+      "NameServer": "ns1.mzk.zgora.pl.",
+      "Origin": "mzk.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/mzl.zgora.pl..txt",
+      "NameServer": "ns1.mzl.zgora.pl.",
+      "Origin": "mzl.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/nasza-piekna.zgora.pl..txt",
+      "NameServer": "ns1.nasza-piekna.zgora.pl.",
+      "Origin": "nasza-piekna.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/nd.zgora.pl..txt",
+      "NameServer": "ns1.nd.zgora.pl.",
+      "Origin": "nd.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/noclegownia.zgora.pl..txt",
+      "NameServer": "ns1.noclegownia.zgora.pl.",
+      "Origin": "noclegownia.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/notariusz.zgora.pl..txt",
+      "NameServer": "ns1.notariusz.zgora.pl.",
+      "Origin": "notariusz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/obrme.man.zgora.pl..txt",
+      "NameServer": "ns1.obrme.man.zgora.pl.",
+      "Origin": "obrme.man.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/odn.zgora.pl..txt",
+      "NameServer": "ns1.odn.zgora.pl.",
+      "Origin": "odn.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/palmiarnia.zgora.pl..txt",
+      "NameServer": "ns1.palmiarnia.zgora.pl.",
+      "Origin": "palmiarnia.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/parafia-urban.zgora.pl..txt",
+      "NameServer": "ns1.parafia-urban.zgora.pl.",
+      "Origin": "parafia-urban.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/paralotnie.zgora.pl..txt",
+      "NameServer": "ns1.paralotnie.zgora.pl.",
+      "Origin": "paralotnie.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/parkwodny.zgora.pl..txt",
+      "NameServer": "ns1.parkwodny.zgora.pl.",
+      "Origin": "parkwodny.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/perfekt.zgora.pl..txt",
+      "NameServer": "ns1.perfekt.zgora.pl.",
+      "Origin": "perfekt.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/pks.zgora.pl..txt",
+      "NameServer": "ns1.pks.zgora.pl.",
+      "Origin": "pks.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/plastyk.zgora.pl..txt",
+      "NameServer": "ns1.plastyk.zgora.pl.",
+      "Origin": "plastyk.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/polmos.zgora.pl..txt",
+      "NameServer": "ns1.polmos.zgora.pl.",
+      "Origin": "polmos.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/poradniki.zgora.pl..txt",
+      "NameServer": "ns1.poradniki.zgora.pl.",
+      "Origin": "poradniki.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/pornhub.zgora.pl..txt",
+      "NameServer": "ns1.pornhub.zgora.pl.",
+      "Origin": "pornhub.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/powiat.zgora.pl..txt",
+      "NameServer": "ns1.powiat.zgora.pl.",
+      "Origin": "powiat.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ppg.zgora.pl..txt",
+      "NameServer": "ns1.ppg.zgora.pl.",
+      "Origin": "ppg.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/prawo1.zgora.pl..txt",
+      "NameServer": "ns1.prawo1.zgora.pl.",
+      "Origin": "prawo1.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/prof.zgora.pl..txt",
+      "NameServer": "ns1.prof.zgora.pl.",
+      "Origin": "prof.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/promyk.zgora.pl..txt",
+      "NameServer": "ns1.promyk.zgora.pl.",
+      "Origin": "promyk.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/property.zgora.pl..txt",
+      "NameServer": "ns1.property.zgora.pl.",
+      "Origin": "property.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ps.zgora.pl..txt",
+      "NameServer": "ns1.ps.zgora.pl.",
+      "Origin": "ps.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/pup.zgora.pl..txt",
+      "NameServer": "ns1.pup.zgora.pl.",
+      "Origin": "pup.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/pz.zgora.pl..txt",
+      "NameServer": "ns1.pz.zgora.pl.",
+      "Origin": "pz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/pzw.zgora.pl..txt",
+      "NameServer": "ns1.pzw.zgora.pl.",
+      "Origin": "pzw.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/radcaprawny.zgora.pl..txt",
+      "NameServer": "ns1.radcaprawny.zgora.pl.",
+      "Origin": "radcaprawny.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/razdwatrzy.zgora.pl..txt",
+      "NameServer": "ns1.razdwatrzy.zgora.pl.",
+      "Origin": "razdwatrzy.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/redtube.zgora.pl..txt",
+      "NameServer": "ns1.redtube.zgora.pl.",
+      "Origin": "redtube.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/region.zgora.pl..txt",
+      "NameServer": "ns1.region.zgora.pl.",
+      "Origin": "region.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/restauracja-figaro.zgora.pl..txt",
+      "NameServer": "ns1.restauracja-figaro.zgora.pl.",
+      "Origin": "restauracja-figaro.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/rosner.zgora.pl..txt",
+      "NameServer": "ns1.rosner.zgora.pl.",
+      "Origin": "rosner.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/sawo.zgora.pl..txt",
+      "NameServer": "ns1.sawo.zgora.pl.",
+      "Origin": "sawo.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/schronisko.zgora.pl..txt",
+      "NameServer": "ns1.schronisko.zgora.pl.",
+      "Origin": "schronisko.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/sdc.zgora.pl..txt",
+      "NameServer": "ns1.sdc.zgora.pl.",
+      "Origin": "sdc.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/sitk.zgora.pl..txt",
+      "NameServer": "ns1.sitk.zgora.pl.",
+      "Origin": "sitk.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/skrzypce.zgora.pl..txt",
+      "NameServer": "ns1.skrzypce.zgora.pl.",
+      "Origin": "skrzypce.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/skwp.zgora.pl..txt",
+      "NameServer": "ns1.skwp.zgora.pl.",
+      "Origin": "skwp.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/sld.zgora.pl..txt",
+      "NameServer": "ns1.sld.zgora.pl.",
+      "Origin": "sld.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/sloneczko.zgora.pl..txt",
+      "NameServer": "ns1.sloneczko.zgora.pl.",
+      "Origin": "sloneczko.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/snhs.uz.zgora.pl..txt",
+      "NameServer": "ns1.snhs.uz.zgora.pl.",
+      "Origin": "snhs.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/softline.zgora.pl..txt",
+      "NameServer": "ns1.softline.zgora.pl.",
+      "Origin": "softline.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/sp17.zgora.pl..txt",
+      "NameServer": "ns1.sp17.zgora.pl.",
+      "Origin": "sp17.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/sp18.zgora.pl..txt",
+      "NameServer": "ns1.sp18.zgora.pl.",
+      "Origin": "sp18.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/spedycja.zgora.pl..txt",
+      "NameServer": "ns1.spedycja.zgora.pl.",
+      "Origin": "spedycja.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/sport.zgora.pl..txt",
+      "NameServer": "ns1.sport.zgora.pl.",
+      "Origin": "sport.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/sportowa.zgora.pl..txt",
+      "NameServer": "ns1.sportowa.zgora.pl.",
+      "Origin": "sportowa.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ssp1.zgora.pl..txt",
+      "NameServer": "ns1.ssp1.zgora.pl.",
+      "Origin": "ssp1.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/straz.zgora.pl..txt",
+      "NameServer": "ns1.straz.zgora.pl.",
+      "Origin": "straz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/stud.uz.zgora.pl..txt",
+      "NameServer": "ns1.stud.uz.zgora.pl.",
+      "Origin": "stud.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/swidnica.zgora.pl..txt",
+      "NameServer": "ns1.swidnica.zgora.pl.",
+      "Origin": "swidnica.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/szklanapulapka.zgora.pl..txt",
+      "NameServer": "ns1.szklanapulapka.zgora.pl.",
+      "Origin": "szklanapulapka.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/szkola-dentystyczna.zgora.pl..txt",
+      "NameServer": "ns1.szkola-dentystyczna.zgora.pl.",
+      "Origin": "szkola-dentystyczna.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/szpital.zgora.pl..txt",
+      "NameServer": "ns1.szpital.zgora.pl.",
+      "Origin": "szpital.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/tasmy-pakowe24.zgora.pl..txt",
+      "NameServer": "ns1.tasmy-pakowe24.zgora.pl.",
+      "Origin": "tasmy-pakowe24.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/teatr.zgora.pl..txt",
+      "NameServer": "ns1.teatr.zgora.pl.",
+      "Origin": "teatr.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ti.zgora.pl..txt",
+      "NameServer": "ns1.ti.zgora.pl.",
+      "Origin": "ti.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/tkkf.zgora.pl..txt",
+      "NameServer": "ns1.tkkf.zgora.pl.",
+      "Origin": "tkkf.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/tomar.zgora.pl..txt",
+      "NameServer": "ns1.tomar.zgora.pl.",
+      "Origin": "tomar.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/tonika.zgora.pl..txt",
+      "NameServer": "ns1.tonika.zgora.pl.",
+      "Origin": "tonika.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/turbo.zgora.pl..txt",
+      "NameServer": "ns1.turbo.zgora.pl.",
+      "Origin": "turbo.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/tv.zgora.pl..txt",
+      "NameServer": "ns1.tv.zgora.pl.",
+      "Origin": "tv.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ukplechia.zgora.pl..txt",
+      "NameServer": "ns1.ukplechia.zgora.pl.",
+      "Origin": "ukplechia.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/utw.zgora.pl..txt",
+      "NameServer": "ns1.utw.zgora.pl.",
+      "Origin": "utw.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/uz.zgora.pl..txt",
+      "NameServer": "ns1.uz.zgora.pl.",
+      "Origin": "uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/w.gamp.zgora.pl..txt",
+      "NameServer": "ns1.w.gamp.zgora.pl.",
+      "Origin": "w.gamp.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wbe.zgora.pl..txt",
+      "NameServer": "ns1.wbe.zgora.pl.",
+      "Origin": "wbe.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/weit.uz.zgora.pl..txt",
+      "NameServer": "ns1.weit.uz.zgora.pl.",
+      "Origin": "weit.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wet.zgora.pl..txt",
+      "NameServer": "ns1.wet.zgora.pl.",
+      "Origin": "wet.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wfa.uz.zgora.pl..txt",
+      "NameServer": "ns1.wfa.uz.zgora.pl.",
+      "Origin": "wfa.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/willow.iie.pz.zgora.pl..txt",
+      "NameServer": "ns1.willow.iie.pz.zgora.pl.",
+      "Origin": "willow.iie.pz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wimbp.zgora.pl..txt",
+      "NameServer": "ns1.wimbp.zgora.pl.",
+      "Origin": "wimbp.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/winiarze.zgora.pl..txt",
+      "NameServer": "ns1.winiarze.zgora.pl.",
+      "Origin": "winiarze.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/winobranie.zgora.pl..txt",
+      "NameServer": "ns1.winobranie.zgora.pl.",
+      "Origin": "winobranie.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wmie.uz.zgora.pl..txt",
+      "NameServer": "ns1.wmie.uz.zgora.pl.",
+      "Origin": "wmie.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wmini.zgora.pl..txt",
+      "NameServer": "ns1.wmini.zgora.pl.",
+      "Origin": "wmini.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wnb.uz.zgora.pl..txt",
+      "NameServer": "ns1.wnb.uz.zgora.pl.",
+      "Origin": "wnb.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wodnyswiat.zgora.pl..txt",
+      "NameServer": "ns1.wodnyswiat.zgora.pl.",
+      "Origin": "wodnyswiat.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/womp.zgora.pl..txt",
+      "NameServer": "ns1.womp.zgora.pl.",
+      "Origin": "womp.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wpsnz.uz.zgora.pl..txt",
+      "NameServer": "ns1.wpsnz.uz.zgora.pl.",
+      "Origin": "wpsnz.uz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wsp.zgora.pl..txt",
+      "NameServer": "ns1.wsp.zgora.pl.",
+      "Origin": "wsp.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/wup.zgora.pl..txt",
+      "NameServer": "ns1.wup.zgora.pl.",
+      "Origin": "wup.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/www.basketliga.zgora.pl..txt",
+      "NameServer": "ns1.www.basketliga.zgora.pl.",
+      "Origin": "www.basketliga.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/www.bk.pz.zgora.pl..txt",
+      "NameServer": "ns1.www.bk.pz.zgora.pl.",
+      "Origin": "www.bk.pz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/www.iie.pz.zgora.pl..txt",
+      "NameServer": "ns1.www.iie.pz.zgora.pl.",
+      "Origin": "www.iie.pz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/www.zgora.pl..txt",
+      "NameServer": "ns1.www.zgora.pl.",
+      "Origin": "www.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/xynoptica.zgora.pl..txt",
+      "NameServer": "ns1.xynoptica.zgora.pl.",
+      "Origin": "xynoptica.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zacisze.zgora.pl..txt",
+      "NameServer": "ns1.zacisze.zgora.pl.",
+      "Origin": "zacisze.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zbawiciel.zgora.pl..txt",
+      "NameServer": "ns1.zbawiciel.zgora.pl.",
+      "Origin": "zbawiciel.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zdw.zgora.pl..txt",
+      "NameServer": "ns1.zdw.zgora.pl.",
+      "Origin": "zdw.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zdz.zgora.pl..txt",
+      "NameServer": "ns1.zdz.zgora.pl.",
+      "Origin": "zdz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ze1.zgora.pl..txt",
+      "NameServer": "ns1.ze1.zgora.pl.",
+      "Origin": "ze1.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/ze3.zgora.pl..txt",
+      "NameServer": "ns1.ze3.zgora.pl.",
+      "Origin": "ze3.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zec.zgora.pl..txt",
+      "NameServer": "ns1.zec.zgora.pl.",
+      "Origin": "zec.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zegarki.zgora.pl..txt",
+      "NameServer": "ns1.zegarki.zgora.pl.",
+      "Origin": "zegarki.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zgkim.zgora.pl..txt",
+      "NameServer": "ns1.zgkim.zgora.pl.",
+      "Origin": "zgkim.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zgora.pl..txt",
+      "NameServer": "ns1.zgora.pl.",
+      "Origin": "zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zkwp.zgora.pl..txt",
+      "NameServer": "ns1.zkwp.zgora.pl.",
+      "Origin": "zkwp.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zpap.zgora.pl..txt",
+      "NameServer": "ns1.zpap.zgora.pl.",
+      "Origin": "zpap.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zsa.zgora.pl..txt",
+      "NameServer": "ns1.zsa.zgora.pl.",
+      "Origin": "zsa.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zse.zgora.pl..txt",
+      "NameServer": "ns1.zse.zgora.pl.",
+      "Origin": "zse.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zseis.zgora.pl..txt",
+      "NameServer": "ns1.zseis.zgora.pl.",
+      "Origin": "zseis.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zsek.zgora.pl..txt",
+      "NameServer": "ns1.zsek.zgora.pl.",
+      "Origin": "zsek.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zsipkz.zgora.pl..txt",
+      "NameServer": "ns1.zsipkz.zgora.pl.",
+      "Origin": "zsipkz.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zsm.zgora.pl..txt",
+      "NameServer": "ns1.zsm.zgora.pl.",
+      "Origin": "zsm.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zsois.zgora.pl..txt",
+      "NameServer": "ns1.zsois.zgora.pl.",
+      "Origin": "zsois.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zsthzg.zgora.pl..txt",
+      "NameServer": "ns1.zsthzg.zgora.pl.",
+      "Origin": "zsthzg.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zuh.zgora.pl..txt",
+      "NameServer": "ns1.zuh.zgora.pl.",
+      "Origin": "zuh.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zuzel.zgora.pl..txt",
+      "NameServer": "ns1.zuzel.zgora.pl.",
+      "Origin": "zuzel.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zwik.zgora.pl..txt",
+      "NameServer": "ns1.zwik.zgora.pl.",
+      "Origin": "zwik.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zwshifm.zgora.pl..txt",
+      "NameServer": "ns1.zwshifm.zgora.pl.",
+      "Origin": "zwshifm.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zygyia.zgora.pl..txt",
+      "NameServer": "ns1.zygyia.zgora.pl.",
+      "Origin": "zygyia.zgora.pl."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/zgora.pl/zzg.zgora.pl..txt",
+      "NameServer": "ns1.zzg.zgora.pl.",
+      "Origin": "zzg.zgora.pl."
+    }
+  ]
+}

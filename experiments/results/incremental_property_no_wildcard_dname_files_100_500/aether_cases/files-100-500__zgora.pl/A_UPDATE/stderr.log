@@ -1,0 +1,10 @@
+[2026-07-03T07:10:49Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zgora", "euro", "www"], rtype: A, rdata: "87.98.163.5" }
+[2026-07-03T07:10:49Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zgora", "dorfin", "www"], rtype: A, rdata: "83.0.242.114" }
+[2026-07-03T07:10:49Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zgora", "ec", "www"], rtype: A, rdata: "89.174.52.131" }
+[2026-07-03T07:10:49Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zgora", "zbawiciel", "www"], rtype: A, rdata: "85.17.223.149" }
+[2026-07-03T07:10:49Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zgora", "winobranie", "www"], rtype: A, rdata: "85.128.128.99" }
+[2026-07-03T07:10:49Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zgora", "aquarius", "www"], rtype: A, rdata: "81.18.222.10" }
+[2026-07-03T07:10:49Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zgora", "sp17", "www"], rtype: A, rdata: "188.165.23.97" }
+[2026-07-03T07:10:49Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zgora", "wup", "www"], rtype: A, rdata: "91.201.153.138" }
+[2026-07-03T07:10:49Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zgora", "uz", "zbc"], rtype: A, rdata: "212.109.128.102" }
+[2026-07-03T07:10:49Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zgora", "terra", "www"], rtype: A, rdata: "78.46.64.11" }

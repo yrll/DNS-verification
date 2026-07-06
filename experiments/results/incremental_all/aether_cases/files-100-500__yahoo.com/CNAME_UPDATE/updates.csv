@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/yahoo.com,a1.b.yahoo.com..txt,CNAME_UPDATE,DEL,fo-any-web.cricket.a1.b.yahoo.com.,CNAME,any-web.cricket.a1.b.yahoo.com.
+files-100-500/yahoo.com,a1.b.yahoo.com..txt,CNAME_UPDATE,ADD,fo-any-web.cricket.a1.b.yahoo.com.,CNAME,cname-inc.a1.b.yahoo.com.

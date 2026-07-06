@@ -1,0 +1,5 @@
+[2026-07-03T07:10:50Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zhp", "jastrzebiezdroj", "www"], rtype: A, rdata: "93.157.100.77" }
+[2026-07-03T07:10:50Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zhp", "pragapoludnie", "www"], rtype: SOA, rdata: "ns1.x14.eu admin.vipserv.org 1361194920 1200 180 1209600 10800" }
+[2026-07-03T07:10:50Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zhp", "slaska", "foto"], rtype: MX, rdata: "10 mx-slaska.ogicom.pl" }
+[2026-07-03T07:10:50Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zhp", "dabrowagornicza", "www"], rtype: A, rdata: "93.157.100.77" }
+[2026-07-03T07:10:50Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["pl", "zhp", "festiwal-kielce"], rtype: SOA, rdata: "ns1.futuro.pl internet_hd.netia.pl 2010092227 10800 1800 604800 86400" }

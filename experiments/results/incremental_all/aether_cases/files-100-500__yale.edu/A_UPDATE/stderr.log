@@ -1,0 +1,6 @@
+[2026-06-30T05:21:19Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "yale", "commons", "mendele"], rtype: A, rdata: "130.132.35.82" }
+[2026-06-30T05:21:19Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "yale", "oyc"], rtype: SOA, rdata: "serv1.net.yale.edu hostmaster.yale.edu 327678541 3600 900 1209600 10800" }
+[2026-06-30T05:21:19Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "yale", "publicsafety"], rtype: SOA, rdata: "serv1.net.yale.edu hostmaster.yale.edu 378660000 3600 900 1209600 10800" }
+[2026-06-30T05:21:19Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "yale", "epe"], rtype: SOA, rdata: "serv1.net.yale.edu hostmaster.yale.edu 390835094 3600 900 1209600 10800" }
+[2026-06-30T05:21:19Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "yale", "library", "beinecke"], rtype: A, rdata: "198.61.229.204" }
+[2026-06-30T05:21:19Z ERROR dnsv::zonefile_parser] CNAME record could not coexist with other records: Record { domain: ["edu", "yale", "ehrafworldcultures"], rtype: A, rdata: "130.132.52.35" }

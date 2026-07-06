@@ -1,0 +1,547 @@
+{
+  "TopNameServers": [
+    "ns1.yorku.ca."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/abel.yorku.ca..txt",
+      "NameServer": "ns1.abel.yorku.ca.",
+      "Origin": "abel.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/ac.yorku.ca..txt",
+      "NameServer": "ns1.ac.yorku.ca.",
+      "Origin": "ac.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/agecanonix.cns.yorku.ca..txt",
+      "NameServer": "ns1.agecanonix.cns.yorku.ca.",
+      "Origin": "agecanonix.cns.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/aml.yorku.ca..txt",
+      "NameServer": "ns1.aml.yorku.ca.",
+      "Origin": "aml.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/apps01.yorku.ca..txt",
+      "NameServer": "ns1.apps01.yorku.ca.",
+      "Origin": "apps01.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/arts-dlll.yorku.ca..txt",
+      "NameServer": "ns1.arts-dlll.yorku.ca.",
+      "Origin": "arts-dlll.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/arts.yorku.ca..txt",
+      "NameServer": "ns1.arts.yorku.ca.",
+      "Origin": "arts.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/at.yorku.ca..txt",
+      "NameServer": "ns1.at.yorku.ca.",
+      "Origin": "at.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/atkinson.yorku.ca..txt",
+      "NameServer": "ns1.atkinson.yorku.ca.",
+      "Origin": "atkinson.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/atsg.yorku.ca..txt",
+      "NameServer": "ns1.atsg.yorku.ca.",
+      "Origin": "atsg.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/biol.yorku.ca..txt",
+      "NameServer": "ns1.biol.yorku.ca.",
+      "Origin": "biol.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/bise.yorku.ca..txt",
+      "NameServer": "ns1.bise.yorku.ca.",
+      "Origin": "bise.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/blog.yorku.ca..txt",
+      "NameServer": "ns1.blog.yorku.ca.",
+      "Origin": "blog.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/bookstore.yorku.ca..txt",
+      "NameServer": "ns1.bookstore.yorku.ca.",
+      "Origin": "bookstore.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/cac.yorku.ca..txt",
+      "NameServer": "ns1.cac.yorku.ca.",
+      "Origin": "cac.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/calumet.yorku.ca..txt",
+      "NameServer": "ns1.calumet.yorku.ca.",
+      "Origin": "calumet.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/ccges.yorku.ca..txt",
+      "NameServer": "ns1.ccges.yorku.ca.",
+      "Origin": "ccges.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/ccs.yorku.ca..txt",
+      "NameServer": "ns1.ccs.yorku.ca.",
+      "Origin": "ccs.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/cdm.yorku.ca..txt",
+      "NameServer": "ns1.cdm.yorku.ca.",
+      "Origin": "cdm.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/chem.yorku.ca..txt",
+      "NameServer": "ns1.chem.yorku.ca.",
+      "Origin": "chem.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/cns.yorku.ca..txt",
+      "NameServer": "ns1.cns.yorku.ca.",
+      "Origin": "cns.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/computing.yorku.ca..txt",
+      "NameServer": "ns1.computing.yorku.ca.",
+      "Origin": "computing.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/cress.yorku.ca..txt",
+      "NameServer": "ns1.cress.yorku.ca.",
+      "Origin": "cress.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/crm.yorku.ca..txt",
+      "NameServer": "ns1.crm.yorku.ca.",
+      "Origin": "crm.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/crs.yorku.ca..txt",
+      "NameServer": "ns1.crs.yorku.ca.",
+      "Origin": "crs.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/cs.yorku.ca..txt",
+      "NameServer": "ns1.cs.yorku.ca.",
+      "Origin": "cs.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/cse.yorku.ca..txt",
+      "NameServer": "ns1.cse.yorku.ca.",
+      "Origin": "cse.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/cvr.yorku.ca..txt",
+      "NameServer": "ns1.cvr.yorku.ca.",
+      "Origin": "cvr.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/dce.yorku.ca..txt",
+      "NameServer": "ns1.dce.yorku.ca.",
+      "Origin": "dce.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/design.yorku.ca..txt",
+      "NameServer": "ns1.design.yorku.ca.",
+      "Origin": "design.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/dev.yorku.ca..txt",
+      "NameServer": "ns1.dev.yorku.ca.",
+      "Origin": "dev.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/dlll.yorku.ca..txt",
+      "NameServer": "ns1.dlll.yorku.ca.",
+      "Origin": "dlll.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/eas.yorku.ca..txt",
+      "NameServer": "ns1.eas.yorku.ca.",
+      "Origin": "eas.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/eats.yorku.ca..txt",
+      "NameServer": "ns1.eats.yorku.ca.",
+      "Origin": "eats.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/econ.yorku.ca..txt",
+      "NameServer": "ns1.econ.yorku.ca.",
+      "Origin": "econ.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/edu.yorku.ca..txt",
+      "NameServer": "ns1.edu.yorku.ca.",
+      "Origin": "edu.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/educ.yorku.ca..txt",
+      "NameServer": "ns1.educ.yorku.ca.",
+      "Origin": "educ.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/elc.schulich.yorku.ca..txt",
+      "NameServer": "ns1.elc.schulich.yorku.ca.",
+      "Origin": "elc.schulich.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/elderlab.yorku.ca..txt",
+      "NameServer": "ns1.elderlab.yorku.ca.",
+      "Origin": "elderlab.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/eng.yorku.ca..txt",
+      "NameServer": "ns1.eng.yorku.ca.",
+      "Origin": "eng.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/eso.yorku.ca..txt",
+      "NameServer": "ns1.eso.yorku.ca.",
+      "Origin": "eso.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/execdev.schulich.yorku.ca..txt",
+      "NameServer": "ns1.execdev.schulich.yorku.ca.",
+      "Origin": "execdev.schulich.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/ezproxy.library.yorku.ca..txt",
+      "NameServer": "ns1.ezproxy.library.yorku.ca.",
+      "Origin": "ezproxy.library.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/fes.yorku.ca..txt",
+      "NameServer": "ns1.fes.yorku.ca.",
+      "Origin": "fes.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/finearts.yorku.ca..txt",
+      "NameServer": "ns1.finearts.yorku.ca.",
+      "Origin": "finearts.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/fsc.yorku.ca..txt",
+      "NameServer": "ns1.fsc.yorku.ca.",
+      "Origin": "fsc.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/futurestudents.yorku.ca..txt",
+      "NameServer": "ns1.futurestudents.yorku.ca.",
+      "Origin": "futurestudents.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/gforge.yorku.ca..txt",
+      "NameServer": "ns1.gforge.yorku.ca.",
+      "Origin": "gforge.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/glendon.yorku.ca..txt",
+      "NameServer": "ns1.glendon.yorku.ca.",
+      "Origin": "glendon.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/gw.yorku.ca..txt",
+      "NameServer": "ns1.gw.yorku.ca.",
+      "Origin": "gw.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/health.yorku.ca..txt",
+      "NameServer": "ns1.health.yorku.ca.",
+      "Origin": "health.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/hep.yorku.ca..txt",
+      "NameServer": "ns1.hep.yorku.ca.",
+      "Origin": "hep.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/hprn.yorku.ca..txt",
+      "NameServer": "ns1.hprn.yorku.ca.",
+      "Origin": "hprn.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/info.library.yorku.ca..txt",
+      "NameServer": "ns1.info.library.yorku.ca.",
+      "Origin": "info.library.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/info.yorku.ca..txt",
+      "NameServer": "ns1.info.yorku.ca.",
+      "Origin": "info.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/infosec.yorku.ca..txt",
+      "NameServer": "ns1.infosec.yorku.ca.",
+      "Origin": "infosec.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/ipns.yorku.ca..txt",
+      "NameServer": "ns1.ipns.yorku.ca.",
+      "Origin": "ipns.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/isr.yorku.ca..txt",
+      "NameServer": "ns1.isr.yorku.ca.",
+      "Origin": "isr.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/istheory.yorku.ca..txt",
+      "NameServer": "ns1.istheory.yorku.ca.",
+      "Origin": "istheory.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/its.yorku.ca..txt",
+      "NameServer": "ns1.its.yorku.ca.",
+      "Origin": "its.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/josephus.yorku.ca..txt",
+      "NameServer": "ns1.josephus.yorku.ca.",
+      "Origin": "josephus.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/justlabour.yorku.ca..txt",
+      "NameServer": "ns1.justlabour.yorku.ca.",
+      "Origin": "justlabour.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/kinesiology.yorku.ca..txt",
+      "NameServer": "ns1.kinesiology.yorku.ca.",
+      "Origin": "kinesiology.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/laps.yorku.ca..txt",
+      "NameServer": "ns1.laps.yorku.ca.",
+      "Origin": "laps.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/library.yorku.ca..txt",
+      "NameServer": "ns1.library.yorku.ca.",
+      "Origin": "library.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/math.yorku.ca..txt",
+      "NameServer": "ns1.math.yorku.ca.",
+      "Origin": "math.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/mathstat.yorku.ca..txt",
+      "NameServer": "ns1.mathstat.yorku.ca.",
+      "Origin": "mathstat.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/modern.yorku.ca..txt",
+      "NameServer": "ns1.modern.yorku.ca.",
+      "Origin": "modern.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/moodle.yorku.ca..txt",
+      "NameServer": "ns1.moodle.yorku.ca.",
+      "Origin": "moodle.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/nats.yorku.ca..txt",
+      "NameServer": "ns1.nats.yorku.ca.",
+      "Origin": "nats.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/news.yorku.ca..txt",
+      "NameServer": "ns1.news.yorku.ca.",
+      "Origin": "news.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/notes.yorku.ca..txt",
+      "NameServer": "ns1.notes.yorku.ca.",
+      "Origin": "notes.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/ns.yorku.ca..txt",
+      "NameServer": "ns1.ns.yorku.ca.",
+      "Origin": "ns.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/ops.yorku.ca..txt",
+      "NameServer": "ns1.ops.yorku.ca.",
+      "Origin": "ops.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/osgoode.yorku.ca..txt",
+      "NameServer": "ns1.osgoode.yorku.ca.",
+      "Origin": "osgoode.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/phys.yorku.ca..txt",
+      "NameServer": "ns1.phys.yorku.ca.",
+      "Origin": "phys.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/physics.yorku.ca..txt",
+      "NameServer": "ns1.physics.yorku.ca.",
+      "Origin": "physics.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/psych.yorku.ca..txt",
+      "NameServer": "ns1.psych.yorku.ca.",
+      "Origin": "psych.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/recreation.yorku.ca..txt",
+      "NameServer": "ns1.recreation.yorku.ca.",
+      "Origin": "recreation.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/registrar.yorku.ca..txt",
+      "NameServer": "ns1.registrar.yorku.ca.",
+      "Origin": "registrar.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/research.yorku.ca..txt",
+      "NameServer": "ns1.research.yorku.ca.",
+      "Origin": "research.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/reslife.yorku.ca..txt",
+      "NameServer": "ns1.reslife.yorku.ca.",
+      "Origin": "reslife.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/resnet.yorku.ca..txt",
+      "NameServer": "ns1.resnet.yorku.ca.",
+      "Origin": "resnet.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/robarts.yorku.ca..txt",
+      "NameServer": "ns1.robarts.yorku.ca.",
+      "Origin": "robarts.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/saf.yorku.ca..txt",
+      "NameServer": "ns1.saf.yorku.ca.",
+      "Origin": "saf.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/schulich.yorku.ca..txt",
+      "NameServer": "ns1.schulich.yorku.ca.",
+      "Origin": "schulich.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/sci.yorku.ca..txt",
+      "NameServer": "ns1.sci.yorku.ca.",
+      "Origin": "sci.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/science.yorku.ca..txt",
+      "NameServer": "ns1.science.yorku.ca.",
+      "Origin": "science.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/scs.yorku.ca..txt",
+      "NameServer": "ns1.scs.yorku.ca.",
+      "Origin": "scs.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/seec.schulich.yorku.ca..txt",
+      "NameServer": "ns1.seec.schulich.yorku.ca.",
+      "Origin": "seec.schulich.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/sfs.yorku.ca..txt",
+      "NameServer": "ns1.sfs.yorku.ca.",
+      "Origin": "sfs.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/sis.yorku.ca..txt",
+      "NameServer": "ns1.sis.yorku.ca.",
+      "Origin": "sis.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/sit.yorku.ca..txt",
+      "NameServer": "ns1.sit.yorku.ca.",
+      "Origin": "sit.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/sport.yorku.ca..txt",
+      "NameServer": "ns1.sport.yorku.ca.",
+      "Origin": "sport.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/ssb.yorku.ca..txt",
+      "NameServer": "ns1.ssb.yorku.ca.",
+      "Origin": "ssb.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/stream.yorku.ca..txt",
+      "NameServer": "ns1.stream.yorku.ca.",
+      "Origin": "stream.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/studentaffairs.yorku.ca..txt",
+      "NameServer": "ns1.studentaffairs.yorku.ca.",
+      "Origin": "studentaffairs.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/students.yorku.ca..txt",
+      "NameServer": "ns1.students.yorku.ca.",
+      "Origin": "students.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/theoriapraxis.yorku.ca..txt",
+      "NameServer": "ns1.theoriapraxis.yorku.ca.",
+      "Origin": "theoriapraxis.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/tubman1.yorku.ca..txt",
+      "NameServer": "ns1.tubman1.yorku.ca.",
+      "Origin": "tubman1.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/uit.yorku.ca..txt",
+      "NameServer": "ns1.uit.yorku.ca.",
+      "Origin": "uit.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/vpacademic.yorku.ca..txt",
+      "NameServer": "ns1.vpacademic.yorku.ca.",
+      "Origin": "vpacademic.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/wilcoxlab.yorku.ca..txt",
+      "NameServer": "ns1.wilcoxlab.yorku.ca.",
+      "Origin": "wilcoxlab.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/windii.yorku.ca..txt",
+      "NameServer": "ns1.windii.yorku.ca.",
+      "Origin": "windii.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/yorku.ca..txt",
+      "NameServer": "ns1.yorku.ca.",
+      "Origin": "yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/yucard.yorku.ca..txt",
+      "NameServer": "ns1.yucard.yorku.ca.",
+      "Origin": "yucard.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/yucc.yorku.ca..txt",
+      "NameServer": "ns1.yucc.yorku.ca.",
+      "Origin": "yucc.yorku.ca."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census_no_wildcard_dname/files-100-500/yorku.ca/yueli.yorku.ca..txt",
+      "NameServer": "ns1.yueli.yorku.ca.",
+      "Origin": "yueli.yorku.ca."
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+group,dataset,dataset_id,scenario,status,skipped_reason
+files-100-500,vivilotz.com,files-100-500/vivilotz.com,CNAME_UPDATE,skipped,no CNAME record

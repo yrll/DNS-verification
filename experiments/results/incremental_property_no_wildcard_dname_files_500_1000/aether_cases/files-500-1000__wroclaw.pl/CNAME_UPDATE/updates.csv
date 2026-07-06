@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-500-1000/wroclaw.pl,accent.wroclaw.pl..txt,CNAME_UPDATE,DEL,www.accent.wroclaw.pl.,CNAME,accent.wroclaw.pl.
+files-500-1000/wroclaw.pl,accent.wroclaw.pl..txt,CNAME_UPDATE,ADD,www.accent.wroclaw.pl.,CNAME,cname-inc.accent.wroclaw.pl.

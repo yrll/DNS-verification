@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.mx,01dcpromo.com.mx..txt,A_ADD,ADD,__aether_veridns_inc__.01dcpromo.com.mx.,A,192.0.2.254

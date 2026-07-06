@@ -1,0 +1,547 @@
+{
+  "TopNameServers": [
+    "ns1.wendellbennett.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/a-direct-consolidation-loan.wendellbennett.com..txt",
+      "NameServer": "ns1.a-direct-consolidation-loan.wendellbennett.com.",
+      "Origin": "a-direct-consolidation-loan.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/accept-credit-card-payment-processing.wendellbennett.com..txt",
+      "NameServer": "ns1.accept-credit-card-payment-processing.wendellbennett.com.",
+      "Origin": "accept-credit-card-payment-processing.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/accredited-online-mba-degrees.wendellbennett.com..txt",
+      "NameServer": "ns1.accredited-online-mba-degrees.wendellbennett.com.",
+      "Origin": "accredited-online-mba-degrees.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/accredited-schools-illinois.wendellbennett.com..txt",
+      "NameServer": "ns1.accredited-schools-illinois.wendellbennett.com.",
+      "Origin": "accredited-schools-illinois.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/adverse-credit-history-people-remortgage.wendellbennett.com..txt",
+      "NameServer": "ns1.adverse-credit-history-people-remortgage.wendellbennett.com.",
+      "Origin": "adverse-credit-history-people-remortgage.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/amr-homeloans.wendellbennett.com..txt",
+      "NameServer": "ns1.amr-homeloans.wendellbennett.com.",
+      "Origin": "amr-homeloans.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/animation-computer-graphic-request-free-info-from-accredited.wendellbennett.com..txt",
+      "NameServer": "ns1.animation-computer-graphic-request-free-info-from-accredited.wendellbennett.com.",
+      "Origin": "animation-computer-graphic-request-free-info-from-accredited.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-a-loan-in-the.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-a-loan-in-the.wendellbennett.com.",
+      "Origin": "apply-for-a-loan-in-the.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-a-loan-on-a.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-a-loan-on-a.wendellbennett.com.",
+      "Origin": "apply-for-a-loan-on-a.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-a-loan-on.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-a-loan-on.wendellbennett.com.",
+      "Origin": "apply-for-a-loan-on.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-a-loan-or.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-a-loan-or.wendellbennett.com.",
+      "Origin": "apply-for-a-loan-or.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-a-loan-over-the.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-a-loan-over-the.wendellbennett.com.",
+      "Origin": "apply-for-a-loan-over-the.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-a-loan-over.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-a-loan-over.wendellbennett.com.",
+      "Origin": "apply-for-a-loan-over.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-a-loan-that.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-a-loan-that.wendellbennett.com.",
+      "Origin": "apply-for-a-loan-that.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-a-loan-through.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-a-loan-through.wendellbennett.com.",
+      "Origin": "apply-for-a-loan-through.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-a-loan-to-buy.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-a-loan-to-buy.wendellbennett.com.",
+      "Origin": "apply-for-a-loan-to-buy.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-a-loan-using.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-a-loan-using.wendellbennett.com.",
+      "Origin": "apply-for-a-loan-using.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/apply-for-loans-for-college.wendellbennett.com..txt",
+      "NameServer": "ns1.apply-for-loans-for-college.wendellbennett.com.",
+      "Origin": "apply-for-loans-for-college.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/bad-credit-low-mortgage.wendellbennett.com..txt",
+      "NameServer": "ns1.bad-credit-low-mortgage.wendellbennett.com.",
+      "Origin": "bad-credit-low-mortgage.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/best-consolidation-debt-services.wendellbennett.com..txt",
+      "NameServer": "ns1.best-consolidation-debt-services.wendellbennett.com.",
+      "Origin": "best-consolidation-debt-services.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/best-credit-card-for-transfer-balance.wendellbennett.com..txt",
+      "NameServer": "ns1.best-credit-card-for-transfer-balance.wendellbennett.com.",
+      "Origin": "best-credit-card-for-transfer-balance.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/best-fha-loan-rates.wendellbennett.com..txt",
+      "NameServer": "ns1.best-fha-loan-rates.wendellbennett.com.",
+      "Origin": "best-fha-loan-rates.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/best-home-loan-rates-in.wendellbennett.com..txt",
+      "NameServer": "ns1.best-home-loan-rates-in.wendellbennett.com.",
+      "Origin": "best-home-loan-rates-in.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/card-applications-for-people-with-bad-credit-good-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.card-applications-for-people-with-bad-credit-good-credit.wendellbennett.com.",
+      "Origin": "card-applications-for-people-with-bad-credit-good-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/card-credit-lowest-rate.wendellbennett.com..txt",
+      "NameServer": "ns1.card-credit-lowest-rate.wendellbennett.com.",
+      "Origin": "card-credit-lowest-rate.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/card-credit-processing-rate.wendellbennett.com..txt",
+      "NameServer": "ns1.card-credit-processing-rate.wendellbennett.com.",
+      "Origin": "card-credit-processing-rate.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/computer-graphic-request-free-info-from-accredited-online.wendellbennett.com..txt",
+      "NameServer": "ns1.computer-graphic-request-free-info-from-accredited-online.wendellbennett.com.",
+      "Origin": "computer-graphic-request-free-info-from-accredited-online.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/computer-graphic-request-free-info-from-accredited.wendellbennett.com..txt",
+      "NameServer": "ns1.computer-graphic-request-free-info-from-accredited.wendellbennett.com.",
+      "Origin": "computer-graphic-request-free-info-from-accredited.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/corporation-counseling-debt.wendellbennett.com..txt",
+      "NameServer": "ns1.corporation-counseling-debt.wendellbennett.com.",
+      "Origin": "corporation-counseling-debt.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/countrwide-homeloans.wendellbennett.com..txt",
+      "NameServer": "ns1.countrwide-homeloans.wendellbennett.com.",
+      "Origin": "countrwide-homeloans.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/county-mortgage-credit-certificate.wendellbennett.com..txt",
+      "NameServer": "ns1.county-mortgage-credit-certificate.wendellbennett.com.",
+      "Origin": "county-mortgage-credit-certificate.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/credit-card-debit-when.wendellbennett.com..txt",
+      "NameServer": "ns1.credit-card-debit-when.wendellbennett.com.",
+      "Origin": "credit-card-debit-when.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/credit-card-debit-without.wendellbennett.com..txt",
+      "NameServer": "ns1.credit-card-debit-without.wendellbennett.com.",
+      "Origin": "credit-card-debit-without.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/credit-card-not-debit.wendellbennett.com..txt",
+      "NameServer": "ns1.credit-card-not-debit.wendellbennett.com.",
+      "Origin": "credit-card-not-debit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/credit-debit-card-payment.wendellbennett.com..txt",
+      "NameServer": "ns1.credit-debit-card-payment.wendellbennett.com.",
+      "Origin": "credit-debit-card-payment.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/credit-debit-card-transactions.wendellbennett.com..txt",
+      "NameServer": "ns1.credit-debit-card-transactions.wendellbennett.com.",
+      "Origin": "credit-debit-card-transactions.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/credit-mortgage-online.wendellbennett.com..txt",
+      "NameServer": "ns1.credit-mortgage-online.wendellbennett.com.",
+      "Origin": "credit-mortgage-online.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/d-ford-direct-loan-consolidation.wendellbennett.com..txt",
+      "NameServer": "ns1.d-ford-direct-loan-consolidation.wendellbennett.com.",
+      "Origin": "d-ford-direct-loan-consolidation.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/debit-card-like-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.debit-card-like-credit.wendellbennett.com.",
+      "Origin": "debit-card-like-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/debit-credit-card-princeton.wendellbennett.com..txt",
+      "NameServer": "ns1.debit-credit-card-princeton.wendellbennett.com.",
+      "Origin": "debit-credit-card-princeton.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/debt-consolidation-and-bill-consolidation.wendellbennett.com..txt",
+      "NameServer": "ns1.debt-consolidation-and-bill-consolidation.wendellbennett.com.",
+      "Origin": "debt-consolidation-and-bill-consolidation.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/debt-debt-help-need-paying-reduction.wendellbennett.com..txt",
+      "NameServer": "ns1.debt-debt-help-need-paying-reduction.wendellbennett.com.",
+      "Origin": "debt-debt-help-need-paying-reduction.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/diego-county-mortgage-credit-certificate.wendellbennett.com..txt",
+      "NameServer": "ns1.diego-county-mortgage-credit-certificate.wendellbennett.com.",
+      "Origin": "diego-county-mortgage-credit-certificate.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/direct-loan-consolidation-loan-from.wendellbennett.com..txt",
+      "NameServer": "ns1.direct-loan-consolidation-loan-from.wendellbennett.com.",
+      "Origin": "direct-loan-consolidation-loan-from.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/direct-loan-consolidation-rate.wendellbennett.com..txt",
+      "NameServer": "ns1.direct-loan-consolidation-rate.wendellbennett.com.",
+      "Origin": "direct-loan-consolidation-rate.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/direct-loan-consolidation-rates.wendellbennett.com..txt",
+      "NameServer": "ns1.direct-loan-consolidation-rates.wendellbennett.com.",
+      "Origin": "direct-loan-consolidation-rates.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/direct-loan-servicing-consolidation.wendellbennett.com..txt",
+      "NameServer": "ns1.direct-loan-servicing-consolidation.wendellbennett.com.",
+      "Origin": "direct-loan-servicing-consolidation.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/does-credit-card-debit.wendellbennett.com..txt",
+      "NameServer": "ns1.does-credit-card-debit.wendellbennett.com.",
+      "Origin": "does-credit-card-debit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/equity-and-debt-offerings.wendellbennett.com..txt",
+      "NameServer": "ns1.equity-and-debt-offerings.wendellbennett.com.",
+      "Origin": "equity-and-debt-offerings.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/find-home-loans-with-bad-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.find-home-loans-with-bad-credit.wendellbennett.com.",
+      "Origin": "find-home-loans-with-bad-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/first-time-home-buyer-loans-for-people-with-bad-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.first-time-home-buyer-loans-for-people-with-bad-credit.wendellbennett.com.",
+      "Origin": "first-time-home-buyer-loans-for-people-with-bad-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/four-laws-of-debt-free.wendellbennett.com..txt",
+      "NameServer": "ns1.four-laws-of-debt-free.wendellbennett.com.",
+      "Origin": "four-laws-of-debt-free.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/free-credit-report-fcra.wendellbennett.com..txt",
+      "NameServer": "ns1.free-credit-report-fcra.wendellbennett.com.",
+      "Origin": "free-credit-report-fcra.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/georgia-loan-officer-license.wendellbennett.com..txt",
+      "NameServer": "ns1.georgia-loan-officer-license.wendellbennett.com.",
+      "Origin": "georgia-loan-officer-license.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/get-loan-officer-license.wendellbennett.com..txt",
+      "NameServer": "ns1.get-loan-officer-license.wendellbennett.com.",
+      "Origin": "get-loan-officer-license.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/goverment-homeloans.wendellbennett.com..txt",
+      "NameServer": "ns1.goverment-homeloans.wendellbennett.com.",
+      "Origin": "goverment-homeloans.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/her-credit-debit-card.wendellbennett.com..txt",
+      "NameServer": "ns1.her-credit-debit-card.wendellbennett.com.",
+      "Origin": "her-credit-debit-card.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/home-buyer-loans-for-bad-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.home-buyer-loans-for-bad-credit.wendellbennett.com.",
+      "Origin": "home-buyer-loans-for-bad-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/home-equity-lines-of-credit-with.wendellbennett.com..txt",
+      "NameServer": "ns1.home-equity-lines-of-credit-with.wendellbennett.com.",
+      "Origin": "home-equity-lines-of-credit-with.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/home-equity-loan-information-offering.wendellbennett.com..txt",
+      "NameServer": "ns1.home-equity-loan-information-offering.wendellbennett.com.",
+      "Origin": "home-equity-loan-information-offering.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/home-loans-to-people-with-bad-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.home-loans-to-people-with-bad-credit.wendellbennett.com.",
+      "Origin": "home-loans-to-people-with-bad-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/homeloan-learning-center.wendellbennett.com..txt",
+      "NameServer": "ns1.homeloan-learning-center.wendellbennett.com.",
+      "Origin": "homeloan-learning-center.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/how-can-i-get-out-of-debt-without.wendellbennett.com..txt",
+      "NameServer": "ns1.how-can-i-get-out-of-debt-without.wendellbennett.com.",
+      "Origin": "how-can-i-get-out-of-debt-without.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/il-loan-officer-license.wendellbennett.com..txt",
+      "NameServer": "ns1.il-loan-officer-license.wendellbennett.com.",
+      "Origin": "il-loan-officer-license.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/indiana-loan-officer-license.wendellbennett.com..txt",
+      "NameServer": "ns1.indiana-loan-officer-license.wendellbennett.com.",
+      "Origin": "indiana-loan-officer-license.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/is-home-equity-lines-of-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.is-home-equity-lines-of-credit.wendellbennett.com.",
+      "Origin": "is-home-equity-lines-of-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/jumpstart-homeloans.wendellbennett.com..txt",
+      "NameServer": "ns1.jumpstart-homeloans.wendellbennett.com.",
+      "Origin": "jumpstart-homeloans.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/know-about-home-equity-lines-of-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.know-about-home-equity-lines-of-credit.wendellbennett.com.",
+      "Origin": "know-about-home-equity-lines-of-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/lackland-afb-credit-union.wendellbennett.com..txt",
+      "NameServer": "ns1.lackland-afb-credit-union.wendellbennett.com.",
+      "Origin": "lackland-afb-credit-union.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/lawsuit-loan-settlement.wendellbennett.com..txt",
+      "NameServer": "ns1.lawsuit-loan-settlement.wendellbennett.com.",
+      "Origin": "lawsuit-loan-settlement.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/license-for-loan-officer.wendellbennett.com..txt",
+      "NameServer": "ns1.license-for-loan-officer.wendellbennett.com.",
+      "Origin": "license-for-loan-officer.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/license-to-be-a-loan-officer.wendellbennett.com..txt",
+      "NameServer": "ns1.license-to-be-a-loan-officer.wendellbennett.com.",
+      "Origin": "license-to-be-a-loan-officer.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/limit-credit-score.wendellbennett.com..txt",
+      "NameServer": "ns1.limit-credit-score.wendellbennett.com.",
+      "Origin": "limit-credit-score.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/line-of-credit-loan-small-business.wendellbennett.com..txt",
+      "NameServer": "ns1.line-of-credit-loan-small-business.wendellbennett.com.",
+      "Origin": "line-of-credit-loan-small-business.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/loan-officer-license-application.wendellbennett.com..txt",
+      "NameServer": "ns1.loan-officer-license-application.wendellbennett.com.",
+      "Origin": "loan-officer-license-application.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/loan-officer-license-in-ohio.wendellbennett.com..txt",
+      "NameServer": "ns1.loan-officer-license-in-ohio.wendellbennett.com.",
+      "Origin": "loan-officer-license-in-ohio.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/loan-officer-license-test.wendellbennett.com..txt",
+      "NameServer": "ns1.loan-officer-license-test.wendellbennett.com.",
+      "Origin": "loan-officer-license-test.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/loan-to-value-fha.wendellbennett.com..txt",
+      "NameServer": "ns1.loan-to-value-fha.wendellbennett.com.",
+      "Origin": "loan-to-value-fha.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/loan-to-value-rates.wendellbennett.com..txt",
+      "NameServer": "ns1.loan-to-value-rates.wendellbennett.com.",
+      "Origin": "loan-to-value-rates.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/loan-to-value-real-estate.wendellbennett.com..txt",
+      "NameServer": "ns1.loan-to-value-real-estate.wendellbennett.com.",
+      "Origin": "loan-to-value-real-estate.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/lower-credit-debt.wendellbennett.com..txt",
+      "NameServer": "ns1.lower-credit-debt.wendellbennett.com.",
+      "Origin": "lower-credit-debt.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/lower-your-student-loan.wendellbennett.com..txt",
+      "NameServer": "ns1.lower-your-student-loan.wendellbennett.com.",
+      "Origin": "lower-your-student-loan.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/lowering-your-debt.wendellbennett.com..txt",
+      "NameServer": "ns1.lowering-your-debt.wendellbennett.com.",
+      "Origin": "lowering-your-debt.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/magnetize-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.magnetize-credit.wendellbennett.com.",
+      "Origin": "magnetize-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/management-debt-free.wendellbennett.com..txt",
+      "NameServer": "ns1.management-debt-free.wendellbennett.com.",
+      "Origin": "management-debt-free.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/md-loan-officer-license.wendellbennett.com..txt",
+      "NameServer": "ns1.md-loan-officer-license.wendellbennett.com.",
+      "Origin": "md-loan-officer-license.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/mortgage-help-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.mortgage-help-credit.wendellbennett.com.",
+      "Origin": "mortgage-help-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/mortgage-loans-help.wendellbennett.com..txt",
+      "NameServer": "ns1.mortgage-loans-help.wendellbennett.com.",
+      "Origin": "mortgage-loans-help.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/nationalcity-loan.wendellbennett.com..txt",
+      "NameServer": "ns1.nationalcity-loan.wendellbennett.com.",
+      "Origin": "nationalcity-loan.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/nationalcity-loans.wendellbennett.com..txt",
+      "NameServer": "ns1.nationalcity-loans.wendellbennett.com.",
+      "Origin": "nationalcity-loans.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/no-fax-payday-loan-in.wendellbennett.com..txt",
+      "NameServer": "ns1.no-fax-payday-loan-in.wendellbennett.com.",
+      "Origin": "no-fax-payday-loan-in.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/no-fax-payday-loans-with.wendellbennett.com..txt",
+      "NameServer": "ns1.no-fax-payday-loans-with.wendellbennett.com.",
+      "Origin": "no-fax-payday-loans-with.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/of-home-equity-lines-of-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.of-home-equity-lines-of-credit.wendellbennett.com.",
+      "Origin": "of-home-equity-lines-of-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/on-accreditation-of-the-american.wendellbennett.com..txt",
+      "NameServer": "ns1.on-accreditation-of-the-american.wendellbennett.com.",
+      "Origin": "on-accreditation-of-the-american.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/online-credit-card-processing.wendellbennett.com..txt",
+      "NameServer": "ns1.online-credit-card-processing.wendellbennett.com.",
+      "Origin": "online-credit-card-processing.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/payday-loans-no-fax-bad.wendellbennett.com..txt",
+      "NameServer": "ns1.payday-loans-no-fax-bad.wendellbennett.com.",
+      "Origin": "payday-loans-no-fax-bad.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/payday-loans-no-faxing-or.wendellbennett.com..txt",
+      "NameServer": "ns1.payday-loans-no-faxing-or.wendellbennett.com.",
+      "Origin": "payday-loans-no-faxing-or.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/quantro-homeloans.wendellbennett.com..txt",
+      "NameServer": "ns1.quantro-homeloans.wendellbennett.com.",
+      "Origin": "quantro-homeloans.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/restaurant-debt.wendellbennett.com..txt",
+      "NameServer": "ns1.restaurant-debt.wendellbennett.com.",
+      "Origin": "restaurant-debt.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/service-homeloan-com.wendellbennett.com..txt",
+      "NameServer": "ns1.service-homeloan-com.wendellbennett.com.",
+      "Origin": "service-homeloan-com.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/service-homeloan.wendellbennett.com..txt",
+      "NameServer": "ns1.service-homeloan.wendellbennett.com.",
+      "Origin": "service-homeloan.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/should-know-about-home-equity-lines-of-credit.wendellbennett.com..txt",
+      "NameServer": "ns1.should-know-about-home-equity-lines-of-credit.wendellbennett.com.",
+      "Origin": "should-know-about-home-equity-lines-of-credit.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/site-credit-card-processing.wendellbennett.com..txt",
+      "NameServer": "ns1.site-credit-card-processing.wendellbennett.com.",
+      "Origin": "site-credit-card-processing.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/tesco-personal-finance-loan-calculator.wendellbennett.com..txt",
+      "NameServer": "ns1.tesco-personal-finance-loan-calculator.wendellbennett.com.",
+      "Origin": "tesco-personal-finance-loan-calculator.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/the-best-home-equity-loan-rates.wendellbennett.com..txt",
+      "NameServer": "ns1.the-best-home-equity-loan-rates.wendellbennett.com.",
+      "Origin": "the-best-home-equity-loan-rates.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/the-best-home-loan-rates.wendellbennett.com..txt",
+      "NameServer": "ns1.the-best-home-loan-rates.wendellbennett.com.",
+      "Origin": "the-best-home-loan-rates.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/undergraduate-student-loan-debt.wendellbennett.com..txt",
+      "NameServer": "ns1.undergraduate-student-loan-debt.wendellbennett.com.",
+      "Origin": "undergraduate-student-loan-debt.wendellbennett.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/wendellbennett.com/wendellbennett.com..txt",
+      "NameServer": "ns1.wendellbennett.com.",
+      "Origin": "wendellbennett.com."
+    }
+  ]
+}

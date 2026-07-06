@@ -1,0 +1,7 @@
+r.class.wlgc.com. 	3600	IN	SOA	ns1.r.class.wlgc.com. 19122302 14400 3600 2419200 14400
+r.class.wlgc.com.		    IN	NS ns1.r.class.wlgc.com.
+r.class.wlgc.com.		    IN	NS ns2.r.class.wlgc.com.
+ns1.r.class.wlgc.com.	    IN	A	10.166.10.15
+ns2.r.class.wlgc.com.	    IN	A 	10.166.10.12
+
+

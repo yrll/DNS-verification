@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/co.kr,0.co.kr..txt,NS_UPDATE,DEL,0.co.kr.,NS,ns1.koso.net.
+top-10/co.kr,0.co.kr..txt,NS_UPDATE,ADD,0.co.kr.,NS,ns-inc.0.co.kr.

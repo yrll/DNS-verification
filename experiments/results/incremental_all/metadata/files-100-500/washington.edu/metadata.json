@@ -1,0 +1,1962 @@
+{
+  "TopNameServers": [
+    "ns1.washington.edu."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/aa.washington.edu..txt",
+      "NameServer": "ns1.aa.washington.edu.",
+      "Origin": "aa.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/acoustics.washington.edu..txt",
+      "NameServer": "ns1.acoustics.washington.edu.",
+      "Origin": "acoustics.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/adai.washington.edu..txt",
+      "NameServer": "ns1.adai.washington.edu.",
+      "Origin": "adai.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/adis.washington.edu..txt",
+      "NameServer": "ns1.adis.washington.edu.",
+      "Origin": "adis.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/admin.bioeng.washington.edu..txt",
+      "NameServer": "ns1.admin.bioeng.washington.edu.",
+      "Origin": "admin.bioeng.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/admin.washington.edu..txt",
+      "NameServer": "ns1.admin.washington.edu.",
+      "Origin": "admin.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/admit.washington.edu..txt",
+      "NameServer": "ns1.admit.washington.edu.",
+      "Origin": "admit.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/advance.admin.washington.edu..txt",
+      "NameServer": "ns1.advance.admin.washington.edu.",
+      "Origin": "advance.admin.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/alpine.washington.edu..txt",
+      "NameServer": "ns1.alpine.washington.edu.",
+      "Origin": "alpine.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/alumni.washington.edu..txt",
+      "NameServer": "ns1.alumni.washington.edu.",
+      "Origin": "alumni.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/alz.washington.edu..txt",
+      "NameServer": "ns1.alz.washington.edu.",
+      "Origin": "alz.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/amath.washington.edu..txt",
+      "NameServer": "ns1.amath.washington.edu.",
+      "Origin": "amath.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/amc.washington.edu..txt",
+      "NameServer": "ns1.amc.washington.edu.",
+      "Origin": "amc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/analytics.washington.edu..txt",
+      "NameServer": "ns1.analytics.washington.edu.",
+      "Origin": "analytics.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/apl.washington.edu..txt",
+      "NameServer": "ns1.apl.washington.edu.",
+      "Origin": "apl.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/apps.washington.edu..txt",
+      "NameServer": "ns1.apps.washington.edu.",
+      "Origin": "apps.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/art.washington.edu..txt",
+      "NameServer": "ns1.art.washington.edu.",
+      "Origin": "art.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/artsci.washington.edu..txt",
+      "NameServer": "ns1.artsci.washington.edu.",
+      "Origin": "artsci.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ascomp.washington.edu..txt",
+      "NameServer": "ns1.ascomp.washington.edu.",
+      "Origin": "ascomp.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ast.cac.washington.edu..txt",
+      "NameServer": "ns1.ast.cac.washington.edu.",
+      "Origin": "ast.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/astro.washington.edu..txt",
+      "NameServer": "ns1.astro.washington.edu.",
+      "Origin": "astro.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/atmos.washington.edu..txt",
+      "NameServer": "ns1.atmos.washington.edu.",
+      "Origin": "atmos.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/autism.washington.edu..txt",
+      "NameServer": "ns1.autism.washington.edu.",
+      "Origin": "autism.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/backstreet.cac.washington.edu..txt",
+      "NameServer": "ns1.backstreet.cac.washington.edu.",
+      "Origin": "backstreet.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/badm.washington.edu..txt",
+      "NameServer": "ns1.badm.washington.edu.",
+      "Origin": "badm.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/barista.cac.washington.edu..txt",
+      "NameServer": "ns1.barista.cac.washington.edu.",
+      "Origin": "barista.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/bb.tacoma.washington.edu..txt",
+      "NameServer": "ns1.bb.tacoma.washington.edu.",
+      "Origin": "bb.tacoma.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/bcc.washington.edu..txt",
+      "NameServer": "ns1.bcc.washington.edu.",
+      "Origin": "bcc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/be.washington.edu..txt",
+      "NameServer": "ns1.be.washington.edu.",
+      "Origin": "be.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/bhi.washington.edu..txt",
+      "NameServer": "ns1.bhi.washington.edu.",
+      "Origin": "bhi.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/bioeng.washington.edu..txt",
+      "NameServer": "ns1.bioeng.washington.edu.",
+      "Origin": "bioeng.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/biology.washington.edu..txt",
+      "NameServer": "ns1.biology.washington.edu.",
+      "Origin": "biology.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/biostat.washington.edu..txt",
+      "NameServer": "ns1.biostat.washington.edu.",
+      "Origin": "biostat.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/biostr.washington.edu..txt",
+      "NameServer": "ns1.biostr.washington.edu.",
+      "Origin": "biostr.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/biotech.washington.edu..txt",
+      "NameServer": "ns1.biotech.washington.edu.",
+      "Origin": "biotech.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/bmsc.washington.edu..txt",
+      "NameServer": "ns1.bmsc.washington.edu.",
+      "Origin": "bmsc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/boat.washington.edu..txt",
+      "NameServer": "ns1.boat.washington.edu.",
+      "Origin": "boat.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/bookstore.washington.edu..txt",
+      "NameServer": "ns1.bookstore.washington.edu.",
+      "Origin": "bookstore.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/bothell.washington.edu..txt",
+      "NameServer": "ns1.bothell.washington.edu.",
+      "Origin": "bothell.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/brtc.psych.washington.edu..txt",
+      "NameServer": "ns1.brtc.psych.washington.edu.",
+      "Origin": "brtc.psych.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/bschool.washington.edu..txt",
+      "NameServer": "ns1.bschool.washington.edu.",
+      "Origin": "bschool.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/bugzilla.cac.washington.edu..txt",
+      "NameServer": "ns1.bugzilla.cac.washington.edu.",
+      "Origin": "bugzilla.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/burke.washington.edu..txt",
+      "NameServer": "ns1.burke.washington.edu.",
+      "Origin": "burke.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/burkemuseum.washington.edu..txt",
+      "NameServer": "ns1.burkemuseum.washington.edu.",
+      "Origin": "burkemuseum.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cac.washington.edu..txt",
+      "NameServer": "ns1.cac.washington.edu.",
+      "Origin": "cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/careers.washington.edu..txt",
+      "NameServer": "ns1.careers.washington.edu.",
+      "Origin": "careers.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/carom.cac.washington.edu..txt",
+      "NameServer": "ns1.carom.cac.washington.edu.",
+      "Origin": "carom.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/caup.washington.edu..txt",
+      "NameServer": "ns1.caup.washington.edu.",
+      "Origin": "caup.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cbr.washington.edu..txt",
+      "NameServer": "ns1.cbr.washington.edu.",
+      "Origin": "cbr.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cbs.biostat.washington.edu..txt",
+      "NameServer": "ns1.cbs.biostat.washington.edu.",
+      "Origin": "cbs.biostat.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ce.washington.edu..txt",
+      "NameServer": "ns1.ce.washington.edu.",
+      "Origin": "ce.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/certs.cac.washington.edu..txt",
+      "NameServer": "ns1.certs.cac.washington.edu.",
+      "Origin": "certs.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cev.washington.edu..txt",
+      "NameServer": "ns1.cev.washington.edu.",
+      "Origin": "cev.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cfr.washington.edu..txt",
+      "NameServer": "ns1.cfr.washington.edu.",
+      "Origin": "cfr.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/change.washington.edu..txt",
+      "NameServer": "ns1.change.washington.edu.",
+      "Origin": "change.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/chdd.washington.edu..txt",
+      "NameServer": "ns1.chdd.washington.edu.",
+      "Origin": "chdd.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/chem.washington.edu..txt",
+      "NameServer": "ns1.chem.washington.edu.",
+      "Origin": "chem.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cheme.washington.edu..txt",
+      "NameServer": "ns1.cheme.washington.edu.",
+      "Origin": "cheme.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cher.washington.edu..txt",
+      "NameServer": "ns1.cher.washington.edu.",
+      "Origin": "cher.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/chscc.biostat.washington.edu..txt",
+      "NameServer": "ns1.chscc.biostat.washington.edu.",
+      "Origin": "chscc.biostat.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cidr.washington.edu..txt",
+      "NameServer": "ns1.cidr.washington.edu.",
+      "Origin": "cidr.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cirg.washington.edu..txt",
+      "NameServer": "ns1.cirg.washington.edu.",
+      "Origin": "cirg.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cis.washington.edu..txt",
+      "NameServer": "ns1.cis.washington.edu.",
+      "Origin": "cis.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/civilrights.washington.edu..txt",
+      "NameServer": "ns1.civilrights.washington.edu.",
+      "Origin": "civilrights.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/classics.washington.edu..txt",
+      "NameServer": "ns1.classics.washington.edu.",
+      "Origin": "classics.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/climate.washington.edu..txt",
+      "NameServer": "ns1.climate.washington.edu.",
+      "Origin": "climate.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/coenv.washington.edu..txt",
+      "NameServer": "ns1.coenv.washington.edu.",
+      "Origin": "coenv.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cofs.washington.edu..txt",
+      "NameServer": "ns1.cofs.washington.edu.",
+      "Origin": "cofs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cognitivetech.washington.edu..txt",
+      "NameServer": "ns1.cognitivetech.washington.edu.",
+      "Origin": "cognitivetech.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/com.washington.edu..txt",
+      "NameServer": "ns1.com.washington.edu.",
+      "Origin": "com.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/commons.washington.edu..txt",
+      "NameServer": "ns1.commons.washington.edu.",
+      "Origin": "commons.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/compbio.washington.edu..txt",
+      "NameServer": "ns1.compbio.washington.edu.",
+      "Origin": "compbio.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/compling.washington.edu..txt",
+      "NameServer": "ns1.compling.washington.edu.",
+      "Origin": "compling.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/confucius.washington.edu..txt",
+      "NameServer": "ns1.confucius.washington.edu.",
+      "Origin": "confucius.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/constructionengineering.washington.edu..txt",
+      "NameServer": "ns1.constructionengineering.washington.edu.",
+      "Origin": "constructionengineering.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/coral.washington.edu..txt",
+      "NameServer": "ns1.coral.washington.edu.",
+      "Origin": "coral.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/courses.washington.edu..txt",
+      "NameServer": "ns1.courses.washington.edu.",
+      "Origin": "courses.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cpac.washington.edu..txt",
+      "NameServer": "ns1.cpac.washington.edu.",
+      "Origin": "cpac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cphi.washington.edu..txt",
+      "NameServer": "ns1.cphi.washington.edu.",
+      "Origin": "cphi.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cpo.washington.edu..txt",
+      "NameServer": "ns1.cpo.washington.edu.",
+      "Origin": "cpo.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cqs.washington.edu..txt",
+      "NameServer": "ns1.cqs.washington.edu.",
+      "Origin": "cqs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/crc.washington.edu..txt",
+      "NameServer": "ns1.crc.washington.edu.",
+      "Origin": "crc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/creatcom.washington.edu..txt",
+      "NameServer": "ns1.creatcom.washington.edu.",
+      "Origin": "creatcom.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cs.washington.edu..txt",
+      "NameServer": "ns1.cs.washington.edu.",
+      "Origin": "cs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/csde.washington.edu..txt",
+      "NameServer": "ns1.csde.washington.edu.",
+      "Origin": "csde.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cse.washington.edu..txt",
+      "NameServer": "ns1.cse.washington.edu.",
+      "Origin": "cse.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cseexec.cs.washington.edu..txt",
+      "NameServer": "ns1.cseexec.cs.washington.edu.",
+      "Origin": "cseexec.cs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/csepclab.cs.washington.edu..txt",
+      "NameServer": "ns1.csepclab.cs.washington.edu.",
+      "Origin": "csepclab.cs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cseresearch.cs.washington.edu..txt",
+      "NameServer": "ns1.cseresearch.cs.washington.edu.",
+      "Origin": "cseresearch.cs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cses.washington.edu..txt",
+      "NameServer": "ns1.cses.washington.edu.",
+      "Origin": "cses.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/csne.washington.edu..txt",
+      "NameServer": "ns1.csne.washington.edu.",
+      "Origin": "csne.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/cspn.washington.edu..txt",
+      "NameServer": "ns1.cspn.washington.edu.",
+      "Origin": "cspn.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/css.washington.edu..txt",
+      "NameServer": "ns1.css.washington.edu.",
+      "Origin": "css.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/csscr.washington.edu..txt",
+      "NameServer": "ns1.csscr.washington.edu.",
+      "Origin": "csscr.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/csss.washington.edu..txt",
+      "NameServer": "ns1.csss.washington.edu.",
+      "Origin": "csss.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ctds.washington.edu..txt",
+      "NameServer": "ns1.ctds.washington.edu.",
+      "Origin": "ctds.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/daffy.cac.washington.edu..txt",
+      "NameServer": "ns1.daffy.cac.washington.edu.",
+      "Origin": "daffy.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/dental.washington.edu..txt",
+      "NameServer": "ns1.dental.washington.edu.",
+      "Origin": "dental.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/deohs.washington.edu..txt",
+      "NameServer": "ns1.deohs.washington.edu.",
+      "Origin": "deohs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/depts.washington.edu..txt",
+      "NameServer": "ns1.depts.washington.edu.",
+      "Origin": "depts.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/devar.washington.edu..txt",
+      "NameServer": "ns1.devar.washington.edu.",
+      "Origin": "devar.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/dhcp4.washington.edu..txt",
+      "NameServer": "ns1.dhcp4.washington.edu.",
+      "Origin": "dhcp4.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/digitalwell.washington.edu..txt",
+      "NameServer": "ns1.digitalwell.washington.edu.",
+      "Origin": "digitalwell.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/dme.washington.edu..txt",
+      "NameServer": "ns1.dme.washington.edu.",
+      "Origin": "dme.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/dom.washington.edu..txt",
+      "NameServer": "ns1.dom.washington.edu.",
+      "Origin": "dom.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/drama.washington.edu..txt",
+      "NameServer": "ns1.drama.washington.edu.",
+      "Origin": "drama.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/dub.washington.edu..txt",
+      "NameServer": "ns1.dub.washington.edu.",
+      "Origin": "dub.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/dxarts.washington.edu..txt",
+      "NameServer": "ns1.dxarts.washington.edu.",
+      "Origin": "dxarts.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/dyn.cs.washington.edu..txt",
+      "NameServer": "ns1.dyn.cs.washington.edu.",
+      "Origin": "dyn.cs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ealumni.washington.edu..txt",
+      "NameServer": "ns1.ealumni.washington.edu.",
+      "Origin": "ealumni.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ebiz.washington.edu..txt",
+      "NameServer": "ns1.ebiz.washington.edu.",
+      "Origin": "ebiz.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/econ.washington.edu..txt",
+      "NameServer": "ns1.econ.washington.edu.",
+      "Origin": "econ.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/edb.cac.washington.edu..txt",
+      "NameServer": "ns1.edb.cac.washington.edu.",
+      "Origin": "edb.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/edoutreach.washington.edu..txt",
+      "NameServer": "ns1.edoutreach.washington.edu.",
+      "Origin": "edoutreach.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/educ.washington.edu..txt",
+      "NameServer": "ns1.educ.washington.edu.",
+      "Origin": "educ.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/education.washington.edu..txt",
+      "NameServer": "ns1.education.washington.edu.",
+      "Origin": "education.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/edw.washington.edu..txt",
+      "NameServer": "ns1.edw.washington.edu.",
+      "Origin": "edw.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ee.washington.edu..txt",
+      "NameServer": "ns1.ee.washington.edu.",
+      "Origin": "ee.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ehs.washington.edu..txt",
+      "NameServer": "ns1.ehs.washington.edu.",
+      "Origin": "ehs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/eic.washington.edu..txt",
+      "NameServer": "ns1.eic.washington.edu.",
+      "Origin": "eic.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/emergency.washington.edu..txt",
+      "NameServer": "ns1.emergency.washington.edu.",
+      "Origin": "emergency.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/engr.washington.edu..txt",
+      "NameServer": "ns1.engr.washington.edu.",
+      "Origin": "engr.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/eplt.washington.edu..txt",
+      "NameServer": "ns1.eplt.washington.edu.",
+      "Origin": "eplt.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ereserves.tacoma.washington.edu..txt",
+      "NameServer": "ns1.ereserves.tacoma.washington.edu.",
+      "Origin": "ereserves.tacoma.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/escience.washington.edu..txt",
+      "NameServer": "ns1.escience.washington.edu.",
+      "Origin": "escience.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ese.washington.edu..txt",
+      "NameServer": "ns1.ese.washington.edu.",
+      "Origin": "ese.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ess.washington.edu..txt",
+      "NameServer": "ns1.ess.washington.edu.",
+      "Origin": "ess.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/eugenics.washington.edu..txt",
+      "NameServer": "ns1.eugenics.washington.edu.",
+      "Origin": "eugenics.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/evans.washington.edu..txt",
+      "NameServer": "ns1.evans.washington.edu.",
+      "Origin": "evans.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/evedegree.washington.edu..txt",
+      "NameServer": "ns1.evedegree.washington.edu.",
+      "Origin": "evedegree.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/excel.washington.edu..txt",
+      "NameServer": "ns1.excel.washington.edu.",
+      "Origin": "excel.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/exchange.washington.edu..txt",
+      "NameServer": "ns1.exchange.washington.edu.",
+      "Origin": "exchange.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/exp.washington.edu..txt",
+      "NameServer": "ns1.exp.washington.edu.",
+      "Origin": "exp.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/expression.washington.edu..txt",
+      "NameServer": "ns1.expression.washington.edu.",
+      "Origin": "expression.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/extension.washington.edu..txt",
+      "NameServer": "ns1.extension.washington.edu.",
+      "Origin": "extension.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/extn.washington.edu..txt",
+      "NameServer": "ns1.extn.washington.edu.",
+      "Origin": "extn.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/f2.washington.edu..txt",
+      "NameServer": "ns1.f2.washington.edu.",
+      "Origin": "f2.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/faculty.washington.edu..txt",
+      "NameServer": "ns1.faculty.washington.edu.",
+      "Origin": "faculty.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/fammed.washington.edu..txt",
+      "NameServer": "ns1.fammed.washington.edu.",
+      "Origin": "fammed.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/fhl.washington.edu..txt",
+      "NameServer": "ns1.fhl.washington.edu.",
+      "Origin": "fhl.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/finance.washington.edu..txt",
+      "NameServer": "ns1.finance.washington.edu.",
+      "Origin": "finance.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/fish.washington.edu..txt",
+      "NameServer": "ns1.fish.washington.edu.",
+      "Origin": "fish.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/fiuts.washington.edu..txt",
+      "NameServer": "ns1.fiuts.washington.edu.",
+      "Origin": "fiuts.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/foster.washington.edu..txt",
+      "NameServer": "ns1.foster.washington.edu.",
+      "Origin": "foster.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/fs-works.washington.edu..txt",
+      "NameServer": "ns1.fs-works.washington.edu.",
+      "Origin": "fs-works.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/fs.washington.edu..txt",
+      "NameServer": "ns1.fs.washington.edu.",
+      "Origin": "fs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ftp.cac.washington.edu..txt",
+      "NameServer": "ns1.ftp.cac.washington.edu.",
+      "Origin": "ftp.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/genetics.washington.edu..txt",
+      "NameServer": "ns1.genetics.washington.edu.",
+      "Origin": "genetics.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/genome.washington.edu..txt",
+      "NameServer": "ns1.genome.washington.edu.",
+      "Origin": "genome.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/geog.washington.edu..txt",
+      "NameServer": "ns1.geog.washington.edu.",
+      "Origin": "geog.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/geology.washington.edu..txt",
+      "NameServer": "ns1.geology.washington.edu.",
+      "Origin": "geology.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/geophys.washington.edu..txt",
+      "NameServer": "ns1.geophys.washington.edu.",
+      "Origin": "geophys.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/germanics.washington.edu..txt",
+      "NameServer": "ns1.germanics.washington.edu.",
+      "Origin": "germanics.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/gifts.washington.edu..txt",
+      "NameServer": "ns1.gifts.washington.edu.",
+      "Origin": "gifts.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/gis.washington.edu..txt",
+      "NameServer": "ns1.gis.washington.edu.",
+      "Origin": "gis.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/globalhealth.washington.edu..txt",
+      "NameServer": "ns1.globalhealth.washington.edu.",
+      "Origin": "globalhealth.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/gpss.washington.edu..txt",
+      "NameServer": "ns1.gpss.washington.edu.",
+      "Origin": "gpss.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/grad.washington.edu..txt",
+      "NameServer": "ns1.grad.washington.edu.",
+      "Origin": "grad.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/greenfutures.washington.edu..txt",
+      "NameServer": "ns1.greenfutures.washington.edu.",
+      "Origin": "greenfutures.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/gs.washington.edu..txt",
+      "NameServer": "ns1.gs.washington.edu.",
+      "Origin": "gs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/haringcenter.washington.edu..txt",
+      "NameServer": "ns1.haringcenter.washington.edu.",
+      "Origin": "haringcenter.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hcde.washington.edu..txt",
+      "NameServer": "ns1.hcde.washington.edu.",
+      "Origin": "hcde.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/healthonline.washington.edu..txt",
+      "NameServer": "ns1.healthonline.washington.edu.",
+      "Origin": "healthonline.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hfs.washington.edu..txt",
+      "NameServer": "ns1.hfs.washington.edu.",
+      "Origin": "hfs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hitl.washington.edu..txt",
+      "NameServer": "ns1.hitl.washington.edu.",
+      "Origin": "hitl.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hmc.washington.edu..txt",
+      "NameServer": "ns1.hmc.washington.edu.",
+      "Origin": "hmc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hmcweb.washington.edu..txt",
+      "NameServer": "ns1.hmcweb.washington.edu.",
+      "Origin": "hmcweb.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hoodcanal.washington.edu..txt",
+      "NameServer": "ns1.hoodcanal.washington.edu.",
+      "Origin": "hoodcanal.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hpl.washington.edu..txt",
+      "NameServer": "ns1.hpl.washington.edu.",
+      "Origin": "hpl.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hs.washington.edu..txt",
+      "NameServer": "ns1.hs.washington.edu.",
+      "Origin": "hs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hsas.washington.edu..txt",
+      "NameServer": "ns1.hsas.washington.edu.",
+      "Origin": "hsas.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hscer.washington.edu..txt",
+      "NameServer": "ns1.hscer.washington.edu.",
+      "Origin": "hscer.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hsl.washington.edu..txt",
+      "NameServer": "ns1.hsl.washington.edu.",
+      "Origin": "hsl.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hslib.washington.edu..txt",
+      "NameServer": "ns1.hslib.washington.edu.",
+      "Origin": "hslib.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hsvcs.washington.edu..txt",
+      "NameServer": "ns1.hsvcs.washington.edu.",
+      "Origin": "hsvcs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/hub.washington.edu..txt",
+      "NameServer": "ns1.hub.washington.edu.",
+      "Origin": "hub.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/humanities.washington.edu..txt",
+      "NameServer": "ns1.humanities.washington.edu.",
+      "Origin": "humanities.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/huskyweb.washington.edu..txt",
+      "NameServer": "ns1.huskyweb.washington.edu.",
+      "Origin": "huskyweb.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/i933study.washington.edu..txt",
+      "NameServer": "ns1.i933study.washington.edu.",
+      "Origin": "i933study.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/iam-ws.u.washington.edu..txt",
+      "NameServer": "ns1.iam-ws.u.washington.edu.",
+      "Origin": "iam-ws.u.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ibic.washington.edu..txt",
+      "NameServer": "ns1.ibic.washington.edu.",
+      "Origin": "ibic.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ica.washington.edu..txt",
+      "NameServer": "ns1.ica.washington.edu.",
+      "Origin": "ica.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/icsl.washington.edu..txt",
+      "NameServer": "ns1.icsl.washington.edu.",
+      "Origin": "icsl.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/idp-test.u.washington.edu..txt",
+      "NameServer": "ns1.idp-test.u.washington.edu.",
+      "Origin": "idp-test.u.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/idp.u.washington.edu..txt",
+      "NameServer": "ns1.idp.u.washington.edu.",
+      "Origin": "idp.u.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ieng.washington.edu..txt",
+      "NameServer": "ns1.ieng.washington.edu.",
+      "Origin": "ieng.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ihme.washington.edu..txt",
+      "NameServer": "ns1.ihme.washington.edu.",
+      "Origin": "ihme.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ilabs.washington.edu..txt",
+      "NameServer": "ns1.ilabs.washington.edu.",
+      "Origin": "ilabs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/imagebank.washington.edu..txt",
+      "NameServer": "ns1.imagebank.washington.edu.",
+      "Origin": "imagebank.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/infra.washington.edu..txt",
+      "NameServer": "ns1.infra.washington.edu.",
+      "Origin": "infra.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/insttech.washington.edu..txt",
+      "NameServer": "ns1.insttech.washington.edu.",
+      "Origin": "insttech.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/int.washington.edu..txt",
+      "NameServer": "ns1.int.washington.edu.",
+      "Origin": "int.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/interactiveoceans.washington.edu..txt",
+      "NameServer": "ns1.interactiveoceans.washington.edu.",
+      "Origin": "interactiveoceans.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/interprofessional.washington.edu..txt",
+      "NameServer": "ns1.interprofessional.washington.edu.",
+      "Origin": "interprofessional.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/inventiontostartup.washington.edu..txt",
+      "NameServer": "ns1.inventiontostartup.washington.edu.",
+      "Origin": "inventiontostartup.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ipe.washington.edu..txt",
+      "NameServer": "ns1.ipe.washington.edu.",
+      "Origin": "ipe.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/iphc.washington.edu..txt",
+      "NameServer": "ns1.iphc.washington.edu.",
+      "Origin": "iphc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/iris.washington.edu..txt",
+      "NameServer": "ns1.iris.washington.edu.",
+      "Origin": "iris.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ischool.washington.edu..txt",
+      "NameServer": "ns1.ischool.washington.edu.",
+      "Origin": "ischool.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/isis.washington.edu..txt",
+      "NameServer": "ns1.isis.washington.edu.",
+      "Origin": "isis.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/iss.washington.edu..txt",
+      "NameServer": "ns1.iss.washington.edu.",
+      "Origin": "iss.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/iths.washington.edu..txt",
+      "NameServer": "ns1.iths.washington.edu.",
+      "Origin": "iths.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/its.washington.edu..txt",
+      "NameServer": "ns1.its.washington.edu.",
+      "Origin": "its.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/jisao.washington.edu..txt",
+      "NameServer": "ns1.jisao.washington.edu.",
+      "Origin": "jisao.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/jsis.washington.edu..txt",
+      "NameServer": "ns1.jsis.washington.edu.",
+      "Origin": "jsis.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/kexp-mp3-1.cac.washington.edu..txt",
+      "NameServer": "ns1.kexp-mp3-1.cac.washington.edu.",
+      "Origin": "kexp-mp3-1.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/kexp-mp3-128k.cac.washington.edu..txt",
+      "NameServer": "ns1.kexp-mp3-128k.cac.washington.edu.",
+      "Origin": "kexp-mp3-128k.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/kuow.washington.edu..txt",
+      "NameServer": "ns1.kuow.washington.edu.",
+      "Origin": "kuow.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/labmed.washington.edu..txt",
+      "NameServer": "ns1.labmed.washington.edu.",
+      "Origin": "labmed.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/law.washington.edu..txt",
+      "NameServer": "ns1.law.washington.edu.",
+      "Origin": "law.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/lawnet.washington.edu..txt",
+      "NameServer": "ns1.lawnet.washington.edu.",
+      "Origin": "lawnet.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/lctjournal.washington.edu..txt",
+      "NameServer": "ns1.lctjournal.washington.edu.",
+      "Origin": "lctjournal.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/lib.washington.edu..txt",
+      "NameServer": "ns1.lib.washington.edu.",
+      "Origin": "lib.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ling.washington.edu..txt",
+      "NameServer": "ns1.ling.washington.edu.",
+      "Origin": "ling.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/lostcity.washington.edu..txt",
+      "NameServer": "ns1.lostcity.washington.edu.",
+      "Origin": "lostcity.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/lst.washington.edu..txt",
+      "NameServer": "ns1.lst.washington.edu.",
+      "Origin": "lst.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mail.cs.washington.edu..txt",
+      "NameServer": "ns1.mail.cs.washington.edu.",
+      "Origin": "mail.cs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mailer.u.washington.edu..txt",
+      "NameServer": "ns1.mailer.u.washington.edu.",
+      "Origin": "mailer.u.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mailman.u.washington.edu..txt",
+      "NameServer": "ns1.mailman.u.washington.edu.",
+      "Origin": "mailman.u.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mailman1.u.washington.edu..txt",
+      "NameServer": "ns1.mailman1.u.washington.edu.",
+      "Origin": "mailman1.u.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mailman2.u.washington.edu..txt",
+      "NameServer": "ns1.mailman2.u.washington.edu.",
+      "Origin": "mailman2.u.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mailsrvc-h.u.washington.edu..txt",
+      "NameServer": "ns1.mailsrvc-h.u.washington.edu.",
+      "Origin": "mailsrvc-h.u.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/math.washington.edu..txt",
+      "NameServer": "ns1.math.washington.edu.",
+      "Origin": "math.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mbt.washington.edu..txt",
+      "NameServer": "ns1.mbt.washington.edu.",
+      "Origin": "mbt.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mcdm.washington.edu..txt",
+      "NameServer": "ns1.mcdm.washington.edu.",
+      "Origin": "mcdm.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mchem.washington.edu..txt",
+      "NameServer": "ns1.mchem.washington.edu.",
+      "Origin": "mchem.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mcis.washington.edu..txt",
+      "NameServer": "ns1.mcis.washington.edu.",
+      "Origin": "mcis.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/me.washington.edu..txt",
+      "NameServer": "ns1.me.washington.edu.",
+      "Origin": "me.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mebi.washington.edu..txt",
+      "NameServer": "ns1.mebi.washington.edu.",
+      "Origin": "mebi.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/medalum.washington.edu..txt",
+      "NameServer": "ns1.medalum.washington.edu.",
+      "Origin": "medalum.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/medex.washington.edu..txt",
+      "NameServer": "ns1.medex.washington.edu.",
+      "Origin": "medex.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/media-rm.cac.washington.edu..txt",
+      "NameServer": "ns1.media-rm.cac.washington.edu.",
+      "Origin": "media-rm.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/media-wm.cac.washington.edu..txt",
+      "NameServer": "ns1.media-wm.cac.washington.edu.",
+      "Origin": "media-wm.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mediaspace.washington.edu..txt",
+      "NameServer": "ns1.mediaspace.washington.edu.",
+      "Origin": "mediaspace.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/medical.washington.edu..txt",
+      "NameServer": "ns1.medical.washington.edu.",
+      "Origin": "medical.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/medicine.washington.edu..txt",
+      "NameServer": "ns1.medicine.washington.edu.",
+      "Origin": "medicine.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/meerkat.cac.washington.edu..txt",
+      "NameServer": "ns1.meerkat.cac.washington.edu.",
+      "Origin": "meerkat.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/microbiol.washington.edu..txt",
+      "NameServer": "ns1.microbiol.washington.edu.",
+      "Origin": "microbiol.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mkat.cac.washington.edu..txt",
+      "NameServer": "ns1.mkat.cac.washington.edu.",
+      "Origin": "mkat.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/moodle.washington.edu..txt",
+      "NameServer": "ns1.moodle.washington.edu.",
+      "Origin": "moodle.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mrge.washington.edu..txt",
+      "NameServer": "ns1.mrge.washington.edu.",
+      "Origin": "mrge.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ms.washington.edu..txt",
+      "NameServer": "ns1.ms.washington.edu.",
+      "Origin": "ms.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/msktc.washington.edu..txt",
+      "NameServer": "ns1.msktc.washington.edu.",
+      "Origin": "msktc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mstp.washington.edu..txt",
+      "NameServer": "ns1.mstp.washington.edu.",
+      "Origin": "mstp.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mullins.microbiol.washington.edu..txt",
+      "NameServer": "ns1.mullins.microbiol.washington.edu.",
+      "Origin": "mullins.microbiol.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/museum.washington.edu..txt",
+      "NameServer": "ns1.museum.washington.edu.",
+      "Origin": "museum.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/music.washington.edu..txt",
+      "NameServer": "ns1.music.washington.edu.",
+      "Origin": "music.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/mysite.washington.edu..txt",
+      "NameServer": "ns1.mysite.washington.edu.",
+      "Origin": "mysite.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/myuw.washington.edu..txt",
+      "NameServer": "ns1.myuw.washington.edu.",
+      "Origin": "myuw.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/myuwtest.u.washington.edu..txt",
+      "NameServer": "ns1.myuwtest.u.washington.edu.",
+      "Origin": "myuwtest.u.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/nano.washington.edu..txt",
+      "NameServer": "ns1.nano.washington.edu.",
+      "Origin": "nano.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/nb.engr.washington.edu..txt",
+      "NameServer": "ns1.nb.engr.washington.edu.",
+      "Origin": "nb.engr.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/nebula.washington.edu..txt",
+      "NameServer": "ns1.nebula.washington.edu.",
+      "Origin": "nebula.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/nebula2.washington.edu..txt",
+      "NameServer": "ns1.nebula2.washington.edu.",
+      "Origin": "nebula2.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/neptune.washington.edu..txt",
+      "NameServer": "ns1.neptune.washington.edu.",
+      "Origin": "neptune.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/netauth.cac.washington.edu..txt",
+      "NameServer": "ns1.netauth.cac.washington.edu.",
+      "Origin": "netauth.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/netid.washington.edu..txt",
+      "NameServer": "ns1.netid.washington.edu.",
+      "Origin": "netid.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/netman.cac.washington.edu..txt",
+      "NameServer": "ns1.netman.cac.washington.edu.",
+      "Origin": "netman.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/neuralengineering.washington.edu..txt",
+      "NameServer": "ns1.neuralengineering.washington.edu.",
+      "Origin": "neuralengineering.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/neurosurgery.washington.edu..txt",
+      "NameServer": "ns1.neurosurgery.washington.edu.",
+      "Origin": "neurosurgery.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/nmt-ws.cac.washington.edu..txt",
+      "NameServer": "ns1.nmt-ws.cac.washington.edu.",
+      "Origin": "nmt-ws.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/nondegree.washington.edu..txt",
+      "NameServer": "ns1.nondegree.washington.edu.",
+      "Origin": "nondegree.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/npl.washington.edu..txt",
+      "NameServer": "ns1.npl.washington.edu.",
+      "Origin": "npl.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/nrcse.washington.edu..txt",
+      "NameServer": "ns1.nrcse.washington.edu.",
+      "Origin": "nrcse.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/oasis.cac.washington.edu..txt",
+      "NameServer": "ns1.oasis.cac.washington.edu.",
+      "Origin": "oasis.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ocean.washington.edu..txt",
+      "NameServer": "ns1.ocean.washington.edu.",
+      "Origin": "ocean.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/oea.washington.edu..txt",
+      "NameServer": "ns1.oea.washington.edu.",
+      "Origin": "oea.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/oep.washington.edu..txt",
+      "NameServer": "ns1.oep.washington.edu.",
+      "Origin": "oep.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/offcampus.lib.washington.edu..txt",
+      "NameServer": "ns1.offcampus.lib.washington.edu.",
+      "Origin": "offcampus.lib.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/onlinelearning.washington.edu..txt",
+      "NameServer": "ns1.onlinelearning.washington.edu.",
+      "Origin": "onlinelearning.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/onrc.washington.edu..txt",
+      "NameServer": "ns1.onrc.washington.edu.",
+      "Origin": "onrc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ooi.washington.edu..txt",
+      "NameServer": "ns1.ooi.washington.edu.",
+      "Origin": "ooi.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/opb.washington.edu..txt",
+      "NameServer": "ns1.opb.washington.edu.",
+      "Origin": "opb.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/orcaed.washington.edu..txt",
+      "NameServer": "ns1.orcaed.washington.edu.",
+      "Origin": "orcaed.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/oris.washington.edu..txt",
+      "NameServer": "ns1.oris.washington.edu.",
+      "Origin": "oris.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/orthop.washington.edu..txt",
+      "NameServer": "ns1.orthop.washington.edu.",
+      "Origin": "orthop.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/osha.washington.edu..txt",
+      "NameServer": "ns1.osha.washington.edu.",
+      "Origin": "osha.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/oto.washington.edu..txt",
+      "NameServer": "ns1.oto.washington.edu.",
+      "Origin": "oto.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/outages.cac.washington.edu..txt",
+      "NameServer": "ns1.outages.cac.washington.edu.",
+      "Origin": "outages.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/outreach.washington.edu..txt",
+      "NameServer": "ns1.outreach.washington.edu.",
+      "Origin": "outreach.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/parvac.washington.edu..txt",
+      "NameServer": "ns1.parvac.washington.edu.",
+      "Origin": "parvac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/pathology.washington.edu..txt",
+      "NameServer": "ns1.pathology.washington.edu.",
+      "Origin": "pathology.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/pbaf.washington.edu..txt",
+      "NameServer": "ns1.pbaf.washington.edu.",
+      "Origin": "pbaf.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/pceut.washington.edu..txt",
+      "NameServer": "ns1.pceut.washington.edu.",
+      "Origin": "pceut.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/pcnhh.washington.edu..txt",
+      "NameServer": "ns1.pcnhh.washington.edu.",
+      "Origin": "pcnhh.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/pedom.peds.washington.edu..txt",
+      "NameServer": "ns1.pedom.peds.washington.edu.",
+      "Origin": "pedom.peds.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/peds.washington.edu..txt",
+      "NameServer": "ns1.peds.washington.edu.",
+      "Origin": "peds.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/pedtest.peds.washington.edu..txt",
+      "NameServer": "ns1.pedtest.peds.washington.edu.",
+      "Origin": "pedtest.peds.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/pharmacy.washington.edu..txt",
+      "NameServer": "ns1.pharmacy.washington.edu.",
+      "Origin": "pharmacy.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/phil.washington.edu..txt",
+      "NameServer": "ns1.phil.washington.edu.",
+      "Origin": "phil.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/phys.washington.edu..txt",
+      "NameServer": "ns1.phys.washington.edu.",
+      "Origin": "phys.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/physiol.washington.edu..txt",
+      "NameServer": "ns1.physiol.washington.edu.",
+      "Origin": "physiol.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/polisci.washington.edu..txt",
+      "NameServer": "ns1.polisci.washington.edu.",
+      "Origin": "polisci.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/portfolio.washington.edu..txt",
+      "NameServer": "ns1.portfolio.washington.edu.",
+      "Origin": "portfolio.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/prism.washington.edu..txt",
+      "NameServer": "ns1.prism.washington.edu.",
+      "Origin": "prism.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/probcast.washington.edu..txt",
+      "NameServer": "ns1.probcast.washington.edu.",
+      "Origin": "probcast.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/proteomics.washington.edu..txt",
+      "NameServer": "ns1.proteomics.washington.edu.",
+      "Origin": "proteomics.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/proteomicsresource.washington.edu..txt",
+      "NameServer": "ns1.proteomicsresource.washington.edu.",
+      "Origin": "proteomicsresource.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/provost.washington.edu..txt",
+      "NameServer": "ns1.provost.washington.edu.",
+      "Origin": "provost.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/psych.washington.edu..txt",
+      "NameServer": "ns1.psych.washington.edu.",
+      "Origin": "psych.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/psychres.washington.edu..txt",
+      "NameServer": "ns1.psychres.washington.edu.",
+      "Origin": "psychres.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/pubserv.washington.edu..txt",
+      "NameServer": "ns1.pubserv.washington.edu.",
+      "Origin": "pubserv.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/pulmcc.washington.edu..txt",
+      "NameServer": "ns1.pulmcc.washington.edu.",
+      "Origin": "pulmcc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/rad.washington.edu..txt",
+      "NameServer": "ns1.rad.washington.edu.",
+      "Origin": "rad.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/radonc.washington.edu..txt",
+      "NameServer": "ns1.radonc.washington.edu.",
+      "Origin": "radonc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/reg.washington.edu..txt",
+      "NameServer": "ns1.reg.washington.edu.",
+      "Origin": "reg.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/rehab.washington.edu..txt",
+      "NameServer": "ns1.rehab.washington.edu.",
+      "Origin": "rehab.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/reid.cac.washington.edu..txt",
+      "NameServer": "ns1.reid.cac.washington.edu.",
+      "Origin": "reid.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/reuw.washington.edu..txt",
+      "NameServer": "ns1.reuw.washington.edu.",
+      "Origin": "reuw.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/rfpk.washington.edu..txt",
+      "NameServer": "ns1.rfpk.washington.edu.",
+      "Origin": "rfpk.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/rigi.washington.edu..txt",
+      "NameServer": "ns1.rigi.washington.edu.",
+      "Origin": "rigi.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/rome.cac.washington.edu..txt",
+      "NameServer": "ns1.rome.cac.washington.edu.",
+      "Origin": "rome.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/rprc.washington.edu..txt",
+      "NameServer": "ns1.rprc.washington.edu.",
+      "Origin": "rprc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/rt.cac.washington.edu..txt",
+      "NameServer": "ns1.rt.cac.washington.edu.",
+      "Origin": "rt.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/rti.cac.washington.edu..txt",
+      "NameServer": "ns1.rti.cac.washington.edu.",
+      "Origin": "rti.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/scandinavian.washington.edu..txt",
+      "NameServer": "ns1.scandinavian.washington.edu.",
+      "Origin": "scandinavian.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/scar.rad.washington.edu..txt",
+      "NameServer": "ns1.scar.rad.washington.edu.",
+      "Origin": "scar.rad.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/sci.washington.edu..txt",
+      "NameServer": "ns1.sci.washington.edu.",
+      "Origin": "sci.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/seg.washington.edu..txt",
+      "NameServer": "ns1.seg.washington.edu.",
+      "Origin": "seg.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/shades.cac.washington.edu..txt",
+      "NameServer": "ns1.shades.cac.washington.edu.",
+      "Origin": "shades.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/shadows.cac.washington.edu..txt",
+      "NameServer": "ns1.shadows.cac.washington.edu.",
+      "Origin": "shadows.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/sharepoint.washington.edu..txt",
+      "NameServer": "ns1.sharepoint.washington.edu.",
+      "Origin": "sharepoint.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/si.washington.edu..txt",
+      "NameServer": "ns1.si.washington.edu.",
+      "Origin": "si.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/sig.washington.edu..txt",
+      "NameServer": "ns1.sig.washington.edu.",
+      "Origin": "sig.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/sma.washington.edu..txt",
+      "NameServer": "ns1.sma.washington.edu.",
+      "Origin": "sma.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/soc.washington.edu..txt",
+      "NameServer": "ns1.soc.washington.edu.",
+      "Origin": "soc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/sod.washington.edu..txt",
+      "NameServer": "ns1.sod.washington.edu.",
+      "Origin": "sod.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/som.washington.edu..txt",
+      "NameServer": "ns1.som.washington.edu.",
+      "Origin": "som.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/somas.washington.edu..txt",
+      "NameServer": "ns1.somas.washington.edu.",
+      "Origin": "somas.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/son.washington.edu..txt",
+      "NameServer": "ns1.son.washington.edu.",
+      "Origin": "son.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/sop.washington.edu..txt",
+      "NameServer": "ns1.sop.washington.edu.",
+      "Origin": "sop.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/sph.washington.edu..txt",
+      "NameServer": "ns1.sph.washington.edu.",
+      "Origin": "sph.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/sphcm.washington.edu..txt",
+      "NameServer": "ns1.sphcm.washington.edu.",
+      "Origin": "sphcm.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/sphsc.washington.edu..txt",
+      "NameServer": "ns1.sphsc.washington.edu.",
+      "Origin": "sphsc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/sprc.washington.edu..txt",
+      "NameServer": "ns1.sprc.washington.edu.",
+      "Origin": "sprc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ssgapp.cac.washington.edu..txt",
+      "NameServer": "ns1.ssgapp.cac.washington.edu.",
+      "Origin": "ssgapp.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ssw.washington.edu..txt",
+      "NameServer": "ns1.ssw.washington.edu.",
+      "Origin": "ssw.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/staff.washington.edu..txt",
+      "NameServer": "ns1.staff.washington.edu.",
+      "Origin": "staff.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/stat.washington.edu..txt",
+      "NameServer": "ns1.stat.washington.edu.",
+      "Origin": "stat.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/statgen.washington.edu..txt",
+      "NameServer": "ns1.statgen.washington.edu.",
+      "Origin": "statgen.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/studentlife.washington.edu..txt",
+      "NameServer": "ns1.studentlife.washington.edu.",
+      "Origin": "studentlife.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/students.washington.edu..txt",
+      "NameServer": "ns1.students.washington.edu.",
+      "Origin": "students.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/summer.washington.edu..txt",
+      "NameServer": "ns1.summer.washington.edu.",
+      "Origin": "summer.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/summeryouth.washington.edu..txt",
+      "NameServer": "ns1.summeryouth.washington.edu.",
+      "Origin": "summeryouth.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/supportuw.washington.edu..txt",
+      "NameServer": "ns1.supportuw.washington.edu.",
+      "Origin": "supportuw.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/surgery.washington.edu..txt",
+      "NameServer": "ns1.surgery.washington.edu.",
+      "Origin": "surgery.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/synbio.washington.edu..txt",
+      "NameServer": "ns1.synbio.washington.edu.",
+      "Origin": "synbio.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/tacoma.washington.edu..txt",
+      "NameServer": "ns1.tacoma.washington.edu.",
+      "Origin": "tacoma.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/tag.washington.edu..txt",
+      "NameServer": "ns1.tag.washington.edu.",
+      "Origin": "tag.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/tascha.washington.edu..txt",
+      "NameServer": "ns1.tascha.washington.edu.",
+      "Origin": "tascha.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/techfee.washington.edu..txt",
+      "NameServer": "ns1.techfee.washington.edu.",
+      "Origin": "techfee.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/tel.washington.edu..txt",
+      "NameServer": "ns1.tel.washington.edu.",
+      "Origin": "tel.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/thedaily.washington.edu..txt",
+      "NameServer": "ns1.thedaily.washington.edu.",
+      "Origin": "thedaily.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/tjp.washington.edu..txt",
+      "NameServer": "ns1.tjp.washington.edu.",
+      "Origin": "tjp.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/tracker.washington.edu..txt",
+      "NameServer": "ns1.tracker.washington.edu.",
+      "Origin": "tracker.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/u.washington.edu..txt",
+      "NameServer": "ns1.u.washington.edu.",
+      "Origin": "u.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ued.washington.edu..txt",
+      "NameServer": "ns1.ued.washington.edu.",
+      "Origin": "ued.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ulcert.washington.edu..txt",
+      "NameServer": "ns1.ulcert.washington.edu.",
+      "Origin": "ulcert.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/urbaneco.washington.edu..txt",
+      "NameServer": "ns1.urbaneco.washington.edu.",
+      "Origin": "urbaneco.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/urbanecology.washington.edu..txt",
+      "NameServer": "ns1.urbanecology.washington.edu.",
+      "Origin": "urbanecology.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/urel.washington.edu..txt",
+      "NameServer": "ns1.urel.washington.edu.",
+      "Origin": "urel.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwcorr.washington.edu..txt",
+      "NameServer": "ns1.uwcorr.washington.edu.",
+      "Origin": "uwcorr.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwctds.washington.edu..txt",
+      "NameServer": "ns1.uwctds.washington.edu.",
+      "Origin": "uwctds.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwei.washington.edu..txt",
+      "NameServer": "ns1.uwei.washington.edu.",
+      "Origin": "uwei.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwhs.washington.edu..txt",
+      "NameServer": "ns1.uwhs.washington.edu.",
+      "Origin": "uwhs.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwmedicine.washington.edu..txt",
+      "NameServer": "ns1.uwmedicine.washington.edu.",
+      "Origin": "uwmedicine.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwnetid.washington.edu..txt",
+      "NameServer": "ns1.uwnetid.washington.edu.",
+      "Origin": "uwnetid.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwnews.washington.edu..txt",
+      "NameServer": "ns1.uwnews.washington.edu.",
+      "Origin": "uwnews.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwp.washington.edu..txt",
+      "NameServer": "ns1.uwp.washington.edu.",
+      "Origin": "uwp.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwpcc.washington.edu..txt",
+      "NameServer": "ns1.uwpcc.washington.edu.",
+      "Origin": "uwpcc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwpts.uwp.washington.edu..txt",
+      "NameServer": "ns1.uwpts.uwp.washington.edu.",
+      "Origin": "uwpts.uwp.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwtc.washington.edu..txt",
+      "NameServer": "ns1.uwtc.washington.edu.",
+      "Origin": "uwtc.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/uwtv.washington.edu..txt",
+      "NameServer": "ns1.uwtv.washington.edu.",
+      "Origin": "uwtv.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/viromics.washington.edu..txt",
+      "NameServer": "ns1.viromics.washington.edu.",
+      "Origin": "viromics.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/viroverse.washington.edu..txt",
+      "NameServer": "ns1.viroverse.washington.edu.",
+      "Origin": "viroverse.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/vpn.nebula.washington.edu..txt",
+      "NameServer": "ns1.vpn.nebula.washington.edu.",
+      "Origin": "vpn.nebula.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/vte.washington.edu..txt",
+      "NameServer": "ns1.vte.washington.edu.",
+      "Origin": "vte.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/washington.edu..txt",
+      "NameServer": "ns1.washington.edu.",
+      "Origin": "washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/water.washington.edu..txt",
+      "NameServer": "ns1.water.washington.edu.",
+      "Origin": "water.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/weblogin.washington.edu..txt",
+      "NameServer": "ns1.weblogin.washington.edu.",
+      "Origin": "weblogin.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/webpine.washington.edu..txt",
+      "NameServer": "ns1.webpine.washington.edu.",
+      "Origin": "webpine.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/webservices.washington.edu..txt",
+      "NameServer": "ns1.webservices.washington.edu.",
+      "Origin": "webservices.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/ws.admin.washington.edu..txt",
+      "NameServer": "ns1.ws.admin.washington.edu.",
+      "Origin": "ws.admin.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/wsg.washington.edu..txt",
+      "NameServer": "ns1.wsg.washington.edu.",
+      "Origin": "wsg.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/www.digitalwell.washington.edu..txt",
+      "NameServer": "ns1.www.digitalwell.washington.edu.",
+      "Origin": "www.digitalwell.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/www.ess.washington.edu..txt",
+      "NameServer": "ns1.www.ess.washington.edu.",
+      "Origin": "www.ess.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/www.washington.edu..txt",
+      "NameServer": "ns1.www.washington.edu.",
+      "Origin": "www.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/wwwdev.cac.washington.edu..txt",
+      "NameServer": "ns1.wwwdev.cac.washington.edu.",
+      "Origin": "wwwdev.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/wwwtest.cac.washington.edu..txt",
+      "NameServer": "ns1.wwwtest.cac.washington.edu.",
+      "Origin": "wwwtest.cac.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/zagotta.physiol.washington.edu..txt",
+      "NameServer": "ns1.zagotta.physiol.washington.edu.",
+      "Origin": "zagotta.physiol.washington.edu."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/washington.edu/zoology.washington.edu..txt",
+      "NameServer": "ns1.zoology.washington.edu.",
+      "Origin": "zoology.washington.edu."
+    }
+  ]
+}

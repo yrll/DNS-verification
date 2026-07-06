@@ -1,0 +1,10 @@
+ftw.com.				      14400 IN SOA	ns1.ftw.com. 2018083000 14400 3600 2419200 14400
+
+ftw.com.                    NS      ns1.ftw.com.
+ns1.ftw.com.                A       10.166.21.15
+
+hlt.ftw.com.			      14400 IN NS	ns1.hlt.ftw.com.
+ns1.hlt.ftw.com.			      14400 IN A	10.166.21.12
+
+
+

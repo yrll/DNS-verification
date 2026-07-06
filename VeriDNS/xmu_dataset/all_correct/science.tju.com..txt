@@ -1,0 +1,6 @@
+science.tju.com.	14400	IN	SOA	ns1.science.tju.com. james.tju.edu. 19122302 14400 3600 2419200 14400
+science.tju.com.		    IN	NS ns1.science.tju.com.
+ns1.science.tju.com.	    IN	A	10.166.21.15
+
+science.tju.com.		    IN	A	6.6.6.6
+

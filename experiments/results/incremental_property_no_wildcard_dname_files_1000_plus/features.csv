@@ -1,0 +1,5 @@
+group,dataset,dataset_id,files,total_rr,A,AAAA,NS,SOA,MX,TXT,CNAME,DNAME,wildcard,rewrite_rr,rewrite_ratio,delegation_rr,delegation_ratio,avg_rr_per_file,max_rr_per_file,avg_owner_depth,max_owner_depth,category
+files-1000-plus,waw.pl,files-1000-plus/waw.pl,2250,40976,14081,44,20028,2250,2609,770,1194,0,0,1194,0.029139008199921906,22278,0.5436841077704022,18.211555555555556,24216,3.13044221007419,8,delegation-heavy
+files-1000-plus,web.id,files-1000-plus/web.id,2368,40614,9633,55,21014,2368,4214,774,2556,0,0,2556,0.06293396365785198,23382,0.5757128083911952,17.15118243243243,21114,3.127788447333432,7,rewrite-heavy
+files-1000-plus,wp-studio.net,files-1000-plus/wp-studio.net,1187,8019,1187,0,4746,1187,0,899,0,0,0,0,0.0,5933,0.739867813941888,6.755686604886268,2376,2.9995011846863697,3,delegation-heavy
+files-1000-plus,youaremighty.com,files-1000-plus/youaremighty.com,3271,21839,3271,0,13082,3271,0,2215,0,0,0,0,0.0,16353,0.748798021887449,6.676551513298685,3816,3.473235954027199,9,delegation-heavy

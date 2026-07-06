@@ -1,0 +1,1617 @@
+{
+  "TopNameServers": [
+    "ns1.x0.com."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/0155.x0.com..txt",
+      "NameServer": "ns1.0155.x0.com.",
+      "Origin": "0155.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/10000.x0.com..txt",
+      "NameServer": "ns1.10000.x0.com.",
+      "Origin": "10000.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/100m.x0.com..txt",
+      "NameServer": "ns1.100m.x0.com.",
+      "Origin": "100m.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/177mm.x0.com..txt",
+      "NameServer": "ns1.177mm.x0.com.",
+      "Origin": "177mm.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/195mm.x0.com..txt",
+      "NameServer": "ns1.195mm.x0.com.",
+      "Origin": "195mm.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/1utv.x0.com..txt",
+      "NameServer": "ns1.1utv.x0.com.",
+      "Origin": "1utv.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/38.x0.com..txt",
+      "NameServer": "ns1.38.x0.com.",
+      "Origin": "38.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/40skincare.x0.com..txt",
+      "NameServer": "ns1.40skincare.x0.com.",
+      "Origin": "40skincare.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/a-alert1.x0.com..txt",
+      "NameServer": "ns1.a-alert1.x0.com.",
+      "Origin": "a-alert1.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/a-z.x0.com..txt",
+      "NameServer": "ns1.a-z.x0.com.",
+      "Origin": "a-z.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/aaaa.x0.com..txt",
+      "NameServer": "ns1.aaaa.x0.com.",
+      "Origin": "aaaa.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/abc-design.x0.com..txt",
+      "NameServer": "ns1.abc-design.x0.com.",
+      "Origin": "abc-design.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/abra.x0.com..txt",
+      "NameServer": "ns1.abra.x0.com.",
+      "Origin": "abra.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/acid-mist.x0.com..txt",
+      "NameServer": "ns1.acid-mist.x0.com.",
+      "Origin": "acid-mist.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/adaf.x0.com..txt",
+      "NameServer": "ns1.adaf.x0.com.",
+      "Origin": "adaf.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ae-style.x0.com..txt",
+      "NameServer": "ns1.ae-style.x0.com.",
+      "Origin": "ae-style.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/aery.x0.com..txt",
+      "NameServer": "ns1.aery.x0.com.",
+      "Origin": "aery.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/akiba-maniax.x0.com..txt",
+      "NameServer": "ns1.akiba-maniax.x0.com.",
+      "Origin": "akiba-maniax.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ako.x0.com..txt",
+      "NameServer": "ns1.ako.x0.com.",
+      "Origin": "ako.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ame.x0.com..txt",
+      "NameServer": "ns1.ame.x0.com.",
+      "Origin": "ame.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/analog.x0.com..txt",
+      "NameServer": "ns1.analog.x0.com.",
+      "Origin": "analog.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/animal.x0.com..txt",
+      "NameServer": "ns1.animal.x0.com.",
+      "Origin": "animal.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/animemandara.x0.com..txt",
+      "NameServer": "ns1.animemandara.x0.com.",
+      "Origin": "animemandara.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/animemandara2.x0.com..txt",
+      "NameServer": "ns1.animemandara2.x0.com.",
+      "Origin": "animemandara2.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/anonym.x0.com..txt",
+      "NameServer": "ns1.anonym.x0.com.",
+      "Origin": "anonym.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/aozora.x0.com..txt",
+      "NameServer": "ns1.aozora.x0.com.",
+      "Origin": "aozora.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/aquafactory.x0.com..txt",
+      "NameServer": "ns1.aquafactory.x0.com.",
+      "Origin": "aquafactory.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/armisarahel.x0.com..txt",
+      "NameServer": "ns1.armisarahel.x0.com.",
+      "Origin": "armisarahel.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/autonet.x0.com..txt",
+      "NameServer": "ns1.autonet.x0.com.",
+      "Origin": "autonet.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/awa.x0.com..txt",
+      "NameServer": "ns1.awa.x0.com.",
+      "Origin": "awa.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/azure.x0.com..txt",
+      "NameServer": "ns1.azure.x0.com.",
+      "Origin": "azure.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/azzurro.x0.com..txt",
+      "NameServer": "ns1.azzurro.x0.com.",
+      "Origin": "azzurro.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/b4.x0.com..txt",
+      "NameServer": "ns1.b4.x0.com.",
+      "Origin": "b4.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/barocca.x0.com..txt",
+      "NameServer": "ns1.barocca.x0.com.",
+      "Origin": "barocca.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/bdg.x0.com..txt",
+      "NameServer": "ns1.bdg.x0.com.",
+      "Origin": "bdg.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/beemoo.x0.com..txt",
+      "NameServer": "ns1.beemoo.x0.com.",
+      "Origin": "beemoo.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/berrytone.x0.com..txt",
+      "NameServer": "ns1.berrytone.x0.com.",
+      "Origin": "berrytone.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/birdcage.x0.com..txt",
+      "NameServer": "ns1.birdcage.x0.com.",
+      "Origin": "birdcage.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/blog-affiliate.x0.com..txt",
+      "NameServer": "ns1.blog-affiliate.x0.com.",
+      "Origin": "blog-affiliate.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/blue-moon.x0.com..txt",
+      "NameServer": "ns1.blue-moon.x0.com.",
+      "Origin": "blue-moon.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/bluexii.x0.com..txt",
+      "NameServer": "ns1.bluexii.x0.com.",
+      "Origin": "bluexii.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/bmission.x0.com..txt",
+      "NameServer": "ns1.bmission.x0.com.",
+      "Origin": "bmission.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/bmwfun.x0.com..txt",
+      "NameServer": "ns1.bmwfun.x0.com.",
+      "Origin": "bmwfun.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/bnn.x0.com..txt",
+      "NameServer": "ns1.bnn.x0.com.",
+      "Origin": "bnn.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/boktv.x0.com..txt",
+      "NameServer": "ns1.boktv.x0.com.",
+      "Origin": "boktv.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/boleros.x0.com..txt",
+      "NameServer": "ns1.boleros.x0.com.",
+      "Origin": "boleros.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/boogiechillen.x0.com..txt",
+      "NameServer": "ns1.boogiechillen.x0.com.",
+      "Origin": "boogiechillen.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/books.x0.com..txt",
+      "NameServer": "ns1.books.x0.com.",
+      "Origin": "books.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/c-iv.x0.com..txt",
+      "NameServer": "ns1.c-iv.x0.com.",
+      "Origin": "c-iv.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/casastitcha.x0.com..txt",
+      "NameServer": "ns1.casastitcha.x0.com.",
+      "Origin": "casastitcha.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/catcat.x0.com..txt",
+      "NameServer": "ns1.catcat.x0.com.",
+      "Origin": "catcat.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/cavers.x0.com..txt",
+      "NameServer": "ns1.cavers.x0.com.",
+      "Origin": "cavers.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/cd-lime.x0.com..txt",
+      "NameServer": "ns1.cd-lime.x0.com.",
+      "Origin": "cd-lime.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/chaconnnnne.x0.com..txt",
+      "NameServer": "ns1.chaconnnnne.x0.com.",
+      "Origin": "chaconnnnne.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/cherry0.x0.com..txt",
+      "NameServer": "ns1.cherry0.x0.com.",
+      "Origin": "cherry0.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/chico.x0.com..txt",
+      "NameServer": "ns1.chico.x0.com.",
+      "Origin": "chico.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/chika.x0.com..txt",
+      "NameServer": "ns1.chika.x0.com.",
+      "Origin": "chika.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/chinhanblog.x0.com..txt",
+      "NameServer": "ns1.chinhanblog.x0.com.",
+      "Origin": "chinhanblog.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/circuit-logger.x0.com..txt",
+      "NameServer": "ns1.circuit-logger.x0.com.",
+      "Origin": "circuit-logger.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/climbing.x0.com..txt",
+      "NameServer": "ns1.climbing.x0.com.",
+      "Origin": "climbing.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/codeout.x0.com..txt",
+      "NameServer": "ns1.codeout.x0.com.",
+      "Origin": "codeout.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/comfort.x0.com..txt",
+      "NameServer": "ns1.comfort.x0.com.",
+      "Origin": "comfort.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/crymson.x0.com..txt",
+      "NameServer": "ns1.crymson.x0.com.",
+      "Origin": "crymson.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/csvslicer.x0.com..txt",
+      "NameServer": "ns1.csvslicer.x0.com.",
+      "Origin": "csvslicer.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/d-and-l.x0.com..txt",
+      "NameServer": "ns1.d-and-l.x0.com.",
+      "Origin": "d-and-l.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/d-haunted.x0.com..txt",
+      "NameServer": "ns1.d-haunted.x0.com.",
+      "Origin": "d-haunted.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/d-lovers.x0.com..txt",
+      "NameServer": "ns1.d-lovers.x0.com.",
+      "Origin": "d-lovers.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/d-t.x0.com..txt",
+      "NameServer": "ns1.d-t.x0.com.",
+      "Origin": "d-t.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/data-s.x0.com..txt",
+      "NameServer": "ns1.data-s.x0.com.",
+      "Origin": "data-s.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/dlab.x0.com..txt",
+      "NameServer": "ns1.dlab.x0.com.",
+      "Origin": "dlab.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/docoao.x0.com..txt",
+      "NameServer": "ns1.docoao.x0.com.",
+      "Origin": "docoao.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/dolce-e.x0.com..txt",
+      "NameServer": "ns1.dolce-e.x0.com.",
+      "Origin": "dolce-e.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/doraneko.x0.com..txt",
+      "NameServer": "ns1.doraneko.x0.com.",
+      "Origin": "doraneko.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/drk.x0.com..txt",
+      "NameServer": "ns1.drk.x0.com.",
+      "Origin": "drk.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/e-kan.x0.com..txt",
+      "NameServer": "ns1.e-kan.x0.com.",
+      "Origin": "e-kan.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/e-nikki.x0.com..txt",
+      "NameServer": "ns1.e-nikki.x0.com.",
+      "Origin": "e-nikki.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/e.x0.com..txt",
+      "NameServer": "ns1.e.x0.com.",
+      "Origin": "e.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ecrits.x0.com..txt",
+      "NameServer": "ns1.ecrits.x0.com.",
+      "Origin": "ecrits.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/egusakeita.x0.com..txt",
+      "NameServer": "ns1.egusakeita.x0.com.",
+      "Origin": "egusakeita.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/electro-g.x0.com..txt",
+      "NameServer": "ns1.electro-g.x0.com.",
+      "Origin": "electro-g.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/electro-planet.x0.com..txt",
+      "NameServer": "ns1.electro-planet.x0.com.",
+      "Origin": "electro-planet.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/elonaup.x0.com..txt",
+      "NameServer": "ns1.elonaup.x0.com.",
+      "Origin": "elonaup.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/en.x0.com..txt",
+      "NameServer": "ns1.en.x0.com.",
+      "Origin": "en.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/englishone.x0.com..txt",
+      "NameServer": "ns1.englishone.x0.com.",
+      "Origin": "englishone.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/erika.x0.com..txt",
+      "NameServer": "ns1.erika.x0.com.",
+      "Origin": "erika.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/escape.x0.com..txt",
+      "NameServer": "ns1.escape.x0.com.",
+      "Origin": "escape.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/evil-eye.x0.com..txt",
+      "NameServer": "ns1.evil-eye.x0.com.",
+      "Origin": "evil-eye.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ew.x0.com..txt",
+      "NameServer": "ns1.ew.x0.com.",
+      "Origin": "ew.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/famiappli.x0.com..txt",
+      "NameServer": "ns1.famiappli.x0.com.",
+      "Origin": "famiappli.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/fas.x0.com..txt",
+      "NameServer": "ns1.fas.x0.com.",
+      "Origin": "fas.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/fi.x0.com..txt",
+      "NameServer": "ns1.fi.x0.com.",
+      "Origin": "fi.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/fignews.x0.com..txt",
+      "NameServer": "ns1.fignews.x0.com.",
+      "Origin": "fignews.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/finalinasa.x0.com..txt",
+      "NameServer": "ns1.finalinasa.x0.com.",
+      "Origin": "finalinasa.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/flexaret.x0.com..txt",
+      "NameServer": "ns1.flexaret.x0.com.",
+      "Origin": "flexaret.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/fsc.x0.com..txt",
+      "NameServer": "ns1.fsc.x0.com.",
+      "Origin": "fsc.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/fumiduki.x0.com..txt",
+      "NameServer": "ns1.fumiduki.x0.com.",
+      "Origin": "fumiduki.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/fur.x0.com..txt",
+      "NameServer": "ns1.fur.x0.com.",
+      "Origin": "fur.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/fushi.x0.com..txt",
+      "NameServer": "ns1.fushi.x0.com.",
+      "Origin": "fushi.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/g-elephant.x0.com..txt",
+      "NameServer": "ns1.g-elephant.x0.com.",
+      "Origin": "g-elephant.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/g2.x0.com..txt",
+      "NameServer": "ns1.g2.x0.com.",
+      "Origin": "g2.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/gekkahisyou.x0.com..txt",
+      "NameServer": "ns1.gekkahisyou.x0.com.",
+      "Origin": "gekkahisyou.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/genie.x0.com..txt",
+      "NameServer": "ns1.genie.x0.com.",
+      "Origin": "genie.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/genius.x0.com..txt",
+      "NameServer": "ns1.genius.x0.com.",
+      "Origin": "genius.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/giragira.x0.com..txt",
+      "NameServer": "ns1.giragira.x0.com.",
+      "Origin": "giragira.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/gk3.x0.com..txt",
+      "NameServer": "ns1.gk3.x0.com.",
+      "Origin": "gk3.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/glam.x0.com..txt",
+      "NameServer": "ns1.glam.x0.com.",
+      "Origin": "glam.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/gnews.x0.com..txt",
+      "NameServer": "ns1.gnews.x0.com.",
+      "Origin": "gnews.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/goen.x0.com..txt",
+      "NameServer": "ns1.goen.x0.com.",
+      "Origin": "goen.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/gongohan.x0.com..txt",
+      "NameServer": "ns1.gongohan.x0.com.",
+      "Origin": "gongohan.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/gt10.x0.com..txt",
+      "NameServer": "ns1.gt10.x0.com.",
+      "Origin": "gt10.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/gtfgtfp.x0.com..txt",
+      "NameServer": "ns1.gtfgtfp.x0.com.",
+      "Origin": "gtfgtfp.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/gug.x0.com..txt",
+      "NameServer": "ns1.gug.x0.com.",
+      "Origin": "gug.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/gvote.x0.com..txt",
+      "NameServer": "ns1.gvote.x0.com.",
+      "Origin": "gvote.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/hak.x0.com..txt",
+      "NameServer": "ns1.hak.x0.com.",
+      "Origin": "hak.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/hakua.x0.com..txt",
+      "NameServer": "ns1.hakua.x0.com.",
+      "Origin": "hakua.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/hal23.x0.com..txt",
+      "NameServer": "ns1.hal23.x0.com.",
+      "Origin": "hal23.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/hapiba.x0.com..txt",
+      "NameServer": "ns1.hapiba.x0.com.",
+      "Origin": "hapiba.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/hashimotoya.x0.com..txt",
+      "NameServer": "ns1.hashimotoya.x0.com.",
+      "Origin": "hashimotoya.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/heal.x0.com..txt",
+      "NameServer": "ns1.heal.x0.com.",
+      "Origin": "heal.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/heartstrings.x0.com..txt",
+      "NameServer": "ns1.heartstrings.x0.com.",
+      "Origin": "heartstrings.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/here.x0.com..txt",
+      "NameServer": "ns1.here.x0.com.",
+      "Origin": "here.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/hima.x0.com..txt",
+      "NameServer": "ns1.hima.x0.com.",
+      "Origin": "hima.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/hironobu.x0.com..txt",
+      "NameServer": "ns1.hironobu.x0.com.",
+      "Origin": "hironobu.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/hiruneya.x0.com..txt",
+      "NameServer": "ns1.hiruneya.x0.com.",
+      "Origin": "hiruneya.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ho.x0.com..txt",
+      "NameServer": "ns1.ho.x0.com.",
+      "Origin": "ho.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/hori.x0.com..txt",
+      "NameServer": "ns1.hori.x0.com.",
+      "Origin": "hori.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/hyper.x0.com..txt",
+      "NameServer": "ns1.hyper.x0.com.",
+      "Origin": "hyper.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/i.x0.com..txt",
+      "NameServer": "ns1.i.x0.com.",
+      "Origin": "i.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ibis.x0.com..txt",
+      "NameServer": "ns1.ibis.x0.com.",
+      "Origin": "ibis.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/iceland.x0.com..txt",
+      "NameServer": "ns1.iceland.x0.com.",
+      "Origin": "iceland.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ifirearm.x0.com..txt",
+      "NameServer": "ns1.ifirearm.x0.com.",
+      "Origin": "ifirearm.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ikubo.x0.com..txt",
+      "NameServer": "ns1.ikubo.x0.com.",
+      "Origin": "ikubo.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/img.x0.com..txt",
+      "NameServer": "ns1.img.x0.com.",
+      "Origin": "img.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/infoseo.x0.com..txt",
+      "NameServer": "ns1.infoseo.x0.com.",
+      "Origin": "infoseo.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/init.x0.com..txt",
+      "NameServer": "ns1.init.x0.com.",
+      "Origin": "init.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/inugami.x0.com..txt",
+      "NameServer": "ns1.inugami.x0.com.",
+      "Origin": "inugami.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ipod.x0.com..txt",
+      "NameServer": "ns1.ipod.x0.com.",
+      "Origin": "ipod.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/iscariot.x0.com..txt",
+      "NameServer": "ns1.iscariot.x0.com.",
+      "Origin": "iscariot.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ittokan.x0.com..txt",
+      "NameServer": "ns1.ittokan.x0.com.",
+      "Origin": "ittokan.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/itunes-yummyburger.x0.com..txt",
+      "NameServer": "ns1.itunes-yummyburger.x0.com.",
+      "Origin": "itunes-yummyburger.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/jakenja.x0.com..txt",
+      "NameServer": "ns1.jakenja.x0.com.",
+      "Origin": "jakenja.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/jessica.x0.com..txt",
+      "NameServer": "ns1.jessica.x0.com.",
+      "Origin": "jessica.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/jigsaw.x0.com..txt",
+      "NameServer": "ns1.jigsaw.x0.com.",
+      "Origin": "jigsaw.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/k-s.x0.com..txt",
+      "NameServer": "ns1.k-s.x0.com.",
+      "Origin": "k-s.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/k-tai.x0.com..txt",
+      "NameServer": "ns1.k-tai.x0.com.",
+      "Origin": "k-tai.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kamiya.x0.com..txt",
+      "NameServer": "ns1.kamiya.x0.com.",
+      "Origin": "kamiya.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kanz.x0.com..txt",
+      "NameServer": "ns1.kanz.x0.com.",
+      "Origin": "kanz.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kdc.x0.com..txt",
+      "NameServer": "ns1.kdc.x0.com.",
+      "Origin": "kdc.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kenlegend.x0.com..txt",
+      "NameServer": "ns1.kenlegend.x0.com.",
+      "Origin": "kenlegend.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kenzo.x0.com..txt",
+      "NameServer": "ns1.kenzo.x0.com.",
+      "Origin": "kenzo.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kiaa.x0.com..txt",
+      "NameServer": "ns1.kiaa.x0.com.",
+      "Origin": "kiaa.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kikuz0u.x0.com..txt",
+      "NameServer": "ns1.kikuz0u.x0.com.",
+      "Origin": "kikuz0u.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/killing-monkey.x0.com..txt",
+      "NameServer": "ns1.killing-monkey.x0.com.",
+      "Origin": "killing-monkey.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/killingmonkey.x0.com..txt",
+      "NameServer": "ns1.killingmonkey.x0.com.",
+      "Origin": "killingmonkey.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kinsetu.x0.com..txt",
+      "NameServer": "ns1.kinsetu.x0.com.",
+      "Origin": "kinsetu.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kirei.x0.com..txt",
+      "NameServer": "ns1.kirei.x0.com.",
+      "Origin": "kirei.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/klang-gear.x0.com..txt",
+      "NameServer": "ns1.klang-gear.x0.com.",
+      "Origin": "klang-gear.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/koihimemusou.x0.com..txt",
+      "NameServer": "ns1.koihimemusou.x0.com.",
+      "Origin": "koihimemusou.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kokoko-soft.x0.com..txt",
+      "NameServer": "ns1.kokoko-soft.x0.com.",
+      "Origin": "kokoko-soft.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/konn.x0.com..txt",
+      "NameServer": "ns1.konn.x0.com.",
+      "Origin": "konn.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kono.x0.com..txt",
+      "NameServer": "ns1.kono.x0.com.",
+      "Origin": "kono.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/krenai.x0.com..txt",
+      "NameServer": "ns1.krenai.x0.com.",
+      "Origin": "krenai.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kukiguru.x0.com..txt",
+      "NameServer": "ns1.kukiguru.x0.com.",
+      "Origin": "kukiguru.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kullma.x0.com..txt",
+      "NameServer": "ns1.kullma.x0.com.",
+      "Origin": "kullma.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/kumakuma.x0.com..txt",
+      "NameServer": "ns1.kumakuma.x0.com.",
+      "Origin": "kumakuma.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/lab108.x0.com..txt",
+      "NameServer": "ns1.lab108.x0.com.",
+      "Origin": "lab108.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/lang.x0.com..txt",
+      "NameServer": "ns1.lang.x0.com.",
+      "Origin": "lang.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/larpa.x0.com..txt",
+      "NameServer": "ns1.larpa.x0.com.",
+      "Origin": "larpa.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/lhasaz4ce.x0.com..txt",
+      "NameServer": "ns1.lhasaz4ce.x0.com.",
+      "Origin": "lhasaz4ce.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/logimouse.x0.com..txt",
+      "NameServer": "ns1.logimouse.x0.com.",
+      "Origin": "logimouse.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/lsadd.x0.com..txt",
+      "NameServer": "ns1.lsadd.x0.com.",
+      "Origin": "lsadd.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/m-s-f.x0.com..txt",
+      "NameServer": "ns1.m-s-f.x0.com.",
+      "Origin": "m-s-f.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/m365.x0.com..txt",
+      "NameServer": "ns1.m365.x0.com.",
+      "Origin": "m365.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mac.x0.com..txt",
+      "NameServer": "ns1.mac.x0.com.",
+      "Origin": "mac.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/macbito.x0.com..txt",
+      "NameServer": "ns1.macbito.x0.com.",
+      "Origin": "macbito.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/magma.x0.com..txt",
+      "NameServer": "ns1.magma.x0.com.",
+      "Origin": "magma.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mai-u.x0.com..txt",
+      "NameServer": "ns1.mai-u.x0.com.",
+      "Origin": "mai-u.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/manga.x0.com..txt",
+      "NameServer": "ns1.manga.x0.com.",
+      "Origin": "manga.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/masimaro.x0.com..txt",
+      "NameServer": "ns1.masimaro.x0.com.",
+      "Origin": "masimaro.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mechanist.x0.com..txt",
+      "NameServer": "ns1.mechanist.x0.com.",
+      "Origin": "mechanist.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/meishou.x0.com..txt",
+      "NameServer": "ns1.meishou.x0.com.",
+      "Origin": "meishou.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/merletto.x0.com..txt",
+      "NameServer": "ns1.merletto.x0.com.",
+      "Origin": "merletto.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mgspw.x0.com..txt",
+      "NameServer": "ns1.mgspw.x0.com.",
+      "Origin": "mgspw.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/milksoht0.x0.com..txt",
+      "NameServer": "ns1.milksoht0.x0.com.",
+      "Origin": "milksoht0.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mimei.x0.com..txt",
+      "NameServer": "ns1.mimei.x0.com.",
+      "Origin": "mimei.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mini.x0.com..txt",
+      "NameServer": "ns1.mini.x0.com.",
+      "Origin": "mini.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mln.x0.com..txt",
+      "NameServer": "ns1.mln.x0.com.",
+      "Origin": "mln.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mocoro.x0.com..txt",
+      "NameServer": "ns1.mocoro.x0.com.",
+      "Origin": "mocoro.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/montage.x0.com..txt",
+      "NameServer": "ns1.montage.x0.com.",
+      "Origin": "montage.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/moontears.x0.com..txt",
+      "NameServer": "ns1.moontears.x0.com.",
+      "Origin": "moontears.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mstation.x0.com..txt",
+      "NameServer": "ns1.mstation.x0.com.",
+      "Origin": "mstation.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mugen.x0.com..txt",
+      "NameServer": "ns1.mugen.x0.com.",
+      "Origin": "mugen.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/musiquo-musiqua.x0.com..txt",
+      "NameServer": "ns1.musiquo-musiqua.x0.com.",
+      "Origin": "musiquo-musiqua.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/mutuki-h.x0.com..txt",
+      "NameServer": "ns1.mutuki-h.x0.com.",
+      "Origin": "mutuki-h.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/myko.x0.com..txt",
+      "NameServer": "ns1.myko.x0.com.",
+      "Origin": "myko.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/nagai.x0.com..txt",
+      "NameServer": "ns1.nagai.x0.com.",
+      "Origin": "nagai.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/nagaikako.x0.com..txt",
+      "NameServer": "ns1.nagaikako.x0.com.",
+      "Origin": "nagaikako.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/nam.x0.com..txt",
+      "NameServer": "ns1.nam.x0.com.",
+      "Origin": "nam.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/nasu.x0.com..txt",
+      "NameServer": "ns1.nasu.x0.com.",
+      "Origin": "nasu.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/neet.x0.com..txt",
+      "NameServer": "ns1.neet.x0.com.",
+      "Origin": "neet.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/neutral.x0.com..txt",
+      "NameServer": "ns1.neutral.x0.com.",
+      "Origin": "neutral.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/news.x0.com..txt",
+      "NameServer": "ns1.news.x0.com.",
+      "Origin": "news.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/nicol.x0.com..txt",
+      "NameServer": "ns1.nicol.x0.com.",
+      "Origin": "nicol.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/nikolaschka.x0.com..txt",
+      "NameServer": "ns1.nikolaschka.x0.com.",
+      "Origin": "nikolaschka.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/nineties.x0.com..txt",
+      "NameServer": "ns1.nineties.x0.com.",
+      "Origin": "nineties.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ninjin002.x0.com..txt",
+      "NameServer": "ns1.ninjin002.x0.com.",
+      "Origin": "ninjin002.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ninjinix.x0.com..txt",
+      "NameServer": "ns1.ninjinix.x0.com.",
+      "Origin": "ninjinix.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/nino.x0.com..txt",
+      "NameServer": "ns1.nino.x0.com.",
+      "Origin": "nino.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/notone.x0.com..txt",
+      "NameServer": "ns1.notone.x0.com.",
+      "Origin": "notone.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/novel-ip.x0.com..txt",
+      "NameServer": "ns1.novel-ip.x0.com.",
+      "Origin": "novel-ip.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/nyankonyanko.x0.com..txt",
+      "NameServer": "ns1.nyankonyanko.x0.com.",
+      "Origin": "nyankonyanko.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/o.x0.com..txt",
+      "NameServer": "ns1.o.x0.com.",
+      "Origin": "o.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/obidb.x0.com..txt",
+      "NameServer": "ns1.obidb.x0.com.",
+      "Origin": "obidb.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/occlusion.x0.com..txt",
+      "NameServer": "ns1.occlusion.x0.com.",
+      "Origin": "occlusion.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/oeb.x0.com..txt",
+      "NameServer": "ns1.oeb.x0.com.",
+      "Origin": "oeb.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/okahara.x0.com..txt",
+      "NameServer": "ns1.okahara.x0.com.",
+      "Origin": "okahara.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/omokanso.x0.com..txt",
+      "NameServer": "ns1.omokanso.x0.com.",
+      "Origin": "omokanso.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/onshore.x0.com..txt",
+      "NameServer": "ns1.onshore.x0.com.",
+      "Origin": "onshore.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/orpheon.x0.com..txt",
+      "NameServer": "ns1.orpheon.x0.com.",
+      "Origin": "orpheon.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ossya.x0.com..txt",
+      "NameServer": "ns1.ossya.x0.com.",
+      "Origin": "ossya.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/otonoha.x0.com..txt",
+      "NameServer": "ns1.otonoha.x0.com.",
+      "Origin": "otonoha.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/outdoor.x0.com..txt",
+      "NameServer": "ns1.outdoor.x0.com.",
+      "Origin": "outdoor.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/oyamakohei.x0.com..txt",
+      "NameServer": "ns1.oyamakohei.x0.com.",
+      "Origin": "oyamakohei.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/p4.x0.com..txt",
+      "NameServer": "ns1.p4.x0.com.",
+      "Origin": "p4.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/pastore.x0.com..txt",
+      "NameServer": "ns1.pastore.x0.com.",
+      "Origin": "pastore.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/pearl.x0.com..txt",
+      "NameServer": "ns1.pearl.x0.com.",
+      "Origin": "pearl.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/pepe.x0.com..txt",
+      "NameServer": "ns1.pepe.x0.com.",
+      "Origin": "pepe.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/pgf.x0.com..txt",
+      "NameServer": "ns1.pgf.x0.com.",
+      "Origin": "pgf.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/pon.x0.com..txt",
+      "NameServer": "ns1.pon.x0.com.",
+      "Origin": "pon.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/prml.x0.com..txt",
+      "NameServer": "ns1.prml.x0.com.",
+      "Origin": "prml.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/progresso.x0.com..txt",
+      "NameServer": "ns1.progresso.x0.com.",
+      "Origin": "progresso.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/rai.x0.com..txt",
+      "NameServer": "ns1.rai.x0.com.",
+      "Origin": "rai.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/rail.x0.com..txt",
+      "NameServer": "ns1.rail.x0.com.",
+      "Origin": "rail.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/raremetal.x0.com..txt",
+      "NameServer": "ns1.raremetal.x0.com.",
+      "Origin": "raremetal.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ravens.x0.com..txt",
+      "NameServer": "ns1.ravens.x0.com.",
+      "Origin": "ravens.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/re-fi.x0.com..txt",
+      "NameServer": "ns1.re-fi.x0.com.",
+      "Origin": "re-fi.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/resistance03.x0.com..txt",
+      "NameServer": "ns1.resistance03.x0.com.",
+      "Origin": "resistance03.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/rico.x0.com..txt",
+      "NameServer": "ns1.rico.x0.com.",
+      "Origin": "rico.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ringworld.x0.com..txt",
+      "NameServer": "ns1.ringworld.x0.com.",
+      "Origin": "ringworld.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/riria.x0.com..txt",
+      "NameServer": "ns1.riria.x0.com.",
+      "Origin": "riria.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/rojiura.x0.com..txt",
+      "NameServer": "ns1.rojiura.x0.com.",
+      "Origin": "rojiura.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/romanov.x0.com..txt",
+      "NameServer": "ns1.romanov.x0.com.",
+      "Origin": "romanov.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/rooftop.x0.com..txt",
+      "NameServer": "ns1.rooftop.x0.com.",
+      "Origin": "rooftop.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/rst.x0.com..txt",
+      "NameServer": "ns1.rst.x0.com.",
+      "Origin": "rst.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ruic.x0.com..txt",
+      "NameServer": "ns1.ruic.x0.com.",
+      "Origin": "ruic.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sakuya.x0.com..txt",
+      "NameServer": "ns1.sakuya.x0.com.",
+      "Origin": "sakuya.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sanchome.x0.com..txt",
+      "NameServer": "ns1.sanchome.x0.com.",
+      "Origin": "sanchome.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sanslimite.x0.com..txt",
+      "NameServer": "ns1.sanslimite.x0.com.",
+      "Origin": "sanslimite.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sasukenet.x0.com..txt",
+      "NameServer": "ns1.sasukenet.x0.com.",
+      "Origin": "sasukenet.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/savabigi.x0.com..txt",
+      "NameServer": "ns1.savabigi.x0.com.",
+      "Origin": "savabigi.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sawatex.x0.com..txt",
+      "NameServer": "ns1.sawatex.x0.com.",
+      "Origin": "sawatex.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sbm.x0.com..txt",
+      "NameServer": "ns1.sbm.x0.com.",
+      "Origin": "sbm.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/seaseed.x0.com..txt",
+      "NameServer": "ns1.seaseed.x0.com.",
+      "Origin": "seaseed.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sedei.x0.com..txt",
+      "NameServer": "ns1.sedei.x0.com.",
+      "Origin": "sedei.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sekaihp.x0.com..txt",
+      "NameServer": "ns1.sekaihp.x0.com.",
+      "Origin": "sekaihp.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sevenlamps.x0.com..txt",
+      "NameServer": "ns1.sevenlamps.x0.com.",
+      "Origin": "sevenlamps.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/shadow.x0.com..txt",
+      "NameServer": "ns1.shadow.x0.com.",
+      "Origin": "shadow.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/shirotakehatsu.x0.com..txt",
+      "NameServer": "ns1.shirotakehatsu.x0.com.",
+      "Origin": "shirotakehatsu.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/shoppjapan.x0.com..txt",
+      "NameServer": "ns1.shoppjapan.x0.com.",
+      "Origin": "shoppjapan.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/shopz.x0.com..txt",
+      "NameServer": "ns1.shopz.x0.com.",
+      "Origin": "shopz.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/shoukougun.x0.com..txt",
+      "NameServer": "ns1.shoukougun.x0.com.",
+      "Origin": "shoukougun.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/shrimp.x0.com..txt",
+      "NameServer": "ns1.shrimp.x0.com.",
+      "Origin": "shrimp.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/shuffle-info.x0.com..txt",
+      "NameServer": "ns1.shuffle-info.x0.com.",
+      "Origin": "shuffle-info.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/side.x0.com..txt",
+      "NameServer": "ns1.side.x0.com.",
+      "Origin": "side.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/site.x0.com..txt",
+      "NameServer": "ns1.site.x0.com.",
+      "Origin": "site.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sk2.x0.com..txt",
+      "NameServer": "ns1.sk2.x0.com.",
+      "Origin": "sk2.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/skexban.x0.com..txt",
+      "NameServer": "ns1.skexban.x0.com.",
+      "Origin": "skexban.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/somfessional.x0.com..txt",
+      "NameServer": "ns1.somfessional.x0.com.",
+      "Origin": "somfessional.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/spazm.x0.com..txt",
+      "NameServer": "ns1.spazm.x0.com.",
+      "Origin": "spazm.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/ssp.x0.com..txt",
+      "NameServer": "ns1.ssp.x0.com.",
+      "Origin": "ssp.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/starship600.x0.com..txt",
+      "NameServer": "ns1.starship600.x0.com.",
+      "Origin": "starship600.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/step.x0.com..txt",
+      "NameServer": "ns1.step.x0.com.",
+      "Origin": "step.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sumin-fumin.x0.com..txt",
+      "NameServer": "ns1.sumin-fumin.x0.com.",
+      "Origin": "sumin-fumin.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/sunny.x0.com..txt",
+      "NameServer": "ns1.sunny.x0.com.",
+      "Origin": "sunny.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/t-north.x0.com..txt",
+      "NameServer": "ns1.t-north.x0.com.",
+      "Origin": "t-north.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/taisen2.x0.com..txt",
+      "NameServer": "ns1.taisen2.x0.com.",
+      "Origin": "taisen2.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/takuyah.x0.com..txt",
+      "NameServer": "ns1.takuyah.x0.com.",
+      "Origin": "takuyah.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/temvercl.x0.com..txt",
+      "NameServer": "ns1.temvercl.x0.com.",
+      "Origin": "temvercl.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tenshinryu.x0.com..txt",
+      "NameServer": "ns1.tenshinryu.x0.com.",
+      "Origin": "tenshinryu.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tetra.x0.com..txt",
+      "NameServer": "ns1.tetra.x0.com.",
+      "Origin": "tetra.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tobe.x0.com..txt",
+      "NameServer": "ns1.tobe.x0.com.",
+      "Origin": "tobe.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tohko.x0.com..txt",
+      "NameServer": "ns1.tohko.x0.com.",
+      "Origin": "tohko.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tomo-ohshima.x0.com..txt",
+      "NameServer": "ns1.tomo-ohshima.x0.com.",
+      "Origin": "tomo-ohshima.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tool.x0.com..txt",
+      "NameServer": "ns1.tool.x0.com.",
+      "Origin": "tool.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/torpedos.x0.com..txt",
+      "NameServer": "ns1.torpedos.x0.com.",
+      "Origin": "torpedos.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/toshiaki.x0.com..txt",
+      "NameServer": "ns1.toshiaki.x0.com.",
+      "Origin": "toshiaki.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tra-arttra-art.x0.com..txt",
+      "NameServer": "ns1.tra-arttra-art.x0.com.",
+      "Origin": "tra-arttra-art.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tremolo.x0.com..txt",
+      "NameServer": "ns1.tremolo.x0.com.",
+      "Origin": "tremolo.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tridentfield.x0.com..txt",
+      "NameServer": "ns1.tridentfield.x0.com.",
+      "Origin": "tridentfield.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tsui.x0.com..txt",
+      "NameServer": "ns1.tsui.x0.com.",
+      "Origin": "tsui.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tsuribaka.x0.com..txt",
+      "NameServer": "ns1.tsuribaka.x0.com.",
+      "Origin": "tsuribaka.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tuiteru.x0.com..txt",
+      "NameServer": "ns1.tuiteru.x0.com.",
+      "Origin": "tuiteru.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/tusk.x0.com..txt",
+      "NameServer": "ns1.tusk.x0.com.",
+      "Origin": "tusk.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/uminekotewi.x0.com..txt",
+      "NameServer": "ns1.uminekotewi.x0.com.",
+      "Origin": "uminekotewi.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/upld2.x0.com..txt",
+      "NameServer": "ns1.upld2.x0.com.",
+      "Origin": "upld2.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/uranai.x0.com..txt",
+      "NameServer": "ns1.uranai.x0.com.",
+      "Origin": "uranai.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/uyu.x0.com..txt",
+      "NameServer": "ns1.uyu.x0.com.",
+      "Origin": "uyu.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/uzuwamu.x0.com..txt",
+      "NameServer": "ns1.uzuwamu.x0.com.",
+      "Origin": "uzuwamu.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/venus.x0.com..txt",
+      "NameServer": "ns1.venus.x0.com.",
+      "Origin": "venus.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/vermillionmode.x0.com..txt",
+      "NameServer": "ns1.vermillionmode.x0.com.",
+      "Origin": "vermillionmode.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/wakifeti.x0.com..txt",
+      "NameServer": "ns1.wakifeti.x0.com.",
+      "Origin": "wakifeti.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/wakiga.x0.com..txt",
+      "NameServer": "ns1.wakiga.x0.com.",
+      "Origin": "wakiga.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/warden.x0.com..txt",
+      "NameServer": "ns1.warden.x0.com.",
+      "Origin": "warden.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/warlock.x0.com..txt",
+      "NameServer": "ns1.warlock.x0.com.",
+      "Origin": "warlock.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/wildsoul.x0.com..txt",
+      "NameServer": "ns1.wildsoul.x0.com.",
+      "Origin": "wildsoul.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/wins.x0.com..txt",
+      "NameServer": "ns1.wins.x0.com.",
+      "Origin": "wins.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/wiredweird.x0.com..txt",
+      "NameServer": "ns1.wiredweird.x0.com.",
+      "Origin": "wiredweird.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/wmw.x0.com..txt",
+      "NameServer": "ns1.wmw.x0.com.",
+      "Origin": "wmw.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/wolfg.x0.com..txt",
+      "NameServer": "ns1.wolfg.x0.com.",
+      "Origin": "wolfg.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/wordgear.x0.com..txt",
+      "NameServer": "ns1.wordgear.x0.com.",
+      "Origin": "wordgear.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/x0.com..txt",
+      "NameServer": "ns1.x0.com.",
+      "Origin": "x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/xlegacy.x0.com..txt",
+      "NameServer": "ns1.xlegacy.x0.com.",
+      "Origin": "xlegacy.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/xna-today.x0.com..txt",
+      "NameServer": "ns1.xna-today.x0.com.",
+      "Origin": "xna-today.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/xxice09.x0.com..txt",
+      "NameServer": "ns1.xxice09.x0.com.",
+      "Origin": "xxice09.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/yagami.x0.com..txt",
+      "NameServer": "ns1.yagami.x0.com.",
+      "Origin": "yagami.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/yojio.x0.com..txt",
+      "NameServer": "ns1.yojio.x0.com.",
+      "Origin": "yojio.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/yumeuranai.x0.com..txt",
+      "NameServer": "ns1.yumeuranai.x0.com.",
+      "Origin": "yumeuranai.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/yuuba.x0.com..txt",
+      "NameServer": "ns1.yuuba.x0.com.",
+      "Origin": "yuuba.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/zag.x0.com..txt",
+      "NameServer": "ns1.zag.x0.com.",
+      "Origin": "zag.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/zi.x0.com..txt",
+      "NameServer": "ns1.zi.x0.com.",
+      "Origin": "zi.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/zotz.x0.com..txt",
+      "NameServer": "ns1.zotz.x0.com.",
+      "Origin": "zotz.x0.com."
+    },
+    {
+      "FileName": "/home/rulan_yang/DNS-verification/census/files-100-500/x0.com/zzfl.x0.com..txt",
+      "NameServer": "ns1.zzfl.x0.com.",
+      "Origin": "zzfl.x0.com."
+    }
+  ]
+}

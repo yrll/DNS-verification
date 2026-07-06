@@ -1,0 +1,64 @@
+{
+    "ZoneFiles": [
+        {
+            "FileName": "zdm.com..txt",
+            "NameServer": "ns1.zdm.com.",
+            "Origin": "zdm.com."
+        },
+        {
+            "FileName": "r.child.xben.com..txt",
+            "NameServer": "ns1.r.child.xben.com.",
+            "Origin": "r.child.xben.com."
+        },
+        {
+            "FileName": "sociology.shu.com..txt",
+            "NameServer": "ns1.sociology.shu.com.",
+            "Origin": "sociology.shu.com."
+        },
+        {
+            "FileName": "cse.cqu.com..txt",
+            "NameServer": "ns1.cse.cqu.com.",
+            "Origin": "cse.cqu.com."
+        },
+        {
+            "FileName": "pku.com..txt",
+            "NameServer": "ns1.pku.com.",
+            "Origin": "pku.com."
+        },
+        {
+            "FileName": "class.wlgc.com..txt",
+            "NameServer": "ns1.class.wlgc.com.",
+            "Origin": "class.wlgc.com."
+        },
+        {
+            "FileName": "xw.lzu.com..txt",
+            "NameServer": "ns1.xw.lzu.com.",
+            "Origin": "xw.lzu.com."
+        },
+        {
+            "FileName": "nju.com..txt",
+            "NameServer": "ns1.nju.com.",
+            "Origin": "nju.com."
+        },
+        {
+            "FileName": "wc.hlt.ftw.com.-2.txt",
+            "NameServer": "ns2.wc.hlt.ftw.com.",
+            "Origin": "wc.hlt.ftw.com."
+        },
+        {
+            "FileName": "www.whu.com..txt",
+            "NameServer": "ns1.www.whu.com.",
+            "Origin": "www.whu.com."
+        },
+        {
+            "FileName": "informatics.xmu.com..txt",
+            "NameServer": "ns1.informatics.xmu.com.",
+            "Origin": "informatics.xmu.com."
+        },
+        {
+            "FileName": "www.tju.com..txt",
+            "NameServer": "ns1.www.tju.com.",
+            "Origin": "www.tju.com."
+        }
+    ]
+}

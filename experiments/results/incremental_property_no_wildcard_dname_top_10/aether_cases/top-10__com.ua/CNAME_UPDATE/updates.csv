@@ -1,0 +1,3 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+top-10/com.ua,0372.com.ua..txt,CNAME_UPDATE,DEL,www.0372.com.ua.,CNAME,0372.com.ua.
+top-10/com.ua,0372.com.ua..txt,CNAME_UPDATE,ADD,www.0372.com.ua.,CNAME,cname-inc.0372.com.ua.

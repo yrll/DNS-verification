@@ -1,0 +1,5 @@
+### Max ###
+zone: co.kr
+number of rrs: 1090861
+matsu time: 4427508.771 ms
+groot time: 41351.130892999994 ms

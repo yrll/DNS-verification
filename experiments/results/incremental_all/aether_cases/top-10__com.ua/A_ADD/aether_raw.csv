@@ -1,0 +1,2 @@
+zone,num_lec,io_time (ms),construction_time (ms),symbolic_time (ms),property_checking_time (ms),re_construction_time (ms),re_symbolic_time (ms),re_property_checking_time (ms),properties,initial_property_pass,initial_errors,incremental_property_pass,incremental_errors
+top-10/com.ua,187626,2691.068,27985.081,0.006,0,0.46,0.002,0.001,rewrite blackholing|hops|rewrites|delegation consistency|too long|lame delegation|zone loop,true,,true,

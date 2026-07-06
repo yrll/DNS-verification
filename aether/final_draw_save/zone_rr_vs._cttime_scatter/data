@@ -1,0 +1,19 @@
+### Original Groot ###
+zone: co.uk
+number of rrs: 20724588
+cttime: 807974.847004 ms
+
+### Groot ###
+zone: co.kr
+number of rrs: 1090861
+cttime: 35275.817711 ms
+
+### Matsu All###
+zone: co.kr
+number of rrs: 1090861
+cttime: 574489.802 ms
+
+### Groot-simulation All###
+zone: co.kr
+number of rrs: 1090861
+cttime: 1060085.695 ms

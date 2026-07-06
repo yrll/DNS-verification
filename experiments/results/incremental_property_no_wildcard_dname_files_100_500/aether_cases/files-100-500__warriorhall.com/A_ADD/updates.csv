@@ -1,0 +1,2 @@
+dataset,zone_file,scenario,op,domain,type,rdata
+files-100-500/warriorhall.com,alimonyillinois.warriorhall.com..txt,A_ADD,ADD,__aether_veridns_inc__.alimonyillinois.warriorhall.com.,A,192.0.2.254
