@@ -1,0 +1,12 @@
+{
+  "TopNameServers": [
+    "ns1.example.test."
+  ],
+  "ZoneFiles": [
+    {
+      "FileName": "example.test.zone",
+      "NameServer": "ns1.example.test.",
+      "Origin": "example.test."
+    }
+  ]
+}

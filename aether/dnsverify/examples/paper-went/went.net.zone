@@ -1,0 +1,8 @@
+$ORIGIN went.net.
+$TTL 3600
+@ IN SOA ns1.went.net. admin.went.net. (
+  2026070901 3600 1800 604800 86400
+)
+@ IN NS ns1.went.net.
+ns1 IN A 130.130.130.130
+dname IN DNAME went.com.

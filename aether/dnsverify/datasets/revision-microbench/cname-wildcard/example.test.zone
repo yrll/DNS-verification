@@ -1,0 +1,5 @@
+example.test. IN SOA ns1.example.test. admin.example.test. 1 3600 600 86400 60
+example.test. IN NS ns1.example.test.
+ns1.example.test. IN A 192.0.2.1
+alias.example.test. IN CNAME target.example.test.
+*.example.test. IN A 192.0.2.20

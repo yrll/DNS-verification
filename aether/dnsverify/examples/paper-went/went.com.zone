@@ -1,0 +1,8 @@
+$ORIGIN com.
+$TTL 3600
+@ IN SOA a.gtld-servers.net. admin.com. (
+  2026070901 3600 1800 604800 86400
+)
+@ IN NS a.gtld-servers.net.
+went.com. IN NS ns1.went.com.
+ns1.went.com. IN A 110.110.110.110

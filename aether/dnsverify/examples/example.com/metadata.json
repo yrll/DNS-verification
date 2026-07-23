@@ -1,0 +1,15 @@
+{
+  "TopNameServers": ["ns1.example.com."],
+  "ZoneFiles": [
+    {
+      "FileName": "example.com.zone",
+      "NameServer": "ns1.example.com.",
+      "Origin": "example.com"
+    },
+    {
+      "FileName": "loop.example.com.zone",
+      "NameServer": "ns2.loop.example.com.",
+      "Origin": "loop.example.com"
+    }
+  ]
+}

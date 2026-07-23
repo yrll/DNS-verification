@@ -1,0 +1,10 @@
+$ORIGIN example.com.
+$TTL 3600
+@ IN SOA ns1.example.com. admin.example.com. (
+  2026061501 3600 1800 604800 86400
+)
+@ IN NS ns1.example.com.
+ns1 IN A 192.0.2.1
+www IN A 192.0.2.10
+loop IN NS ns2.loop.example.com.
+ns2.loop IN A 192.0.2.2

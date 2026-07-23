@@ -1,0 +1,20 @@
+{
+  "TopNameServers": ["a.gtld-servers.net."],
+  "ZoneFiles": [
+    {
+      "FileName": "went.com.zone",
+      "NameServer": "a.gtld-servers.net.",
+      "Origin": "com"
+    },
+    {
+      "FileName": "where.went.com.zone",
+      "NameServer": "ns1.went.com.",
+      "Origin": "went.com"
+    },
+    {
+      "FileName": "went.net.zone",
+      "NameServer": "ns1.went.net.",
+      "Origin": "went.net"
+    }
+  ]
+}

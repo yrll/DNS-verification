@@ -1,0 +1,3 @@
+zone,file,scenario,op,domain,type,rdata
+paper-went,where.went.com.zone,WHERE_CNAME_TO_A,DEL,where.went.com.,CNAME,www.went.net.
+paper-went,where.went.com.zone,WHERE_CNAME_TO_A,ADD,where.went.com.,A,100.100.100.100

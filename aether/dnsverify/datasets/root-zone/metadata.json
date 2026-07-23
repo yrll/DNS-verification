@@ -1,0 +1,10 @@
+{
+  "TopNameServers": ["a.root-servers.net.root."],
+  "ZoneFiles": [
+    {
+      "FileName": "root.zone",
+      "NameServer": "a.root-servers.net.root.",
+      "Origin": "root"
+    }
+  ]
+}
